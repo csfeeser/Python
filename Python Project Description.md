@@ -4,7 +4,7 @@
 
 The objective of this project is to create a Python application that you will learn to turn into a web app in weeks 2 and 3 of your studies. For now, you need only focus on building a project that is invoked (run) from the command line, and performs some kind of service using the skills you’ve learned thus far. Some thoughts include (generally from easier to harder):
 
-0.	Math conversions! Make a program that first asks a user if they’re converting temperatures, determining if a number is odd or even, or perhaps even currency conversions (what you convert is up to you). After the selection has been made, prompt the user for the necessary input, and output the results to the screen!
+•	Math conversions! Make a program that first asks a user if they’re converting temperatures, determining if a number is odd or even, or perhaps even currency conversions (what you convert is up to you). After the selection has been made, prompt the user for the necessary input, and output the results to the screen!
 
 •	A program that checks the local file system for the presence of a file (or directory), and if it does not exist, creates it. If your program needs to create the file, write something into the first line (your name, the date the file was created, etc.)
 
