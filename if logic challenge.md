@@ -1,10 +1,11 @@
 # WRITE YOUR OWN IF-LOGIC SCRIPT!
 
-### Write your own program using if, elif, and else! You can pick from one of the following ideas, or come up with your own!
+## Write your own program using if, elif, and else! You can pick from one of the following ideas, or come up with your own!
 
-####Take inspiration from: https://www.buzzfeed.com/andrewziegler/best-buzzfeed-quizzes
+### Take inspiration from: https://www.buzzfeed.com/andrewziegler/best-buzzfeed-quizzes
 
-####SOME IDEAS!
+### SOME IDEAS!
+
 0. A trivia quiz based on a topic of your choice! Disney, Game of Thrones, Harry Potter, etc. The game keeps score of how many you get right!
 
 0. Which Hogwarts House should you be sorted into?
