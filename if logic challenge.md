@@ -22,5 +22,5 @@
 
 0. A game that asks a series of riddles and offers a selection of answers. 
 
-HAVE FUN! You have one hour! Ask for help from each other or from Chad if you need it! You may work with a partner if you wish.
-USE THE WHOLE HOUR! There will ALWAYS be some area of improvement!
+**HAVE FUN! You have one hour! Ask for help from each other or from Chad if you need it! You may work with a partner if you wish.
+USE THE WHOLE HOUR! There will ALWAYS be some area of improvement!**
