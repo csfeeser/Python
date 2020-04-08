@@ -8,7 +8,7 @@ The objective of this project is to create a Python application that you will le
 
 •	A program that checks the local file system for the presence of a file (or directory), and if it does not exist, creates it. If your program needs to create the file, write something into the first line (your name, the date the file was created, etc.)
 
-•	Write a program that randomly returns one of 10 poems you’ve written. Store each poem as a separate file outside of your program. It may be useful to check out the import random library to completely this exercise, but not a requirement.
+•	Write a program that randomly returns one of 10 poems you’ve written. Store each poem as a separate file outside of your program. It may be useful to check out the import random library to complete this exercise, but it's not a requirement.
 
 •	Find some ASCII art online and store each in separate files. When your program launches, offer the user a menu of possible ASCII art to view. When selected, be sure to display that art on the screen.
 
