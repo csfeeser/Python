@@ -1,8 +1,27 @@
 # Introduction to Python Project
 
 ### Objective:
+The objective of this project is to create a Python application that may be executed from the command line and performs some kind of service using the skills you’ve learned thus far. 
 
-The objective of this project is to create a Python application that you will learn to turn into a web app in weeks 2 and 3 of your studies. For now, you need only focus on building a project that is invoked (run) from the command line, and performs some kind of service using the skills you’ve learned thus far. Some thoughts include (generally from easier to harder):
+Choose a project that challenges you appropriately and is of interest to you! Chad reserves the right to make all final decisions on what topic you choose, so plan to have some backup topics in mind.
+
+The expectations for your program is as follows:
+- The program executes cleanly without error and meets its intended purpose.
+- The program has been designed to accommodate human errors.
+- Wherever possible, the program follows PEP 8 standards:
+  - Keep code inside of functions
+  - Indent consistently (4 spaces)
+  - """title/purpose of script at top of document"""
+  - ALL CAPS for global variables
+  - Comment your code well, and often!
+
+*TOPICS ARE DUE MONDAY, APRIL 13TH.*
+
+The following is a list of topics to choose from, but you may present original topic ideas to Chad as well!
+
+As listed below, the topics generally rank from easier to harder
+
+### TOPICS:
 
 •	Math conversions! Make a program that first asks a user if they’re converting temperatures, determining if a number is odd or even, or perhaps even currency conversions (what you convert is up to you). After the selection has been made, prompt the user for the necessary input, and output the results to the screen!
 
@@ -22,18 +41,6 @@ The objective of this project is to create a Python application that you will le
 
 •	Write a program that allows you to explore a simple building (perhaps your home, or the TLG offices). The user should be able to move between rooms, and not move outside of your ‘world’.
 
-•	(Advanced) Write a program that returns the time it will take you to get home based on current road conditions. There are lots of approaches on how to attempt this, one might be to use the Microsoft Bing service to calculate / return drive times. You’ll need to read about the service here: https://docs.microsoft.com/en-us/bingmaps/rest-services/routes/calculate-a-route and sign up for a BingMaps dev key. It is recommended you use the requests library to perform your HTTP GET.
+•	Build a text-based adventure game that you can move between rooms, pick up objects, interact with characters, solve puzzles, or even incorporate a combat system!
 
-•	Anything else you’d like! There’s no right or wrong way to go about this assignment. Don’t worry about completing all of these suggestions. If you finish one, and would like to try another, please do. Alternatively, add additional features (usability) to your program.
-
-•	Feel free to help each other, but everyone should try to write (at least) one program.
-
-
-
-If you get stuck, please email your Python instructor, Chad Feeser at csfeeser@alta3.com
-
-You’re welcome to email your code to your instructor. You’re also welcome to share your code via GitHub.
-
-If you’re new to coding, don’t focus too much on complexity- focus on making a program that works!
-
-Best of luck!
+•	Write a program that takes input from a user (either at the command line or by reading a spreadsheet) that executes commands to configure network settings.
