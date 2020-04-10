@@ -9,6 +9,7 @@ The expectations for your program is as follows:
 - The program executes cleanly without error and meets its intended purpose.
 - The program has been designed to accommodate human errors.
 - The program is designed as efficiently as possible (do less with more!)
+- The program’s output is easy to read and is presented well (and free of spelling errors)
 - Wherever possible, the program follows PEP 8 standards:
   - Keep code inside of functions
   - Indent consistently (4 spaces)
@@ -38,7 +39,7 @@ As listed below, the topics generally rank from easier to harder
 
 •	Data conversion. Write a program that accepts data of one type, and converts it to another (CSV to JSON, JSON to YAML, Excel to JSON, etc.). To accomplish this, you’ll need to use an import statement, and work with (at least one) additional library. Those to check out include (import json, import csv, import yaml, import panadas, import pyexcel). If you need help installing any of these libraries, please reach out!
 
-•	Catch ‘em all (or at least one), Pokemon that is! First install the requests library (python3 -m pip install requests), and then use it to make a GET request to https://pokeapi.co (the API service is pretty straight forward, and does not require any authentication. Check out https://pokeapi.co/api/v2/pokemon/ditto/ for an example). Print the returned data out in an easy to understand format.
+•	Catch ‘em all (or at least one)... Pokemon, that is! First install the requests library (python3 -m pip install requests), and then use it to make a GET request to https://pokeapi.co (the API service is pretty straight forward, and does not require any authentication. Check out https://pokeapi.co/api/v2/pokemon/ditto/ for an example). Print the returned data out in an easy to understand format.
 
 •	Write a program that allows you to explore a simple building (perhaps your home, or the TLG offices). The user should be able to move between rooms, and not move outside of your ‘world’.
 
