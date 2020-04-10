@@ -8,6 +8,7 @@ Choose a project that challenges you appropriately and is of interest to you! Ch
 The expectations for your program is as follows:
 - The program executes cleanly without error and meets its intended purpose.
 - The program has been designed to accommodate human errors.
+- The program is designed as efficiently as possible (do less with more!)
 - Wherever possible, the program follows PEP 8 standards:
   - Keep code inside of functions
   - Indent consistently (4 spaces)
