@@ -36,11 +36,11 @@ mess = {"all": [{"First":"Askia","Last":"Wingfield","Skill Level":"astonishing",
 
 ### Challenge 1 Solution
 
-print(mess['all'][7]['First'])
+    print(mess['all'][7]['First'])
 
 ### Challenge 1 Solution
 
-print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spirit animal is a {mess['all'][7]['Spirit Animal']}")
+    print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spirit animal is a {mess['all'][7]['Spirit Animal']}")
 
 ### Challenge 3 Solution BASIC
 
