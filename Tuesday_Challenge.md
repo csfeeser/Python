@@ -38,7 +38,7 @@ mess = {"all": [{"First":"Askia","Last":"Wingfield","Skill Level":"astonishing",
 
     print(mess['all'][7]['First'])
 
-#### Challenge 1 Solution:
+#### Challenge 2 Solution:
 
     print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spirit animal is a {mess['all'][7]['Spirit Animal']}")
 
