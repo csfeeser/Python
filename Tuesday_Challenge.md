@@ -53,16 +53,16 @@ mess = {"all": [{"First":"Askia","Last":"Wingfield","Skill Level":"astonishing",
 
 #### Challenge 3 Solution ADVANCED- thanks Chen Xin!
 
-    len_list = len(challenge_list['all'])
+    len_list = len(mess['all'])
 
     print(len_list)
 
     for i in range(0,len_list):
-        first_name = challenge_list["all"][i]['First']
-        last_name = challenge_list["all"][i]['Last']
-        skill_level = challenge_list["all"][i]['Skill Level']
-        spirit_animal = challenge_list["all"][i]['Spirit Animal']
-        super_power = challenge_list["all"][i]['Super Power']
+        first_name = mess["all"][i]['First']
+        last_name = mess["all"][i]['Last']
+        skill_level = mess["all"][i]['Skill Level']
+        spirit_animal = mess["all"][i]['Spirit Animal']
+        super_power = mess["all"][i]['Super Power']
         print(f'''
         Name: {first_name} {last_name}
         Skill Level: {skill_level}
