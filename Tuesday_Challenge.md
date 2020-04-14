@@ -18,7 +18,7 @@
 
 #### EXAMPLE:
 	
-        Name: Askia Wingfield
+    Name: Askia Wingfield
 	Skill Level: Astonishing
 	Spirit Animal: Lion
 	Super Power: Regenerative Healing Factor
