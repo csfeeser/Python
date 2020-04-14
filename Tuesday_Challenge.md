@@ -30,6 +30,7 @@
 
 [...and so on!]
 
+[Yikes! Is this hard to read? Click here for a pretty-print website you can copy-paste this into!](https://jsonformatter.org/json-pretty-print)
 
 [
   {
