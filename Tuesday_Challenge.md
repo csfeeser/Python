@@ -44,12 +44,14 @@ print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spi
 
 ### Challenge 3 Solution BASIC
 
+"""
 for x in mess["all"]:
     print(f"""
     Name: {x['First']} {x['Last']}
     Skill Level: {x['Skill Level']}
     Spirit Animal: {x['Spirit Animal']}
     Super Power: {x['Super Power']}""")
+"""
 
 ### Challenge 3 Solution ADVANCED- thanks Chen Xin!
 
