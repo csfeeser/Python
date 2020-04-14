@@ -16,9 +16,9 @@
 
 0. Write a script that loops through the entire list. Have it output the following for every person in class:
 
-	#### EXAMPLE:
+#### EXAMPLE:
 	
-	"""
+        """
 	Name: Askia Wingfield
 	Skill Level: Astonishing
 	Spirit Animal: Lion
@@ -30,7 +30,7 @@
 	Super Power: Adoptive Muscle Memory
 	"""
 
-	[...and so on!]
+[...and so on!]
 
 [
   {
