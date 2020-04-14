@@ -18,23 +18,17 @@
 
 	#### EXAMPLE:
 	
+	"""
 	Name: Askia Wingfield
-	
 	Skill Level: Astonishing
-	
 	Spirit Animal: Lion
-	
 	Super Power: Regenerative Healing Factor
-	
-	
+		
 	Name: Chen Xin
-	
 	Skill Level: Awe-inspiring
-	
 	Spirit Animal: Porcupine
-	
 	Super Power: Adoptive Muscle Memory
-
+	"""
 
 	[...and so on!]
 
