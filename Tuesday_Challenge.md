@@ -44,31 +44,29 @@ print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spi
 
 ### Challenge 3 Solution BASIC
 
-"""
-for x in mess["all"]:
-    print(f"""
-    Name: {x['First']} {x['Last']}
-    Skill Level: {x['Skill Level']}
-    Spirit Animal: {x['Spirit Animal']}
-    Super Power: {x['Super Power']}""")
-"""
+    for x in mess["all"]:
+        print(f"""
+        Name: {x['First']} {x['Last']}
+        Skill Level: {x['Skill Level']}
+        Spirit Animal: {x['Spirit Animal']}
+        Super Power: {x['Super Power']}""")
 
 ### Challenge 3 Solution ADVANCED- thanks Chen Xin!
 
-len_list = len(challenge_list['all'])
+    len_list = len(challenge_list['all'])
 
-print(len_list)
+    print(len_list)
 
-for i in range(0,len_list):
-    first_name = challenge_list["all"][i]['First']
-    last_name = challenge_list["all"][i]['Last']
-    skill_level = challenge_list["all"][i]['Skill Level']
-    spirit_animal = challenge_list["all"][i]['Spirit Animal']
-    super_power = challenge_list["all"][i]['Super Power']
-    print(f'''
-    Name: {first_name} {last_name}
-    Skill Level: {skill_level}
-    Spirit Animal: {spirit_animal}
-    Super Power: {super_power}
-    ''')
-    print("------------------------------------------")
+    for i in range(0,len_list):
+        first_name = challenge_list["all"][i]['First']
+        last_name = challenge_list["all"][i]['Last']
+        skill_level = challenge_list["all"][i]['Skill Level']
+        spirit_animal = challenge_list["all"][i]['Spirit Animal']
+        super_power = challenge_list["all"][i]['Super Power']
+        print(f'''
+        Name: {first_name} {last_name}
+        Skill Level: {skill_level}
+        Spirit Animal: {spirit_animal}
+        Super Power: {super_power}
+        ''')
+        print("------------------------------------------")
