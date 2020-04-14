@@ -34,15 +34,15 @@
 
 mess = {"all": [{"First":"Askia","Last":"Wingfield","Skill Level":"astonishing","Spirit Animal":"lion","Super Power":"Regenerative Healing Factor"},{"First":"Chen","Last":"Xin","Skill Level":"awe-inspiring","Spirit Animal":"porcupine","Super Power":"Adoptive Muscle Memory"},{"First":"Everett","Last":"Strunk","Skill Level":"breathtaking","Spirit Animal":"mandrill","Super Power":"Body Part Substitution"},{"First":"Jacob","Last":"Roe","Skill Level":"fearsome","Spirit Animal":"guinea pig","Super Power":"Anatomical Liberation"},{"First":"Josh","Last":"Ayala","Skill Level":"formidable","Spirit Animal":"camel","Super Power":"Additional Limbs"},{"First":"Kevin","Last":"Martinez","Skill Level":"imposing","Spirit Animal":"panther","Super Power":"Organic Constructs"},{"First":"Luke","Last":"Thompson","Skill Level":"impressive","Spirit Animal":"coati","Super Power":"Deflection"},{"First":"Marco","Last":"Santos","Skill Level":"magnificent","Spirit Animal":"bumblebee","Super Power":"Replication"},{"First":"Michael","Last":"Williams","Skill Level":"overwhelming","Spirit Animal":"fish","Super Power":"Invisibility"},{"First":"Mike","Last":"Wright","Skill Level":"stunning","Spirit Animal":"mink","Super Power":"Needle Projection"},{"First":"Oscar","Last":"Abalos","Skill Level":"wondrous","Spirit Animal":"ermine","Super Power":"Immobility"},{"First":"Ryan","Last":"Larson","Skill Level":"grand","Spirit Animal":"marmoset","Super Power":"Camouflage"},{"First":"Shirley","Last":"Wu","Skill Level":"mind-blowing","Spirit Animal":"koala","Super Power":"Self-Detonation"}]}
 
-### Challenge 1 Solution
+#### Challenge 1 Solution:
 
     print(mess['all'][7]['First'])
 
-### Challenge 1 Solution
+#### Challenge 1 Solution:
 
     print(f"My name is {mess['all'][7]['First']} {mess['all'][7]['Last']} and my spirit animal is a {mess['all'][7]['Spirit Animal']}")
 
-### Challenge 3 Solution BASIC
+#### Challenge 3 Solution SIMPLE:
 
     for x in mess["all"]:
         print(f"""
@@ -51,7 +51,7 @@ mess = {"all": [{"First":"Askia","Last":"Wingfield","Skill Level":"astonishing",
         Spirit Animal: {x['Spirit Animal']}
         Super Power: {x['Super Power']}""")
 
-### Challenge 3 Solution ADVANCED- thanks Chen Xin!
+#### Challenge 3 Solution ADVANCED- thanks Chen Xin!
 
     len_list = len(challenge_list['all'])
 
