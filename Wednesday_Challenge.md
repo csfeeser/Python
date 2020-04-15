@@ -5,6 +5,7 @@
 Choose one of the flowcharts below. Write a script that allows a user to type in input to answer the questions posed by the flowchart. Have the user's answers direct to the next question and so on until the "conclusion" is reached! *For the sake of the challenge, you may not alter the question/answer structure of the flowchart you choose.*
 
 **BONUS 1-** Your script includes a *Press q to quit* feature which can be used at any time.
+
 **BONUS 2-** Your script controls for human error and repeats the question if the wrong answer is entered.
 
 #### Example Output:
