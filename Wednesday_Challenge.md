@@ -8,6 +8,8 @@
 **BONUS 2-** Your script controls for human error and repeats the question if the wrong answer is entered.
 
 #### Example Output:
+    Basic Engineering!
+    ==================
     Does it move?
     > No.
     Should it?
@@ -16,6 +18,8 @@
 
 Same script, different result:
 
+    Basic Engineering!
+    ==================
     Does it move?
     > Yes.
     Should it?
