@@ -1,0 +1,46 @@
+#!/usr/bin/python3
+import requests
+
+### CHALLENGE 1: CHANGE THIS SCRIPT SO THAT A USER MAY INPUT WHAT POKEMON THEY WANT TO VIEW.
+### CHALLENGE 2: USING A WHILE LOOP, FORCE THE USER TO RE-ENTER THE POKEMON'S NAME IF THEY
+def url():
+    while True:
+        try:
+            # Using the requests library, pull a Pokemon from the PokeAPI
+            choice= input("What pokemon?")
+            if choice == "":
+                raise ValueError("Something bad done did happen!")
+            poke_api = requests.get('https://pokeapi.co/api/v2/pokemon/' + choice + '/')
+            poke_api = poke_api.json() # poke_api is the translated API
+            break
+        except:
+            print("That is not a valid Pokemon.")
+    return poke_api
+
+def main():
+    poke_api= url()
+    print(str(poke_api["forms"][0]["name"]).capitalize(), ", I CHOOSE YOU!\n")
+
+    games= []
+
+### CHALLENGE 3: ADD A WHILE LOOP THAT FORCES THE USER TO KEEP GUESSING UNTIL THEY GET THE ANSWER CORRECT!
+### BONUS: Give the user 3 guesses on what game your Pokemon may have appeared in!
+
+    for x in poke_api["game_indices"]:
+        version= x["version"]["name"]
+        games.append(version)
+
+    counter= 0
+
+    while counter < 3:
+        counter += 1
+        guess= input("Guess one Pokemon game version this Pokemon was in! ")
+        if guess in games:
+            print("Correct!")
+            break
+        elif counter == 3:
+            print("FAIL! Any of these would have been correct:", games)
+        else:
+            print("Wrong! Try again!")
+
+main()
