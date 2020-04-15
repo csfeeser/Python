@@ -5,11 +5,11 @@
 Choose one of the flowcharts below. Write a script that allows a user to type in input to answer the questions posed by the flowchart. Have the user's answers direct to the next question and so on until the "conclusion" is reached!
 
 #### Example Output:
-Does it move?
-> No.
-Should it?
-> Yes.
-Spray some WD-40 on it.
+    Does it move?
+    > No.
+    Should it?
+    > Yes.
+    Spray some WD-40 on it.
 
 Same script, different result:
 
