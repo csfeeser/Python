@@ -42,43 +42,48 @@ The API we'll be using is https://pokeapi.co/
 - Hmm... didn't we already do that with another lab?...
 
 
+        #!/usr/bin/python3
+        import requests
+        import wget
+        import turtle
+        import webbrowser
+        from os import remove
+        
+        def url():
+            while True:
+                try:
+                    # Using the requests library, pull a Pokemon from the PokeAPI
+                    choice= input("What Pokemon would you like a picture of? ")
+                    if choice == "":
+                        raise ValueError("Don't just hit enter, dummy!")
+                    poke_api = requests.get('https://pokeapi.co/api/v2/pokemon/' + choice + '/')
+                    poke_api = poke_api.json() # poke_api is the translated API
+                    break
+                except:
+                    print("That is not a valid Pokemon.")
+            return poke_api
+        
+        def get_pic():
+            poke_api= url()
+            poke_pic_url= poke_api['sprites']['front_default']
+            wget.download(poke_pic_url, '/home/student/static/pokepic.gif')
+            browser_pic(poke_pic_url)
 
-    #!/usr/bin/python3
-    import requests
-    import wget
-    import turtle
-    import webbrowser
-    from os import remove
+        def browser_pic(url):
+            webbrowser.open(url)
+            input("Press ENTER to continue.")
+        
+        def show_pic():
+            screen = turtle.Screen()
+            screen.bgpic('/home/student/static/pokepic.gif')
+            turtle.mainloop()
 
-    def url():
-        while True:
+        def clean_house():
             try:
-                # Using the requests library, pull a Pokemon from the PokeAPI
-                choice= input("What Pokemon would you like a picture of? ")
-                if choice == "":
-                    raise ValueError("Don't just hit enter, dummy!")
-                poke_api = requests.get('https://pokeapi.co/api/v2/pokemon/' + choice + '/')
-                poke_api = poke_api.json() # poke_api is the translated API
-                break
+                remove('/home/student/static/pokepic.gif')
             except:
-                print("That is not a valid Pokemon.")
-        return poke_api
+                pass
 
-    def get_pic():
-        poke_api= url()
-        poke_pic_url= poke_api['sprites']['front_default']
-        wget.download(poke_pic_url, '/home/student/static/pokepic.gif')
-        browser_pic(poke_pic_url)
-
-    def browser_pic(url):
-        webbrowser.open(url)
-        input("Press ENTER to continue.")
-
-    def show_pic():
-        screen = turtle.Screen()
-        screen.bgpic('/home/student/static/pokepic.gif')
-        turtle.mainloop()
-
-    remove('/home/student/static/pokepic.gif')
-    get_pic()
-    show_pic()
+        clean_house()
+        get_pic()
+        show_pic()
