@@ -9,17 +9,21 @@
 ## Objective
 You and your teammates will each choose one of the challenges below. Each of you will write a function that exactly fulfills the objective. By combining your code, you'll be able to access an API, pull an image URL from it, downloads the image to your local machine, and displays it in two different ways!
 
+The API we'll be using is https://pokeapi.co/
+
 #### TEAM 1:
 - Write a function that pulls the API of a user-selected Pokemon  from PokeAPI.
-example: https://pokeapi.co/api/v2/pokemon/bulbasaur/)
+- example: https://pokeapi.co/api/v2/pokemon/bulbasaur/
 - Have the function return that link.
 
 #### TEAM 2:
-- Write a function that slices through a PokeAPI page and returns the value of "front_default" (it will be a URL to an image). 
+- Write a function that slices through a PokeAPI page and returns the value of "front_default" (it will be a URL to an image).
+- Use https://pokeapi.co/ to find it.
 - Have the function return that URL!
 
 #### TEAM 3:
-- Write a function that uses the wget module to download the image from the link. 
+- Write a function that uses the wget module to download an image from a link.
+- The URL you use should be inside a variable (another function will feed you the URL)
 - This page shows you how (https://likegeeks.com/downloading-files-using-python/#Using-wget)
 
 #### TEAM 4:
