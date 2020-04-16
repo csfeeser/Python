@@ -7,7 +7,7 @@
     python3 -m pip install requests
 
 ## Objective
-You and your teammates will each choose one of the challenges below. Each of you will write a function that exactly fulfills the objective. By combining your code, you'll be able to access an API, pull an image URL from it, downloads the image to your local machine, and displays it in two different ways!
+You and your teammates will each choose one of the challenges below. Each of you will write a function that exactly fulfills the objective. By combining your code, you'll be able to access an API, pull an image URL from it, download the image to your local machine, and display it in two different ways!
 
 The API we'll be using is https://pokeapi.co/
 
