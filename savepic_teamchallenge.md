@@ -11,6 +11,10 @@ You and your teammates will each choose one of the challenges below. Each of you
 
 The API we'll be using is https://pokeapi.co/
 
+![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png)
+![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png)
+![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png)
+
 #### TEAM 1:
 - Write a function that pulls the API of a user-selected Pokemon  from PokeAPI.
 - example: https://pokeapi.co/api/v2/pokemon/bulbasaur/
