@@ -41,6 +41,7 @@ The API we'll be using is https://pokeapi.co/
 - Write a function that uses the Turtle module. Use Turtle to open a local image file and display it (you'll need to use your virtual desktop to test!) 
 - Hmm... didn't we already do that with another lab?...
 
+<details><summary>Click here for the solution!</summary>
 
         #!/usr/bin/python3
         import requests
@@ -87,3 +88,4 @@ The API we'll be using is https://pokeapi.co/
         clean_house()
         get_pic()
         show_pic()
+</details>
