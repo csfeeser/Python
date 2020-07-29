@@ -17,7 +17,7 @@ The expectations for your program is as follows:
   - ALL CAPS for global variables
   - Comment your code well, and often!
 
-*TOPICS ARE DUE MONDAY, APRIL 13TH.*
+*TOPICS ARE DUE MONDAY, AUGUST 3RD.*
 
 The following is a list of topics to choose from, but you may present original topic ideas to Chad as well!
 
