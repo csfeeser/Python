@@ -43,5 +43,5 @@ def UNNECESSARILY_COMPLICATED_random_cat_fact():
 
                              
 name_calling()
-#random_cat_fact()
-#highest_upvotes()
+random_cat_fact()
+highest_upvotes()
