@@ -22,8 +22,16 @@ def highest_upvotes():
     print("\nThe highest upvote count was:")
     print("=============================")
     print(max(upvote_list))
-                             
+
 def random_cat_fact():
+    fact_list= []
+    for x in r.json()["all"]:
+        fact_list.append(x.get("text"))
+    print("\nEnjoy a random cat fact!")
+    print("========================")
+    print(random.choice(fact_list))
+                             
+def UNNECESSARILY_COMPLICATED_random_cat_fact():
     fact_list= []
     for x in r.json()["all"]:
         fact_list.append(x.get("text"))
@@ -33,6 +41,7 @@ def random_cat_fact():
     print("========================")
     print(fact_list[random_fact])
 
+                             
 name_calling()
 #random_cat_fact()
 #highest_upvotes()
