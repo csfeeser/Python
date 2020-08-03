@@ -23,3 +23,5 @@ for x in astros["people"]:
 **CHALLENGE**- Using your original script (or a copy of the one above) adapt your code so that it reads in the astronaut data *directly from the API*, not from a static dictionary (yuck).
 
 If you need a starting point on how to access JSON data, look at how we accomplished it with *cat-facts* in **PyBasics Lab 37- Python, APIs and JSON** using the requests module!
+
+http://api.open-notify.org/astros.json
