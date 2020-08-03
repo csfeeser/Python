@@ -25,3 +25,20 @@ for x in astros["people"]:
 If you need a starting point on how to access JSON data, look at how we accomplished it with *cat-facts* in **PyBasics Lab 37- Python, APIs and JSON** using the requests module!
 
 http://api.open-notify.org/astros.json
+
+```
+# FIRST, gotta import requests!
+import requests
+
+# SECOND make a request object from the URL!
+r = requests.get('http://api.open-notify.org/astros.json')
+
+# THIRD, replace your static "astros" dictionary with the translated JSON!
+astros= r.json()
+
+
+print("People in space: ", astros["number"])
+
+for x in astros["people"]:
+    print(f"{x['name']} is on the {x['craft']}")                                                  
+```
