@@ -32,7 +32,7 @@ def main():
     mykey = paramiko.RSAKey.from_private_key_file("/home/student/.ssh/id_rsa")
 
     # all output will be written to results.log to complete task 2
-    # setting "a" for append so I don't overwrite each entry.    
+    # setting "w" for write, so that if I run this script a second time it overwrites the previous output.    
     parafile = open("results.log", "w")
 
 # this is the same for loop from PYB Lab 26
