@@ -34,9 +34,11 @@
 
 #### PART 3
 
-1. Write a function that takes a string as an argument (ex. defmyfunction(string)). Have the function check if the string is a palindrome (a word that is the same backwards and forwards).
+1. Write a function that takes a string and applies the Spongebob Sarcasm Font to it (randomly capitalize letters). The string must be taken as an argument (ex. defmyfunction(string)). **You may not use input() inside the function!**
 
-**HINT:** use the reverse() method!
+**You may Google for the solution if you don't feel like figuring out how to randomly capitalize... there is no method that does this.**
+
+![Image description](https://github.com/csfeeser/TLG-Python/blob/master/enrichment/Spongebob-memes.jpg?raw=true)
 
 
  
