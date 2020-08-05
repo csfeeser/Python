@@ -2,7 +2,7 @@
 import requests
 
 ### CHALLENGE 1: CHANGE THIS SCRIPT SO THAT A USER MAY INPUT WHAT POKEMON THEY WANT TO VIEW.
-### CHALLENGE 2: USING A WHILE LOOP, FORCE THE USER TO RE-ENTER THE POKEMON'S NAME IF THEY CREATE A BOGUS URL.
+### CHALLENGE 2: USING A WHILE LOOP AND TRY/EXCEPT, FORCE THE USER TO RE-ENTER THE POKEMON'S NAME IF THEY CREATE A BOGUS URL.
 def url():
     # Using the requests library, pull a Pokemon from the PokeAPI
     poke_api = requests.get('https://pokeapi.co/api/v2/pokemon/bulbasaur/')
