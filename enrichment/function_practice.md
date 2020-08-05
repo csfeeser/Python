@@ -53,6 +53,6 @@ https://stackoverflow.com/questions/52942497/randomly-capitalize-letters-in-stri
 
 ![Image description](https://github.com/csfeeser/TLG-Python/blob/master/enrichment/download.jpg?raw=true)
 
-
+*Wouldn't it be fun to write a program that takes the Spongebob Sarcasm meme template and puts the randomly-capitalized text over the picture?*
  
             
