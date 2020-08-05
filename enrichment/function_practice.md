@@ -47,7 +47,7 @@
 
 **You may Google for the solution if you don't feel like figuring out how to randomly capitalize... there is no method that does this.**
 
-![Image description](https://github.com/csfeeser/TLG-Python/blob/master/enrichment/Spongebob-memes.jpg?raw=true)
+![Image description](https://github.com/csfeeser/TLG-Python/blob/master/enrichment/download.jpg?raw=true)
 
 
  
