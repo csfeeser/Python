@@ -5,8 +5,6 @@
 
 #### PART 1
 
-1. Take this code and convert it into a function!
-
 **DID YOU KNOW** you can indent whole blocks of lines in vim! It's true!
 
 - When inside vim, press <kbd>escape</kbd> to get into command mode.
@@ -15,6 +13,8 @@
 - Press the <kbd>down</kbd> button and highlight all those lines you want to indent.
 - With your block highlighted, press <kbd>shift</kbd> + <kbd>></kbd> to bump all those lines to the right!
 - You can now slap a function definition at the top and a function call at the bottom! Done!
+
+1. Take this code and convert it into a function!
 
        x= float(input("How would you rank your day today on a scale of 1-10?"))
        if x == 10:
