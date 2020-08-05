@@ -45,7 +45,11 @@
 
 1. Write a function that takes a string and applies the Spongebob Sarcasm Font to it (randomly capitalize letters). The string must be taken as an argument (ex. defmyfunction(string)). **You may not use input() inside the function!**
 
-**You may Google for the solution if you don't feel like figuring out how to randomly capitalize... there is no method that does this.**
+**If you don't feel like figuring out how to randomly capitalize strings, here is a StackOverflow discussion that shares it. Unfortunately, there is no method that does this!**
+
+https://stackoverflow.com/questions/52942497/randomly-capitalize-letters-in-string
+
+*if you use this code, be prepared to explain how it works!*
 
 ![Image description](https://github.com/csfeeser/TLG-Python/blob/master/enrichment/download.jpg?raw=true)
 
