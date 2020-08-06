@@ -51,10 +51,9 @@ json_conv(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is just a url to 
 - Your code MUST include the following:
 
 ```
-import requests
-def api_slice():
-    # code goes here!
-    return poke_pic # the value of poke_pic must be the URL of the "front_default" image!
+def api_slice(json2python):
+    poke_pic= json2python[][]
+    return poke_pic
 
 api_slice(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is a temporary link
 ```
