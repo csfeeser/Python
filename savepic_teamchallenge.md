@@ -36,7 +36,7 @@ def api_pull():
 
 ```
 import requests
-def api_slice(url):
+def api_slice():
     # code goes here!
     return poke_pic # the value of poke_pic must be the URL of the "front_default" image!
 
@@ -51,7 +51,25 @@ api_slice(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is a temporary li
 
 ```
 import wget
+
 def wget_pic(imagelink):
     # code goes here!
     # image must be saved to /home/student/mycode
+
+wget_pic("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png")
 ```
+
+#### FINAL PRODUCT:
+
+- When the functions from all three team members are combined, they should be able to be called by this script!
+
+```
+import requests
+import wget
+
+def main():
+    wget_pic(api_slice(api_pull()))
+
+main()
+```
+    
