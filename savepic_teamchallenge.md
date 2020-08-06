@@ -3,7 +3,6 @@
 ### Before you begin, you'll need to install these three third-party modules. Be sure you have them.
 
     python3 -m pip install wget
-    sudo apt install python3-tk
     python3 -m pip install requests
 
 ## Objective
