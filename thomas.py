@@ -26,13 +26,16 @@ def run_quiz_Net(questions):                #runs the quiz that is turned on.
         if answer == question.answer:
             player1.win()
         else:
-            if player2:
+            try:
+                player2
                 print(f"\nWRONG! Player 2, HERE'S YOUR CHANCE!")
                 answer = input(f"{question.prompt}\n:")
                 if answer == question.answer:
                     player2.win()
                 else:
                     print("NEITHER PLAYERS WIN!")
+            except:
+                pass
 
     score_Net()
 
@@ -155,10 +158,13 @@ def your_name():                               #defines the input of the user an
    while True:
        num= input("How many players will be playing today? ")
 
+       global player1
+       global player2
+
        if num == "1":
-           global player1
-           global player2
            player1= Player()
+           player2= " "
+           del player2
            break
        elif num == "2":
            player1= Player()
@@ -172,10 +178,10 @@ def your_name():                               #defines the input of the user an
 
 def you_sure():
 
-    if player2:
+    try:
+        player2
         sure = str(input(f"Two players, then? (y or n): "))
-
-    else:
+    except:
         sure = str(input(f"One player? (y or n): "))
 
     if sure.lower() == "y":
@@ -217,12 +223,15 @@ def score_Net():                                #defines the scoring metrics for
             else:
                 print(f"Have a great day {name}! Please play again soon.")
     print("TIME TO DECLARE THE WINNER!")
-    if player2 and player1.get_score() > player2.get_score():
-                print("Player 1 WINS!")
-    elif player2 and player1.get_score() == player2.get_score():
-                print("It's a DRAW!")
-    elif player2 and player1.get_score() < player2.get_score():
-                print("Player 2 WINS!")
+    try:
+        if player2 and player1.get_score() > player2.get_score():
+                    print("Player 1 WINS!")
+        elif player2 and player1.get_score() == player2.get_score():
+                    print("It's a DRAW!")
+        elif player2 and player1.get_score() < player2.get_score():
+                    print("Player 2 WINS!")
+    except:
+        pass
 
 def score_Linux():
 
@@ -334,3 +343,4 @@ intro = "Welcome to the Technology P.L.A.N !"
 print(intro.upper())
 
 your_name()
+~                                      
