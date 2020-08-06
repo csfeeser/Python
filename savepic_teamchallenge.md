@@ -18,7 +18,7 @@ The API we'll be using is https://pokeapi.co/
 ![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png)
 ![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png)
 
-#### TEAM 1:
+#### PLAYER 1:
 - Write a function that pulls the API of a user-selected Pokemon from PokeAPI.
 - example: https://pokeapi.co/api/v2/pokemon/bulbasaur/
 - Your code MUST include the following:
@@ -29,7 +29,7 @@ def api_pull():
     return url # the value of url must be a valid url concatenated with user input!
 ```
 
-#### TEAM 2:
+#### PLAYER 2:
 - Write a function that slices through a PokeAPI page and returns the value of "front_default" (it will be a URL to an image).
 - Use https://pokeapi.co/ to find it.
 - Your code MUST include the following:
@@ -43,7 +43,7 @@ def api_slice(url):
 api_slice(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is a temporary link
 ```
 
-#### TEAM 3:
+#### PLAYER 3:
 - Write a function that uses the wget module to download an image from a link.
 - The URL you use should be inside a variable (another function will feed you the URL)
 - This page shows you how (https://likegeeks.com/downloading-files-using-python/#Using-wget)
