@@ -46,7 +46,7 @@ json_conv(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is just a url to 
 
 #### PLAYER 3:
 - Write a function that slices through a PokeAPI dictionary and returns the value of "front_default" (it will be a URL to an image).
-- Use https://pokeapi.co/api/v2/pokemon/bulbasaur/ to find it.
+- Use PokeAPIs collapsible dictionaries/lists to make it easier on yourself!
 - **PASS/FAIL**- Whether or not your function returns a string that looks something like "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
 - Your code MUST include the following:
 
