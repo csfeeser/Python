@@ -78,7 +78,7 @@ wget_pic("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokem
 
 #### FINAL PRODUCT:
 
-- When the functions from all three team members are combined, they should be able to be called by this script!
+- When the functions from all four team members are combined, they should be able to be called by this script!
 
 ```
 #!/usr/bin/python3
