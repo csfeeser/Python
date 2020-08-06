@@ -18,19 +18,36 @@ The API we'll be using is https://pokeapi.co/
 ![Image description](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png)
 
 #### PLAYER 1:
-- Write a function that pulls the API of a user-selected Pokemon from PokeAPI.
-- example: https://pokeapi.co/api/v2/pokemon/bulbasaur/
+- Write a function that pulls the API of a **user-selected Pokemon** from PokeAPI.
+- **PASS/FAIL**- Whether or not your function returns something like https://pokeapi.co/api/v2/pokemon/bulbasaur/ <-- but the pokemon was selected by input!
 - Your code MUST include the following:
 
 ```
 def api_pull():
+    choice= input("What Pokemon would you like a picture of? ")
     # code goes here!
     return url # the value of url must be a valid url concatenated with user input!
 ```
 
 #### PLAYER 2:
-- Write a function that slices through a PokeAPI page and returns the value of "front_default" (it will be a URL to an image).
+- Write a function that takes the URL from player 1 and converts it from JSON to Python!
+- **PASS/FAIL**- Whether or not your function returns a whole crazy page of translated JSON data from PokeAPI!
+- Your code MUST include the following:
+
+```
+import requests
+
+def json_conv(poke_api):
+    # code goes here!
+    return json2python # the value of json2python is the whole dictionary of bulbasaur!
+
+json_conv(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is just a url to use for testing
+```
+
+#### PLAYER 3:
+- Write a function that slices through a PokeAPI dictionary and returns the value of "front_default" (it will be a URL to an image).
 - Use https://pokeapi.co/api/v2/pokemon/bulbasaur/ to find it.
+- **PASS/FAIL**- Whether or not your function returns a string that looks something like "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
 - Your code MUST include the following:
 
 ```
@@ -42,10 +59,11 @@ def api_slice():
 api_slice(https://pokeapi.co/api/v2/pokemon/bulbasaur/) # this is a temporary link
 ```
 
-#### PLAYER 3:
+#### PLAYER 4:
 - Write a function that uses the wget module to download an image from a link.
 - The URL you use should be inside a variable (another function will feed you the URL)
-- This page shows you how (https://likegeeks.com/downloading-files-using-python/#Using-wget)
+- This page shows you how: (https://likegeeks.com/downloading-files-using-python/#Using-wget)
+- **PASS/FAIL**- whether or not your function downloads a pokemon PNG image to `home/student/mycode/` from a link like https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
 - Your code MUST include the following:
 
 ```
@@ -63,11 +81,12 @@ wget_pic("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokem
 - When the functions from all three team members are combined, they should be able to be called by this script!
 
 ```
+#!/usr/bin/python3
 import requests
 import wget
 
 def main():
-    wget_pic(api_slice(api_pull()))
+    wget_pic(api_slice(json_conv(api_pull())))
 
 main()
 ```
