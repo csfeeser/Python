@@ -31,7 +31,7 @@ def api_pull():
 
 #### PLAYER 2:
 - Write a function that slices through a PokeAPI page and returns the value of "front_default" (it will be a URL to an image).
-- Use https://pokeapi.co/ to find it.
+- Use https://pokeapi.co/api/v2/pokemon/bulbasaur/ to find it.
 - Your code MUST include the following:
 
 ```
