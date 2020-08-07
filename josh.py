@@ -99,24 +99,25 @@ def combat():
     while True:
         print(f"Round {round}")
         print("The Players Health is: [" + str(player_health) + "]")
-        print("The Hunters Health is: {foe_health}")
+        print(f"The Hunters Health is: [{foe_health}]")
 
         print("Would you like to Cast your [spell] or use your potion [item]")
         move =  input().lower().split()
         if move[0] == 'cast':  #
             if move[1] in spellbook:  # checks if weapon is in your spellbook
               if move[1].lower() == 'drain':
-                 player_damage = dice.roll(find[move[1]]['damage'])
+                 player_damage = int(dice.roll(find[move[1]]['damage']))
                  foe_health -= player_damage
                  print(f"You hit a {hunters[foe_ID]['name']} for {player_damage} damage!")
-                 print("The Hunters Health is: {foe_health}")
-            if player_health <= 0:
-                print("You have been vanquished in combat! GAME OVER")
-                sys.exit()
-            elif foe_health
+                 print(f"The Hunters Health is: [{foe_health}]")
+                 if player_health <= 0:
+                  print("You have been vanquished in combat! GAME OVER")
+                  sys.exit()
+                 elif foe_health <= 0:
+                  break
 
-            if move[1] not in inventory:
-                print(f"There is no {move[1]} in your inventory!")
+            if move[1] not in spellbook:
+                print(f"You do not seem to know the spell {move[1]} !")
 
 def ReplaceItem(item,changeto, inventory):
     inventory = inventory
