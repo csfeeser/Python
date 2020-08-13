@@ -10,17 +10,17 @@ Back in the day, Python scripting would of accepted arguments with the `sys` mod
 
 ### Procedure
 
-0. Let's stay in the habit of organizing our work. Make `/home/student/pyapi/cmdargs/` directory.
+0. Let's stay in the habit of organizing our work. Make `/home/student/mycode/cmdargs/` directory.
 
-    `student@beachhead:~$` `mkdir ~/pyapi/cmdargs/`
+    `student@beachhead:~$` `mkdir ~/mycode/cmdargs/`
 
-0. Move to the `/home/student/pyapi/cmdargs/` directory.
+0. Move to the `/home/student/mycode/cmdargs/` directory.
 
-    `student@beachhead:~$` `cd ~/pyapi/cmdargs/`
+    `student@beachhead:~$` `cd ~/mycode/cmdargs/`
 
 0. Create a new script.
 
-    `student@beachhead:~/pyapi/cmdargs$` `vim pirate-args.py`
+    `student@beachhead:~/mycode/cmdargs$` `vim pirate-args.py`
 
         #!/usr/bin/env python3
         import sys
@@ -34,21 +34,21 @@ Back in the day, Python scripting would of accepted arguments with the `sys` mod
 
 0. Save and exit.
 
-0. Save as `/home/student/pyapi/cmdargs/pirate-args.py`.
+0. Save as `/home/student/mycode/cmdargs/pirate-args.py`.
 
 0. Change permissions on your script to make it executable.
 
-    `student@beachhead:~/pyapi/cmdargs$` `chmod u+x pirate-args.py`
+    `student@beachhead:~/mycode/cmdargs$` `chmod u+x pirate-args.py`
 
 0. Run your script using the following command:
 
-    `student@beachhead:~/pyapi/cmdargs$` `python3 pirate-args.py blackbeard dabl00nz 10.2.3.55 10.2.3.1`
+    `student@beachhead:~/mycode/cmdargs$` `python3 pirate-args.py blackbeard dabl00nz 10.2.3.55 10.2.3.1`
 
 0. When the script runs it should print the arguments to the screen.
 
 0. Run your script using the following command:
 
-    `student@beachhead:~/pyapi/cmdargs$` `python3 pirate-args.py redbeard peezez0f8ight`
+    `student@beachhead:~/mycode/cmdargs$` `python3 pirate-args.py redbeard peezez0f8ight`
     
     > Note: **THIS IS SUPPOSED TO FAIL** This command does not use the required number of positional arguments that this script expects. Using `sys.argv` is limited to _required positional arguments._ Move on to the next step to learn a better way to deal with command line arguments.
 
@@ -80,22 +80,22 @@ Back in the day, Python scripting would of accepted arguments with the `sys` mod
         function = choices[args.role]
         print(function(args.p))
 
-0. Save as `/home/student/pyapi/cmdargs/clisvr-args.py`
+0. Save as `/home/student/mycode/cmdargs/clisvr-args.py`
 
 0. Change permissions on your script to make it executable.
 
-    `student@beachhead:~/pyapi/cmdargs$` `chmod u+x clisvr-args.py`
+    `student@beachhead:~/mycode/cmdargs$` `chmod u+x clisvr-args.py`
 
 0. Run your script using the following command:
 
-    `student@beachhead:~/pyapi/cmdargs$` `python3 clisvr-args.py server`
+    `student@beachhead:~/mycode/cmdargs$` `python3 clisvr-args.py server`
 
 0. Make sure your program works. If it doesn't, debug!
 
 0. **CODE CUSTOMIZATION 01** - Add another argument `-t` where the default value is `UDP`. Don't pass this argument to your functions, but display to the user the protocol that will be used.
 
 0. If you're tracking your code in GitHub, issue the following commands:
-    - `cd ~/pyapi`
+    - `cd ~/mycode`
     - `git add *`
     - `git commit -m "your commit message"`
     - `git push origin master`
