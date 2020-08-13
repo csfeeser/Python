@@ -54,9 +54,9 @@ Back in the day, Python scripting would of accepted arguments with the `sys` mod
 
 0. The second way is to use `argparse`. Where `sys.argv` is simply used to interact with a list of the command line arguments, `argparse` is a full featured command line parser which gives you back the data in a much easier to use fashion. If you're doing anything more complicated than a script that accepts a few required positional arguments you'll want to use a parser. Depending on your Python version, there are three available in the Python standard library (`getopt`, `optparse`, and `argparse`). In Alta3's opinion, argparse is by far the best.
 
-0. Open Leafpad, we'll write a new script.
+0. Open vim, we'll write a new script.
 
-0. Copy the following code block into Leafpad:
+0. Copy the following code block into vim:
 
         #!/usr/bin/env python3
         import argparse, socket
