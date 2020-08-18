@@ -2,10 +2,13 @@
 
 ![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png)
 
-From [NASA.api.gov](https://api.nasa.gov/):
-One of the most popular websites at NASA is the Astronomy Picture of the Day. In fact, this website is one of the most popular websites across all federal agencies. This endpoint structures the APOD imagery and associated metadata so that it can be repurposed for other applications. In addition, if the concept_tags parameter is set to True, then keywords derived from the image explanation are returned. These keywords could be used as auto-generated hashtags for twitter or instagram feeds; but generally help with discoverability of relevant imagery.
+**From [NASA.api.gov](https://api.nasa.gov/):**
+
+*One of the most popular websites at NASA is the Astronomy Picture of the Day. In fact, this website is one of the most popular websites across all federal agencies. This endpoint structures the APOD imagery and associated metadata so that it can be repurposed for other applications. In addition, if the concept_tags parameter is set to True, then keywords derived from the image explanation are returned. These keywords could be used as auto-generated hashtags for twitter or instagram feeds; but generally help with discoverability of relevant imagery.*
 
 You can see this API by clicking here: [APOD API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+
+This API provides a text description and link to a gorgeous picture from the Hubble telescope!
 
 ### Query Parameters
 
