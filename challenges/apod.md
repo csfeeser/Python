@@ -22,7 +22,7 @@ This API provides a text description and link to a gorgeous picture from the Hub
 
 Write a script that does the following:
 
-0. Accepts input from the user in format of YYY-MM-DD. This will be the date of the APOD you access!
+0. Accepts input from the user in format of YYYY-MM-DD. This will be the date of the APOD you access!
     > FYI, the APOD API doesn't go earlier than Jun 16, 1995
 
 0. Asks input from the user if they would like their image in High Definition or Standard Definition.
