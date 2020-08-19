@@ -36,6 +36,7 @@ Write a script that does the following:
 
 0. From the translated JSON, return the following:
     - Date of the picture
+    - Title of the picture
     - The text describing what the picture is all about.
     
 0. From the translated JSON, use the wget library (or another library if you prefer) to download EITHER the HD image or the SD image depending on the user's input from earlier. This page shows you how to use wget: (https://likegeeks.com/downloading-files-using-python/#Using-wget)
