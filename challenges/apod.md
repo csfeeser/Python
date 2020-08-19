@@ -22,14 +22,15 @@ This API provides a text description and link to a gorgeous picture from the Hub
 
 Write a script that does the following:
 
-0. Accepts input from the user in format of YYY-MM-DD
+0. Accepts input from the user in format of YYY-MM-DD. This will be the date of the APOD you access!
+    > FYI, the APOD API doesn't go earlier than Jun 16, 1995
 
 0. Asks input from the user if they would like their image in High Definition or Standard Definition.
 
 0. Concatenates the API URL which includes:
     - Your own API key.
     - The date of the Astronomical Picture of the Day you'd like to access.
-    - Beginning of the URL looks like this: `https://api.nasa.gov/planetary/apod?`
+    - Final URL should look something like this: `https://api.nasa.gov/planetary/apod?date=1995-06-16&api_key=HpUcwaRbDIZn0LYbfbFMcEMTPbiPSrokJVvBauK9`
     
 0. Uses the `requests` library to return and translate JSON.
 
@@ -39,5 +40,5 @@ Write a script that does the following:
     
 0. From the translated JSON, use the wget library (or another library if you prefer) to download EITHER the HD image or the SD image depending on the user's input from earlier. This page shows you how to use wget: (https://likegeeks.com/downloading-files-using-python/#Using-wget)
 
-0. Back up to GitHub (including the picture you downloaded), then access the picture on GitHub and bask in its astronomical beauty.
+0. Back up to GitHub (including the picture you downloaded), then access the picture on GitHub to bask in its cosmological beauty.
 
