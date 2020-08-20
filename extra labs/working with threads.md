@@ -317,6 +317,8 @@ Python threads are used in cases where the execution of a task involves some wai
             
 0. That concludes an overview to multithreading in Python. Even if you don't need to use multithreading, it may help unravel the 'magic' behind an API framework, such as Flask.
 
+0. **CHALLENGE**- Revisit previous code you've written, or perhaps combine previous code you've written. Assign these different functions as threads and observe which complete the fastest. Or, write functions in different ways to see what sort of code runs fastest.
+
 0. If you're tracking your code, run the following commands:
     - `cd ~/pyapi`
     - `git add *`
