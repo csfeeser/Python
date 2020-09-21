@@ -25,9 +25,6 @@ Same script, different result:
     > No.
     Wrap it up in duct tape!
     
-#### "Engineering" Flowchart
-!["Engineering" Flowchart](https://github.com/csfeeser/images/blob/master/0Gu1l9Mg.jpg?raw=true)
-
 #### "Are You A Horse?" Flowchart
 !["Are You A Horse?" Flowchart](https://github.com/csfeeser/images/blob/master/12-Am-I-a-horse-flowchart.jpg?raw=true)
 
