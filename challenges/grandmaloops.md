@@ -37,7 +37,7 @@ OUTPUT:
 
 0. **Add**- Choose ONE of these grandma threats. Each of these is threatening to make a POSITIVE CHANGE to your data! Replicate this in Python code including a for loop!
 
-    - *Grandma says for every [penny] she finds on the [ground], she puts [1 cent] in her piggy bank to save up for the great depression.*
-    - *For every [A] I find in your [report card] I'm going to give you a new [video game] for your collection.*
-    - *For every [F] I find in your [report card] I'm going to put another [snake] in your bed.*
+    - *Grandma says for every [penny] she finds on the [ground], she puts [1 cent] in her {piggy bank} to save up for the great depression.*
+    - *For every [A] I find in your [report card] I'm going to give you a new [video game] for your {collection}.*
+    - *For every [F] I find in your [report card] I'm going to put another [snake] in your {bed}.*
 
