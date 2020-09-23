@@ -16,6 +16,6 @@ There has been a lot of activity with astronauts going up and down due to SpaceX
     Anatoly Ivanishin on the ISS
     Ivan Vagner on the ISS
     ```
-0. HOWEVER, you should be able to run this exact same script a year from now and that inevitably updated list of astronauts would still display correctly! How? That's the challenge!
+0. **BONUS**- You should be able to run this exact same script a year from now and that inevitably updated list of astronauts would still display correctly! How? That's the challenge!
 
-0. Do not hard-code "ISS" into your output... who's to say what other spacecraft our astronauts may fly in someday?
+*Do not hard-code "ISS" into your output...* who's to say what other spacecraft our astronauts may fly in someday?
