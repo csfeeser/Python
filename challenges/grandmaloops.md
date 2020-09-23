@@ -1,5 +1,7 @@
 ## CHALLENGE: Grandma For-Loops
 
+![Image description](https://media1.tenor.com/images/86af9df2f38dc57e462e6b402775c37e/tenor.gif)
+
 *In writing Python, what we're often trying to emulate in our code are the behaviors of real-life objects, places, people, and processes. Though kinda silly, doing this lab will help nudge us to understand how OOP (Object Oriented Programming) works!*
 
 ### Example
