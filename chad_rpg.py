@@ -1,5 +1,3 @@
-"""NOTE TO STUDENTS! YOU MAY REVIEW THIS CODE FOR INSPIRATION ONLY- PLEASE WRITE YOUR OWN!"""
-
 #!/usr/bin/python3
 from random import randint
 import dice
@@ -16,12 +14,6 @@ from time import sleep
 def clear():
     # check and make call for specific operating system
     _ = call('clear' if osname =='posix' else 'cls')
-
-
-
-
-
-
 
 bestiary = [{'name' : 'goblin', 'health' : 10, 'damage' : '1d5'},
             {'name' : 'orc', 'health' : 15, 'damage' : '1d8'},
@@ -162,9 +154,9 @@ rooms = {
             'desc' : 'You are in what was once a kitchen. Nests made of human bones are draped across every countertop. There is a large hole in the floor. Where it leads you have no idea.'
             },
         'BASEMENT' : {
-            'spell' : 'fireball',
+            'up' : 'KITCHEN',
             'desc' : 'You are in a stinking basement with an earthen floor. You can\'t even see your hand in front of your face. You are likely to be eaten by a grue.',
-            'randenc' : '0',
+            'randenc' : '10',
             },
         'DINING ROOM' : {
             'west' : 'HALL',
@@ -183,7 +175,8 @@ rooms = {
         'PANTRY' : {
             'south' : 'DINING ROOM',
             'randenc' : '0',
-            'item' : 'cookie'
+            'item' : 'cookie',
+            'item_status' : ' collecting dust. It appears to be oatmeal raisin... yuck.'
             }
         }
 
