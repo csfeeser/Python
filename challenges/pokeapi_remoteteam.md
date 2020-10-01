@@ -8,7 +8,7 @@
 ## Objective
 You will be assigned one of the challenges below. You will write a function that exactly fulfills the objective. **IMPORTANT**- this function is meant to be *imported* upon completion. **Test your code by creating a main() function that is called by:** 
     
-    if __name__ == "__main__" 
+    if __name__ == "__main__": 
     
 The API we'll be using is https://pokeapi.co/
 
@@ -51,7 +51,7 @@ def api_slice(json2python):
 - Write a function that uses the wget module to download an image from a link.
 - The URL you use should be inside a variable (another function will feed you the URL)
 - This page shows you how: (https://likegeeks.com/downloading-files-using-python/#Using-wget)
-- **PASS/FAIL**- whether or not your function downloads a pokemon PNG image to `home/student/mycode/` from a link like https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+- **PASS/FAIL**- whether or not your function downloads a pokemon PNG image to `home/student/static/` from a link like https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
 - Your code MUST include the following:
 
 ```
