@@ -8,9 +8,7 @@
 ## Objective
 You will be assigned one of the challenges below. You will write a function that exactly fulfills the objective. **IMPORTANT**- this function is meant to be *imported* upon completion. **Test your code by creating a main() function that is called by:** 
     
-    ```
     if __name__ == "__main__" 
-    ```
     
 The API we'll be using is https://pokeapi.co/
 
