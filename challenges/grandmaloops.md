@@ -35,7 +35,7 @@ OUTPUT:
     - *For every [toy] I find in the [hallway] I'm going to [throw them away]!*
     - *For every [light] I find on in an empty [room] I'm going to [take a dollar]!*
     - *For every [inside out sock] I find in the [laundry], I'm going to throw it in the [trash].*
-    - *For every [bad word] that [you say] I'm going to [slap a tooth out] of your [mouth].
+    - *For every [bad word] that [you say] I'm going to [slap a tooth out] of your [mouth].*
     
 0. **Add**- Choose ONE of these grandma threats. Each of these is threatening to make a POSITIVE CHANGE to your data! Replicate this in Python code including a for loop!
 
