@@ -28,16 +28,18 @@ OUTPUT:
     - *For every [biscuit] I find in your [room] I'm going to [flog you]!*
     - *For every [broccoli] I find on your [plate] I'm going to [slap you].*
     - *For every [dirty dish] I find in your [room], that's how many times I'm going to [whoop your ass].*
-
+    - *For every [cigarette butt] I find [in the trash] I'm going to make you [smoke a pack].*
+    
 0. **Delete**- Choose ONE of these grandma threats. Each of these is threatening to make a NEGATIVE CHANGE to your data! Replicate this in Python code including a for loop!
 
     - *For every [toy] I find in the [hallway] I'm going to [throw them away]!*
     - *For every [light] I find on in an empty [room] I'm going to [take a dollar]!*
     - *For every [inside out sock] I find in the [laundry], I'm going to throw it in the [trash].*
-
+    - *For every [bad word] that [you say] I'm going to [slap a tooth out] of your [mouth].
+    
 0. **Add**- Choose ONE of these grandma threats. Each of these is threatening to make a POSITIVE CHANGE to your data! Replicate this in Python code including a for loop!
 
     - *Grandma says for every [penny] she finds on the [ground], she puts [1 cent] in her {piggy bank} to save up for the great depression.*
     - *For every [A] I find in your [report card] I'm going to give you a new [video game] for your {collection}.*
     - *For every [F] I find in your [report card] I'm going to put another [snake] in your {bed}.*
-
+    - *For every [lego] I find on the [floor], your dad will put another [dollar] in my [money jar].*
