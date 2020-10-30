@@ -8,20 +8,17 @@ Choose a project that challenges you appropriately and is of interest to you! Ch
 The expectations for your program is as follows:
 - The program executes cleanly without error and meets its intended purpose.
 - The program has been designed to accommodate human errors.
-- The program is designed as efficiently as possible (do less with more!)
+- The program is designed as efficiently as possible (do more with less!)
 - The program’s output is easy to read and is presented well (and free of spelling errors)
 - Wherever possible, the program follows PEP 8 standards:
   - Keep code inside of functions
   - Indent consistently (4 spaces)
   - """title/purpose of script at top of document"""
-  - ALL CAPS for global variables
   - Comment your code well, and often!
-
-*TOPICS ARE DUE MONDAY, AUGUST 3RD.*
 
 The following is a list of topics to choose from, but you may present original topic ideas to Chad as well!
 
-As listed below, the topics generally rank from easier to harder
+The topics listed below generally rank from easier to harder.
 
 ### TOPICS:
 
