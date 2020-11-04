@@ -46,3 +46,70 @@ Same script, different result:
 !["US Army Problem Solving" Flowchart](https://github.com/csfeeser/images/blob/master/17f461b0a5b48b3f84b00acb6794acbe.jpg?raw=true)
 
 </details>
+
+```python
+#!/usr/bin/env python3
+
+def q1():
+    print("Does the damn thing work?")
+    ans= input("YES or NO")
+
+    if ans == "yes":
+        print("DON'T FUCK WITH IT.")
+        print("NO PROBLEM.")
+
+    elif ans == "no":
+        q2()
+
+
+def q2():
+    print("DID YOU FUCK WITH IT?")
+    ans= input("YES or NO")
+
+    if ans == "yes":
+        print("YOU DUMB SHIT.")
+        q3()
+
+    elif ans == "no":
+        q4()
+
+def q3():
+    print("DOES ANYONE KNOW?")
+    ans= input("YES or NO")
+
+    if ans == "yes":
+        print("YOU POOR BASTARD.")
+        q5()
+
+    elif ans == "no":
+        print("HIDE IT.")
+        print("NO PROBLEM.")
+
+def q4():
+    print("WILL YOU CATCH HELL?")
+    ans= input("YES or NO")
+
+    if ans == "yes":
+        print("YOU POOR BASTARD.")
+        q5()
+
+    elif ans == "no":
+        print("SHIT-CAN IT.")
+        print("NO PROBLEM.")
+
+def q5():
+
+    while True:
+        print("CAN YOU BLAME SOMEONE ELSE?")
+        ans= input("YES or NO")
+
+        if ans == "yes":
+            print("NO PROBLEM")
+            break
+
+        else:
+            print("YOU POOR BASTARD.")
+
+if __name__ == "__main__":
+    q1()
+```
