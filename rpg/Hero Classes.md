@@ -66,7 +66,7 @@ Here is the code that we wrote together in class today to get more examples of h
 
 Here was the first script we wrote to test the methods. **WARNING**- this script won't work as written because we moved the stats down to the Warrior and Rogue subclasses.
 
-    ```python
+
     import heroclass
     import random
 
@@ -104,11 +104,11 @@ Here was the first script we wrote to test the methods. **WARNING**- this script
     else:
         print("The ogre is still kicking!")
         player.hurt(random.randint(5,15))
-    ```
+
 
 And here is the test script we wrote for the final version of the classes.
 
-    ```python
+
     import heroclass
     import random
 
@@ -124,5 +124,5 @@ And here is the test script we wrote for the final version of the classes.
     warrior.equip("shield")
 
     warrior.hurt(0)
-    ```
+
 
