@@ -2,7 +2,7 @@ Hi guys!
 
 Here is the code that we wrote together in class today to get more examples of how CLASS works in Python.
 
-    ```python
+
     import random
 
     class Hero():
@@ -62,7 +62,7 @@ Here is the code that we wrote together in class today to get more examples of h
             self.mana= 6
             self.name= "H.P. McHack'n'slash"
             self.inv= ["sword","shield"]
-    ```
+
 
 Here was the first script we wrote to test the methods. **WARNING**- this script won't work as written because we moved the stats down to the Warrior and Rogue subclasses.
 
