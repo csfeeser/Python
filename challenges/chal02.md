@@ -5,17 +5,17 @@
 **Objective:** Make the following output using the following list:
 
 1. Include this list: 
-   
-   ```
-   icecream= ["flavors", "salty"] 
-   ```
-   
+    
+    ```
+    icecream= ["flavors", "salty"] 
+    ```
+    
 2. Append the integer **(not string!)** `99` to `icecream`.
 
 3. Include an input asking for the user's name.
 
-4. Using the appended list and the input, make this output (emphasis placed around the elements you must fetch):
+4. Using the appended list and the input, make this output:
 
    ```
-   <99> flavors, and <name> chooses to be <salty>.
+   99 flavors, and <name> chooses to be salty.
    ```
