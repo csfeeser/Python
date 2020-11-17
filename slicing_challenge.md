@@ -19,4 +19,4 @@
 
 My ***eyes***! The ***goggles*** do ***nothing***!
 
-![Image description](https://github.com/csfeeser/python_basics/blob/master/simpsons.png)
+![Image description](https://github.com/csfeeser/Python/blob/master/eyes.jpg?raw=true)
