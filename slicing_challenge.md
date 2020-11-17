@@ -11,7 +11,7 @@
 
 
 
-0. Start with "challenge" and work your way up!
+1. Start with "challenge" and work your way up!
 
 0. From each list you must pull the strings "eyes," "goggles," and "nothing." YOU MUST USE THE LIST AS WRITTEN. YOU MAY NOT MODIFY ANY OF THE LISTS :)
 
