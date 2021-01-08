@@ -19,5 +19,4 @@ Some suggestions for implementations are provided below- you're also encouraged 
 
 - Comment your code well! Others are going to be reading your code.
 - Follow PEP8 standards where appropriate. Use """multi-line doc strings""" at the top of your module and all functions to announce their purpose. Cite the names of who wrote that code. No "spaghetti code."
-- Write your code with the understanding that it will be a part of a larger whole!
 - We will upload these to GitHub and share the links with Chad at the end of the day.
