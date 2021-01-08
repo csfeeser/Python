@@ -29,9 +29,9 @@ The Pokemon API can be found here! https://pokeapi.co/
 
 Use your script to print out the following:
 
-0. Change the Pokemon in the URL to a Pokemon of your choice!
+0. Change the Pokemon in the URL to a Pokemon of your choice! **BONUS**- add input to collect what Pokemon to look up!
 
-0. Print the URL to "front_default", which is a link to an image of your Pokemon!
+0. Print the URL to "front_default", which is a link to an image of your Pokemon! **BONUS**- download the image (hint: look at the wget module)!
 
 0. Return a count of how many "game_indices" the selected Pokemon has been in!
 
