@@ -1,3 +1,17 @@
+0. Move into the home directory.
+
+    `student@beachhead:~$` `cd`
+
+0. Great. Now let's download a script that will build 4 separate SSH targets for us.
+
+    `student@beachhead:~$` `wget https://static.alta3.com/projects/ansible/deploy/pexpress-setup.sh`
+
+0. Now download the script that will remove any of the virtual environments when we're done. This clean up script is called, max_teardown.sh
+
+    `student@beachhead:~$` `wget https://static.alta3.com/projects/ansible/deploy/max-teardown.sh`
+
+
+
 0. We will build a bash script that will download the images we need to build containers for our labs!
 
     `student@bchd:~$` `vim download.sh`
