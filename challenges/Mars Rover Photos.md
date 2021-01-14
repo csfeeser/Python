@@ -8,9 +8,9 @@ Begin by copying this code into your environment.
 
 
     def main():
-        apodresp = requests.get("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY").json()
+        roverresp = requests.get("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY").json()
 
-        print(apodresp)
+        print(roverresp)
 
     if __name__ == "__main__":
         main()
