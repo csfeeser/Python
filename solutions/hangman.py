@@ -7,7 +7,6 @@ def hangman(word):
         #open("C:\\Users\\Debora\\PycharmProjects\\hangman\\resources\\word-list.txt").readlines()).rstrip("\n")
 
     wrong_guesses = 0
-    guessed_letters = []
     stages = ["",
               "__________      ",
               "|        |      ",
@@ -25,14 +24,14 @@ def hangman(word):
     print("\n***********************")
     print(" Welcome to Hangman!!!!")
     print("***********************\n")
-
+    guessed= []
 
     while wrong_guesses < len(stages) - 1:
         # Print a blank space
         print("\n")
         # Collect player guess and save it in the variable guess
         guess = input("Guess a letter: ").lower().strip()
-        guessed = guessed_letters.append(guess)
+        guessed.append(guess)
         print(f"Guessed letters: {guessed}")
         # enumerate letters so that if there are multiple instances of a letter, they may all be found
         for ind, item in enumerate(letters):
