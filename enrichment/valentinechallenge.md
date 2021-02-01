@@ -236,9 +236,10 @@
 
 ### CHALLENGE
 
-Translate the JSON to Python. Find "Stacy Townsend" in the data. 
-We're going to write a Valentine to Stacy. You must pull Stacy's full name, eye color, and favorite fruit from the data.
+1. Translate the JSON to Python. Find "Stacy Townsend" in the data. 
 
-TIP: Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
+2. We're going to write a Valentine to Stacy. You must pull Stacy's **full name, eye color,** and **favorite fruit** *from the data.*
 
-BONUS: Include Stacy's eye color and favorite fruit in a haiku to Stacy :)
+**TIP:** Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
+
+**BONUS:** Include Stacy's eye color and favorite fruit in a haiku to Stacy :)
