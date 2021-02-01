@@ -1,4 +1,7 @@
-0. Create a new script that can parse out our new JSON file.
+# JSON to Python Challenge!
+
+1. Create a new script that can parse out our new JSON file.
+
     `student@beachhead:~/pyapi$` `vim ~/pyapi/challenge.json`
 
     ```
@@ -235,5 +238,7 @@
 
 Translate the JSON to Python. Find "Stacy Townsend" in the data. 
 We're going to write a Valentine to Stacy. You must pull Stacy's full name, eye color, and favorite fruit from the data.
+
+TIP: Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
 
 BONUS: Include Stacy's eye color and favorite fruit in a haiku to Stacy :)
