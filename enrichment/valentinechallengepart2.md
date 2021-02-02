@@ -9,10 +9,12 @@
 - Loop across the data and collect **name, email, phone,** and **address** from each person.
 - Output those four pieces of information to look like this:
     
+    ```
     Name: Chad Feeser
     Email: csfeeser@alta3.com
     Phone: +1 (222) 333-4444
     Address: 1600 Pennsylvania Avenue NW, Washington, DC 20500
+    ```
 
 **BONUS**: Have one additional line that lists each person's friends!
     
