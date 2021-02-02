@@ -106,12 +106,6 @@ while True:
   if currentRoom == 'Garden' and 'key' in inventory and 'potion' in inventory:
     print('You escaped the house with the ultra rare key and magic potion... YOU WIN!')
     break
-  
-  ## If a player enters a room with a monster BUT HAS A COOKIE
-  if 'item' in rooms[currentRoom] and 'monster' in rooms[currentRoom]['item'] and 'cookie' in inventory:
-    print('The monster takes your cookie and runs away! Whew!')
-    del rooms[currentRoom]['item']
-    inventory.remove('cookie')
 
   ## If a player enters a room with a monster
   elif 'item' in rooms[currentRoom] and 'monster' in rooms[currentRoom]['item']:
