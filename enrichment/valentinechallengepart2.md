@@ -16,9 +16,7 @@
 
 **BONUS**: Have one additional line that lists each person's friends!
     
-    ```
     Friends: Moe Howard, Larry Fine, Curly Joe DeRita
-    ```
     
 **TIP:** Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
 
@@ -26,7 +24,6 @@
 
     `student@beachhead:~/pyapi$` `cd ~/pyapi/ && vim ~/pyapi/valentinechallenge2.py`
 
-    ```python
     #!/usr/bin/python3
 
     import json
@@ -51,7 +48,6 @@
         print(f"Have a {datadecoded[3]['favoriteFruit']}.")
 
     main()
-    ```
     
 1. In case you didn't yesterday, this is how to create the JSON file we're parsing in this lab.
 
