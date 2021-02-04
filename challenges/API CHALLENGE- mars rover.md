@@ -20,7 +20,7 @@ You will probably find this site helpful to make sense of the output: https://js
 
 ### YOUR CHALLENGE:
 
-**Hard:** Return every link to a Mars Rover photo in this API.
+**Hard:** Return all the links to a Mars Rover photo in your API response.
 
 *Example*:
 
@@ -46,6 +46,7 @@ You will probably find this site helpful to make sense of the output: https://js
     http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631230305220E02_DXXX.jpg
     ...
 
-**Hardest:** Same as above... but allow the user to type in WHICH CAMERA from Curiosity they'd like their pictures to come from.
+**Hardest:** Same as above... but allow the user to type in WHICH CAMERA from Curiosity‡ they'd like their pictures to come from.
+> ‡ this is the only rover returned in this particular call
 
     all_cams= ["FHAZ","RHAZ","MAST","CHEMCAM","NAVCAM"]
