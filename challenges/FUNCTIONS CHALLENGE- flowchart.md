@@ -115,3 +115,40 @@ if __name__ == "__main__":
     q1()
 ```
 -->
+
+
+<!-- 
+bank= {
+"q1":{"question":"Does the damn thing work?",
+      "YES":"DON'T MESS WITH IT.\nNO PROBLEM.", 
+      "NO":"q2"},
+
+"q2":{"question":"DID YOU MESS WITH IT?",
+      "YES":"q3",
+      "NO":"q4"},
+
+"q3":{"question":"YOU MORON.\nDOES ANYONE KNOW?",
+      "YES":"q5",
+      "NO":"HIDE IT.\nNO PROBLEM"},
+
+"q4":{"question":"WILL YOU GET IN TROUBLE?",
+      "YES":"q5",
+      "NO":"TOSS IT.\nNO PROBLEM"},
+
+"q5":{"question":"YOU POOR SON OF A GUN.\nCAN YOU BLAME SOMEONE ELSE?",
+      "YES":"NO PROBLEM",
+      "NO":"q5"}
+      } 
+
+start= "q1"
+answer= ""
+
+while answer != "Q":
+    answer= input(bank[start]["question"]).upper()
+    result= bank[start][answer]
+    if result in bank.keys():
+        start= result
+    else:
+        print(bank[start][answer])
+        break
+-->
