@@ -47,6 +47,7 @@ Same script, different result:
 
 </details>
 
+<!-- 
 ```python
 #!/usr/bin/env python3
 
@@ -113,3 +114,4 @@ def q5():
 if __name__ == "__main__":
     q1()
 ```
+-->
