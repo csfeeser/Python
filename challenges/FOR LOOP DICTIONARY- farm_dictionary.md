@@ -8,15 +8,15 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
          {"name": "SE Farm", "agriculture": ["chickens", "carrots", "celery"]}]
 ```
 
-### Test
+### Function 1
 
 • Write a for loop that returns all the animals from the NE Farm!
 
-### Trial
+### Function 2
 
 • Ask a user to choose a farm (NE Farm, W Farm, or SE Farm). Return the plants/animals that are raised on that farm.
 
-### Challenge
+### Function 3
 
 • Ask a user to choose a farm (NE Farm, W Farm, or SE Farm)... but only return ANIMALS from that particular farm.
 
