@@ -254,12 +254,13 @@
     
 **TIP:** Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
 
-**NEED HELP GETTING STARTED?** Here is a completed script of what we were able to accomplish yesterday.
+**NEED HELP GETTING STARTED?**
 
 <details>
 <summary>Click here for starter code</summary>
 <br>
 
+```
 #!/usr/bin/python3
 
 import json
@@ -271,5 +272,6 @@ def main():
     datadecoded = json.loads(datastring)
 
 main()
+```
 
 </details>
