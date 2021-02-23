@@ -1,58 +1,6 @@
-# JSON to Python Challenge- Part 2!
+# JSON to Python Challenge
 
-1. Yesterday we wrote a script that parsed a JSON object with the json module. We were able to return values from Stacy Townsend... but there are more people in this JSON file!
-
-2. We're going to build a contact document using data from EVERYONE in the office.
-
-3. Write a script that will:
-- Import the challenge.json file and convert it into Python data
-- Loop across the data and collect **name, email, phone,** and **address** from each person.
-- Output those four pieces of information to look like this:
-    
-    ```
-    Name: Chad Feeser
-    Email: csfeeser@alta3.com
-    Phone: +1 (222) 333-4444
-    Address: 1600 Pennsylvania Avenue NW, Washington, DC 20500
-    ```
-
-**BONUS**: Have one additional line that lists each person's friends!
-    
-    Friends: Moe Howard, Larry Fine, Curly Joe DeRita
-    
-**TIP:** Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
-
-**NEED HELP GETTING STARTED?** Here is a completed script of what we were able to accomplish yesterday.
-
-    `student@beachhead:~/pyapi$` `cd ~/pyapi/ && vim ~/pyapi/valentinechallenge2.py`
-
-    ```
-    #!/usr/bin/python3
-
-    import json
-
-    def main():
-        with open("challenge.json", "r") as data:
-            datastring = data.read()
-
-        datadecoded = json.loads(datastring)
-
-        # Name
-        print(datadecoded[3]["name"])
-
-        # Eye color
-        print(datadecoded[3]["eyeColor"])
-
-        # Favorite fruit
-        print(datadecoded[3]["favoriteFruit"],"\n")
-
-        print(f"Ah, {datadecoded[3]['name']}.")
-        print(f"Eyes like a lime, citrus {datadecoded[3]['eyeColor']}.")
-        print(f"Have a {datadecoded[3]['favoriteFruit']}.")
-
-    main()
-    
-1. In case you didn't yesterday, this is how to create the JSON file we're parsing in this lab.
+1. Create a JSON file on your machine.
 
     `student@beachhead:~/pyapi$` `vim ~/pyapi/challenge.json`
 
@@ -285,3 +233,43 @@
       }
     ]
     ```
+
+
+2. Write a script that will:
+
+- FUNCTION 1: Import the challenge.json file and convert it. Return the converted data from this function.
+
+- FUNCTION 2: Loop across the converted data and collect **name, email, phone,** and **address** from each person. Output those four pieces of information to look like this:
+    
+    ```
+    Name: Peter McExampleperson
+    Email: example@example.com
+    Phone: +1 (222) 333-4444
+    Address: 1600 Pennsylvania Avenue NW, Washington, DC 20500
+    ```
+
+**BONUS**: Have one additional line that lists each person's friends!
+    
+    Friends: Moe Howard, Larry Fine, Curly Joe DeRita
+    
+**TIP:** Use https://jsonformatter.org/json-pretty-print to make finding/slicing this information easier!
+
+**NEED HELP GETTING STARTED?** Here is a completed script of what we were able to accomplish yesterday.
+
+<details>
+<summary>Click here for starter code</summary>
+<br>
+
+#!/usr/bin/python3
+
+import json
+
+def main():
+    with open("challenge.json", "r") as data:
+        datastring = data.read()
+
+    datadecoded = json.loads(datastring)
+
+main()
+
+</details>
