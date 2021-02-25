@@ -67,14 +67,34 @@ Cisco makes writing code for their devices easy via their NX-API sandbox. This i
 
 0. Compare the CLI response to the response presented to you on the NX-API sandbox page. The content should be the same, however the JSON is **far easier** to parse and useful for automation purposes.
 
-you have now is the ability to type a cli command. Type `show ver` in the browser and hit "send"
+0. Cycle through the tabs available to you (Request, Python, Python3, Java, Javascript, Go-Lang) where you are provided with the code needed to send a HTTP POST.
 
-if you click on the tabs below (request, python, python3, java, javascript, go-lang) they actually give you the code needed to send a post.
+0. On the Linux server provided, we only have Python and not Python3. Therefore copy the code from the Python tab.
 
-Copy the python code and go back to putty ssh. hit exit twice until you're back to root@localhost. We leaft the switch and we're back in the tool machine.
+0. Back in your putty terminal, exit the switch.
 
-`vi showver01.py`
-use shift insert to paste that python code in.
-change the value of switchuser and switchpassword (admin and Cisco123)
+    `switch-n9kv#` `exit`
 
-python showver01.py
+0. Vim is not installed, so use vi to create your Python script. Use `shift insert` to paste.
+
+    `[root@localhost ~]#` `vi showver01.py`
+
+0. Once you've pasted in the code, you'll need to edit the value of `switchuser` and `switchpassword` (`admin` and `Cisco123`).
+
+0. You will also have to add one line to the bottom of your code.
+
+    ```
+    print(response)
+    ```
+
+0. Save and exit with `:wq`
+
+0. Run your script.
+
+    `[root@localhost ~]#` `python showver01.py`
+    
+0. You should get the same response that was provided to you in the NX-API sandbox.
+
+0. **OPTIONAL CHALLENGE 01**- You're welcome to explore other commands, as the NX-API supports "show" commands and "configuration" commands. If you don't know Cisco commands well, try something simple such as `show switchname`
+
+0. That's it for this lab! Cisco appears to let you spin up these environments whenever you need them. Cisco has other devices available as well, DevNet resources are worth bookmarking and exploring!
