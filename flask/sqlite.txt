@@ -5,6 +5,7 @@ Part 1: Create a new script called "db_challenge.py". Use the code from previous
            4. Update information for a specific line in the table
            5. Delete an entry for a given line in the table
         Prove that each of the functions work by having them run when you start your code.
+
 Part 2: Update the functions created above to accept parameters. These may include things such as:
            - What table should be created (it's name - and possibly columns for it)? -- name
            - What data should be written to said table?  -- name, age, salary, table_name, etc...
@@ -12,6 +13,8 @@ Part 2: Update the functions created above to accept parameters. These may inclu
            - What information should be updated, and for "where" in what table? 
            - Which line should be deleted?
          Prove that each of the functions work by having them run 2 times with different values at the start of your code.
+
+Part 3: Now that you have this all working, create a flask server that will let you perform each of these actions when called on.
 
 PART 1 SOLUTION
 
