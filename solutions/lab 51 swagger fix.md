@@ -17,3 +17,5 @@
 0. Now start up your server by calling on the module's name.
    
    `python3 -m swagger_server`
+
+0. Go to aux1 and the add the following onto your path: `/alta3/python_api_example/1.0.0/ui/`
