@@ -17,5 +17,5 @@
 4. Using the appended list and the input, make this output (emphasis placed):
 
    ```
-   <99> flavors, and <name> chooses to be <salty>.
+   <99> <flavors>, and <name> chooses to be <salty>.
    ```
