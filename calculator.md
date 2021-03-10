@@ -12,5 +12,3 @@
 **BONUS 1:** Make the script human-error proof. Use IF/ELIF/ELSE and TRY/EXCEPT where necessary!
 
 **BONUS 2:** If the user types in a bad input, have them type it in again! Use a WHILE LOOP!
-
-Upload your script to GitHub and send Chad the link in-chat! Once Chad's confirmed it, you may call it a night!
