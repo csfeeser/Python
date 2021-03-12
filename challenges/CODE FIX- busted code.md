@@ -2,6 +2,8 @@
 
 The script below is busted. Do your best to fix it, then test it vigorously!
 
+`student@bchd:~$` `vim bustedcode.py`
+
 ```
 #!/usr/env python
 # A program that prompts a user for two operators and operation (plus or minus)
@@ -30,3 +32,7 @@ while calc1 != "q"
     else:
         print("\n Not a valid entry. Restarting...")
 ```
+
+`student@bchd:~$` `chmod u+x bustedcode.py`
+
+`student@bchd:~$` `./bustedcode.py`
