@@ -2,24 +2,8 @@
 from random import randint
 import dice
 import sys
-from subprocess import call
-from os import name as osname
-from time import sleep
+import os
 '''Chad's Ongoing RPG Game'''
-
-# import call method from subprocess module
-
-
-# define clear function
-def clear():
-    # check and make call for specific operating system
-    _ = call('clear' if osname =='posix' else 'cls')
-
-
-
-
-
-
 
 bestiary = [{'name' : 'goblin', 'health' : 10, 'damage' : '1d5'},
             {'name' : 'orc', 'health' : 15, 'damage' : '1d8'},
@@ -44,7 +28,7 @@ def combat():
         print("Monster Health: [" + str(monster_health) + "]")
 
         print("Type: RUN, CAST [spell], or USE [weapon]") # gotta write code for cast
-        move = input().lower().split(" ", 1) # converts move into a lower-case list to deal with each item in list separately
+        move = input().lower().split() # converts move into a lower-case list to deal with each item in list separately
         monster_damage = sum(dice.roll(bestiary[monster_ID]['damage']))
         print("\n=========================")
 
@@ -115,6 +99,14 @@ Actions:
 
 Type 'help' at any time! Type 'q' to quit!''')
 
+def playerinfo():
+#    print('')
+#    print('YOU ARE IN THE ' + currentRoom + '.')
+    print('=================================')
+    print('Inventory :', str(inventory))
+    print('Spells :', str(spellbook))
+    print('=================================')
+
 
 def showStatus(): # display the player's status
  #   if 'desc' in rooms[currentRoom]:
@@ -155,6 +147,7 @@ rooms = {
             'spell' : 'fireball',
             'desc' : 'You are in a stinking basement with an earthen floor. You can\'t even see your hand in front of your face. You are likely to be eaten by a grue.',
             'randenc' : '0',
+            'up': 'KITCHEN',
             },
         'DINING ROOM' : {
             'west' : 'HALL',
@@ -177,14 +170,13 @@ rooms = {
             }
         }
 
-
 currentRoom = 'HALL'   # player start location
 
-
+os.system('clear') # start game with a fresh screen
 showInstructions()     # show instructions to the player
 
-
 while True:   # MAIN INFINITE LOOP
+    playerinfo()
     showStatus()
     # ask the player what they want to do
     move = ''
@@ -192,61 +184,49 @@ while True:   # MAIN INFINITE LOOP
         move = input('>') # so long as the move does not
         # have a value. Ask the user for input
 
-    move = move.lower().split(" ", 1) # make everything lower case because directions and items require it, then split into a list
-
-    try:
-        if move[0].lower() == 'q':
-            print("Are you sure you want to quit? Progress will be lost.")
-            quit_query= input("> ")
-            if quit_query.lower() == "yes":
-                sys.exit(4)
-        if move[0].lower() == 'clear':
-            clear()
-        if move[0].lower() == 'go':
-            if move[1] in rooms[currentRoom]:
-                currentRoom = rooms[currentRoom][move[1]]
-                if 'desc' in rooms[currentRoom]:
-                    print(rooms[currentRoom]['desc'])
-                random_encounter()
-                # if YES that direction exists, then assign your new current room to the VALUE of the key the user entered
-            else:
-                print("YOU CAN'T GO THAT WAY!")
-        if move[0].lower() == 'use':
-            if move[1].lower() == 'potion' and 'potion' in inventory:
-                print("You drink from the potion. Your health has been restored!")
-                print("Your potion magically refills itself! Handy!")
-                player_health = 20
-        if move[0] == 'get':
-            if 'item' in rooms[currentRoom] and move[1] in rooms[currentRoom]['item']:
-                inventory += [move[1]] # add item to inv
-                print(move[1].capitalize() + ' received!') # msg saying you received the item
-                del rooms[currentRoom]['item'] # deletes that item from the dictionary
-            elif 'spell' in rooms[currentRoom] and move[1] in rooms[currentRoom]['spell']:
-                    spellreceive('spell')
-                    spellbook += [move[1]]  # add spell to spells
-                    del rooms[currentRoom]['spell']
-
-            else:
-                print('YOU CANNOT GET ' + (move[1].upper()) + '!')
-
-        if move[0] == 'look':
+    move = move.lower().split() # make everything lower case because directions and items require it, then split into a list
+    os.system('clear') # clear the screen
+    if move[0] == 'go':
+        if move[1] in rooms[currentRoom]:
+            currentRoom = rooms[currentRoom][move[1]]
             if 'desc' in rooms[currentRoom]:
-                print(rooms[currentRoom]['desc']) # print the look description
-            else:
-                print('You can\'t see anything.')
+                print(rooms[currentRoom]['desc'])
+            random_encounter()
+            # if YES that direction exists, then assign your new current room to the VALUE of the key the user entered
+        else:
+            print("YOU CAN'T GO THAT WAY!")
+    if move[0] == 'use':
+        if move[1].lower() == 'potion' and 'potion' in inventory:
+            print("You drink from the potion. Your health has been restored!")
+            print("Your potion magically refills itself! Handy!")
+            player_health = 20
+    if move[0] == 'get':
+        if 'item' in rooms[currentRoom] and move[1] in rooms[currentRoom]['item']:
+            inventory += [move[1]] # add item to inv
+            print(move[1].capitalize() + ' received!') # msg saying you received the item
+            del rooms[currentRoom]['item'] # deletes that item from the dictionary
+        elif 'spell' in rooms[currentRoom] and move[1] in rooms[currentRoom]['spell']:
+                spellreceive('spell')
+                spellbook += [move[1]]  # add spell to spells
+                del rooms[currentRoom]['spell']
 
-        elif move[0] == 'help':
-            showInstructions()
+        else:
+            print('YOU CANNOT GET ' + (move[1].upper()) + '!')
 
-        elif move[0] in ['q', 'quit]']:
-            print("Are you sure you want to quit? Yes/No")
-            quit_query = input('>')
-            if quit_query.lower() in ['y', 'yes']:
-                print("Thanks for playing!")
-                sys.exit()
-            else:
-                pass
-        elif move[0] in ['inv', 'inventory', 'spells', 'status', 'spell', 'help']:
-            dammit()
-    except:
-        pass
+    if move[0] == 'look':
+        if 'desc' in rooms[currentRoom]:
+            print(rooms[currentRoom]['desc']) # print the look description
+        else:
+            print('You can\'t see anything.')
+
+    elif move[0] == 'help':
+        showInstructions()
+
+    elif move[0] in ['q', 'quit]']:
+        print("Are you sure you want to quit? Yes/No")
+        quit_query = input('>')
+        if quit_query.lower() in ['y', 'yes']:
+            print("Thanks for playing!")
+            sys.exit()
+        else:
+            pass
