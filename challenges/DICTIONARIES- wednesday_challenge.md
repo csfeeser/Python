@@ -18,15 +18,15 @@
 
     ```
     heroes=  {
-    "Wolverine":
+    "wolverine":
         {"real name": "James Howlett",
         "powers": "regeneration",
         "archenemy": "Sabertooth",},
-    "Harry Potter":
+    "harry potter":
         {"real name": "Harry Potter",
         "powers": "he's a wizard",
         "archenemy": "Voldemort",},
-    "Agent Fitz":
+    "agent fitz":
         {"real name": "Leopold Fitz",
         "powers": "intelligence",
         "archenemy": "Hydra",}
