@@ -24,10 +24,11 @@
 
 **BONUS 1:** When returning the hero's name, have it capitalized appropriately (e.g. Flash, not flash)
 
-**BONUS 2:** Make the user's input error proof!
+**SUPER BONUS 2:** Make the user's input error proof!
 
-**BONUS 3:** Allow the user to try again without exiting the script!
+**MEGA SUPER BONUS 3:** Allow the user to try again without exiting the script!
 
+<!-- 
 ```
 hero= {"flash":{"speed": "fastest", "intelligence": "lowest", "strength": "lowest"}, "batman":{"speed": "slowest", "intelligence": "highest", "strength": "money"}, "superman":{"speed": "fast", "intelligence": "average", "strength": "strongest"}}
 
@@ -45,3 +46,4 @@ while answer != "q":
 
   answer= input("Press ENTER to choose another hero, or press Q to quit!")
 ```  
+-->
