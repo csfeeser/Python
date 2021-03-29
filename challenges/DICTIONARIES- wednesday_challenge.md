@@ -8,16 +8,31 @@
 
 0. Save a user's input to the variable `char_name` from the following question:
 
-        Which character do you want to know about? (Flash, Batman, Superman)
+        Which character do you want to know about? (Wolverine, Harry Potter, Agent Fitz)
 
 0. Save a user's input to the variable `char_stat` from the following question:
 
-        What statistic do you want to know about? (strength, speed, or intelligence)
+        What statistic do you want to know about? (real name, powers, archenemy)
 
 0. Use the char_name and char_stat values to pull the appropriate value from the dictionary below.
 
-        {"flash":{"speed": "fastest", "intelligence": "lowest", "strength": "lowest"}, "batman":{"speed": "slowest", "intelligence": "highest", "strength": "money"}, "superman":{"speed": "fast", "intelligence": "average", "strength": "strongest"}}
-
+    ```
+    heroes=  {
+    "Wolverine":
+        {"real name": "James Howlett",
+        "powers": "regeneration",
+        "archenemy": "Sabertooth",},
+    "Harry Potter":
+        {"real name": "Harry Potter",
+        "powers": "he's a wizard",
+        "archenemy": "Voldemort",},
+    "Agent Fitz":
+        {"real name": "Leopold Fitz",
+        "powers": "intelligence",
+        "archenemy": "Hydra",}
+            }
+    ```
+    
 0. Create a print function that combines that information into this output:
 
         <char_name>'s <char_stat> is: <value>
