@@ -1,6 +1,6 @@
 # CHALLENGE: DICTIONARIES
 
-0. Create a new script!
+1. Create a new script!
 
 0. Include a shebang line.
 
