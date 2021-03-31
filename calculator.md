@@ -6,6 +6,7 @@
       - a float/integer
       - another float/integer
       - an operator (add, subtract, divide, multiply)
+      - make sure that you can't divide by zero!
   
 0. Your script should return the answer!
 
