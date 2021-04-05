@@ -16,9 +16,9 @@ During our second week, you'll be able to explore topics of interest on your own
 - Task Management
 - Ansible Automation
 - Twitter/Discord
-- Twitter bot [Past Project](https://github.com/csfeeser/tweets-to-discord) 
+- Twitter bot: [Past Project](https://github.com/csfeeser/tweets-to-discord) 
 - Selenium: [Past Project](https://github.com/csfeeser/8hrsPlease)
-- Python GUI [Past Project](https://github.com/csfeeser/mycode-1/tree/main/PyMom)
+- Python GUI: [Past Project](https://github.com/csfeeser/mycode-1/tree/main/PyMom)
 
 ### Week 2 Labs
 
