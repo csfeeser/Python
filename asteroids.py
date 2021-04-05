@@ -15,25 +15,27 @@ def main():
 
     neodata = (requests.get(neourl)).json()
 
-    sizes= []
-    asteroid_distance= []
+    size= 0
+    asteroid_distance= 0
     asteroid_names= []
     danger_count= 0
 
     print(f"Total Asteroids in Range: {neodata['element_count']}")
     for date in neodata["near_earth_objects"].keys():
         for aster in neodata["near_earth_objects"][date]:
-            sizes.append(aster["estimated_diameter"]["kilometers"]["estimated_diameter_max"])
             asteroid_names.append(aster["name"])
-            asteroid_distance.append(aster["close_approach_data"][0]["miss_distance"]["lunar"])
+            if aster["estimated_diameter"]["kilometers"]["estimated_diameter_max"] > size:
+                size= aster["estimated_diameter"]["kilometers"]["estimated_diameter_max"]
+            if float(aster["close_approach_data"][0]["miss_distance"]["lunar"]) > asteroid_distance:
+                asteroid_distance = float(aster["close_approach_data"][0]["miss_distance"]["lunar"])
             if aster["is_potentially_hazardous_asteroid"]:
                 danger_count += 1
 
-    print(f"Largest Asteroid (kilometers): {max(sizes)}")
-    print(f"Closest Asteroid (lunar): {max(asteroid_distance)}")
+    print(f"Largest Asteroid (kilometers): {size}")
+    print(f"Closest Asteroid (lunar): {asteroid_distance}")
     print(f"Number of potentially hazardous asteroids: {danger_count}")
     input("Press ENTER to see a list of all asteroids.")
-    print(asteroid_names)
+    print(set(asteroid_names))
 
 if __name__ == "__main__":
     main()
