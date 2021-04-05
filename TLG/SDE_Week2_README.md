@@ -14,7 +14,7 @@ During our second week, you'll be able to explore topics of interest on your own
 - Scientific Calculator
 - Data Visualization
 - Task Management
-- Ansible Automation
+- Ansible Automation [Past Project](https://galaxy.ansible.com/rzfeeser/ansible_role_minecraft)
 - Twitter/Discord
 - Twitter bot: [Past Project](https://github.com/csfeeser/tweets-to-discord) 
 - Selenium: [Past Project](https://github.com/csfeeser/8hrsPlease)
