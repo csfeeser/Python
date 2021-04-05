@@ -19,6 +19,7 @@ During our second week, you'll be able to explore topics of interest on your own
 - Twitter bot: [Past Project](https://github.com/csfeeser/tweets-to-discord) 
 - Selenium: [Past Project](https://github.com/csfeeser/8hrsPlease)
 - Python GUI: [Past Project](https://github.com/csfeeser/mycode-1/tree/main/PyMom)
+- Coding challenges! [Advent of Code 2020](https://adventofcode.com/2020)
 
 ### Week 2 Labs
 
