@@ -32,13 +32,21 @@ This is the breakdown of what labs we'll be completing in order to meet our curr
 **Web and RESTful APIs**
 
 9\. RESTful Open APIs
+
 10\. RESTful Open APIs with requests
+
 11\. requests library - Open APIs
+
 12\. APIs and Dev Keys
+
 13\. RESTful APIs and Dev Keys
+
 14\. requests library - API keys
+
 15\. requests library - GET vs POST to REST APIs
+
 16\. requests library - RESTful GET and JSON parsing
+
 26\. API Tokens and Subjects
 
 **Python Protocol Clients (Paramiko/Netmiko)**
