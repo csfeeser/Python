@@ -31,7 +31,7 @@ Use your script to print out the following:
 
 1. Change the Pokemon in the URL to a Pokemon of your choice! **BONUS**- add input to collect what Pokemon to look up!
 
-0. Print the URL to "front_default", which is a link to an image of your Pokemon! **BONUS**- download the image (hint: look at the wget module)!
+0. Print the URL to "front_default", which is a link to an image of your Pokemon! **BONUS**- download the image (one tool you could use is the wget module... or write to file with "wb"!)!
 
 0. Return a count of how many "game_indices" the selected Pokemon has been in!
 
