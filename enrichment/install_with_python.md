@@ -12,7 +12,7 @@
     
 ## GOOGLE CHALLENGE:
 
-You'll need to either refer to previous labs or use Google to do the following. Write a Python script that will: 
+You'll need to refer to previous labs and/or use Google to do the following. Write a Python script that will: 
 
 - install `sl` on your machine again.
 - creates a new directory in `mycode` called "slappy"
