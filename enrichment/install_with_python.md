@@ -12,4 +12,8 @@
     
 ## GOOGLE CHALLENGE:
 
-Write a Python script that will install `sl` on your machine again. It needn't be complicated!
+You'll need to either refer to previous labs or use Google to do the following. Write a Python script that will: 
+
+- install `sl` on your machine again.
+- creates a new directory in `mycode` called "slappy"
+- create a new file in the new `slappy` directory called "chad_stop_using_that_word.txt"
