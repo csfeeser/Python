@@ -23,9 +23,12 @@ Your goal is to use Flask to create output like this:
 - Make an addition to your Flask server. Create a **session** that is made to include a **specific variable** (your choice). A user is ONLY able to add info to `groups` if that session variable is present.
 
 ### Jinja2 Solution
+
+```
 {% for host in groups %}
    <h4><span>{{ host.ip }}   {{ host.fqdn }} # {{ host.hostname }}</span></h4>
    {% endfor %}
+```
 
 ### EXAMPLE CODE
 
