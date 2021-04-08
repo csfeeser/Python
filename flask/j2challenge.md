@@ -24,9 +24,9 @@ Your goal is to use Flask to create output like this:
 
 <!-- 
 # Undercloud Host FQDNs
-{% for item in groups %}
-{{ item.ip }}    {{item.fqdn }} # {{ item.hostname }}
-{% endfor %}
+{% for host in groups %}
+   <h4><span>{{ host.ip }}   {{ host.fqdn }} # {{ host.hostname }}</span></h4>
+   {% endfor %}
 
 
 #!/usr/bin/env python3
