@@ -26,3 +26,33 @@ x.startswith("Eth")
 |*.lower()*|**method** (specifically, string method)|
 |("Eth")|argument|
 > The *x* variable belongs to the **string class**
+
+### Importing/Reusing Code!
+
+Inside of the same directory, create two files.
+
+`vim module1.py`
+
+```
+#MODULE1
+import module2
+
+def funkytown():
+    print("MODULE 1 is the best!")
+
+funkytown()
+module2.shindigville()
+```
+
+`vim module2.py`
+
+```
+#MODULE2
+  
+def shindigville():
+    print("MODULE 2 is awesome!")
+```
+
+Once finished, run module1! Notice that it will import and run module2 as well.
+
+`python3 module1`
