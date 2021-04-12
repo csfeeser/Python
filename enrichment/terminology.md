@@ -1,4 +1,18 @@
 ```
+networklists = ['ios','ios-xr','junos','eos']
+
+for networks in networklists:
+    print(x)
+```
+| Syntax      | Terminology |
+| ----------- | ----------- |
+|'ios','ios-xr','junos','eos'|**elements** in the list `networklists`|
+|networks|variable|
+|networklists *(in for loop)*|iterable|
+> the class of `networks` in this example is "string"
+---
+
+```
 x= "string"
 x.lower()
 x.__add__
