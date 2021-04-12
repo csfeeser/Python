@@ -16,6 +16,7 @@ for networks in networklists:
 x= "string"
 x.lower()
 x.__add__
+x.startswith("Eth")
 ```
 | Syntax      | Terminology |
 | ----------- | ----------- |
@@ -23,4 +24,5 @@ x.__add__
 |*x*|**variable**|
 |*"string"*|**value** of the variable|
 |*.lower()*|**method** (specifically, string method)|
+|("Eth")|argument|
 > The *x* variable belongs to the **string class**
