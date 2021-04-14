@@ -19,6 +19,7 @@ def main():
 
         # use netmiko ConnectHandler class to create a connection with our switch
         open_connection = netmiko.ConnectHandler(device_type=dev_type, ip=dev_ip, username=dev_un, password=dev_pw)
+        
         # use the ConnectHandler "send_command" method to execute a command in our switch, print result
         print("\n***** BEGIN SHOW IP INT BRIEF *****")
         print(open_connection.send_command("show ip int brief"))
