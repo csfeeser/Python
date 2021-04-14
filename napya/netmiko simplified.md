@@ -2,7 +2,7 @@
 
 Our Netmiko lab code was built to handle errors, loop across multiple devices, and take input from a csv file! However, that can make it more challenging to see and understand the role that Netmiko has to play in the script. Below is a VERY stripped down version of our original code that should help make the use of Netmiko more clear!
 
-```
+```python
 #!/usr/bin/env python3
 
 import os
