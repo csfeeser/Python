@@ -8,7 +8,7 @@
 
 0. Save a user's input to the variable `char_name` from the following question:
 
-        Which character do you want to know about? (Wolverine, Harry Potter, Agent Fitz)
+        Which character do you want to know about? (Wolverine, Harry Potter, Captain America)
 
 0. Save a user's input to the variable `char_stat` from the following question:
 
