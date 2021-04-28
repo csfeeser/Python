@@ -15,8 +15,10 @@
 
 0. From each list you must pull the strings "eyes," "goggles," and "nothing." YOU MUST USE THE LIST AS WRITTEN. YOU MAY NOT MODIFY ANY OF THE LISTS :)
 
-0. Create a print function that uses those three words *(eyes, goggles, nothing)* that writes out this popular Simpsons quote:
+0. For each list, create a print function that uses those three words *(eyes, goggles, nothing)* that writes out this popular Simpsons quote:
 
 My ***eyes***! The ***goggles*** do ***nothing***!
+
+You will write a total of THREE print functions.
 
 ![Image description](https://github.com/csfeeser/Python/blob/master/eyes.jpg?raw=true)
