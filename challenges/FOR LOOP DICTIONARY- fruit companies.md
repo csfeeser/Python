@@ -17,4 +17,4 @@ fruitcompanies= [{"name":"Zesty","employees":["Ajay","Ashfaq","Bob","Brian","Cha
 
 ### Function 3
 
-• Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or JuiceGrove)... but DO NOT return "Chad." He got fired this morning.
+• Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or JuiceGrove)... but DO NOT return "Chad F." He got fired this morning.
