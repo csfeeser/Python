@@ -1,7 +1,7 @@
 # "Looping with for" Challenge!
 
 ```
-fruitcompanies= [{"name":"Zesty","employees":["Ajay","Ashfaq","Bob","Brian","Chad"]},
+fruitcompanies= [{"name":"Zesty","employees":["Ajay","Ashfaq","Bob","Brian","Chad F.", "Chad H."]},
                  {"name":"Ripe.ly","employees":["Eric","Gibran", "Chad","Idris","Juan","Julian"]},
                  {"name":"FruitBee","employees":["Kulwinder","Lalit","Chad","Michael","Milford","Scott"]},
                  {"name":"JuiceGrove","employees":["Chad","Srini","Srinivasa","Vasanti","Vimal"]}]
