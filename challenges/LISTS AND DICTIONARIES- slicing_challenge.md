@@ -1,4 +1,4 @@
-# Slicing Challenge!
+# Simpsons Slicing Challenge!
 
 
     challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
@@ -11,6 +11,7 @@
 
 
 1. For your morning challenge, attempt the following:
+
     - From the *challenge* list, pull the strings *eyes, goggles,* and *nothing* and create a print function that returns this output:
         ```
         My eyes! The goggles do nothing!
