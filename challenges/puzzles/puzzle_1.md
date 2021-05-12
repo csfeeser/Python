@@ -29,9 +29,11 @@ Use the following command to download your expense report:
 <details>
 <summary>ANSWER</summary>
 <br>
+    
 The puzzle answer is `259716`.
     
 You still need to show your work in how to FIND this answer, though :)
+
 </details>
 
 ### SCENARIO PART 2:
@@ -40,14 +42,12 @@ The goblins in accounting are thankful for your help-- but you're not done yet. 
 
 Using the same expense example as before...
 
-    ```
     1721
     979
     366
     299
     675
     1456
-    ```
     
 ...the three entries that sum to `2020` are `979`, `366`, and `675`. Multiplying them together produces the answer, `241861950`.
 
@@ -56,7 +56,9 @@ In your expense report, what is the product of the three entries that sum to 202
 <details>
 <summary>ANSWER</summary>
 <br>
+    
 The puzzle answer is `120637440`.
     
 You still need to show your work in how to FIND this answer, though :)
+
 </details>
