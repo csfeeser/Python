@@ -3,6 +3,7 @@
 ### SCENARIO PART 1:
 
 Hooray! You've finally earned enough vacation time to take that big trip you always wanted! But SUDDENLY- disaster hits.
+
 Before you leave, the goblins in accounting just need you to fix your expense report; apparently, something isn't quite adding up.
 
 Specifically, they need you to **find the two entries that sum to 2020** and then **multiply those two numbers together.**
