@@ -1,4 +1,4 @@
-## FUNCTIONS CHALLENGE
+## CALCULATOR CHALLENGE
 ### Make a calculator that takes two integers and adds/subtracts/divides/multiplies them!
 
 1. Use FUNCTIONS to create a calculator! Your script must accept the following user input: 
