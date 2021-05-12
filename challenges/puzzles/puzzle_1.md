@@ -29,7 +29,8 @@ Use the following command to download your expense report:
 <details>
 <summary>ANSWER</summary>
 <br>
-The puzzle answer is 259716.
+The puzzle answer is `259716`.
+    
 You still need to show your work in how to FIND this answer, though :)
 </details>
 
@@ -55,6 +56,7 @@ In your expense report, what is the product of the three entries that sum to 202
 <details>
 <summary>ANSWER</summary>
 <br>
-The puzzle answer is 120637440.
+The puzzle answer is `120637440`.
+    
 You still need to show your work in how to FIND this answer, though :)
 </details>
