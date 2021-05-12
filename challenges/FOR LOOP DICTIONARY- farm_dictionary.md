@@ -20,3 +20,14 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
 
 • Ask a user to choose a farm (NE Farm, W Farm, or SE Farm)... but only return ANIMALS from that particular farm.
 
+### SUPER BONUS
+
+Test the flexibility of your code... does it still work if you swap the value of farms for this?
+
+```
+farms = [{"name": "SE Farm", "agriculture": ["chickens", "carrots", "celery"]},
+         {"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens", "llamas", "cats"]},
+         {"name": "E Farm", "agriculture": ["bananas", "apples", "oranges"]},
+         {"name": "W Farm", "agriculture": ["pigs", "chickens", "llamas"]},
+         ]
+```
