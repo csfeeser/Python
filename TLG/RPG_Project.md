@@ -18,7 +18,7 @@ Some suggestions for implementations are provided below- you're also encouraged 
 - **Combat**- create a function that, when triggered, enters combat mode. Player/monster health & damage must be calculated and win/lose conditions created!
 - **Riddles**- create a function that, when triggered, asks the player a series of riddles that may return some reward or punishment upon failure!
 - **Crushing Walls**- create a function that, when triggered, puts our hero in a room with gradually closing walls. Implement a timer that will run out unless they find the escape solution!
-- **All-knowing Sphinx**- create a function that, when triggered, a cat statue gives you a random cat fact.
+- **All-knowing Sphinx**- create a function that, when triggered, a cat statue gives you a random cat fact from the cat facts API!
 - **Puzzle**- create a function that, when triggered, engages the player in some manner of diabolical puzzle where failure is... unhealthy!
 - **Class**- build a Player class object to internalize (and therefore replace) existing procedural player characteristics: inventory, health, spells, etc. BUT ALSO implement player stats that `def __init__(self)` upon creation. Create a method that triggers a level-up message where users can allocate points to  strength, intelligence, and speed.
 
