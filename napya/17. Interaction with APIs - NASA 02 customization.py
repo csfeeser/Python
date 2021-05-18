@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-  
+
 import requests ## 3rd party URL lookup
 
 ## define the main function
@@ -35,7 +35,8 @@ def main():
     print(f"Closest Asteroid (lunar): {asteroid_distance}")
     print(f"Number of potentially hazardous asteroids: {danger_count}")
     input("Press ENTER to see a list of all asteroids.")
-    print(set(asteroid_names))
+    for a,b,c in zip(asteroid_names[::3],asteroid_names[1::3],asteroid_names[2::3]):
+        print('{:<30}{:<30}{:<}'.format(a,b,c))
 
 if __name__ == "__main__":
     main()
