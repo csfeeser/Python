@@ -2,7 +2,7 @@
 
 This warmup uses an unofficial Game of Thrones API- [An Api of Ice and Fire](https://www.anapioficeandfire.com)
 
-![Drag Racing](https://cdn-media-1.freecodecamp.org/images/1*zWAQiGmSUNnBMl6D12xi7A.jpeg)
+<img src="https://cdn-media-1.freecodecamp.org/images/1*zWAQiGmSUNnBMl6D12xi7A.jpeg" alt="drawing" width="500"/>
 
 Below is a script that will allow you to return information about one of the HUNDREDS (thousands?) of characters in the Game of Thrones literary universe! Run the script and enter a number (583 will return Jon Snow!)
 
