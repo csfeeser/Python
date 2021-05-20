@@ -1,14 +1,18 @@
 ### Jinja2 Solution
 
-```
+```html
 {% for host in groups %}
    <h4><span>{{ host.ip }}   {{ host.fqdn }} # {{ host.hostname }}</span></h4>
    {% endfor %}
+
+<br>
+<li><a href = '/form'></b>Click here to add more data</b></a></li>
+<li><a href = '/logout'></b>Click here to log out</b></a></li>
 ```
 
 ### EXAMPLE CODE
 
-```
+```python
 #!/usr/bin/env python3
 
 from flask import Flask
@@ -35,6 +39,34 @@ def index():
   ## if the key "username" does not have a value in session
   return "You are not logged in <br><a href = '/login'></b>" + \
       "click here to log in</b></a>"
+
+@app.route("/form")
+def form():
+    if "username" in session:
+        if session["username"] == "Chad":
+            return """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Enter new data</title>
+    <form action = "/add_ip" method = "POST">
+        <p>Enter Hostname:</p>
+        <p><input type = "text" name = "hostname"></p>
+        <p>Enter IP Address:</p>
+        <p><input type = "text" name = "ip"></p>
+        <p>Enter Fully Qualified Domain Name:</p>
+        <p><input type = "text" name = "fqdn"></p>
+        <p><input type = "submit" value = "submit"></p>
+    </form>
+</head>
+<body>
+
+</body>
+</html>"""
+    else:
+        return "You are not logged in <br><a href = '/login'></b>" + \
+      "click here to log in</b></a>"
+
 
 @app.route("/add_ip", methods=["POST", "GET"])
 def adder():
@@ -84,5 +116,6 @@ def logout():
    return redirect(url_for("index"))
 
 if __name__ == "__main__":
-  app.run(host="127.0.0.1", port=2224)
+  app.run(host="0.0.0.0", port=2224)
+
 ```
