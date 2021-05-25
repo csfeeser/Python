@@ -1,4 +1,4 @@
-# MORNING CHALLENGE: NASA API LOOPING
+NASA API LOOPING
 
 Begin by copying this code into your environment.
 
