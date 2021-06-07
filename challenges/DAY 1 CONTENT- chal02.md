@@ -9,13 +9,28 @@
     ```
     icecream= ["flavors", "salty"] 
     ```
+
+2. Include this list:
+
+    ```
+    tlgclass= ["Brian","Clint","Damian","Dan","David","Jelani","Jerad","Jon","Jun","Mark","Max"]
+    ```
     
-2. Append the integer **(not string!)** `99` to `icecream`.
+3. Append the integer **(not string!)** `99` to the list `icecream`.
 
-3. Include an input asking for the user's name.
+4. Include an input asking for a number between 0 and 10. Use this number to identify one of the students from the *class* list!
+    > remember that *input()* always returns a string... look at the *int()* built-in function!
 
-4. Using the appended list and the input, make this output (emphasis placed):
+5. Using the appended list and the input, make this output (emphasis placed):
 
    ```
-   <99> <flavors>, and <name> chooses to be <salty>.
+   <99> <flavors>, and <student name> chooses to be <salty>.
    ```
+
+**SUPER BONUS**
+
+Find a way to randomize what student is picked!
+
+**MEGA BONUS**
+
+If the user types in a name instead of a number, use the name instead!
