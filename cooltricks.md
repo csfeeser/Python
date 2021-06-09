@@ -30,11 +30,12 @@
 
     Screen.wrapper(demo)
     
-### Clear screen while still in program
-
-    from subprocess import call
-    from os import name as osname
-
-    def clear():
-        # check and make call for specific operating system
-        call('clear' if osname =='posix' else 'cls')
+### Clear screen while still in program (credit to Clint Robertson)
+    
+   ```
+   def clearScreen():
+     if os.name == "nt":
+       os.system("cls")
+   else:
+      os.system("clear")
+   ```
