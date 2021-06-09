@@ -4,12 +4,16 @@
 
 This challenge is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
 
-0. Run the following command:
+0. If you'd like to work with a collection of comic data, use the command below:
 
     `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/brett_comics.txt > brett_comics.txt`
 
+0. If you'd like to work with data about Pokemon, use the command below:
+
     `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/pokedex.txt > pokedex.txt`
-    
+
+0. If you'd like to work with data regarding 2020 NFL plays, use the command below:
+
     `student@bchd:~$` `cd ~/mycode && curl http://nflsavant.com/pbp_data.php?year=2020 > nfl2020.txt`
     
 0. Use the code below to get you started:
