@@ -7,6 +7,8 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 0. Run the following command:
 
     `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/brett_comics.txt > brett_comics.txt`
+
+    `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/pokedex.txt > pokedex.txt`
     
 0. Use the code below to get you started:
 
