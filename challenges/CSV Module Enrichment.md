@@ -10,6 +10,8 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 
     `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/pokedex.txt > pokedex.txt`
     
+    `student@bchd:~$` `cd ~/mycode && curl http://nflsavant.com/pbp_data.php?year=2020 > nfl2020.txt`
+    
 0. Use the code below to get you started:
 
     ```python
