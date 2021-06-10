@@ -11,9 +11,7 @@ The script below is busted. Do your best to fix it, then test it vigorously!
 # The user may enter q to exit the program.
 
 def calculator()
-    calc1= 0
-    calc2= 0
-    while calc1 != "q"
+    while true
         print("\nWhat is the first operator? Or, enter q to quit: ")
         calc1 = raw_input()
         if calc1 == "Q":
