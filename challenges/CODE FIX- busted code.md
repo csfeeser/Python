@@ -4,13 +4,15 @@ The script below is busted. Do your best to fix it, then test it vigorously!
 
 `student@bchd:~$` `vim bustedcode.py`
 
-```
+```python
 #!/usr/env python
 # A program that prompts a user for two operators and operation (plus or minus)
 # the program then shows the result.
 # The user may enter q to exit the program.
 
 def calculator()
+    calc1= 0
+    calc2= 0
     while calc1 != "q"
         print("\nWhat is the first operator? Or, enter q to quit: ")
         calc1 = raw_input()
