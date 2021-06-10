@@ -36,7 +36,7 @@ main()
 def add(num1,num2):
     print(\n + str(calc1) + " + " + str(calc2) + " = " + str(calc1 + calc2))
     
-def sub(num1):
+def sub():
     print("\n" + str(num1) + " - " + str(num2) + " = " + str(num1 - num2))
     
 ```
