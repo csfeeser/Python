@@ -9,11 +9,8 @@ The script below is busted. Do your best to fix it, then test it vigorously!
 # A program that prompts a user for two operators and operation (plus or minus)
 # the program then shows the result.
 # The user may enter q to exit the program.
-calc1 = 0.0
-calc2 = 0.0
 
-operation = ""
-def main()
+def calculator()
     while calc1 != "q"
         print("\nWhat is the first operator? Or, enter q to quit: ")
         calc1 = raw_input()
