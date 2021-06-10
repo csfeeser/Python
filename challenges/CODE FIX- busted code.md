@@ -1,6 +1,6 @@
 # MORNING WARM-UP
 
-The script below is busted. Do your best to fix it, then test it vigorously!
+The script below is busted. Do your best to fix it, then test it vigorously! You are not required to IMPROVE the script, just make it work "as advertised!"
 
 `student@bchd:~$` `vim bustedcode.py`
 
