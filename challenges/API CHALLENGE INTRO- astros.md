@@ -8,7 +8,7 @@ There has been a lot of activity with astronauts going up and down to the Intern
 
 0. Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
-0. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that would give the following output:
+0. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
     
     ```
     People in Space:  7
