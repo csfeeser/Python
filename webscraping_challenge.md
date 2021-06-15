@@ -10,4 +10,4 @@ Choose between one of the two websites below:
 
 - [The Epic List of 250 Legendary Swords](https://hobbylark.com/fandoms/The-Epic-List-of-250-Legendary-Swords)
 
-In both sites, you're presented with a long list of data (names of flowers or swords) as well as a description of each item. Using Beautiful Soup, return ALL the flowers/swords from the page and place them inside of a dictionary. The format of the dictionary is up to you- what do you think will be the best design?
+In both sites, you're presented with a long list of data (names of flowers or swords) as well as a description of each item. Using Beautiful Soup, return ALL the flowers/swords AND THEIR DESCRIPTIONS from the page and place them inside of a dictionary. The format of the dictionary is up to you- what do you think will be the best design?
