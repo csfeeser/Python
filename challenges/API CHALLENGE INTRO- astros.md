@@ -27,7 +27,7 @@ There has been a lot of activity with astronauts going up and down to the Intern
 <summary>Need help getting started?</summary>
 <br>
     
-Go to ***Lab 17. RESTful Open APIs with requests*** for a starter script!
+Go to ***18. RESTful Open APIs with requests*** for a starter script!
 
 </details>
 
