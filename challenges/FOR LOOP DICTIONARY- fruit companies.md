@@ -1,10 +1,10 @@
 # "Looping with for" Challenge!
 
 ```
-fruitcompanies= [{"name":"Zesty","employees":["Ajay","Ashfaq","Bob","Brian","Chad F.", "Chad H."]},
-                 {"name":"Ripe.ly","employees":["Eric","Gibran", "Chad","Idris","Juan","Julian"]},
-                 {"name":"FruitBee","employees":["Kulwinder","Lalit","Chad","Michael","Milford","Scott"]},
-                 {"name":"JuiceGrove","employees":["Chad","Srini","Srinivasa","Vasanti","Vimal"]}]
+fruitcompanies= [{"name":"Zesty","employees":["Ambu","Brent", "Bryan","Carlee","Chad"]},
+                 {"name":"Ripe.ly","employees":["Darlene","Eric","Fernando","Peter",]},
+                 {"name":"FruitBee","employees":["Jennae","Joel","Jonas","Josh",]},
+                 {"name":"JuiceGrove","employees":["Kurt","Nate","Patrick","Rachel",]}]
 ```
 
 ### Function 1
