@@ -1,4 +1,4 @@
-# "Looping with for" Challenge!
+# LOOPING DICTIONARIES Challenge!
 
 ```
 fruitcompanies= [{"name":"Zesty","employees":["Ambu","Brent", "Bryan","Carlee","Chad"]},
