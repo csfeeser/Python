@@ -37,7 +37,7 @@ Note that the output contains the following:
 ALTER THE SCRIPT ABOVE so that the output instead returns ONLY the following:
 
 - The name of the character
-- The name(s) of books the character appeared in
+- The name(s) of books the character appeared in, **including povBooks**.
 - The name(s) of allegiances the character has (if any)
 
 BONUSES:
