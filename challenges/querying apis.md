@@ -17,6 +17,6 @@ For a given Marvel character, return the following:
 
 - How many comics did they appear in?
   - What are the titles of the last 5 they appeared in?
-- What is their real name?
+- Return another piece of information of your choice!
 - What is their backstory (if provided)?
 - Download a picture of the character to your /home/student/static directory
