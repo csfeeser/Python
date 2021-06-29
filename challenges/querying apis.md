@@ -9,7 +9,7 @@ The NeoWS (Near Earth Object Web Service) script is incomplete! Implement the fo
 - query the user for a start and end date.
 - return how many asteroids were present in that range
 - return how many asteroids were **potentially hazardous** in that range.
-- **Stretch Goal**: what was the biggest asteroid in that range? The fastest? The closest?
+- **Stretch Goal**: In terms of kilometers, what was the biggest asteroid in that range? The fastest? The closest?
 
 ### Lab 21. Marvel Comic API
 
