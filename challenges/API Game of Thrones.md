@@ -39,3 +39,8 @@ ALTER THE SCRIPT ABOVE so that the output instead returns ONLY the following:
 - The name of the character
 - The name(s) of books the character appeared in
 - The name(s) of allegiances the character has (if any)
+
+BONUSES:
+- If the character doesn't have a name, return their FIRST alias instead.
+- Specify if each book the character was in was POV or not.
+- Error handle for bad requests!
