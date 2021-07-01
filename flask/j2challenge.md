@@ -16,9 +16,9 @@ Your goal is to use Flask to create output like this:
 - Create a Jinja2 template that would create the above output
 - Create a flask server that populates that Jinja2
 
-### BONUS:
+### TASK 2:
 - Create a form that lets you add more data to `groups`.
 
-### TASK 2:
+### TASK 3:
 - Make an addition to your Flask server. Create a **session** that is made to include a **specific variable** (your choice). A user is ONLY able to add info to `groups` if that session variable is present.
 
