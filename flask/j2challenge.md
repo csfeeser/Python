@@ -6,7 +6,7 @@ Let the following be the data structure that you want to put inside of a hosts f
               {"hostname": "hostB", "ip": "192.168.30.33", "fqdn": "hostB.localdomain"},
               {"hostname": "hostC", "ip": "192.168.30.44", "fqdn": "hostC.localdomain"}]
 
-Your goal is to use Flask to create output like this:
+Your goal is to use Flask to create output like this (if possible, return this in HTML!):
 
     192.168.30.22 hostA.localdomain # hostA
     192.168.30.33 hostB.localdomain # hostB
