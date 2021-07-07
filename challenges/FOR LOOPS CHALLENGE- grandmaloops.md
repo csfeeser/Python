@@ -51,6 +51,13 @@ OUTPUT:
     ```
 
     - *For every [toy] I find in the [kitchen] I'm going to [scream]!*
+
+    ```
+    SAMPLE OUTPUT:
+    A yo-yo?! AAAAGH!!!
+    A jump rope?! AAAAGH!!!
+    ```
+    
     - You may only identify whether or not a key/value pair in this dictionary is a toy by the VALUE.
 
 0. **SUPER BONUS**
