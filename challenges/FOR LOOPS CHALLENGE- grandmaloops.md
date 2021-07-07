@@ -71,3 +71,16 @@ OUTPUT:
 0. **SUPER POWER WONDER BONUS**
     
     - Solve the bonus above... with only ONE line! (not counting the dictionary *kitchen*)
+
+<!--
+kitchen= {"pan":"tool","spoon":"tool","yo-yo":"toy","banana":"food","jump rope":"toy","stove":"appliance"}
+  
+for x, y in kitchen.items():
+    if y == "toy":
+        print(f"A {x}?! AAAAGH!!!")
+
+for x, y in kitchen.items():
+    if y == "toy": print(f"A {x}?! AAAAGH!!!")
+
+print(*(f"A {x}?! AAAAGH!!!" for x, y in kitchen.items() if y == "toy"), sep="\n")
+-->
