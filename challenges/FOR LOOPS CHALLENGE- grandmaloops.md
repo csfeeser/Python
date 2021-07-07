@@ -55,8 +55,12 @@ OUTPUT:
 
 0. **SUPER BONUS**
     
-    - Solve the bonus above with only TWO LINE (not counting the dictionary *kitchen*)
+    - Solve the bonus above with only THREE lines! (not counting the dictionary *kitchen*)
 
 0. **MEGA BONUS**
 
+    - Solve the bonus above with only TWO lines! (not counting the dictionary *kitchen*)
+
+0. **SUPER POWER WONDER BONUS**
+    
     - Solve the bonus above... with only ONE line! (not counting the dictionary *kitchen*)
