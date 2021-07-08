@@ -1,5 +1,8 @@
 # YAML Conversion Challenge
 
+![yaml is teh funneh](https://i.redd.it/i4v9op0chrc51.jpg)
+
+
 ## Objective
 
 There are certainly many tools out there that can make data conversion into and out of YAML a snap... but when you write YAML in Ansible, that doesn't help! Your objective is to successfully make conversions (by hand!) of the data objects below.
