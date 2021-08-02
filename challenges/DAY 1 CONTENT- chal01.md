@@ -2,7 +2,6 @@
 
 **Objective:** Write a script that contains the following:
 
-1. A shebang line.
 2. An input asking the user's name.
 3. An input asking what day of the week it is.
 4. A print statement that reads:
