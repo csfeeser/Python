@@ -13,7 +13,7 @@
 2. Include this list:
 
     ```
-    tlgclass= ["Brian","Clint","Damian","Dan","David","Jelani","Jerad","Jon","Jun","Mark","Max"]
+    tlgclass= ["Adrian","Bikash","Chas","Chathula","Chris","Hongyi","Jauric","Joe L.","Joe V.","Josh","Justin","Karlo","Kerri-Leigh","Jason","Nicholas","Peng","Philippe","Pierre","Stephen","Yun"]
     ```
     
 3. Append the integer **(not string!)** `99` to the list `icecream`.
