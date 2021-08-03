@@ -19,17 +19,17 @@
     ```
     marvelchars= {
     "Starlord":
-      {"real name": "Peter Quill",
+      {"real name": "peter quill",
       "powers": "dance moves",
       "archenemy": "Thanos"},
 
     "Mystique":
-      {"real name": "Raven Darkholme",
+      {"real name": "raven darkholme",
       "powers": "shape shifter",
       "archenemy": "Professor X"},
 
     "She-Hulk":
-      {"real name": "Jennifer Walters",
+      {"real name": "jennifer walters",
       "powers": "super strength & intelligence",
       "archenemy": "Titania"}
                  }
