@@ -17,27 +17,29 @@
 0. Use the char_name and char_stat values to pull the appropriate value from the dictionary below.
 
     ```
-    heroes=  {
-    "wolverine":
-        {"real name": "James Howlett",
-        "powers": "regeneration",
-        "archenemy": "Sabertooth",},
-    "harry potter":
-        {"real name": "Harry Potter",
-        "powers": "magic",
-        "archenemy": "Voldemort",},
-    "captain america":
-        {"real name": "Steve Rogers",
-        "powers": "frisbee shield",
-        "archenemy": "Hydra",}
-            }
+    marvelchars= {
+    "Starlord":
+      {"real name": "Peter Quill",
+      "powers": "dance moves",
+      "archenemy": "Thanos"},
+
+    "Mystique":
+      {"real name": "Raven Darkholme",
+      "powers": "shape shifter",
+      "archenemy": "Professor X"},
+
+    "She-Hulk":
+      {"real name": "Jennifer Walters",
+      "powers": "super strength & intelligence",
+      "archenemy": "Titania"}
+                 }
     ```
     
 0. Create a print function that combines that information into this output:
 
         <char_name>'s <char_stat> is: <value>
 
-**BONUS 1:** When returning the hero's name, have it capitalized appropriately (e.g. Wolverine, not wolverine)
+**POWER BONUS 1:** When returning the hero's name, have it capitalized appropriately (e.g. Wolverine, not wolverine)
 
 <details>
 <summary>Hints:</summary>
@@ -55,7 +57,7 @@
 
 </details>
 
-**MEGA SUPER BONUS 3:** Allow the user to try again without exiting the script! Requires previous knowledge of **while loops**.
+**MEGA BONUS 3:** Allow the user to try again without exiting the script! Requires previous knowledge of **while loops**.
 
 ### Wow, done with all three? Try this one on for size:
 
