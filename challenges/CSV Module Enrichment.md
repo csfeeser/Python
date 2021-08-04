@@ -1,6 +1,6 @@
 # Reading CSV with Python
 
-## In Lab 28, we read in a csv file using the csv module-- with it, we were able to handpick what parts of that data we wanted to use and assign to brand new files. How cool!
+## In Lab 28, we read in a csv file using the csv module. In Lab 38, we read in a massive .xls spreadsheet with 100 years of movies! In both examples, we were able to handpick what parts of that data we wanted to use and assign to brand new files. How cool!
 
 This challenge is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
 
@@ -16,12 +16,28 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 
     `student@bchd:~$` `cd ~/mycode && curl http://nflsavant.com/pbp_data.php?year=2020 > nfl2020.txt`
     
-0. Use the code below to get you started:
+0. If you need it, here's some starter code for whichever module you choose:
 
     ```python
     #!/usr/bin/env python3
 
     import csv
+
+    with open("brett_comics.txt", "r") as comicfile:
+    ```
+    
+    ```python
+    #!/usr/bin/env python3
+
+    import pandas
+    
+    # data_file= filenamehere.xxx
+    
+    # Reading in a spreadsheet?
+    # dataframeobj = pd.read_excel(excel_file)
+    
+    # Reading in a csv file?
+    # dataframeobj = pd.read_csv(excel_file)
 
     with open("brett_comics.txt", "r") as comicfile:
     ```
