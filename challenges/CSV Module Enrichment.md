@@ -1,4 +1,4 @@
-# Reading CSV with Python
+# Reading Data Files with Python
 
 ## In Lab 28, we read in a csv file using the csv module. In Lab 38, we read in a massive .xls spreadsheet with 100 years of movies! In both examples, we were able to handpick what parts of that data we wanted to use and assign to brand new files. How cool!
 
