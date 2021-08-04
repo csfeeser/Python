@@ -1,10 +1,14 @@
 # Reading Data Files with Python
 
-## In Lab 28, we read in a csv file using the csv module. In Lab 38, we read in a massive .xls spreadsheet with 100 years of movies! In both examples, we were able to handpick what parts of that data we wanted to use and assign to brand new files. How cool!
+**In Lab 28, we read in a csv file using the csv module. In Lab 38, we read in a massive .xls spreadsheet with 100 years of movies! In both examples, we were able to handpick what parts of that data we wanted to use and assign to brand new files. How cool!**
 
 This challenge is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
 
-0. If you'd like to work with a collection of comic data, use the command below:
+### Objective: Find a large data collection in .csv, .txt, .xls, etc. format, and using either csvreader or Pandas... do something cool† with it!
+
+#### †**cool**- *adjective* (/ko͞ol/) fashionable, attractive, exciting.
+
+1. If you'd like to work with a collection of comic data, use the command below:
 
     `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/brett_comics.txt > brett_comics.txt`
 
