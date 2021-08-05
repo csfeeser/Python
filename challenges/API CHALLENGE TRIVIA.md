@@ -7,7 +7,7 @@ Visit the following page and choose the following:
 
 https://opentdb.com/api_config.php
 
-- Number of Questions: **1**
+- Number of Questions: **at least 3**
 - Select Category: **YOU CHOOSE!**
 - Select Difficulty: **YOU CHOOSE!**
 - Select Type: **YOU CHOOSE!**
