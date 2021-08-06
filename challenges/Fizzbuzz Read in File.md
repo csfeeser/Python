@@ -6,7 +6,7 @@
 
 Start by running the following command:
 
-`student@bchd:~$` `https://raw.githubusercontent.com/csfeeser/Python/master/challenges/numfile.txt`
+`student@bchd:~$` `wget https://raw.githubusercontent.com/csfeeser/Python/master/challenges/numfile.txt`
 
 Now write a script that does the following:
 
