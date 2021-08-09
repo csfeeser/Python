@@ -41,24 +41,6 @@ http://api.open-notify.org/iss-now.json
     City: Saint-Pierre
     ```
 
-<details>
-<summary>Need help getting started?</summary>
-<br>
-    
-```python
-#!/usr/bin/python3
-
-import requests
-  
-URL= http://api.open-notify.org/astros.json
-def main():
-    # requests.get() sends GET request to the URL
-    # .json() strips JSON off the response and translates into Python!
-    resp= requests.get(URL).json()
-    
-main()
-
-</details>
 
 ```python
 #!/usr/bin/python3
