@@ -27,7 +27,18 @@ There has been a lot of activity with astronauts going up and down to the Intern
 <summary>Need help getting started?</summary>
 <br>
     
-Go to ***18. RESTful Open APIs with requests*** for a starter script!
+```python
+#!/usr/bin/python3
+
+import requests
+  
+URL= http://api.open-notify.org/astros.json
+def main():
+    # requests.get() sends GET request to the URL
+    # .json() strips JSON off the response and translates into Python!
+    resp= requests.get(URL).json()
+    
+main()
 
 </details>
 
