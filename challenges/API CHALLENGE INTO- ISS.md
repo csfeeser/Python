@@ -4,6 +4,8 @@
 
 SPACE... the final frontier! Click the following link to view an open API that, upon request, returns the latitude and longitude of the ISS as it flies over earth!
 
+http://api.open-notify.org/iss-now.json
+
 **Your challenge this morning is to do the following:**
 
 1. Using the **requests** module, access the API from the link above and pull/translate the JSON!
