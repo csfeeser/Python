@@ -2,13 +2,13 @@
 
 During our second week, you'll be able to explore topics of interest on your own! On our last day, students will share what they've learned (or been unable to learn) regarding a topic (or topics) of their choice. Below are past topics- these are only SUGGESTIONS, feel free to choose from other options!
 
+- API building
+- Alexa API SDK
 - Multithreading
 - Trading bot
-- Regex
 - Functions and Loops
 - Webscraping bot
 - Python Streamlit
-- Algorithmic Trading Using Python
 - Machine learning/AI (Tensorflow)
 - Pygame
 - Scientific Calculator
