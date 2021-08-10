@@ -1,6 +1,6 @@
 <img src="https://www.brightful.me/content/images/2020/08/shutterstock_686118184.jpg" alt="drawing" width="500"/>
 
-## WARMUP! Write a Flask API that does the following:
+## Write a Flask API that does the following:
   
 1. **Make the landing page ("/") return an HTML form.**
    - The form should ask a trivia question of your choosing.
