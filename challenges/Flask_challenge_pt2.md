@@ -91,9 +91,14 @@ print(x.text)
 
 ## flask.request Cheat Sheet
 
-- request.form.get() <-- retrieves values from POSTed forms, such as HTML
-- request.args.get() <-- retrieves values from GETed queries (example: ?nm=Wolverine)
-- request.json.get() <-- retrieves values from POSTed JSON
+```
+@app.route("/login", methods = ["POST"])
+def login():
+        if request.json:
+            data= request.json
+            if data["nm"] == "42":
+                return redirect("/correct")
+```
 
 ## BONUS:
 Your API can STILL ACCEPT HTML form POSTs in addition to POSTed JSON.
