@@ -49,7 +49,7 @@ def success():
 
 @app.route("/")
 def start():
-    return render_template("postmaker.html")
+    return html
 
 @app.route("/login", methods = ["POST"])
 def login():
