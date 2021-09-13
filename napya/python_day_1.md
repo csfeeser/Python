@@ -14,7 +14,7 @@
 1. Put all your code inside of a main() function.
 
 0. Use the data sample below. You can either:
-    - **HARD:** paste this into your script as a list. You'll need to put a variable in front of it, something like "data="
+    - **HARD:** paste this into your script as a list. You'll need to put a variable in front of it, something like "`data=`"
     - **HARDER:** paste this into a file named trivia.json. You'll need to use the json module to read this into Python!
 
 
@@ -46,4 +46,4 @@
    
 ### WANT SOME MORE, EH?
 
-0. Use the input() function to let the user try and guess the correct answer! Use the .capitalize() method to eliminate any user capitalization error.
+4. Use the input() function to let the user try and guess the correct answer! Use the .capitalize() method to eliminate any user capitalization error.
