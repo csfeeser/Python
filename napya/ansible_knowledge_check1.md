@@ -24,7 +24,7 @@ To test what you've learned about Ansible so far, please do the following:
 
     When prompted, type `alta3` as the password for bender, fry, and zoidberg.
     
-0. Edit your inventory file (`/home/student/ans/inv/dev/hosts`) and add the following to it:
+0. Edit your inventory file (`/home/student/mycode/inv/dev/hosts`) and add the following to it:
 
     ```
     [renamed]
