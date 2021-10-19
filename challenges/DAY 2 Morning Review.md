@@ -19,7 +19,7 @@ Time for something different- instead of writing code, we'll be repairing it. Th
         name= input(What is your name?)
 
         # Hi <name>! Welcome to Day 2 of Python Training!
-        print("Hi " + name.capitalize + "! Welcome to Day " + nums[1] + " of " + words[noun] + "Training!")
+        print("Hi " + name.capitalize + "! Welcome to Day " + nums[1] + " of " + words[noun] + " Training!")
     ```
 
 0. Change the permission settings.
