@@ -16,7 +16,7 @@ Time for something different- instead of writing code, we'll be repairing it. Th
                 "adjective": "awesome",
                 "noun": "Python"
 
-        name= input(What is your name?)
+        name= input(What is your name?\n>)
 
         # Hi <name>! Welcome to Day 2 of Python Training!
         print("Hi " + name.capitalize + "! Welcome to Day " + nums[1] + " of " + words[noun] + " Training!")
@@ -30,4 +30,4 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
     `student@bchd:~$` `./tuesdaychallenge.py`
     
-0. As you make changes to fix the script, continue to execute the script to test it. Remember, error messages are your FRIEND and will tell you the line number where the error is located!
+0. As you make changes to fix the script, continue to execute the script to test it. For maximum fulfillment, try to only fix what is causing the error message before fixing anything else. The more errors you see, the more you'll learn how to fix them! Error messages are your FRIEND.
