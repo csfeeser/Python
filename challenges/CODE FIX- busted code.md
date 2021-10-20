@@ -5,7 +5,7 @@ The script below is busted. Do your best to fix it, then test it vigorously! You
 `student@bchd:~$` `vim bustedcode.py`
 
 ```python
-#!/usr/env python
+#!/usr/bin/env python
 # A program that prompts a user for two operators and operation (plus or minus)
 # the program then shows the result.
 # The user may enter q to exit the program.
