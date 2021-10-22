@@ -1,10 +1,10 @@
 The question was asked how one might write a script that does the following:
 
-a. Have a list of servers
-b. SSH to each server
-c. cd to a directory
-d. Execute a command to find out a software version
-e. Transfer result to Excel in 2 columns: ServerName and Software-version
+1. Have a list of servers
+2. SSH to each server
+3. `cd` to a directory
+4. Execute a command to find out a software version
+5. Transfer result to Excel in two columns: `ServerName` and `Software-version`
 
 For a list of servers, an easy to change/update document would be YAML, like so:
 
@@ -63,7 +63,7 @@ def main():
         print(ver)
 
         # create a dictionary with two static keys, assign new values
-        d = {"Server": cred.get("un"), "Version": ver}
+        d = {"ServerName": cred.get("un"), "Software-version": ver}
         
         # add new dictionary to mylistdict list
         mylistdict.append(d)
