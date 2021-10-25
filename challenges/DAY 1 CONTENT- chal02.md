@@ -13,7 +13,7 @@
 2. Include this list:
 
     ```
-    northerntrust= ["Alex","Andrew","Dave","Julia","Kurt","Marlon","Roger","Seth","Tim","Viq"]
+    northerntrust= ["Bala", "Inderjeet", "Jon", "Nikita", "Steve", "Vinod"]
     ```
     
 3. Append the integer **(not string!)** `99` to the list `icecream`.
