@@ -25,8 +25,8 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
 Test the flexibility of your code... does it still work if you swap the value of farms for this?
 
 ```
-farms = [{"name": "SE Farm", "agriculture": ["chickens", "carrots", "celery"]},
-         {"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens", "llamas", "cats"]},
-         {"name": "E Farm", "agriculture": ["bananas", "apples", "oranges"]},
-         {"name": "W Farm", "agriculture": ["pigs", "chickens", "llamas"]}]
+farms = [{"name": "SW Farm", "agriculture": ["chickens", "carrots", "celery"]},
+         {"name": "NW Farm", "agriculture": ["sheep", "cows", "pigs", "chickens", "llamas", "cats"]},
+         {"name": "East Farm", "agriculture": ["bananas", "apples", "oranges"]},
+         {"name": "West Farm", "agriculture": ["pigs", "chickens", "llamas"]}]
 ```
