@@ -17,15 +17,10 @@
 
 #### EXAMPLE:
 	
-  Name: Corey Hollins
-	Skill Level: Astonishing
-	Spirit Animal: Lion
-	Super Power: Regenerative Healing Factor
-		
-	Name: David Benjamin
-	Skill Level: Awe-inspiring
-	Spirit Animal: Porcupine
-	Super Power: Adoptive Muscle Memory
+
+    Corey Hollins, an astonishing lion of a programmer, possesses a regenerative healing factor keeping them at the top of their game.
+    
+    David Benjamin, an awe-inspiring porcupine of a programmer, possesses an adoptive muscle memory keeping them at the top of their game.
 
 [...and so on!]
 
