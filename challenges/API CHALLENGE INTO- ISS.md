@@ -29,6 +29,8 @@ http://api.open-notify.org/iss-now.json
     Lat: 37.1268
     ```
 
+    > Hint: Google "python convert epoch time to date time"
+ 
     ### MEGA BONUS
     
 0. You've got the location... but that's not very human readable, is it? What CITY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://www.geeksforgeeks.org/python-reverse-geocoding-to-get-location-on-a-map-using-geographic-coordinates/)
