@@ -33,14 +33,14 @@ http://api.open-notify.org/iss-now.json
  
     ### MEGA BONUS
     
-0. You've got the location... but that's not very human readable, is it? What CITY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://github.com/csfeeser/Python/blob/master/enrichment/geocoder.md)
+0. You've got the location... but that's not very human readable, is it? What CITY and COUNTRY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://github.com/csfeeser/Python/blob/master/enrichment/geocoder.md)
 
     ```
     CURRENT LOCATION OF THE ISS:
     Timestamp: 2021-08-09 14:08:29
-    Lon: -52.7658
-    Lat: 37.1268
-    City: Saint-Pierre
+    Lon: 77.22445
+    Lat: 28.63576
+    City/Country: New Delhi, IN
     ```
 
 <!--
