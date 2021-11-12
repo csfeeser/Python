@@ -74,12 +74,15 @@ def main():
     # slice that object to return the city name only
     city= locator_resp[0]["name"]
 
+    # slice the object again to return the country
+    country= locator_resp[0]["cc"]
+
     print(f"""
 CURRENT LOCATION OF THE ISS:
 Timestamp: {hr_ts}
 Lon: {lon}
 Lat: {lat}
-City: {city}
+City/Country: {city}, {country}
 """)
 
 if __name__=="__main__":
