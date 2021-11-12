@@ -43,6 +43,7 @@ http://api.open-notify.org/iss-now.json
     City: Saint-Pierre
     ```
 
+<!--
 ```python
 #!/usr/bin/python3
 
@@ -84,3 +85,4 @@ City: {city}
 if __name__=="__main__":
     main()
 ```
+-->
