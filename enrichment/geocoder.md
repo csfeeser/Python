@@ -20,7 +20,7 @@ coords_tuple= (lat, lon)
 result = rg.search(coords_tuple)
 ```
 
-The `rg.search()` function will return a **list** that looks like this (technically it's an *ordered dictionary*, but you may treat it like the example you see below. Slice the value of `result` to get the data you need!
+The `rg.search()` function will return a **list** that looks like this (technically it's an *ordered dictionary*, but you may treat it like the example you see below). Slice the value of `result` to get the data you need!
 
 ```
 [{'admin1': 'NCT',
