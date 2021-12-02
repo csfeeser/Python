@@ -84,7 +84,7 @@ url = 'https://alta3.com/login'
 # the data you wish to post
 ye_olde_dict = {'somekey': 'somevalue'}
 
-x = requests.post(url, data = ye_olde_dict)
+x = requests.post(url, json = ye_olde_dict)
 
 print(x.text)
 ```
