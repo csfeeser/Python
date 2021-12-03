@@ -1,4 +1,17 @@
 ```html
+<!doctype html>
+<html>
+   <body>
+      <h2>Welcome to my Flask & database app</h2>
+      <a href = "/">Home Page (you are here)</a>
+      <a href = "/enternew">Make a New Database Entry</a>
+      <a href = "/delete">Delete a Database Entry</a>
+      <a href = "/list">View Records in the Database</a>
+   </body>
+</html>
+```
+
+```html
 **<html>
    <body>
       <form action = "/delrec" method = "POST">
@@ -13,7 +26,7 @@
 
 ```python
 #!/usr/bin/python3
-"""solution provided by DeVon	Williams"""
+"""solution provided by DeVon Williams"""
 
 # standard library
 import sqlite3 as sql
