@@ -1,3 +1,17 @@
+```html
+**<html>
+   <body>
+      <form action = "/delrec" method = "POST">
+         <h3>Student Information</h3>
+         Name:<br>
+	 <input type = "text" name = "nm" /><br>
+         <input type = "submit" value = "submit" /><br>
+      </form>
+   </body>
+</html>**
+```
+
+```python
 #!/usr/bin/python3
 """solution provided by DeVon	Williams"""
 
@@ -92,3 +106,4 @@ if __name__ == '__main__':
         app.run(host="0.0.0.0", port=2224, debug = True)
     except:
         print("App failed on boot")
+```
