@@ -13,7 +13,7 @@
 2. Include this list:
 
     ```
-    northerntrust= ["Darrin","Hiraman","Marc","Michael","Prarthana","Shrikant"]
+    tlgstudents= ["Aaron","Alex","Alonzo","Brandon","Chris","Francisco","James","Jonathan","Lillian","Manuel","Patrick","Robert","Ryan","Troy","Wes","Henry","Yalined"]
     ```
     
 3. Append the integer **(not string!)** `4` to the list `icecream`.
