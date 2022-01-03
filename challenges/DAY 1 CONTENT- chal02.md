@@ -18,13 +18,43 @@
     
 3. Append the integer **(not string!)** `4` to the list `icecream`.
 
-4. Include an input asking for a number between 0 and 5. Use this number to identify one of the students from the *northerntrust* list!
-    > remember that *input()* always returns a string... look at the *int()* built-in function!
+<details>
+<summary>I need a hint!</summary>
+<br>
+    
+    icecream.append(4)
+</details>
+
+4. Include an input asking for a number between 0 and 5. Use this number to identify one of the students from the *tlgstudents* list!
+
+<details>
+<summary>I need a hint!</summary>
+<br>
+    
+    choice= input("Pick a student number!")
+    
+**Remember that *input()* always returns a string... look at the *int()* built-in function!**
+</details>
+
+<details>
+<summary>I need another hint!</summary>
+<br>
+    
+    choice= int(input("Pick a student number!"))
+</details>
+
+<details>
+<summary>MOAR HINTZ!</summary>
+<br>
+    
+    choice= int(input("Pick a student number!"))
+    student_name= tlgstudents[choice]
+</details>
 
 5. Using the appended list and the input, make this output (emphasis placed):
 
    ```
-   <student name> always uses <4> <spaces> to indent.
+   <student_name> always uses <4> <spaces> to indent.
    ```
 
 **SUPER BONUS**
