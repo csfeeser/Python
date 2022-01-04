@@ -3,7 +3,7 @@
 
 #### Write a script that does the following:
 
-0. Include a shebang line.
+1. Include a shebang line.
 
 0. Make your file executable with a ./
 
