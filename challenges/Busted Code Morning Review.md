@@ -1,4 +1,4 @@
-# Code Repair! Tuesday Morning Challenge
+# Code Repair Challenge!
 
 Time for something different- instead of writing code, we'll be repairing it. The code block below uses all the concepts we learned about yesterday- lists, dictionaries, methods, functions, built-in functions, and concatenation!
 
