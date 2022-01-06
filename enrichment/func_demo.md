@@ -8,7 +8,7 @@
 
     `student@bchd:~/mycode/func_practice$` `vim func1.py`
 
-    ```
+    ```python
     def greet(name, msg):
         """This function takes two values and prints
         them out in the order they are given."""
@@ -29,7 +29,7 @@
 
     `student@bchd:~/mycode/func_practice$` `vim func2.py`
 
-    ```
+    ```python
     def greet(name, msg):
         print(f"Hello {name}, {msg}")
 
@@ -49,7 +49,7 @@
 
     `student@bchd:~/mycode/func_practice$` `vim func3.py`
 
-    ```
+    ```python
     def greet(name, msg):
         print(f"Hello {name}, {msg}")
 
@@ -72,7 +72,7 @@
 
     `student@bchd:~/mycode/func_practice$` `vim func4.py`
 
-    ```
+    ```python
     def greet(msg, name="Slappy"):
         """This sets a default value for name, 
         if it's not provided"""
@@ -94,7 +94,7 @@
 
     `student@bchd:~/mycode/func_practice$` `vim func5.py`
 
-    ```
+    ```python
     def greet(msg, name="Slappy"):
         print(f"Hello {name}, {msg}")
 
