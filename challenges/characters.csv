@@ -1,0 +1,494 @@
+id	name	status	species	type	gender	origin	location	episode	created
+1	Rick Sanchez	Alive	Human		Male	1	20	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31	
+2	Morty Smith	Alive	Human		Male	1	20	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31	
+3	Summer Smith	Alive	Human		Female	20	20	6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31	
+4	Beth Smith	Alive	Human		Female	20	20	6,7,8,9,10,11,12,14,15,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31	
+5	Jerry Smith	Alive	Human		Male	20	20	6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,26,29,30,31	
+6	Abadango Cluster Princess	Alive	Alien		Female	2	2	27	
+7	Abradolf Lincler	unknown	Human	Genetic experiment	Male	20	21	10,11	
+8	Adjudicator Rick	Dead	Human		Male		3	28	
+9	Agency Director	Dead	Human		Male	20	20	24	
+10	Alan Rails	Dead	Human	Superhuman (Ghost trains summoner)	Male		4	25	
+11	Albert Einstein	Dead	Human		Male	1	20	12	
+12	Alexander	Dead	Human		Male	1	5	3	
+13	Alien Googah	unknown	Alien		unknown		20	31	
+14	Alien Morty	unknown	Alien		Male		3	10	
+15	Alien Rick	unknown	Alien		Male		3	10	
+16	Amish Cyborg	Dead	Alien	Parasite, Cyborg	Male		20	15	
+17	Annie	Alive	Human		Female	1	5	3	
+18	Antenna Morty	Alive	Human	Human with antennae	Male		3	10,28	
+19	Antenna Rick	unknown	Human	Human with antennae	Male			10	
+20	Ants in my Eyes Johnson	unknown	Human	Human with ants in his eyes	Male		6	8	
+21	Aqua Morty	unknown	Humanoid	Fish-Person	Male		3	10,22	
+22	Aqua Rick	unknown	Humanoid	Fish-Person	Male		3	10,22,28	
+23	Arcade Alien	unknown	Alien		Male		7	13,19,21,25,26	
+24	Armagheadon	Alive	Alien	Cromulon	Male	22	22	16	
+25	Armothy	Dead	unknown	Self-aware arm	Male	8	8	23	
+26	Arthricia	Alive	Alien	Cat-Person	Female	9	9	20	
+27	Artist Morty	Alive	Human		Male		3	10,28	
+28	Attila Starwar	Alive	Human		Male		6	8,13,17	
+29	Baby Legs	Alive	Human	Human with baby legs	Male		6	8	
+30	Baby Poopybutthole	Alive	Poopybutthole		Male			31	
+31	Baby Wizard	Dead	Alien	Parasite	Male		20	15	
+32	Bearded Lady	Dead	Alien	Parasite	Female		20	15	
+33	Beebo	Dead	Alien		Male	10	10	29	
+34	Benjamin	Alive	Poopybutthole		Male		6	8,13,17	
+35	Bepisian	Alive	Alien	Bepisian	unknown	11	11	1,11,19,25	
+36	Beta-Seven	Alive	Alien	Hivemind	unknown			14	
+37	Beth Sanchez	Alive	Human		Female	23	23	8	
+38	Beth Smith	Alive	Human		Female	1	1	1,2,3,4,5,6,22	
+39	Beth Smith	Alive	Human		Female	34	34	10	
+40	Beth's Mytholog	Dead	Mytholog		Female	13	13	18	
+41	Big Boobed Waitress	Alive	Humanoid		Female	48	48	5	
+42	Big Head Morty	unknown	Human	Human with giant head	Male		3	22	
+43	Big Morty	Dead	Human		Male		3	28	
+44	Body Guard Morty	Dead	Human		Male		3	28	
+45	Bill	Alive	Human		Male	1	1	3	
+46	Bill	unknown	Animal	Dog	Male	20		2	
+47	Birdperson	Dead	Alien	Bird-Person	Male	15	35	11,16,21,22,26	
+48	Black Rick	Alive	Human		Male		3	22,28	
+49	Blamph	Alive	Alien		unknown		6	19	
+50	Blim Blam	Alive	Alien	Korblock	Male		20	14	
+51	Blue Diplomat	Alive	Alien		Male		6	19	
+52	Blue Footprint Guy	Dead	Human		Male	8	8	23	
+53	Blue Shirt Morty	unknown	Human		Male		3	10	
+54	Bobby Moynihan	Alive	Human		Male		6	8	
+55	Boobloosian	Dead	Alien	Boobloosian	unknown		13	18,21	
+56	Bootleg Portal Chemist Rick	Dead	Human		Male		3	28	
+57	Borpocian	Alive	Alien	Elephant-Person	Male			22	
+58	Brad	Alive	Human		Male	20	20	6,11,30	
+59	Brad Anderson	Dead	Human		Male	20	20	7	
+60	Calypso	Dead	Human	Superhuman	Female			25	
+61	Campaign Manager Morty	Dead	Human		Male		3	28	
+62	Canklanker Thom	Dead	Alien	Gromflomite	Male	19		1	
+63	Centaur	Alive	Humanoid	Centaur	Male		18	2	
+64	Chris	Dead	Alien	Organic gun	unknown		20	12	
+65	Chris	Alive	Humanoid	Microverse inhabitant	Male	24	24	17	
+66	Coach Feratu (Balik Alistane)	Dead	Vampire		Male	20	20	18	
+67	Collector	Alive	Alien	Light bulb-Alien	Male	25	25	29	
+68	Colossus	Dead	Human		Male	8	8	23	
+69	Commander Rick	Dead	Human		Male		3	22	
+70	Concerto	Dead	Humanoid		Male			24	
+71	Conroy	Dead	Robot		unknown	20	1	22	
+72	Cool Rick	Alive	Human		Male	26	3	28	
+73	Cop Morty	Dead	Human		Male		3	28	
+74	Cop Rick	Alive	Human		Male		3	28	
+75	Courier Flap	Alive	Alien		unknown		35	21	
+76	Cousin Nicky	Dead	Alien	Parasite	Male		20	15	
+77	Cowboy Morty	Alive	Human		Male		3	10	
+78	Cowboy Rick	Alive	Human		Male		3	10,28	
+79	Crab Spider	Alive	Alien	Animal	unknown	27	27	10	
+80	Creepy Little Girl	Alive	Human		Female		18	2	
+81	Crocubot	Dead	Humanoid	Robot-Crocodile hybrid	Male		4	25	
+82	Cronenberg Rick	unknown	Cronenberg		Male	12	1	6,10	
+83	Cronenberg Morty	unknown	Cronenberg		Male	12	1	6,10	
+84	Cult Leader Morty	Alive	Human		Male		27	10	
+85	Cyclops Morty	Alive	Humanoid		Male		3	10,28	
+86	Cyclops Rick	Dead	Humanoid		Male		3	10,22,28	
+87	Cynthia	Dead	Alien	Zigerion	Female		46	4	
+88	Cynthia	Alive	Human		Female	20	20	8,9,11,25	
+89	Dale	Dead	Humanoid	Giant	Male	14	14	5	
+90	Daron Jefferson	Alive	Alien	Cone-nippled alien	Male	28	28	14	
+91	David Letterman	Alive	Human		Male	23	23	8	
+92	Davin	Dead	Human		Male	1	1	1,6	
+93	Diablo Verde	Dead	Humanoid	Demon	Male		29	25	
+94	Diane Sanchez	unknown	Human		Female	30	30	22	
+95	Dipper and Mabel Mortys	unknown	Human		unknown		3	22	
+96	Tuberculosis	Dead	Disease		unknown	5	5	3	
+97	Gonorrhea	Dead	Disease		unknown	5	5	3	
+98	Hepatitis A	Dead	Disease		unknown	5	5	3	
+99	Hepatitis C	Dead	Disease		unknown	5	5	3	
+100	Bubonic Plague	Dead	Disease		unknown	5	5	3	
+101	E. Coli	Dead	Disease		unknown	5	5	3	
+102	Donna Gueterman	Dead	Robot		Female		35	21	
+103	Doofus Rick	unknown	Human		Male	31	20	10,22	
+104	Doom-Nomitron	Dead	Alien	Shapeshifter	unknown		29	25	
+105	Dr. Glip-Glop	Dead	Alien		Male		16	19	
+106	Dr. Schmidt	unknown	Human	Game	Male	32	32	13	
+107	Dr. Wong	Alive	Human		Female	20	20	24	
+108	Dr. Xenon Bloom	Dead	Humanoid	Amoeba-Person	Male		5	3	
+109	Duck With Muscles	Dead	Parasite	Alien	Male		20	15	
+110	Eli	Alive	Human		Male	8	8	23	
+111	Eli's Girlfriend	Alive	Human		Female	8	8	23	
+112	Eric McMan	Alive	Human		Male	1	1	3	
+113	Eric Stoltz Mask Morty	unknown	Human		Male	33	20	10	
+114	Ethan	unknown	Human	Cronenberg	Male	1	1	3	
+115	Ethan	Alive	Human		Male	20	20	16,26	
+116	Evil Beth Clone	Dead	Human	Clone	Female		1	5	
+117	Evil Jerry Clone	Dead	Human	Clone	Male		1	5	
+118	Evil Morty	Alive	Human		Male		3	10,28	
+119	Evil Rick	Dead	Humanoid	Robot	Male		3	10	
+120	Evil Summer Clone	Dead	Human	Clone	Female		1	5	
+121	Eyehole Man	Alive	Alien		Male		6	19	
+122	Fart	Dead	Alien	Interdimensional gaseous being	Male			13	
+123	Fat Morty	Alive	Human		Male		3	28	
+124	Father Bob	Alive	Human		Male	20	20	16,27	
+125	Flansian	Alive	Alien	Flansian	unknown		35	18,21,25	
+126	Fleeb	unknown	Alien		unknown		6	19	
+127	Frank Palicky	Dead	Human		Male	1	1	1	
+128	Frankenstein's Monster	Dead	Alien	Parasite	Male		20	15	
+129	Fulgora	Alive	Human		Female		6	8,13,17	
+130	Galactic Federation President	Dead	Alien	Gromflomite	Male			21	
+131	Gar Gloonch	Dead	Alien	Zombodian	Male		13	13,18,21	
+132	Gar's Mytholog	Dead	Mytholog		Male	13	13	18	
+133	Garblovian	Alive	Alien	Garblovian	Male	36		13,19,21	
+134	Garmanarnar	Alive	Alien		Male		6	8	
+135	Garment District Rick	Dead	Human		Male		3	28	
+136	Gazorpazorpfield	Alive	Alien	Gazorpian	Male	40	6	8,13	
+137	Gene	Alive	Human		Male	20	20	26	
+138	General Nathan	Dead	Human		Male	20	20	16	
+139	General Store Owner	Dead	Alien	Cat-Person	Male	9	9	20	
+140	Genital Washer	Alive	Human		Male	8	8	23	
+141	Ghost in a Jar	Dead	Alien	Parasite, Ghost	Genderless		20	15	
+142	Gibble Snake	Dead	Alien	Animal	unknown	37	37	26	
+143	Glasses Morty	Alive	Human		Male		3	28	
+144	Glenn	Dead	Alien	Gromflomite	Male		38	1	
+145	Glenn	Alive	Human	Eat shiter-Person	Male		6	8	
+146	Glexo Slim Slom	Alive	Alien		Male		13	18	
+147	Gobo	Dead	Alien		Male		20	29	
+148	Goddess Beth	unknown	Mytholog		Female	13	13	18	
+149	Gordon Lunas	Dead	Human		Male		20	29	
+150	Cornvelious Daniel	Dead	Alien	Gromflomite	Male		39	22	
+151	Gwendolyn	unknown	Robot	Gazorpian reproduction robot	Female	40	20	7	
+152	Hammerhead Morty	unknown	Humanoid	Hammerhead-Person	Male		3	10,22	
+153	Hamster In Butt	Alive	Animal		unknown	41	41	8,19	
+154	Hamurai	Dead	Alien	Parasite	Male		20	15	
+155	Harold	Alive	Cronenberg		Male	1	1	6	
+156	Hemorrhage	Alive	Human		Male	8	8	23	
+157	Hole in the Wall Where the Men Can See it All	unknown	unknown	Hole	Genderless		6	8	
+158	Hookah Alien	Alive	Alien	Tuskfish	unknown		38	1	
+159	Hunter	Dead	Human	Clone	Male	42	42	17	
+160	Hunter's Father	Alive	Human		Male	42	42	17	
+161	Hydrogen-F	Alive	Alien	Alphabetrian	Female	43	43	16	
+162	Ice-T	Alive	Alien	Alphabetrian	Male	43	43	16	
+163	Ideal Jerry	Dead	Mytholog		Male	13	13	18	
+164	Insurance Rick	unknown	Human		Male		3	10	
+165	Investigator Rick	Dead	Human		Male		3	28	
+166	Invisi-trooper	Alive	Human		Male	20	20	31	
+167	Izzy	Alive	Animal	Cat	unknown	20	20	24	
+168	Jackie	Alive	Alien	Gazorpian	Female	40	40	7	
+169	Jacob	Alive	Human		Male	1	1	3,15	
+170	Jacqueline	Alive	Human		Female	20	20	27	
+171	Jaguar	Alive	Human		Male	20	20	24	
+172	Jamey	Alive	Human		Male	20	20	16	
+173	Jan-Michael Vincent	Alive	Human		Male		6	19	
+174	Jerry 5-126	Alive	Human		Male	17	44	13	
+175	Jerry Smith	Alive	Human		Male	1	1	1,2,3,4,5,6,22	
+176	Celebrity Jerry	Alive	Human		Male	23	23	8	
+177	Jerry Smith	Alive	Human		Male	34	34	10	
+178	Jerry's Mytholog	Dead	Mytholog		Male	13	13	18	
+179	Jessica	Alive	Cronenberg		Female	1	1	1,4,6	
+180	Jessica	Alive	Human		Female	20	20	11,13,17,18,26,27,28,29,30	
+181	Jessica's Friend	Alive	Human		Female	1	20	1,4,6,11,17,18,25,27	
+182	Jim	Alive	Human		Male	20	20	16	
+183	Johnny Depp	Alive	Human		Male	23	23	8	
+184	Jon	Alive	Alien	Gazorpian	Male	40	6	8	
+185	Joseph Eli Lipkip	Alive	Human		Male	20	20	30	
+186	Joyce Smith	Alive	Human		Female	1	1	3	
+187	Juggling Rick	unknown	Human		Male		3	28	
+188	Karen Entity	Alive	Alien	Unknown-nippled alien	Female	28	28	14	
+189	Katarina	Dead	Human		Female	20	20	24	
+190	Keara	Alive	Alien	Krootabulan	Female	45	20	30	
+191	Kevin	Dead	Alien	Zigerion	Male		46	4	
+192	King Flippy Nips	Alive	Alien	Plutonian	Male	47	47	9	
+193	King Jellybean	Dead	Alien	Jellybean	Male	48	48	5	
+194	Kozbian	Alive	Alien	Tentacle alien	unknown		35	21	
+195	Kristen Stewart	Alive	Human		Female	23	23	8	
+196	Krombopulos Michael	Dead	Alien	Gromflomite	Male			13	
+197	Kyle	Dead	Humanoid	Miniverse inhabitant	Male	49	50	17	
+198	Lady Katana	Dead	Humanoid	Cyborg	Female		29	25	
+199	Larva Alien	Alive	Alien	Larva alien	unknown	51	35	16,19,21	
+200	Lawyer Morty	unknown	Human		Male		3	22	
+201	Leonard Smith	Alive	Human		Male	1	1	3	
+202	Lighthouse Keeper	Dead	Alien	Cat-Person	Male	9	9	20	
+203	Lil B	Dead	Alien	Snail alien	Male		35	21	
+204	Lisa	Dead	Alien		Female		7	26	
+205	Little Dipper	Alive	Humanoid	Tinymouth	Male		6	19	
+206	Lizard Morty	Alive	Humanoid	Lizard-Person	Male		3	28	
+207	Loggins	Alive	Alien	Alligator-Person	Male		6	8,13,17	
+208	Logic	Alive	Human		Male		4	25	
+209	Long Sleeved Morty	unknown	Human		Male		3	10	
+210	Lucy	Dead	Human		Female	20	20	11	
+211	Ma-Sha	Alive	Alien	Gazorpian	Female	40	40	7	
+212	Magma-Q	Dead	Alien	Alphabetrian	Male	43	43	16	
+213	Magnesium-J	Alive	Alien	Alphabetrian	Male	43	43	16	
+214	Man Painted Silver Who Makes Robot Noises	Alive	Human		Male		6	8	
+215	Maximums Rickimus	Dead	Human		Male		3	10,22	
+216	MC Haps	Alive	Human		Male	1	1	6,11,25	
+217	Mechanical Morty	Dead	Robot		Male	20	20	23	
+218	Mechanical Rick	unknown	Robot		Male	20	20	23	
+219	Mechanical Summer	unknown	Robot		Female	20	20	23	
+220	Mega Fruit Farmer Rick	Alive	Human		Male		3	28	
+221	Melissa	Alive	Humanoid	Monster	Female	18	18	2	
+222	Michael Denny and the Denny Singers	Alive	Human		Male		6	8	
+223	Michael Jenkins	Dead	Human		Male		6	19	
+224	Michael McLick	Alive	Human		Male		6	19	
+225	Michael Thompson	Alive	Humanoid	Conjoined twin	Male		6	19	
+226	Million Ants	Dead	Animal	Sentient ant colony	Male		4	25	
+227	Mitch	Alive	Human		Male	20	20	27	
+228	Mohawk Guy	Dead	Human		Male	8	8	23	
+229	Morty Mart Manager Morty	Alive	Human		Male		3	28	
+230	Morty Jr.	Alive	Humanoid	Human Gazorpian	Male	20	20	7	
+231	Morty Rick	unknown	Human		Male		3	22	
+232	Morty Smith	Alive	Human		Male	34	34	10	
+233	Morty K-22	Alive	Human		Male	52	20	28	
+234	Morty Smith	Dead	Human		Male	20	20	6	
+235	Mortytown Loco	Dead	Human		Male		3	28	
+236	Mr. Beauregard	Dead	Alien	Parasite	Male		20	15	
+237	Mr. Benson	Alive	Human		Male	20	20	12	
+238	Mr. Booby Buyer	Alive	Animal	Boobie buyer reptilian	Male	48	48	5	
+239	Mr. Goldenfold	Alive	Cronenberg		Male	1	1	1,2,4,6	
+240	Mr. Goldenfold	Alive	Human		Male	20	20	9,16,17,18,21,22,24,27,30	
+241	Mr. Marklovitz	Alive	Human		Male	1	20	4,16	
+242	Mr. Meeseeks	unknown	Humanoid	Meeseeks	Male	53	67	5,10,13,29	
+243	Mr. Needful	Alive	Humanoid	The Devil	Male		20	9	
+244	Mr. Poopybutthole	Alive	Poopybutthole		Male			15,21,29,30,31	
+245	Mrs. Lipkip	Alive	Human		Female	20	20	30	
+246	Mrs. Pancakes	Alive	Human		Female	1	18	2,27	
+247	Mrs. Poopybutthole	Alive	Poopybutthole		Female			31	
+248	Mrs. Refrigerator	Dead	Alien	Parasite, Refrigerator	Female		20	15	
+249	Mrs. Sanchez	unknown	Human		Female			1,6,14,30	
+250	Mrs. Sullivan	Dead	Human	Cat controlled dead lady	Female	23	6	8	
+251	Nancy	Alive	Human		Female	20	20	6,9,11,25,29	
+252	Noob-Noob	Alive	Poopybutthole		Male		54	25	
+253	Numbericon	unknown	Alien	Numbericon	unknown		43	16	
+254	Octopus Man	Alive	Humanoid	Octopus-Person	Male		6	19	
+255	Orthodox Jew	Alive	Human		Male	20	20	16	
+256	Pat Gueterman	Dead	Robot		Male		35	21	
+257	Paul Fleishman	Alive	Human		Male		44	13	
+258	Pawnshop Clerk	Alive	Alien		Male		55	7	
+259	Pencilvester	Dead	Alien	Parasite, Pencil	Male		20	15	
+260	Phillip Jacobs	Alive	Human		Male		6	19	
+261	Photography Cyborg	unknown	Robot		Male		35	21	
+262	Photography Raptor	Dead	Alien	Parasite, Dinosaur	unknown		20	15	
+263	Pibbles Bodyguard	Alive	Alien	Hairy alien	Male		16	19	
+264	Pichael Thompson	Alive	Humanoid	Conjoined twin	Male		6	19	
+265	Pickle Rick	Alive	unknown	Pickle	Male	1	20	24	
+266	Piece of Toast	Alive	unknown	Bread	Genderless		6	8,17	
+267	Plumber Rick	Alive	Human		Male		3	28	
+268	Poncho	Dead	Human		Male		5	3	
+269	Presidentress of The Mega Gargantuans	Alive	Humanoid	Mega Gargantuan	Female	56	56	31	
+270	Prince Nebulon	Dead	Alien	Zigerion	Male		46	4	
+271	Principal Vagina	Alive	Cronenberg		Male	1	1	1,5,6	
+272	Principal Vagina	Alive	Human		Male	20	20	9,16,18,24,27,29	
+273	Purge Planet Ruler	Dead	Alien	Cat-Person	Male	9	9	20	
+274	Quantum Rick	unknown	Human		Male		3	10,22	
+275	Randy Dicknose	Alive	Human		Male		6	19	
+276	Rat Boss	Dead	Animal	Rat	unknown	20	20	24	
+277	Real Fake Doors Salesman	Alive	Human		Male		6	8	
+278	Regional Manager Rick	Dead	Human		Male		3	28	
+279	Regular Legs	Alive	Human		Male		6	8	
+280	Reverse Giraffe	Dead	Alien	Parasite	Male		20	15	
+281	Reverse Rick Outrage	Dead	Human		Male		3	28	
+282	Revolio Clockberg Jr.	unknown	Alien	Gear-Person	Male	57	57	11,13,25	
+283	Rick D. Sanchez III	Dead	Human		Male		3	28	
+284	Rick Guilt Rick	unknown	Human		Male		3	28	
+285	Rick Prime	Dead	Human		Male		3	10,22	
+286	Rick D-99	Dead	Human		Male	58	3	22	
+287	Rick D716	Dead	Human		Male	59	3	28	
+288	Rick D716-B	Alive	Human		Male	60	3	28	
+289	Rick D716-C	Alive	Human		Male	61	3	28	
+290	Rick Sanchez	Dead	Human		Male	34	34	10	
+291	Rick J-22	Alive	Human		Male	62	3	28	
+292	Rick K-22	Alive	Human		Male	52	20	28	
+293	Rick Sanchez	Dead	Human		Male	20	20	6	
+294	Ricktiminus Sancheziminius	Dead	Human		Male		3	10,22	
+295	Riq IV	Dead	Human		Male		3	10,11,22	
+296	Risotto Groupon	Dead	Alien	Blue ape alien	Male	37	37	26	
+297	Risotto's Tentacled Henchman	Dead	Alien	Tentacle alien	Male	37	37	26	
+298	Robot Morty	unknown	Robot		Male		3	10	
+299	Robot Rick	unknown	Robot		Male		3	10	
+300	Roger	Dead	Human		Male	1	5	3	
+301	Ron Benson	Alive	Humanoid	Ring-nippled alien	Male	28	28	14	
+302	Ruben	Dead	Human		Male	1	1	3	
+303	Samantha	Alive	Human		Female	1	1	5	
+304	Scary Brandon	Alive	Humanoid	Monster	Male	18	18	2	
+305	Scary Glenn	Alive	Humanoid	Monster	Male	18	18	2	
+306	Scary Terry	Alive	Humanoid	Monster	Male	18	18	2	
+307	Scroopy Noopers	Alive	Alien	Plutonian	Male	47	47	9	
+308	Scropon	unknown	Alien	Lobster-Alien	Male		35	11,21	
+309	Scrotian	Alive	Animal	Scrotian	Male		22	13,16,21,25	
+310	Self-Congratulatory Jerry	unknown	Mytholog		Male	13	13	18	
+311	Shimshamian	Alive	Alien	Shimshamian	Male		35	13,21,25	
+312	Shlaammi	Alive	Alien		unknown		6	19	
+313	Shleemypants	Alive	unknown	Omniscient being	Male			12	
+314	Shmlamantha Shmlicelli	Alive	Human		Female		6	8	
+315	Shmlangela Shmlobinson-Shmlower	Alive	Human		Female		6	8	
+316	Shmlona Shmlobinson	Alive	Human		Female		6	8	
+317	Shmlonathan Shmlower	Alive	Human		Male		6	8	
+318	Shmlony Shmlicelli	Alive	Human		Male		6	8	
+319	Shmooglite Runner	unknown	Alien	Animal	Male	37	37	26	
+320	Shnoopy Bloopers	unknown	Alien		Male		7	26	
+321	Shrimply Pibbles	Alive	Alien		Male		16	19	
+322	Simple Rick	Dead	Human		Male		3	28	
+323	Slaveowner	Dead	Human		Male	8	8	23	
+324	Sleepy Gary	Dead	Alien	Parasite	Male		20	15	
+325	Slick Morty	Dead	Human		Male		3	28	
+326	Slippery Stair	Alive	Animal	Slug	Male	48	20	5,11	
+327	Slow Mobius	Alive	Humanoid		Male		20	11	
+328	Slow Rick	Alive	Human		Male		3	28	
+329	Snuffles (Snowball)	Alive	Animal	Intelligent dog	Male	1		2,7,10,15,16,24,29,30	
+330	Solicitor Rick	unknown	Human		Male		3	10,22	
+331	Squanchy	unknown	Alien	Cat-like creature	Male	35	35	11,16,21	
+332	Stacy	Alive	Human		Female	20	20	27	
+333	Stair Goblin	Alive	Alien	Stair goblin	Genderless		48	5,11,25	
+334	Stealy	Alive	Poopybutthole		Male		6	19	
+335	Steve	Alive	Human		Male	20	20	31	
+336	Steven Phillips	Alive	Alien	Unknown-nippled alien	Male	28	28	14	
+337	Stu	Dead	Alien	Zigerion	Male		46	4	
+338	Summer Smith	Alive	Human		Female	1	1	1,2,3,4,5,6,22	
+339	Summer Smith	Alive	Human		Female	34	34	10	
+340	Supernova	Alive	Human	Superhuman	Female		4	25	
+341	Taddy Mason	Alive	Human		Male	20	20	20	
+342	Taint Washer	Alive	Human		Male	8	8	23	
+343	Tammy Guetermann	Alive	Cronenberg		Male	1	1	5,6	
+344	Tammy Guetermann	Alive	Human		Female	20		11,16,21,22	
+345	Teacher Rick	Alive	Human		Male		3	28	
+346	Terry	unknown	Human		Male	20	20	16	
+347	The President	Alive	Human		Male	20	20	16,31	
+348	The President of the Miniverse	Dead	Humanoid	Miniverse inhabitant	Male	49	49	17	
+349	The Scientist Formerly Known as Rick	Dead	Human		Male			10	
+350	Thomas Lipkip	unknown	Human		Male	20	63	30	
+351	Three Unknown Things	Alive	Alien		unknown		6	8	
+352	Tinkles	Dead	Alien	Parasite, Unicorn lamb	Female		20	15	
+353	Tiny Rick	Dead	Human	Clone	Male	20	20	18	
+354	Toby Matthews	Alive	Human		Male	20	20	18	
+355	Todd Crystal	Alive	Alien	Unknown-nippled alien	Male	28	28	14	
+356	Tom Randolph	Alive	Human		Male	1	1	3	
+357	Tommy's Clone	Alive	Human	Clone	Male	20	20	30	
+358	Tophat Jones	Dead	Humanoid	Leprechaun	Male		6	8,18,21	
+359	Tortured Morty	unknown	Human		Male		3	10	
+360	Toxic Morty	Dead	Humanoid	Morty's toxic side	Male	64	20	27	
+361	Toxic Rick	Dead	Humanoid	Rick's toxic side	Male	64	20	27	
+362	Traflorkian	Alive	Alien	Traflorkian	unknown		4	11,13,19,21,25	
+363	Trandor	Alive	Alien	Krootabulan	Male	45	20	30	
+364	Tree Person	Dead	Humanoid	Teenyverse inhabitant	unknown	50	50	17	
+365	Tricia Lange	Alive	Human		Female	20	20	26,27	
+366	Trunk Morty	Alive	Humanoid	Trunk-Person	Male	65	3	28	
+367	Trunk Man	Alive	Humanoid	Trunk-Person	Male	65	6	8,28	
+368	Truth Tortoise	unknown	Animal	Omniscient being	Male			29	
+369	Tusked Assassin	unknown	Alien	Tuskfish	Male	37	37	26	
+370	Two Guys with Handlebar Mustaches	Alive	Human		Male		6	8	
+371	Tumblorkian	Alive	Alien	Tumblorkian	Male	66	66	19	
+372	Unity	Alive	Alien	Hivemind	Genderless		28	14	
+373	Unmuscular Michael	Alive	Human		Male		6	8	
+374	Vampire Master	Alive	Vampire		Male	20	20	18	
+375	Vance Maximus	Dead	Human		Male		4	25	
+376	Veronica Ann Bennet	Alive	Alien	Gazorpian	Female	40	40	7	
+377	Voltematron	Dead	Alien	Parasite	unknown		20	29	
+378	Wall Crawling Rick	unknown	Humanoid	Lizard-Person	Male		3	22	
+379	Wedding Bartender	unknown	Alien		Male		35	21	
+380	Weird Rick	unknown	Human		Male			22	
+381	Woman Rick	Alive	Alien	Chair	Female			10	
+382	Worldender	Dead	Alien		Male		4	25	
+383	Yaarb	Alive	Alien		Male		16	19	
+384	Yellow Headed Doctor	Alive	Alien		Male		16	19	
+385	Yellow Shirt Rick	unknown	Human		Male		3	22	
+386	Zarbadar Gloonch	Dead	Alien	Drumbloxian	Female		13	13,18	
+387	Zarbadar's Mytholog	unknown	Mytholog		Female	13	13	18	
+388	Zeep Xanflorp	Alive	Humanoid	Microverse inhabitant	Male	24	24	17	
+389	Zeta Alpha Rick	Dead	Human		Male		3	10,11,22	
+390	Zick Zack	Dead	Alien	Floop Floopian	Male		20	29	
+391	Uncle Steve	Dead	Alien	Parasite	Male		20	15	
+392	Bearded Morty	Alive	Human		Male		3	28	
+393	Roy	Alive	Human	Game	Male	32	32	13	
+394	Davin	Dead	Cronenberg		Male	1	1	1,6	
+395	Greebybobe	Alive	Alien	Greebybobe	unknown	68	4	1,11,16,25	
+396	Scary Teacher	Alive	Humanoid	Monster	Male	18	18	2	
+397	Fido	Alive	Animal	Dog	Male	70	70	2	
+398	Accountant dog	Alive	Animal	Dog	Male	70	70	2	
+399	Tiny-persons advocacy group lawyer	Alive	Humanoid	Giant	Male	14	14	5	
+400	Giant Judge	Alive	Humanoid	Giant	Male	14	14	5	
+401	Morty Jr's interviewer	Alive	Human		Male	20	20	7	
+402	Guy from The Bachelor	Alive	Human		Male	20	20	8	
+403	Corn detective	Dead	Humanoid	Corn-person	Male	6	6	8	
+404	Michael Jackson	Alive	Humanoid	Phone-Person	Male	72	72	8	
+405	Trunkphobic suspenders guy	Alive	Human		Male		20	2,8,10,11	
+406	Spiderweb teddy bear	Alive	Animal	Teddy Bear	unknown	6	6	8	
+407	Regular Tyrion Lannister	Alive	Human		Male	6	6	8	
+408	Quick Mistery Presenter	Alive	Human		Male	6	6	8	
+409	Mr. Sneezy	Alive	Human	Little Human	Male	6	6	8	
+410	Two Brothers	Alive	Human		Male	6	6	8	
+411	Alien Mexican Armada	unknown	Alien	Mexican	Male	6	6	8	
+412	Giant Cat Monster	unknown	Animal	Giant Cat Monster	unknown	6	6	8	
+413	Old Women	unknown	Human	Old Amazons	Female	6	6	8	
+414	Trunkphobic guy	Alive	Human		Male	6	6	8	
+415	Pro trunk people marriage guy	Alive	Human		Male	6	6	8	
+416	Muscular Mannie	Alive	Human	Mannie	Male	6	6	8	
+417	Baby Legs Chief	Alive	Human		Male	6	6	8	
+418	Mrs. Sullivan's Boyfriend	Alive	Human	Necrophiliac	Male	6	6	8	
+419	Plutonian Hostess	Alive	Alien	Plutonian	Female	47	47	9	
+420	Plutonian Host	Alive	Alien	Plutonian	Male	47	47	9	
+421	Rich Plutonian	Alive	Alien	Plutonian	Female	47	47	9	
+422	Rich Plutonian	Alive	Alien	Plutonian	Male	47	47	9	
+423	Synthetic Laser Eels	Alive	Animal	Eel	unknown	20	20	11	
+424	Pizza-person	Alive	Humanoid	Pizza	Male	71	71	10	
+425	Pizza-person	Alive	Humanoid	Pizza	Male	71	71	10	
+426	Greasy Grandma	Alive	Human	Grandma	Female	73	73	10	
+427	Phone-person	Alive	Humanoid	Phone	Male	72	72	10	
+428	Phone-person	Alive	Humanoid	Phone	Male	72	72	10	
+429	Chair-person	Alive	Humanoid	Chair	Male	74	74	10	
+430	Chair-person	Alive	Humanoid	Chair	Male	74	74	10	
+431	Chair-homeless	Alive	Humanoid	Chair	Male	74	74	10	
+432	Chair-waiter	Alive	Humanoid	Chair	Male	74	74	10	
+433	Doopidoo	Alive	Animal	Doopidoo	unknown			10	
+434	Super Weird Rick	unknown	Human		Male			10	
+435	Pripudlian	Alive	Alien	Pripudlian	unknown		20	1,11,19,25	
+436	Giant Testicle Monster	Alive	Animal	Monster	unknown	21	21	11,13	
+437	Michael	Alive	Human		Male	20	20	12	
+438	Michael's Lawyer	Alive	Human		Male	20	20	12	
+439	Veterinary	Alive	Human		Female	20	20	12	
+440	Veterinary Nurse	Alive	Human		Male	20	20	12	
+441	Bearded Jerry	Alive	Human		Male		44	13	
+442	Shaved Head Jerry	Alive	Human		Male		44	13	
+443	Tank Top Jerry	Alive	Human		Male		44	13	
+444	Pink Polo Shirt Jerry	Alive	Human		Male		44	13	
+445	Jerryboree Keeper	Alive	Alien		Female		44	13	
+446	Jerryboree Receptionist	Alive	Alien		Male		44	13	
+447	Anchor Gear	Alive	Alien	Gear-Person	Male	57	57	13	
+448	Gear Cop	Dead	Alien	Gear-Person	Male	57	57	13	
+449	Roy's Mum	Alive	Human	Game	Female	32	32	13	
+450	Roy's Wife	Alive	Human	Game	Male	32	32	13	
+451	Roy's Son	Alive	Human	Game	Male	32	32	13	
+452	Simon	Alive	Human		Male	20	20	16	
+453	Vampire Master's Assistant	Alive	Vampire		Male		20	18	
+454	Arbolian Mentirososian	Alive	Alien		unknown	75	16	16,19,21	
+455	St. Gloopy Noops Nurse	Alive	Alien		Female		16	19	
+456	Nano Doctor	Alive	Alien	Nano Alien	Male		16	19	
+457	Funny Songs Presenter	Alive	Human		Male		6	19	
+458	Tax Attorney	unknown	Human		Male		6	19	
+459	Butthole Ice Cream Guy	Alive	Alien		Male		6	19	
+460	Traflorkian Journalist	Alive	Alien	Traflorkian	Male		16	19	
+461	Communication's Responsible Rick	Dead	Human		Male		3	22	
+462	Teleportation's Responsible Rick	unknown	Human		Male		3	22	
+463	SEAL Team Rick	Dead	Human		Male		3	22	
+464	SEAL Team Rick	Dead	Human		Male		3	22	
+465	SEAL Team Rick	Dead	Human		Male		3	22	
+466	SEAL Team Rick	Dead	Human		Male		3	22	
+467	Morphizer-XE Customer Support	Alive	Alien		Male		20	26	
+468	Morphizer-XE Customer Support	Alive	Alien		Male		20	26	
+469	Morphizer-XE Customer Support	unknown	Alien		Male		20	26	
+470	Alien Spa Employee	Alive	Alien		Male		76	27	
+471	Little Voltron	Alive	Robot		Genderless		20	27	
+472	Baby Rick	Alive	Human	Clone	Male	3	3	28	
+473	Bartender Morty	Alive	Human		Male		3	28	
+474	Dancer Cowboy Morty	Alive	Human		Male		3	28	
+475	Dancer Morty	Alive	Human		Male		3	28	
+476	Flower Morty	Alive	Human	Human with a flower in his head	Male		3	28	
+477	Hairdresser Rick	Alive	Human		Male		3	28	
+478	Journalist Rick	Alive	Human		Male		3	28	
+479	Private Sector Rick	Dead	Human		Male		3	28	
+480	Purple Morty	Alive	Alien		Male		3	28	
+481	Retired General Rick	unknown	Human		Male		3	28	
+482	Secret Service Rick	Alive	Human		Male		3	28	
+483	Steve Jobs Rick	Alive	Human		Male		3	28	
+484	Sheik Rick	Dead	Human		Male		3	28	
+485	Modern Rick	Alive	Human		Male		3	28	
+486	Tan Rick	Dead	Human		Male		3	28	
+487	Visor Rick	Dead	Human		Male		3	28	
+488	Colonial Rick	Dead	Human		Male		3	28	
+489	P-Coat Rick	Dead	Human		Male		3	28	
+490	Chang	Alive	Human		Male		25	29	
+491	Dr. Eleanor Arroway	Alive	Human		Female		25	29	
+492	Varrix	Alive	Alien		unknown		20	30	
+493	Secretary of the Interior	Alive	Human		Male	20	20	31	
