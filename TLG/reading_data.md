@@ -10,7 +10,7 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 
 1. If you'd like to work with a collection of comic data, use the command below:
 
-    `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/brett_comics.txt > brett_comics.txt`
+    `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/data%20sets/brett_comics.txt > brett_comics.txt`
 
 0. If you'd like to work with data about Pokemon, use the command below:
 
