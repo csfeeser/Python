@@ -1,4 +1,4 @@
-0. `student@bchd:~$` `mkdir -p ~/mycode/func_practice && cd ~/mycode/func_practice`
+1. `student@bchd:~$` `mkdir -p ~/mycode/func_practice && cd ~/mycode/func_practice`
 
 0. `student@bchd:~/mycode/func_practice$` `vim func1.py`
 
