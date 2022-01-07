@@ -6,6 +6,8 @@ Below is a script for a number guessing game! However, it could certainly be imp
 
 2. Add error handling so that if the user types in something that isn't a number, it doesn't error out the script!
 
+3. Let the user quit early by entering `q`
+
 ```python
 #!/usr/bin/env python3
 """Number guessing game!"""
