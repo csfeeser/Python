@@ -2,6 +2,8 @@
 
 ![Image description](https://github.com/csfeeser/images/blob/master/pythondragon.png?raw=true)
 
+[CLICK HERE FOR A VIDEO LECTURE ON THIS CODE!](https://labs.alta3.com/courses/api/vid/7-list-and-dict-modeling.mp4)
+
 As a conclusion to our week of Python Fundamentals, we're putting the FUN in FUNdamen- ugh.
 
 Your challenge is to (either solo or part of a group) develop additional features into the RPG script that Chad demonstrated to you. Ideally, ALL the class's implementations will be included in one script!
