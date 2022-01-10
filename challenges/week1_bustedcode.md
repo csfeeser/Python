@@ -4,7 +4,7 @@
 
 ### Below is a piece of code that uses (almost) all the concepts that we covered last week-- let's fix it up!
 
-`student@bchd:~$` `bugginout.py`
+`student@bchd:~$` `vim bugginout.py`
 
 ```
 #!/usr/bin/env python
