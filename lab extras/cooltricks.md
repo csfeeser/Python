@@ -30,12 +30,13 @@
 
     Screen.wrapper(demo)
     
-### Clear screen while still in program (credit to Clint Robertson)
+### Clear screen while still in program
     
    ```
    def clearScreen():
-     if os.name == "nt":
-       os.system("cls")
-   else:
-      os.system("clear")
+       # check and make call for specific operating system
+       if os.name =='posix:
+         os.system('clear')
+       else:
+         os.system('cls')
    ```
