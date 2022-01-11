@@ -8,9 +8,21 @@ http://api.open-notify.org/iss-now.json
 
 **Your challenge this morning is to do the following:**
 
-1. Using the **requests** module, access the API from the link above and pull/translate the JSON!
+1. Using the **requests** module, access the API from the link above and pull/translate the JSON! Here's some code to get you started:
 
-0. This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!) Write a script that returns the collected data into something like this:
+    ```python
+    #!/usr/bin/env python3
+    """Returning the location of the ISS in latitude/longitude"""
+
+    URL= "http://api.open-notify.org/iss-now.json"
+    def main():
+        resp= requests.get(URL).json()
+
+    if __name__ == "__main__":
+        main()
+    ```
+
+0. This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!) Make your script return the collected data into something like this:
     
     ```
     CURRENT LOCATION OF THE ISS:
