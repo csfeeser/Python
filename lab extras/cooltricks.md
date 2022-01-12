@@ -10,7 +10,16 @@
         print
 
     print1by1("Hello there!")
-    
+
+### Make a string center-justified in your output
+
+    import shutil
+
+    def print_center(s):
+        print(s.center(shutil.get_terminal_size().columns))
+
+    print_center("The center cannot hold. -Yeats")
+
 ### Fill screen with random colorful strings
 
     # python3 -m pip install asciimatics
