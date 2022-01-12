@@ -128,3 +128,87 @@ def challenge():
 # creation()
 # challenge()
 ```
+
+### EXAMPLE SOLUTION
+
+There are MANY ways you could write this code in a more concise manner. The following is just ONE example.
+
+```python
+#!/usr/bin/env python3
+
+import pandas as pd
+
+def menu():
+    """this will print out a menu of choices so the user knows what is available."""
+    while True:
+        try:
+            demolist = list(enumerate(["Apple","Banana","Cherries","Dragonfruit"]))
+            print("Choose a fruit: ")
+            for num, fruit in demolist:
+                print(f"{num + 1}. {fruit}")
+            choice= int(input(">"))
+            print(f"You picked {demolist[choice-1][1]}!")
+            break
+        except:
+            print("That is not a valid answer.")
+
+def sports():
+    """what is a more efficient way to return this info instead of using a bunch
+    of if/elif/else lines?"""
+
+    while True:
+        sportsdict= {"football": "football, pads, helmet",
+                     "soccer": "soccer ball, shin guards",
+                     "tennis": "two tennis rackets, tennis ball",
+                     "baseball": "baseball, bat, glove",
+                     "quitwords": ["q","quit","stop","end"]
+                    }
+
+        print("\nPick a sport to see what equipment you need!")
+        print([sport for sport in sportsdict.keys()])
+
+        sport= input("\n>").lower()
+
+        if sport in sportsdict["quitwords"]:
+            break
+        
+        elif sport in sportsdict.keys():
+            print(sportsdict[sport])
+            break
+
+        else:
+            print("That is not a valid selection.")
+
+
+def creation(stat):
+    poke_df = pd.read_csv("pokedex.txt", index_col=1)
+    
+    new_df = poke_df.sort_values([stat], ascending=False)    
+    print(new_df.head(10))
+
+def challenge():
+    # I have a bunch of numbers that I need to increase by 1!
+
+    nums= [5,10,15,20,25]
+
+    # a somewhat "janky" approach
+    for x in range(len(nums)):
+        nums[x-1] += 1
+
+    print(nums)
+
+    # a list comprehension (preferred approach)
+    nums2= [num + 1 for num in nums]
+
+    print(nums2)
+ 
+menu()
+
+sports()
+
+for x in ["Attack","Defense","HP"]:
+    input(f"\nPress ENTER to see the top 10 Pokemon with highest {x}:")
+    creation(x)
+
+challenge()
+```
