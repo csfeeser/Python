@@ -10,6 +10,14 @@ Please start by getting your environment prepared:
 
 `student@bchd:~$` `cd && wget https://labs.alta3.com/courses/napya/napyasetup.sh && bash napyasetup.sh`
 
+Oops! We need to make one fix. Open your ansible.cfg.
+
+`student@bchd:~$` `vim .ansible.cfg`
+
+Change the inventory line to this instead:
+
+`inventory = /home/student/mycode/inv/dev/`
+
 Use vim to create a playbook file of your choosing and enter the following. Then test, fix, repeat!
 
 ```yaml
