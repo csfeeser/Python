@@ -12,7 +12,7 @@ Please start by getting your environment prepared:
 
 Oops! We need to make one fix. Open your ansible.cfg.
 
-`student@bchd:~$` `vim .ansible.cfg`
+`student@bchd:~$` `vim ~/.ansible.cfg`
 
 Change the inventory line to this instead:
 
