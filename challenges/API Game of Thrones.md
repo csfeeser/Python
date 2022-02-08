@@ -30,9 +30,9 @@ if __name__ == "__main__":
 
 Note that the output contains the following:
 
-- `books` - books that the character appeared as a non-centric character
-- `povBooks` - books that the character appeared as a narrator
-- `allegiances` - groups or families that the character belongs to
+- `books` - books the character was in but WAS NOT a narrator
+- `povBooks` - books the character was in but WAS a narrator
+- `allegiances` - groups, nations, or families that the character belongs to
 
 ALTER THE SCRIPT ABOVE so that the output instead returns ONLY the following:
 
