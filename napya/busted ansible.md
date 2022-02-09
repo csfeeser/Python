@@ -22,7 +22,7 @@ Use vim to create a playbook file of your choosing and enter the following. Then
 ```yaml
 ---
 - name: Wednesday Challenge
-  hosts: planet express
+  hosts: planet express:!farnsworth
   connection: network_cli
   gather_facts: yes
 
@@ -37,7 +37,7 @@ Use vim to create a playbook file of your choosing and enter the following. Then
    -uri:
         method: POST
        url: trivia_api
-   name: using apt to install sl
+   name: send GET request to the Open Trivia Database
    register: result
 ```
 
