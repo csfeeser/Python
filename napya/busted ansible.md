@@ -41,28 +41,27 @@ Use vim to create a playbook file of your choosing and enter the following. Then
    register: result
 ```
 
-<!--
+
 ### SOLUTION
 
 ```yaml
 ---
 - name: Wednesday Challenge
-  hosts: planetexpress
+  hosts: planetexpress:!farnsworth
   connection: ssh
   gather_facts: yes
- 
+
   vars:
-    trivia_api: https://opentdb.com/api.php?amount=1&category=18&difficulty=easy&type=multiple
+     trivia_api: https://opentdb.com/api.php?amount=1&category=18&difficulty=easy&type=multiple
 
   tasks:
-   - name: sending a GET request to the API
-     uri:
-       method: GET
-       url: "{{ trivia_api }}"
+
+   - uri:
+        method: POST
+        url: "{{ trivia_api }}"
+     name: send GET request to the Open Trivia Database
      register: result
 
-   - name: print out result
+   - name: print out the variable named "result"
      debug:
-       var: result
-```
--->
+       var: result.json
