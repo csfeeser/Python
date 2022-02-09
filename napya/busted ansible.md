@@ -14,6 +14,7 @@ You now have an inventory file. Check it out with the following command:
 
 `student@bchd:~$` `less ~/mycode/inv/dev/hosts`
 
+> You can scroll up and down the document with your arrow keys. Press q when you're ready to return to the command line.
 We will use the group `planetexpress` for the following playbook.
 
 Use vim to create a playbook file of your choosing and enter the following. Then test, fix, repeat!
