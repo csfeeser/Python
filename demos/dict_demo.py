@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""Demonstration of Dictionaries with Spiderman!"""
+
 spiderman= {"Place of birth": "New York, New York", 
             "gender": "Male", 
             "height in cm": 177.8, 
