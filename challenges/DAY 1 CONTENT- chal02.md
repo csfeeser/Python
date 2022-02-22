@@ -13,7 +13,7 @@
 2. Include this list:
 
     ```
-    tlgstudents= ["Bryan", "Colin", "Erik", "Gregory", "John", "Kishor", "Leia", "Maria", "Monte", "Jarrad", "Pemba", "Reese", "Tim", "Travis", "Trung"]
+    tlgstudents= ["Bryan", "Colin", "Erik", "Gregory", "John", "Kishor", "Leia", "Maria", "Monte", "Jarrad", "Pemba", "Don", "Tim", "Travis", "Trung"]
     ```
     
 3. Append the integer **(not string!)** `4` to the list `icecream`.
