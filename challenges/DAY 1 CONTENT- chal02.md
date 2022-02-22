@@ -1,6 +1,6 @@
 # CHALLENGE: SHEBANG, INPUT, PRINT, CONCATENATE, VARIABLES
 
-<img src="https://i.redd.it/i0imk0ay05k21.jpg" alt="drawing" width="400"/>
+<img src="https://i.redd.it/wk843smkri441.jpg" alt="drawing" width="400"/>
 
 **Objective:** Make the following output using the following list:
 
