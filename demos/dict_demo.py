@@ -14,7 +14,7 @@ spiderman["Alignment"] = "EEEEEEVILLLLLL"
 # print out one value from the dictionary
 print("Spiderman is from", spiderman["Place of birth"])
 
-# print out the changed value from the dictionary (see line 9)
+# print out the changed value from the dictionary (see line 12)
 print(f"Spider is a {spiderman['Alignment']} guy.")
 
 # print the list of spiderman's powers
