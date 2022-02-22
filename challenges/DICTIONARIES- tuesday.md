@@ -8,7 +8,7 @@
 
 0. Save a user's input to the variable `char_name` from the following question:
 
-        Which character do you want to know about? (Wolverine, Harry Potter, Captain America)
+        Which character do you want to know about? (Starlord, Mystique, She-Hulk)
 
 0. Save a user's input to the variable `char_stat` from the following question:
 
