@@ -64,3 +64,37 @@ Find a way to randomize what student is picked!
 **MEGA BONUS**
 
 If the user types in a name instead of a number, use the name instead!
+
+## SOLUTION including bonuses:
+
+```python
+#!/usr/bin/env python3
+
+import random
+
+# make our lists
+icecream = ["indentation", "spaces"]
+tlgstudents= ["Bryan", "Colin", "Erik", "Gregory", "John", "Kishor", "Leia", "Maria", "Monte", "Jarrad", "Pemba", "Don", "Tim", "Travis", "Trung"]
+
+# add 4 to the icecream list
+icecream.append(4)
+
+# prompt for a number- REMEMBER, input always returns the answer as a string!
+studentid= input("Enter a number from 0 - 14: ")
+
+# MEGA BONUS SOLUTION: check whether the input was a name or a number
+if studentid.isdigit():
+    # if the input can be converted to an integer, do so and print the final output
+    print(f"{tlgstudents[int(studentid)]} always uses {icecream[2]} {icecream[1]} to indent.")
+else:
+    # if it can't be converted to an integer, it must be a name.
+    print(f"{studentid} always uses {icecream[2]} {icecream[1]} to indent.")
+
+
+# SUPER BONUS SOLUTION:
+# the random.choice() function will randomly grab an element from a list
+# randomstudent is now a random string from the tlgstudents list
+randomstudent= random.choice(tlgstudents)
+
+print(f"RANDOM STUDENT {randomstudent} always uses {icecream[2]} {icecream[1]} to indent.")
+```
