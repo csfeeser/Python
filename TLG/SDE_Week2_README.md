@@ -1,110 +1,45 @@
-### Self-Selected Study
+# Introduction to Python Project
 
-During our second week, you'll be able to explore topics of interest on your own! On our last day, students will share what they've learned (or been unable to learn) regarding a topic (or topics) of their choice. Below are past topics- these are only SUGGESTIONS, feel free to choose from other options!
+### Objective:
+The objective of this project is to create a Python application that may be executed from the command line and performs some kind of service using the skills you’ve learned thus far. 
 
-- API building
-- Alexa API SDK
-- Multithreading
-- Trading bot
-- Functions and Loops
-- Webscraping bot
-- Python Streamlit
-- Machine learning/AI (Tensorflow)
-- Pygame
-- Scientific Calculator
-- Data Visualization
-- Task Management
-- Ansible Automation [Past Project](https://galaxy.ansible.com/rzfeeser/ansible_role_minecraft)
-- Twitter/Discord
-- Twitter bot: [Past Project](https://github.com/csfeeser/tweets-to-discord) 
-- Selenium: [Past Project](https://github.com/csfeeser/8hrsPlease)
-- Python GUI: [Past Project](https://github.com/csfeeser/mycode-1/tree/main/PyMom)
+Choose a project that challenges you appropriately and is of interest to you! Chad reserves the right to make all final decisions on what topic you choose, so plan to have some backup topics in mind.
 
-<!--
-### Week 2 Labs
+The expectations for your program is as follows:
+- The program executes cleanly without error and meets its intended purpose.
+- The program has been designed to accommodate human errors.
+- The program is designed as efficiently as possible (do more with less!)
+- The program’s output is easy to read and is presented well (and free of spelling errors)
+- Wherever possible, the program follows PEP 8 standards:
+  - Keep code inside of functions
+  - Indent consistently (4 spaces)
+  - """title/purpose of script at top of document"""
+  - Comment your code well, and often!
 
-This is the breakdown of what labs we'll be completing in order to meet our curriculum goals!
+The following is a list of topics to choose from, but you may present original topic ideas to Chad as well!
 
-**OS Interfacing**
+The topics listed below generally rank from easier to harder.
 
-~. Throughout multiple labs
+### TOPICS:
 
-**Web and RESTful APIs**
+•	Math conversions! Make a program that first asks a user if they’re converting temperatures, determining if a number is odd or even, or perhaps even currency conversions (what you convert is up to you). After the selection has been made, prompt the user for the necessary input, and output the results to the screen!
 
-9\. RESTful Open APIs\
-10\. RESTful Open APIs with requests\
-11\. requests library - Open APIs\
-12\. APIs and Dev Keys\
-13\. RESTful APIs and Dev Keys\
-14\. requests library - API keys\
-15\. requests library - GET vs POST to REST APIs\
-16\. requests library - RESTful GET and JSON parsing\
-26\. API Tokens and Subjects
+•	A program that checks the local file system for the presence of a file (or directory), and if it does not exist, creates it. If your program needs to create the file, write something into the first line (your name, the date the file was created, etc.)
 
-**Python Protocol Clients (Paramiko/Netmiko)**
+•	Write a program that randomly returns one of 10 poems you’ve written. Store each poem as a separate file outside of your program. It may be useful to check out the import random library to complete this exercise, but it's not a requirement.
 
-20\. Paramiko SFTP with UN and PW\
-21\. Paramiko SSH with RSA\
-22\. Scripting Commands over SSH
+•	Find some ASCII art online and store each in separate files. When your program launches, offer the user a menu of possible ASCII art to view. When selected, be sure to display that art on the screen.
 
-**JSON, YAML, XML, CSV and Excel**
+•	Write a program that returns a listing of the top 10 to 100 shows or movies that interest you. You can pull this information from a static file you construct, or from a dynamic source (such as a public API). Print all of the titles within your database to the screen, then prompt the user for a selection. When your user makes a selection, return something of interest to them about that show, such as: short description, actors / voice artists, IMDB rating, etc.
 
-6\. Python Data to JSON file\
-7\. Python Data to YAML file\
-24\. pandas dataframes - MS Excel, csv, json, HTML and beyond\
-33\. CSV data - Standard Library and pandas dataframes
+•	You’ve been hired as an entry level coder for the IMF, an elite, top-secret espionage and covert operations agency that handles dangerous and highly sensitive international missions that have been deemed "impossible". Your mission, should you choose to accept it, is to write a program that can scan top-secret documents and replace any/all instances of words (or phrases) that the user inputs with asterisks. Be sure only the new file remains when you’re done.
 
-**Generating and Sending Emails**
+•	Data conversion. Write a program that accepts data of one type, and converts it to another (CSV to JSON, JSON to YAML, Excel to JSON, etc.). To accomplish this, you’ll need to use an import statement, and work with (at least one) additional library. Those to check out include (import json, import csv, import yaml, import panadas, import pyexcel). If you need help installing any of these libraries, please reach out!
 
-36\. Automating SMTP and Extented SMTP
+•	Catch ‘em all (or at least one)... Pokemon, that is! First install the requests library (python3 -m pip install requests), and then use it to make a GET request to https://pokeapi.co (the API service is pretty straight forward, and does not require any authentication. Check out https://pokeapi.co/api/v2/pokemon/ditto/ for an example). Print the returned data out in an easy to understand format.
 
-**Dates and Times**
+•	Write a program that allows you to explore a simple building (perhaps your home, or the TLG offices). The user should be able to move between rooms, and not move outside of your ‘world’.
 
-25\. Timestamping - import time datetime
+•	Build a text-based adventure game that you can move between rooms, pick up objects, interact with characters, solve puzzles, or even incorporate a combat system!
 
-**Python Regular Expression**
-
-27\. Use RegEx to Search Text\
-28\. Search and Replace Data\
-29\. Compiling RegEx Search Objects\
-30\. Testing if a Match Exists
-
-**Web API Design with Flask/SQLite**
-
-38\. Construct a SimpleHTTPServer and HTTP Client\
-39\. Building APIs with Python\
-40\. Flask APIs and Jinja2\
-41\. Flask APIs and Cookies\
-42\. Flask Sessions\
-43\. Flask Redirection, Errors, and API Limiting\
-44\. Flask Uploading and Downloading Files\
-45\. Learning sqlite3\
-46\. Tracking API Data with sqlite3\
-47\. Tracking Inventory with sqlite\
-51\. Swagger
-
-**Ansible**
-
-~\. Alternate Course Content
-
-**Processes, Threads, Asynchronous Programming**
-
-53\. Working With Threads\
-54\. The Multiprocessing Module\
-55\. Queues and Pipes\
-56\. Introduction to Async IO
-
-**Cool Stuff**
-
-17\. etcd and RESTful Client-side Design\
-18\. try and except\
-19\. getpass - Secure Password Retrieval\
-23\. Argument Parsing\
-31\. Getting sorted()\
-32\. Sort Stability and Complex Sorts\
-34\. Unpacking Arguments\
-35\. XML Parsing with ElementTree\
-37\. Archive with zipfile\
-49\. Logging API Behavior\
-50\. Packaging Python Projects
--->
+•	Write a program that takes input from a user (either at the command line or by reading a spreadsheet) that executes commands to configure network settings.
