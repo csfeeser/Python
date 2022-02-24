@@ -8,19 +8,21 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 
 #### †**cool**- *adjective* (/ko͞ol/) fashionable, attractive, exciting.
 
-1. If you'd like to work with a collection of comic data, use the command below:
+There are lots of cool data sets out there, but Chad already has a bunch you can choose from if you want! Click the link below to see Chad's selection, and below that are instructions on how to download them.
 
-    `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/data%20sets/brett_comics.txt > brett_comics.txt`
+[CHAD'S DATA SETS](https://github.com/csfeeser/Python/tree/master/data%20sets)
 
-0. If you'd like to work with data about Pokemon, use the command below:
+1. If you'd like to work with one of these data sets, open the file in GitHub. Then click the `View Raw` or `Raw` button.
 
-    `student@bchd:~$` `cd ~/mycode && curl https://raw.githubusercontent.com/csfeeser/Python/master/pokedex.txt > pokedex.txt`
+0. Copy the url at the top. It should look something like this:
 
-0. If you'd like to work with data regarding 2020 NFL plays, use the command below:
+    `https://raw.githubusercontent.com/csfeeser[...]`
 
-    `student@bchd:~$` `cd ~/mycode && curl http://nflsavant.com/pbp_data.php?year=2020 > nfl2020.txt`
+0. At the command line, go to the directory where you'd like to save the file. Then type `wget` and paste the URL you just copied.
+
+    `student@bchd:~` `wget WHATEVERYOURURLWAS`
     
-0. If you need it, here's some starter code for whichever module you choose:
+0. You're ready to open the file in a Python script and get cracking! If you need it, here's some starter code:
 
     ```python
     #!/usr/bin/env python3
@@ -42,17 +44,16 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
     
     # Reading in a csv file?
     # dataframeobj = pd.read_csv(excel_file)
-
-    with open("brett_comics.txt", "r") as comicfile:
     ```
     
  0. *DO SOMETHING COOL WITH THE FILE :)* Here are some ideas to get you started:
  
- - How many of these comics feature Wolverine?
- - Return a list of comics based on the author
- - Create a more readable version of this file for human readability.
+ - POKEMON: who has the highest attack rating?
+ - ONE PIECE: which is the highest rated episode?
+ - COMICS: how many comics feature Wolverine?
+ - CARS: which car is most expensive?
 
 ## REQUIREMENTS:
 
 - Your script must READ IN a file that contains data.
-- Your script must OUTPUT a file using the data you read in.
+- Your script must OUTPUT information from the file in a readable/useful way.
