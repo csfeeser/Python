@@ -12,7 +12,7 @@ Time for something different- instead of writing code, we'll be repairing it. Th
     def main():
 
         words= {1: "great",
-                2: "awesome",
+                2: "fabulous",
                 3: "super"}
 
         while true
