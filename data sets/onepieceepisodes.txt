@@ -1,0 +1,959 @@
+,rank,trend,season,episode,name,start,total_votes,average_rating
+0,"24,129",18,1,1,I'm Luffy! The Man Who Will Become the Pirate King!,1999,647,7.6
+1,"29,290",11,1,2,"The Great Swordsman Appears! Pirate Hunter Roronoa Zoro",1999,473,7.8
+2,"32,043",7,1,3,Morgan vs. Luffy! Who's This Beautiful Young Girl?,1999,428,7.7
+3,"28,818",8,1,4,Luffy's Past! The Red-haired Shanks Appears!,1999,449,8.1
+4,"37,113",4,1,5,"Fear Mysterious Power! Pirate Clown Captain Buggy!",1999,370,7.5
+5,"36,209",4,1,6,Desperate Situation! Beast Tamer Mohji vs. Luffy!,1999,364,7.7
+6,"37,648",4,1,7,Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!,1999,344,7.7
+7,"38,371",6,1,8,Shousha wa docchi? Akuma no mi no nouryoku taiketsu!,1999,335,7.7
+8,"42,249",5,1,9,Seigi no usotsuki? Kyaputen Usoppu,2000,327,7.3
+9,"41,829",4,1,10,Chijou saikyou no hen na yatsu! Saiminjutsushi Jango,2000,314,7.5
+10,"43,039",4,1,11,Inbou o abake! Kaizoku shitsuji Kyaputen Kuro,2000,310,7.4
+11,"40,540",3,1,12,Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!,2000,303,7.8
+12,"41,379",2,1,13,Kyoufu no futarigumi! Nyâban kyoudai vs Zoro,2000,295,7.8
+13,"42,445",2,1,14,Rufi fukkatsu! Kaya ojousama no kesshi no taikou,2000,292,7.7
+14,"44,849",2,1,15,Kuro o taose! Otoko Usoppu namida no ketsui!,2000,286,7.5
+15,"43,088",2,1,16,Kaya o mamore! Usoppu kaizokudan daikatsuyaku!,2000,286,7.7
+16,"39,004",2,1,17,Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!,2000,296,8.1
+17,"49,802",2,1,18,Anta ga chunjuu! Gaimon to kimyou na nakama,2000,278,7.1
+18,"34,100",2,1,19,Santouryuu no kako! Zoro to Kuina no chikai!,2000,324,8.5
+19,"43,896",3,1,20,Meibutsu kokku! Kaijou resutoran no Sanji,2000,279,7.7
+20,"46,335",2,1,21,Manukarezaru kyaku! Sanji no meshi to Gin on,2000,267,7.6
+21,"47,298",1,1,22,Saikyou no kaizoku kantai! Teitoku Don Kurîku,2000,260,7.6
+22,"46,758",2,1,23,Mamore Baratie! Daikaizoku akaashi no Zefu,2000,257,7.7
+23,"31,727",4,1,24,Tama no me no Mihôku! Kenzoku Zoro umi ni chiru,2000,340,8.7
+24,"47,862",1,1,25,Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pâru,2000,256,7.6
+25,"40,558",1,1,26,Zefu to Sanji no yume Maboroshi no ôru burû,2000,274,8.2
+26,"47,734",1,1,27,Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin,2000,257,7.6
+27,"47,488",1,1,28,Shinaneeyo! Gekitou Rufi vs Kurîku!,2000,252,7.7
+28,"46,967",1,1,29,Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!,2000,249,7.8
+29,"41,958",1,1,30,Tabidachi! Umi no kokku wa Rufi to tomoni,2000,268,8.1
+30,"50,657",1,1,31,Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!,2000,237,7.6
+31,"49,842",1,1,32,Cocoyashi Mura no Majo! Arlong no Onna Kanbu,2000,236,7.7
+32,"46,129",3,1,33,Usopp Shisu?! Luffy Jouriku wa Mada?,2000,255,7.8
+33,"50,646",1,1,34,Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu,2000,250,7.4
+34,"45,379",1,1,35,Himerareta Kako! Onna Senshi Bell-mere!,2000,254,7.9
+35,"39,506",1,1,36,Ikinuke! Haha Bellemere to Nami no Kizuna!,2000,277,8.3
+36,"34,101",5,1,37,Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!,2000,324,8.5
+37,"42,865",1,1,38,Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan,2000,254,8.2
+38,"45,187",1,1,39,Luffy Suibotsu! Zoro vs Tako no Hacchan,2000,249,8.0
+39,"45,338",1,1,40,Hokoritakaki Senshi! Gekitou Sanji to Usopp,2000,248,8.0
+40,"45,188",1,1,41,Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi,2000,249,8.0
+41,"46,373",1,1,42,Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!,2000,247,7.9
+42,"39,813",1,1,43,Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!,2000,281,8.2
+43,"48,508",1,1,44,Egao no Tabidachi! Saraba Furusato Cocoyashi Mura,2000,245,7.7
+44,"50,957",1,1,45,Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru,2000,235,7.6
+45,"65,155",2,1,46,Mugiwara o Oe! Chiisana Buggy no Daibouken,2000,245,6.3
+46,"64,435",2,1,47,Omachikane! Aa Fukkatsu no Buggy Senchou!,2000,249,6.3
+47,"48,156",2,1,48,Hajimari to Owari no Machi: Loguetown Jouriku,2000,241,7.8
+48,"45,526",1,1,49,Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou,2000,253,7.9
+49,"54,542",1,1,50,Usopp Tai Kozure no Daddy: Mahiru no Kettou,2000,233,7.3
+50,"62,180",2,1,51,Honoo no Ryouri Battle? Sanji VS Bijin Chef,2000,225,6.8
+51,"46,194",1,1,52,Buggy no Revenge! Shokeidai de Warau Otoko!,2000,236,8.1
+52,"44,331",1,1,53,Densetsu wa Hajimatta! Mezase Grand Line,2001,243,8.2
+53,"60,787",2,1,54,Aratanaru Bouken no Yokan! Nazo no Shoujo Apis,2001,213,7.1
+54,"64,969",2,1,55,Kiseki no Seibutsu! Apis no Himitsu to Densetsu no Shima,2001,211,6.8
+55,"66,538",2,1,56,Eric Shutsugeki! Gunkanjima kara no Daidasshutsu!,2001,210,6.7
+56,"68,523",2,1,57,Zekkai no Kotou! Densetsu no Lost Island,2001,207,6.6
+57,"67,203",2,1,58,Haikyo no Kettou! Kinpaku no Zoro VS Erik!,2001,201,6.8
+58,"63,845",1,1,59,Luffy Kanzen Houi! Teitoku Nelson no Hisaku,2001,199,7.1
+59,"63,498",1,1,60,Oozora o Mau Mono! Yomigaeru Sennen no Densetsu!,2001,195,7.2
+60,"57,812",1,1,61,Ikari no Kecchaku! Red Line o Norikoero!,2001,199,7.6
+61,"53,402",1,1,62,Saisho no Toride? Kyodai Kujira Laboon Arawaru,2001,215,7.7
+62,"56,518",1,1,63,Otoko no Yakusoku! Luffy to Kujira Saikai no Chikai,2001,216,7.4
+63,"55,169",1,1,64,Kaizoku Kangei no Machi? Whiskey Peak Jouriku,2001,206,7.7
+64,"49,747",1,1,65,Sakuretsu Santouryuu! Zoro VS Baroque Works!,2001,214,8.1
+65,"51,563",1,1,66,Shinken Shoubu! Luffy VS Zoro Nazo no Daikettou!,2001,214,7.9
+66,"55,797",1,1,67,Oujo Vivi o Todokero! Luffy Kaizoku Dan Shukkou,2001,203,7.7
+67,"67,656",2,1,68,Ganbare Coby! Coby-Meppo Kaigun Funtou Ki,2001,205,6.7
+68,"66,940",1,1,69,Coby-Meppo no Ketsui! Garp Chuujou no Oyagokoro,2001,202,6.8
+69,"60,498",1,1,70,Taiko no Shima! Little Garden ni Hisomu Kage!,2001,203,7.3
+70,"57,880",1,1,71,Dekkai Kettou! Kyojin Dorry to Brogy,2001,204,7.5
+71,"60,685",1,1,72,Luffy Ikaru! Seinaru Kettou ni Hiretsu na Wana!,2001,202,7.3
+72,"59,987",1,1,73,Brogy Shouri no Goukyuu! Elbaf no Kecchaku,2001,200,7.4
+73,"58,329",1,1,74,Ma no Candle! Munen no Namida to Ikari no Namida,2001,202,7.5
+74,"57,020",1,1,75,Luffy o Osou Maryoku! Colors Trap,2001,197,7.7
+75,"56,849",1,1,76,Iza Hangeki! Usopp no Kiten to Kaenboshi!,2001,203,7.6
+76,"58,752",2,1,77,Saraba Kyojin no Shima! Arabasuta o Mezase,2001,200,7.5
+77,"60,499",1,1,78,Nami ga Byouki? Umi ni Furu Yuki no Mukou ni!,2001,203,7.3
+78,"58,477",1,1,79,Kishuu! Bliking Gou to Blik no Wapol,2001,196,7.6
+79,"57,488",1,1,80,Isha no Inai Shima? Na mo Naki Kuni no Bouken!,2001,195,7.7
+80,"58,903",1,1,81,Happy kai? Majo to Yobareta Isha!,2001,189,7.7
+81,"59,597",1,1,82,Dolton no Kakugo! Wapol Gundan Shima ni Jouriku,2001,191,7.6
+82,"56,391",1,1,83,Yuki no Sumu Shima! Drum-Rocky o Nobore!,2001,200,7.7
+83,"56,392",1,1,84,Tonakai wa Aoppana! Chopper no Himitsu,2001,200,7.7
+84,"50,246",1,1,85,Hamidashi Mono no Yume! Yabuisha Hiluluk!,2001,211,8.1
+85,"40,318",3,1,86,Hiluluk no Sakura to Uketsugareyuku Ishi!,2001,251,8.6
+86,"55,480",1,1,87,Versus Wapol Gundan! Bakubaku no Mi no Nouryoku!,2001,194,7.9
+87,"57,979",1,1,88,Zoan-kei Akuma no Mi! Chopper Nanadan Henkei,2001,193,7.7
+88,"58,679",1,1,89,Oukoku no Shihai Owaru Toki! Shinnen no Hata wa Eien ni,2001,190,7.7
+89,"48,464",1,1,90,Hiluluk no Sakura! Drum Rocky no Kiseki,2001,211,8.3
+90,"55,722",1,1,91,Sayonara Drum-tou! Boku wa Umi e Deru!,2001,193,7.9
+91,"59,157",1,1,92,Arabasta no Eiyuu to Senjou no Ballerina,2001,193,7.6
+92,"64,160",1,1,93,Iza Sabaku no Kuni e! Ame o Yobu Kona to Hanrangun,2001,192,7.2
+93,"46,583",2,1,94,Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace,2001,217,8.4
+94,"50,579",1,1,95,Ace to Luffy! Atsuki Omoi to Kyoudai no Kizuna,2002,209,8.1
+95,"62,235",1,1,96,Midori no Machi Erumaru to Kung Fu Jugon!,2002,195,7.3
+96,"62,436",1,1,97,Suna no Kuni no Bouken! Ennetsu no Daichi ni Sumu Mamono,2002,189,7.4
+97,"65,770",1,1,98,Sabaku no Kaizokudan Toujou! Jiyuu ni Ikiru Otoko-tachi,2002,185,7.2
+98,"68,255",1,1,99,Nisemono no Iji! Kokoro no Hanrangun Kamyu!,2002,180,7.1
+99,"61,961",1,1,100,Hanrangun Senshi Kouza! Vivi ni Chikatta Yume!,2002,181,7.6
+100,"72,998",1,1,101,Kagerou no Kettou! Ace vs Otoko Scorpion,2002,177,6.8
+101,"71,389",1,1,102,Iseki to Mayoigo! Vivi to Nakama to Kuni no Katachi,2002,168,7.1
+102,"63,663",1,1,103,Spiders Cafe ni 8-ji Teki Kanbu Shuugou,2002,179,7.5
+103,"58,829",1,1,104,Luffy Tai Vivi! Nakama ni Kakeru Namida no Chikai,2002,180,7.9
+104,"60,105",1,1,105,Alabasta Sensen! Yume no Machi Rainbase,2002,175,7.9
+105,"56,328",1,1,106,Zettai Zetsumei no Wana! Rain Dinners Totsunyuu,2002,181,8.1
+106,"60,104",1,1,107,Utopia Sakusen Hatsudou! Ugokidashita Uneri,2002,175,7.9
+107,"56,555",1,1,108,Kyoufu no Bananawani to Mr. Prince,2002,180,8.1
+108,"53,973",1,1,109,Gyakuten Dai Dasshutsu e no Kagi! Doru-Doru Ball!,2002,187,8.2
+109,"48,469",1,1,110,Nasake Muyou no Shitou! Luffy vs Crocodile,2002,206,8.4
+110,"59,499",1,1,111,Kiseki e no Shissou! Arabasta Doubutsu Land,2002,182,7.8
+111,"55,809",2,1,112,Hanrangun Tai Kokuougun! Kessen wa Alubarna!,2002,188,8.0
+112,"59,732",3,1,113,Nageki no Alubarna! Gekitou Carue Taichou!,2002,181,7.8
+113,"58,350",3,1,114,Nakama no Yume ni Chikau! Kettou Mogurazuka 4-bangai,2002,182,7.9
+114,"55,561",3,1,115,Honjitsu Daikoukai! Mane-Mane Montage!,2002,189,8.0
+115,"59,833",3,1,116,Nami ni Henshin! Bon Clay Renpatsu Ballet Kenpou,2002,176,7.9
+116,"57,410",3,1,117,Nami no Senpuu Chuuihou! Clima Takt Sakuretsu,2002,181,8.0
+117,"59,832",3,1,118,Ouke ni Tsutawaru Himitsu! Kodai Heiki Pluton,2002,176,7.9
+118,"46,419",4,1,119,Gouken no Gokui! Koutetsu o Kiru Chikara to Mono no Kokyuu,2002,213,8.5
+119,"59,563",2,1,120,Tatakai wa Owatta! Kooza ga Kakageta Shiroi Hata,2002,177,7.9
+120,"55,099",2,1,121,Vivi no Koe no Yukue! Hero wa Maiorita!,2002,182,8.2
+121,"52,453",2,1,122,Suna Wani to Mizu Luffy! Kettou Dai 2 Round,2002,185,8.4
+122,"55,523",2,1,123,Wanippoi! Ouke no Haka e Hashire Luffy!,2002,180,8.2
+123,"56,769",2,1,124,Akumu no Toki Semaru! Koko wa Sunasunadan Himitsu Kichi,2002,179,8.1
+124,"49,624",2,1,125,Idainaru Tsubasa! Waga Na wa Kuni no Shugoshin Pell,2002,195,8.5
+125,"32,949",11,1,126,Koeteiku! Arabasta ni Ame ga Furu!,2002,302,9.0
+126,"58,193",3,1,127,Buki yo Saraba! Kaizoku to Ikutsuka no Seigi,2002,178,8.0
+127,"57,931",3,1,128,Kaizoku-tachi no Utage to Arabasta Dasshutsu Sakusen!,2002,179,8.0
+128,"46,420",4,1,129,Hajimari wa Ano Hi! Vivi ga Kataru Boukentan!,2002,213,8.5
+129,"51,545",3,1,130,Kiken na Kaori! Shichininme wa Nico Robin!,2002,194,8.3
+130,"74,683",1,1,131,Hajimete no Kranke! Rumble Ball Hiwa,2002,161,7.0
+131,"79,130",1,1,132,Koukaishi no Hanran! Yuzurenai Yume no Tame ni!,2002,156,6.8
+132,"77,965",1,1,133,Uketsugareru Recipe! Curry no Tetsujin Sanji,2002,155,6.9
+133,"77,964",1,1,134,Sakasete Misemasu! Otoko Usopp Hasshakudama,2002,155,6.9
+134,"76,295",1,1,135,Uwasa no Kaizokugari! Sasurai no Kenshi Zoro,2002,156,7.0
+135,"82,239",1,1,136,Yagi no Shima no Zenny to Yama no Naka no Kaizokusen!,2002,151,6.7
+136,"79,299",1,1,137,Moukarimakka? Kanekashi Zenny no Yabou!,2002,151,6.9
+137,"84,878",1,1,138,Shima no Otakara no Yukue! Zenny Kaizokudan Shutsugeki!,2002,148,6.6
+138,"76,099",1,1,139,Niji-iro no Kiri Densetsu! Ruluka Tou no Roujin Henzo,2003,148,7.2
+139,"79,300",1,1,140,Eien no Kuni no Juunin! Pumpkin Kaizokudan!,2003,151,6.9
+140,"81,301",1,1,141,Furusato e no Omoi! Dasshutsu Funou no Kaizoku Hakaba!,2003,145,6.9
+141,"82,792",-,1,142,Ransen Hisshi! Wetton no Yabou to Niji no Tou,2003,145,6.8
+142,"71,522",-,1,143,Soshite Densetsu ga Hajimaru! Iza Niji no Kanata e,2003,150,7.5
+143,"71,622",1,1,144,Ubawareta Log! Salvage-ou Mashira!,2003,158,7.3
+144,"68,635",1,1,145,Kaibutsu Toujou! Shirohige Ichimi ni wa Te o Dasuna,2003,160,7.5
+145,"65,915",2,1,146,Yume o Miruna! Azakeri no Machi Mock Town!,2003,157,7.8
+146,"67,833",2,1,147,Kaizoku no Takami! Yume o Kataru Otoko to Kaitei Tansaku Ou,2003,163,7.5
+147,"69,456",1,1,148,Densetsu no Ichizoku! &quot;Usotsuki Norland&quot;,2003,157,7.5
+148,"71,870",1,1,149,Kumo Kaji Ippai! Southbird o Oe!,2003,153,7.4
+149,"63,762",2,1,150,Yume wa Kanawanai!? Bellamy VS Saruyama Rengou,2003,157,8.0
+150,"42,152",7,1,151,Ichioku no Otoko! Sekai Saikou Kenryoku to Kaizoku Kurohige,2003,231,8.7
+151,"62,079",2,1,152,Fune wa Sora o Yuku! Knock-Up Stream ni Nore,2003,159,8.1
+152,"65,388",1,1,153,Koko wa Sora no Umi! Sora no Kishi to Tengoku no Mon,2003,155,7.9
+153,"69,460",1,1,154,Kami no Kuni Skypiea! Kumo no Nagisa no Tenshi-tachi,2003,157,7.5
+154,"70,926",1,1,155,Kindan no Seichi! Kami no Sumu Shima to Ten no Sabaki!,2003,152,7.5
+155,"68,298",1,1,156,Hayaku mo Hanzaisha!? Skypiea no Hou no Bannin,2003,157,7.6
+156,"69,103",1,1,157,Dasshutsu Naru ka!? Ugokihajimeta Kami no Shiren!,2003,154,7.6
+157,"69,696",1,1,158,Lovely-doori no Wana! Zennounaru God Enel,2003,152,7.6
+158,"68,843",1,1,159,Susume Karasumaru! Ikenie no Saidan o Mezase,2003,151,7.7
+159,"65,644",1,1,160,Seizonritsu 10%! Mantra-tsukai no Shinkan Satori!,2003,158,7.8
+160,"68,299",1,1,161,&quot;Tama no Shiren&quot; no Kyoui! Mayoi no Mori no Shitou,2003,157,7.6
+161,"65,913",1,1,162,Chopper Ayaushi! Motokami Tai Shinkan Shura,2003,157,7.8
+162,"67,431",1,1,163,Makafushigi! Himo no Shiren to Koi no Shiren!?,2003,152,7.8
+163,"67,432",1,1,164,Shandra no Hi o Tomose! Senshi Wiper,2003,152,7.8
+164,"68,541",1,1,165,Tenkuu no Ougonkyou Jaya! Mezase Kami no Yashiro!,2003,152,7.7
+165,"72,178",1,1,166,Ougon Zen'yasai! &quot;Vearth&quot; e no Omoi!,2003,152,7.4
+166,"70,690",1,1,167,God Enel Toujou!! Ikinokori e no Aubade,2003,149,7.6
+167,"68,822",1,1,168,Kibamuku Uwabami! Tsui ni Hajimaru Survival Game,2003,155,7.6
+168,"62,885",1,1,169,Sutemi no Haigeki (Reject)! &quot;Senki&quot; Wiper no Kakugo,2003,160,8.0
+169,"62,572",1,1,170,Kuuchuu no Gekisen! Kaizoku Zoro VS Senshi Braham,2003,161,8.0
+170,"66,501",1,1,171,Unaru Burn Bazooka!! Luffy VS Senki Wiper,2003,155,7.8
+171,"67,433",1,1,172,Numa no Shiren! Chopper VS Shinkan Gedatsu!!,2003,152,7.8
+172,"65,655",1,1,173,Muteki no Nouryoku! Akasareru Enel no Shoutai,2003,154,7.9
+173,"66,502",1,1,174,Maburoshi no Miyako! Yuudai Naru Shandra no Iseki!!,2003,155,7.8
+174,"67,729",1,1,175,Seizonritsu 0%!! Chopper VS Shinkan Ohm,2003,151,7.8
+175,"65,066",1,1,176,Giant Jack o Nobore!! Jouzou Iseki no Shitou,2004,156,7.9
+176,"62,886",1,1,177,Tetsu no Shiren no Shinkoccyou! Shiruibara Death Match!!,2004,160,8.0
+177,"60,476",1,1,178,Hotobashiru Zangeki! Zoro VS Shinkan Ohm!!,2004,161,8.2
+178,"60,709",1,1,179,Kuzure Yuku Jousou Iseki! Finale e no Quintet!!,2004,160,8.2
+179,"58,336",1,1,180,Kodai Iseki no Taiketsu! God Enel no Mokuteki!!,2004,161,8.4
+180,"61,519",1,1,181,Fairy Vearth e no Yabou Hakobune Maxim!!,2004,157,8.2
+181,"55,209",1,1,182,Tsuini Gekitotsu! Kaizoku Luffy VS God Enel!!,2004,173,8.4
+182,"57,446",1,1,183,Maxim Fujou! Ugoki Hajimeta Deathpiea!!,2004,164,8.4
+183,"63,767",1,1,184,Luffy Rakka! Kami no Sabaki to Nami no Nozomi!!,2004,157,8.0
+184,"59,639",1,1,185,Mezameta Futari! Moeru Koi no Kyuushutsu Zensen,2004,164,8.2
+185,"66,198",1,1,186,Zetsubou e no Capriccio Semaei Kuru Sora Shima no Shoumetsu!!,2004,156,7.8
+186,"67,957",1,1,187,Kane no Ne no Michibiki! Daisenshi to Tankenka no Monogatari,2004,154,7.7
+187,"69,128",1,1,188,Jubaku kara no Kaihou! Daisenshi ga Nagashita Namida!!,2004,150,7.7
+188,"55,930",2,1,189,Eien no Shinyuu! Oo-unabari ni Hibikuchikai no Kane!!,2004,174,8.3
+189,"65,460",1,1,190,Angel-tou Shoumetsu! Raigou Kourin no Kyoufu!!,2004,151,8.0
+190,"65,461",1,1,191,Giant Jack o Taose! Dasshutsu e no Saigo no Nozomi,2004,151,8.0
+191,"56,887",1,1,192,Kami no Kune no Kiseki! Tenshi no Todoita Love Song,2004,166,8.4
+192,"68,012",2,1,193,Tatakai no Shuuen! Tooku Hibiku Hokori Takaki Fantasia,2004,150,7.8
+193,"66,855",1,1,194,Ware Koko ni Itaru! Poneglyphs ga Tsumugu Mono,2004,150,7.9
+194,"66,793",1,1,195,Iza Seikai e!! Omoi ga Orinasu Saishuu Gakushou,2004,154,7.8
+195,"77,786",-,1,196,Hijoujitai Hatsurei! Akumei Takaki Kaisokusen Sennyuu!,2004,143,7.2
+196,"75,763",-,1,197,Ryourinin Sanji! Kaigun Shokudou de Shinka Hakki!,2004,141,7.4
+197,"79,140",1,1,198,Torawareru Zoro to Chopper Kinkyuu Shittou,2004,143,7.1
+198,"75,429",1,1,199,Semaru Kaigun no Sousa mou! Torawareta Futari Me!,2004,142,7.4
+199,"74,611",1,1,200,Kesshi no Luffy to Sanji! Kyuushutsu Dai Sakusen!,2004,137,7.6
+200,"76,592",1,1,201,Nekketsu Tokubetsu Butai Sansen! Bridge Koubousen!,2004,135,7.5
+201,"76,482",1,1,202,Houi Mou Toppa! Dakkan Going Merry Gou,2004,139,7.4
+202,"77,072",1,1,203,Kieta Kaizokusen! Yousai Koubou Dai 2 Round,2004,141,7.3
+203,"77,161",-,1,204,Ougon Dakkan Sakusen to Waver Kaishuu Sakusen!,2004,137,7.4
+204,"75,875",1,1,205,Ichimoudajin Keikaku! Jonathan Jishin no Hisaku,2004,137,7.5
+205,"73,179",1,1,206,Saraba Kaigun Yousai! Dasshutsu e no Saigo no Koubou,2004,141,7.6
+206,"74,726",-,1,207,Long Ring Long Land no Dai Bouken!,2004,144,7.4
+207,"74,069",-,1,208,Foxy Kaizoku Dan to Davy Back!,2004,146,7.4
+208,"73,811",-,1,209,Dai Ikkaisen! Gururi Isshuu Doughnut Race,2004,143,7.5
+209,"74,363",-,1,210,Gingitsune no Foxy! Mouretsu Bougai Kousei,2004,149,7.3
+210,"70,927",-,1,211,Dai 2 Kaisen! Buchi Kome Groggy Ring,2004,152,7.5
+211,"70,764",-,1,212,Red Card Renpatsu! Groggy Ring,2004,145,7.7
+212,"76,369",-,1,213,Dai Sankaisen! Guru Guru Roller Race!,2004,143,7.3
+213,"73,902",-,1,214,Hakunetsu Bakusou Race! Saishuu Round Totsunyuu!,2004,139,7.6
+214,"78,399",-,1,215,Unaru Netsukyuu Goukyuu! Kaizoku Dodgeball!,2005,145,7.1
+215,"78,146",-,1,216,Dangai no Kessen! Daruma-san ga Koronda!,2005,146,7.1
+216,"74,742",-,1,217,Captain Taiketsu! Saishuusen Combat!,2005,152,7.2
+217,"74,364",-,1,218,Zenkai Noro Noro Kougeki VS Fujimi no Luffy,2005,149,7.3
+218,"72,241",-,1,219,Souzetsu Nettou Combat! Unmei no Saishuu Kecchaku,2005,144,7.6
+219,"79,032",-,1,220,Ushinatta? Ubawareta? Omae wa Dare Da?,2005,132,7.4
+220,"82,396",-,1,221,Fue o Idaita Nazo no Shounen to Robin no Suiri!,2005,134,7.1
+221,"83,902",-,1,222,Iza Kioku o Dakkan Seyo! Kaizoku Dan Shima ni Jouriku,2005,138,6.9
+222,"80,754",-,1,223,Kiba o Muku Zoro! Tachihadakatta Yajuu!,2005,131,7.3
+223,"85,086",-,1,224,Honjou o Awarashita Kioku Dorobou no Saigo Gyakushuu,2005,131,7.0
+224,"85,770",-,1,225,Hokori takaki otoko! Gin Gitsune no Foxy,2005,137,6.8
+225,"85,035",-,1,226,Mottomo Muteki ni Tsuyoi Yatsu? Tomottomo Kiken na Otoko!,2005,139,6.8
+226,"59,969",2,1,227,Kaigun Honbu Taishou Aokiji! Saikou Senryoku no Kyoui,2005,159,8.3
+227,"65,459",-,1,228,Gomu to Koori no Ikkiuchi! Luffy vs Aokiji,2005,151,8.0
+228,"70,943",1,1,229,Shissou Umi Ressha to Mizu no Toshi Water Seven,2005,148,7.6
+229,"70,434",1,1,230,Suijou Toshi no Bouken! Mokushise Kyodai Zousen Koujou,2005,146,7.7
+230,"70,435",1,1,231,Franky ikka to Iceberg san!,2005,146,7.7
+231,"70,060",1,1,232,Garera Company! Soukan Ichiban Dock,2005,147,7.7
+232,"70,331",1,1,233,Kaizoku Yuukai Jiken to Shi o Matsu Dake no Kaizokusen,2005,150,7.6
+233,"56,635",1,1,234,Nakama Kyuushutsu! Harikomi Franky House,2005,167,8.4
+234,"48,566",4,1,235,Gekka no Oogenka! Kanashimi ni Hirugaeru Kaizokuki!,2005,196,8.6
+235,"38,566",7,1,236,Luffy VS Usopp! Butsukaru Otoko no Iji,2005,249,8.9
+236,"69,489",-,1,237,Genkishin Mizu no Toshi! Nerawareta Iceberg,2005,145,7.8
+237,"67,252",-,1,238,Gomu Gomu Ningen VS Ka o Fuku Cyborg,2005,145,8.0
+238,"69,223",-,1,239,Hannin wa Mugiwara Kaizukudan? Mizu no Toshi Youjinbou,2005,146,7.8
+239,"70,503",-,1,240,Eien no Wakare? Yamo o Hiku Onna Nico Robin,2005,142,7.8
+240,"71,651",-,1,241,Robin o Tsukamaero! Mugiwara Ichimi no Ketsui,2005,142,7.7
+241,"67,886",-,1,242,Aizu wa Hougeki to Tomoni! Ugokidashita CP9,2005,143,8.0
+242,"60,316",2,1,243,Kamen o Totta CP9! Sono Odoroki no Sugao,2005,154,8.4
+243,"61,872",-,1,244,Himeta Kizuna! Iceberg to Franky,2005,152,8.3
+244,"63,317",-,1,245,Kaete Koi Robin! CP9 to no Taiketsu!,2005,151,8.2
+245,"68,480",-,1,246,Mugiwara Kaizoku Dan Zenmetsu? Model Leopard no Kyoui,2005,141,8.0
+246,"69,626",-,1,247,Fune kara mo Aisareta Otoko! Usopp no Namida!,2005,141,7.9
+247,"66,631",-,1,248,Franky no Kako! Umi ressha ga Hashitta Hi,2005,147,8.0
+248,"66,044",-,1,249,Spandum no Inbou! Umi Ressha ga Yureta Hi,2005,149,8.0
+249,"62,118",-,1,250,Densetsu no Otoko no Saigo! Umi Ressha ga Naita Hi,2005,155,8.2
+250,"62,808",-,1,251,Uragiri no Shinsou! Robin no Kanashiki Ketsui!,2005,149,8.3
+251,"70,919",-,1,252,Nakama o Hikihanasu Kiteki! Hashiridasu Umi Ressha,2005,137,7.9
+252,"71,318",-,1,253,Sanji Totsunyuu! Arashi no Naka no Umiressha Battle!,2005,143,7.7
+253,"66,339",1,1,254,Nami Tamashii no Sakebi! Mugiwara no Luffy Fukkatsu!,2006,148,8.0
+254,"68,194",1,1,255,Mou Hitotsu no Umi Ressha! Rocketman Shutsugeki,2006,142,8.0
+255,"68,104",1,1,256,Nakama o Sukue! Tekidoushi ga Musunda Chikai no Kizuna!,2006,146,7.9
+256,"66,431",1,1,257,Nami o Kudake! Luffy to Zoro no Saikyou Combo,2006,144,8.1
+257,"63,894",1,1,258,Nazo no Otoko Toujou!? Sono Na wa Sogeking!,2006,149,8.2
+258,"74,239",1,1,259,Kokku Taiketsu! Sanji vs Ramen Kenpou,2006,138,7.6
+259,"71,775",1,1,260,Yane no Ue no Kettou! Franky VS Nero,2006,138,7.8
+260,"68,479",1,1,261,Gekitotsu! Onigiri Zoro VS Funekiri T-Bone,2006,141,8.0
+261,"63,116",1,1,262,Robin Soudatsusen! Sogeking no Kisaku!!,2006,148,8.3
+262,"66,134",1,1,263,Shihou no shima! Enies Lobby!,2006,145,8.1
+263,"66,133",1,1,264,Jouriku Sakusen Shidou! Mugiwara Ichimi Totsunyuu Seyo!,2006,145,8.1
+264,"65,723",1,1,265,Luffy Kaishingeki! Shihou no Shima de Daikessen!!,2006,150,8.0
+265,"68,411",1,1,266,Kyojinzoku to no Koubou! Daini no Tobira o Akero!,2006,145,7.9
+266,"66,432",1,1,267,Katsuro o Hirake! Sora o Tobu Rocketman!,2006,144,8.1
+267,"65,834",1,1,268,Luffy ni Oitsuke! Mugiwara Ichimi Souryokusen,2006,146,8.1
+268,"66,135",1,1,269,Uragirareta Robin! Sekai Seifu no Omowaku!,2006,145,8.1
+269,"61,035",2,1,270,Robin o Kaese! Luffy VS Blueno!,2006,155,8.3
+270,"67,250",1,1,271,Tachidomaru na! Hangeki no Noroshi o Agero!,2006,145,8.0
+271,"63,315",1,1,272,Luffy Mokuzen! Saibansho Mae hiroba e Shuuketsu Seyo,2006,151,8.2
+272,"55,410",3,1,273,Subete wa Nakama o Mamoru Tame ni! Gear Second Hatsudou,2006,168,8.5
+273,"53,243",4,1,274,Kotaero Robin! Mugiwara Ichimi no Sakebi!!,2006,173,8.6
+274,"59,363",2,1,275,Robin no Kako! Akuma to Yobareta Shoujo!,2006,161,8.3
+275,"60,276",2,1,276,Shukumei no Oyako! Sono Haha no Na wa Orubia!,2006,158,8.3
+276,"54,464",2,1,277,Ohara no Higeki! Buster Call no Kyoufu,2006,172,8.5
+277,"34,336",15,1,278,Ikitai to Ie! Oretachi wa Nakama Da!!,2006,280,9.1
+278,"86,202",1,1,279,Taki ni Mukatte Tobe!! Luffy no Omoi!!,2006,132,6.9
+279,"91,170",1,1,280,"Otoko no Ikizama! Zoro no Waza, Usopp no Yume",2006,131,6.6
+280,"90,000",1,1,281,Namida ga Tsumuida Nakama no Kizuna! Nami no Sekai Chizu,2006,134,6.6
+281,"91,582",1,1,282,Wakare ga Otoko o Migaku! Sanji to Chopper,2006,126,6.7
+282,"91,171",1,1,283,Subete wa Nakama no Tame ni! Yami no Naka no Robin!,2006,131,6.6
+283,"68,984",1,1,284,Sekkeizu wa Watasanai! Franky no Ketsudan,2006,143,7.9
+284,"68,195",1,1,285,Itsutsu no Kagi o Ubae! Mugiwara Ichimi Tai CP9,2006,142,8.0
+285,"67,887",1,1,286,Akuma no Mi no Chikara! Kaku to Jabra Daihenshin,2006,143,8.0
+286,"68,782",1,1,287,Shinde mo Keran! Sanji Otoko no Kishidou!,2006,140,8.0
+287,"65,616",1,1,288,Fukurou no Gosan! Ore no Cola wa Inochi no Mizu!,2006,143,8.2
+288,"65,835",1,1,289,Zoro Shinwaza Sakuretsu! Katana no Na wa Sogeking?,2006,146,8.1
+289,"67,022",1,1,290,Seigyo Funou! Chopper Kindan no Rumble,2006,142,8.1
+290,"96,000",1,1,291,Luffy Oyabun Futatabi! Yume ka Utsutsu ka Tomikuji Soudou,2006,136,6.2
+291,"100,456",-,1,292,Oshiro de Mochimaki Dai Race! Akai Hana no Inbou,2007,134,6.0
+292,"70,826",-,1,293,Awa Tsukai Kalifa! Nami ni Semaru Sekken no Wana,2007,141,7.8
+293,"67,365",-,1,294,Hibikiwataru Kyouhou! Hatsudou Buster Call,2007,141,8.1
+294,"71,777",-,1,295,Gonin no Nami? Hangeki wa Shinkirou to Tomo ni!,2007,138,7.8
+295,"63,318",-,1,296,Nami no Ketsudan! Bousou Chopper o Ute!,2007,151,8.2
+296,"68,053",-,1,297,Kariudo Sanji Toujou? Usotsuki Ookami ni Okuru Banka,2007,139,8.1
+297,"64,425",-,1,298,Shakunetsu no Keri! Sanji Ashiwaza no Full Course,2007,147,8.2
+298,"64,996",1,1,299,Hakujin no Moushuu! Zoro Tai Kaku Kyouryoku Zangeki Taiketsu,2007,145,8.2
+299,"46,449",6,1,300,Kishin Zoro! Kihaku ga Miseta Asura no Keshin,2007,203,8.7
+300,"55,975",1,1,301,Spandam Kyougaku! Shihou no Tou ni Tatsu Eiyuu,2007,162,8.6
+301,"64,079",-,1,302,Robin Kaihou! Luffy Tai Lucci Choujou Kessen,2007,152,8.1
+302,"98,908",-,1,303,Hannin wa Luffy Oyabun? Kieta Oozakura o Oe,2007,129,6.2
+303,"59,148",1,1,304,Katenakya Daremo Mamorenai! Gear Third Shidou,2007,158,8.4
+304,"63,115",-,1,305,Senritsu no Kako! Yami no Seigi to Rob Lucci,2007,148,8.3
+305,"66,758",-,1,306,Maboroshi no Ningyo Arawaru? Usureyuku Ishiki no Naka de,2007,143,8.1
+306,"65,617",-,1,307,Houka ni Shizumu Shima! Franky Munen no Sakebi,2007,143,8.2
+307,"61,689",-,1,308,Luffy o Mate! Tamerai no Hashi no Shitou!,2007,149,8.4
+308,"35,744",11,1,309,Kobushi ni Kometa Omoi! Luffy Konshin no Gatling,2007,271,9.0
+309,"59,147",-,1,310,"Tomo, Umi yori Kitaru! Mugiwara Ichimi Saikyou no Kizuna",2007,158,8.4
+310,"60,066",-,1,311,Zen'in Dai Dasshutsu! Shousha no Michi wa Kaizoku no Tame ni,2007,155,8.4
+311,"35,566",12,1,312,Arigatou Merry! Yuki ni Kemuru Wakare no Umi,2007,273,9.0
+312,"62,520",-,1,313,Yaburareta Ansoku! Ai no Kobushi o Motsu Kaigun Chuujou,2007,150,8.3
+313,"50,902",3,1,314,Saikyou no Kakei? Akasareta Luffy no Chichi!,2007,188,8.5
+314,"66,928",-,1,315,Sono Na wa Shinsekai! Grand Line no Yukue,2007,146,8.0
+315,"51,743",3,1,316,Shanks Ugoku! Bousou Suru Jidai e no Kusabi,2007,184,8.5
+316,"96,680",-,1,317,Yagara o Sagasu Shoujo! Mizu no Miyako Daisousasen,2007,130,6.3
+317,"99,046",-,1,318,Haha wa Tsuyoshi! Zoro no Dotabata Kaji Tetsudai,2007,133,6.1
+318,"91,489",-,1,319,Sanji Shougeki! Nazo no Jii-san to Gekiuma Ryouri,2007,134,6.5
+319,"69,970",-,1,320,Tsui ni Zen'in Shoukin Kubi! 6-okugoe no Ichimi!,2007,140,7.9
+320,"70,132",-,1,321,Umi o Nozomu Hyakujuu no Ou! Yume no Fune Doudou Kansei!,2007,136,8.0
+321,"70,920",-,1,322,Saraba Itoshiki Kobun-tachi! Franky Tatsu,2007,137,7.9
+322,"66,433",-,1,323,Shukkou Mizu no Miyako! Otoko Usopp Kettou no Kejime,2007,144,8.1
+323,"69,969",-,1,324,Meguru Tehaisho! Kokyou wa Odoru Fune wa Susumu!,2007,140,7.9
+324,"52,351",4,1,325,Saikyou no Nouryoku! Ace o Osou Kurohige no Yami,2007,177,8.6
+325,"89,265",-,1,326,Nazo no Kaizoku Goikkou! Sunny-gou to Kiken na Wana,2007,128,6.8
+326,"98,912",-,1,327,Sunny-gou Pinch! Unare Chousoku no Himitsu Mecha,2007,129,6.2
+327,"95,402",-,1,328,Shinsekai ni Shizumu Yume! Shitsui no Kaizoku Puzzle,2007,129,6.4
+328,"91,225",-,1,329,Osoikuru Shikaku-tachi! Hyoujou Dai Battle Kaishi,2007,127,6.7
+329,"96,220",-,1,330,Dai Kusen Mugiwara Ichimi! Hata ni Kakeru Kaizoku Tamashii,2007,123,6.5
+330,"93,658",-,1,331,Atsukurushisa Zenkai! Semaru Futago no Jiryoku Power,2007,125,6.6
+331,"94,069",1,1,332,Dai Konran no Yakata! Ikaru Don to Toraware no Ichimi,2007,124,6.6
+332,"96,221",-,1,333,Fushichou Futatabi! Tomo ni Chikau Kaizokuki no Yume,2007,123,6.5
+333,"92,884",-,1,334,Atsu Atsu Choukessen! Luffy VS Shakunetsu no Don,2007,123,6.7
+334,"94,070",-,1,335,Shin Sekai de Matsu! Isamashiki Kaizoku to no Wakare,2007,124,6.6
+335,"109,201",-,1,336,Shutsudou Chopperman! Mamore Nagisa no TV-kyoku,2007,133,5.6
+336,"66,273",-,1,337,Ma no Umi Totsunyuu! Kiri ni Ukabu Nazo no Gaikotsu,2008,141,8.2
+337,"72,341",-,1,338,Hito ni Aeta Yorokobi! Gaikotsu Shinshi no Shoutai,2008,133,7.9
+338,"74,707",-,1,339,Kai Genshou Zokuzoku! Thriller Bark Jouriku,2008,133,7.7
+339,"74,625",-,1,340,Tensai to Yobareta Otoko! Hogback Arawaru!,2008,130,7.8
+340,"70,586",-,1,341,Nami Dai Pinch! Zombie Yashiki to Toumei Ningen,2008,138,7.9
+341,"74,347",-,1,342,Zombie no Nazo! Akumu no Hogback Kenkyuujo,2008,134,7.7
+342,"77,267",-,1,343,Sono Na wa Moriah! Kage o Nigiru Dai Kaizoku no Wana,2008,123,7.8
+343,"77,935",-,1,344,Zombie Song no Kyouen! Youchi no Kane wa Yami no Oto,2008,128,7.6
+344,"80,008",-,1,345,Doubutsu Ippai? Perona no Wonder Garden,2008,126,7.5
+345,"76,534",-,1,346,Kieru Mugiwara Ichimi! Arawareta Nazo no Kenshi!,2008,125,7.8
+346,"76,999",-,1,347,Nokoru Kishidou! Nami o Mamoru Uragiri Zombie,2008,127,7.7
+347,"74,152",-,1,348,Sora kara Sanjou! Kenkyou Hanauta wa Ano Otoko!,2008,128,7.9
+348,"75,320",-,1,349,Luffy Kinkyuujitai! Saikyou no Kage no Ikisaki,2008,128,7.8
+349,"74,893",-,1,350,Majin to Yobareta Senshi!! Oz Fukkatsu no Toki,2008,126,7.9
+350,"76,142",-,1,351,500-nenburi no Mezame!! Oars Kaigan!!,2008,126,7.8
+351,"75,321",-,1,352,Shinnen no Inochigoi!! Afro o Mamoru Brook,2008,128,7.8
+352,"71,180",-,1,353,Otoko no Chikai wa Shinazu!! Tooi Sora de Matsu Tomo e,2008,133,8.0
+353,"82,191",-,1,354,Kanarazu Ai ni Iku!! Brook to Yakusoku no Misaki,2008,124,7.4
+354,"77,268",-,1,355,Meshi to Nami to Kage!! Luffy Ikari no Daihangeki,2008,123,7.8
+355,"77,269",-,1,356,Usopp Saikyou? Negative wa Makasetoke,2008,123,7.8
+356,"76,894",-,1,357,General Zombie Shunsatsu!! Oars wa Bouken Kibun!!,2008,124,7.8
+357,"79,078",-,1,358,Honoo no Knight Sanji!! Keritsubuse Itsuwari no Kyoshiki,2008,125,7.6
+358,"78,294",-,1,359,Suke Suke no Innen? Ubawareta Sanji no Yume,2008,127,7.6
+359,"76,535",-,1,360,Tasukete Hero!? Teki wa Fujimi no Princess,2008,125,7.8
+360,"76,998",1,1,361,Perona Kyoufu!? Uso no U wa Usopp no U,2008,127,7.7
+361,"73,050",-,1,362,Yane ni Mau Zangeki!! Kecchaku Zoro Tai Ryuuma,2008,131,7.9
+362,"78,172",-,1,363,Chopper Gekido!! Hogback Ma no Ijutsu,2008,124,7.7
+363,"81,547",-,1,364,Oz Hoeru!! Detekoi Mugiwara no Ichimi,2008,129,7.3
+364,"78,696",-,1,365,Teki wa Luffy!! Saikyou Zombie Tai Mugiwara no Ichimi,2008,126,7.6
+365,"77,373",-,1,366,Taorero Absalom!! Nami Yuujou no Raigeki!!,2008,126,7.7
+366,"71,492",-,1,367,Ubae Down!! Hissatsu Mugiwara Docking?,2008,132,8.0
+367,"74,262",-,1,368,Ashioto Naki Shuurai!! Nazo no Boumonsha: Boukun Kuma,2008,131,7.8
+368,"73,727",-,1,369,Oars Plus Moriah: Chikara to Zunou no Saikyou Gattai,2008,129,7.9
+369,"72,670",-,1,370,Gyakuten e no Hisaku: Nightmare Luffy Kenzan,2008,132,7.9
+370,"71,493",-,1,371,"Kaimetsu, Mugiwara Ichimi: Kagekage no Chikara Zenkai",2008,132,8.0
+371,"64,557",1,1,372,Chouzetsu Battle Start! Luffy vs Luffy,2008,143,8.3
+372,"66,909",-,1,373,"Kecchaku Semaru! Tatakikome, Todome no Ichigeki",2008,139,8.2
+373,"68,042",-,1,374,Karada ga Kieru! Akumu no Shima ni Sasu Asahi!,2008,139,8.1
+374,"70,496",-,1,375,Owaranai Kiki! Mugiwara Ichimi Massatsu Shirei,2008,135,8.0
+375,"60,740",1,1,376,Subete o Hajiku: Kuma no Nikyunikyu no Chikara,2008,156,8.3
+376,"28,147",20,1,377,Nakama no Itami wa Waga Itami: Zoro Kesshi no Tatakai,2008,359,9.2
+377,"71,608",-,1,378,Tooi Hi no Yakusoku: Kaizoku no Uta to Chiisana Kujira,2008,135,7.9
+378,"73,878",-,1,379,Brook no Kako: Youki na Nakama Kanashiki Wakare,2008,132,7.8
+379,"60,860",1,1,380,Binks no Sake: Kako to Genzai o Tsunagu Uta,2008,152,8.4
+380,"72,602",-,1,381,Arata na Nakama! Ongakuka Hanauta no Brook,2008,129,8.0
+381,"95,851",-,1,382,Noronoro no Kyoui: Gingitsune no Foxy Futatabi,2008,124,6.5
+382,"94,888",-,1,383,Otakara Daisoudatsusen! Houkai! Spa Island Gou,2008,126,6.5
+383,"81,747",-,1,384,Brook's Hard Struggle the Difficult Path to Becoming a True C...,2009,125,7.4
+384,"76,991",-,1,385,Halfway Through the Grand Line Arrival! The Red Line,2009,127,7.7
+385,"76,992",-,1,386,Hatred of the Straw Hat Crew Enter Iron Mask Duval,2009,127,7.7
+386,"79,082",-,1,387,The Fated Reunion! Save the Imprisoned Fishman,2009,125,7.6
+387,"76,884",-,1,388,Tragedy! The Truth of the Unmasked Duval,2009,124,7.8
+388,"76,885",-,1,389,Explosion! The Sunny's Super Secret Weapon Gaon Cannon,2009,124,7.8
+389,"77,943",-,1,390,Gyojin-tou o Mezashite Jouriku: Sabaody Shotou,2009,128,7.6
+390,"75,632",-,1,391,Bougyaku! Sabaody no Shihaisha Tenryuubito,2009,124,7.9
+391,"71,176",-,1,392,Arata na Rival Shuuketsu! 11-nin no Choushinsei,2009,133,8.0
+392,"75,325",-,1,393,Hyouteki wa Camie!! Semaru Hitosaraiya no Mashu,2009,128,7.8
+393,"73,876",-,1,394,Camie o Sukue: Shotou ni Nokoru Ankoku no Rekishi,2009,132,7.8
+394,"70,495",-,1,395,Time Limit: Human Auction Kaimaku,2009,135,8.0
+395,"48,093",7,1,396,Tekken Sakuretsu! Auction o Buttsubuse,2009,194,8.7
+396,"51,448",5,1,397,Dai Panic! Auction Kaijou no Shitou,2009,177,8.7
+397,"63,986",2,1,398,Taishou Kizaru Ugoku! Souzen Sabaody Shotou,2009,145,8.3
+398,"65,611",2,1,399,Houimou o Toppa Seyo! Kaigun Tai Sannin no Senchou,2009,143,8.2
+399,"53,504",5,1,400,Roger to Rayleigh: Kaizoku Ou to Sono Migiude,2009,176,8.5
+400,"64,260",1,1,401,Kaihi Fukanou!? Taishou Kizaru no Kousoku no Keri,2009,144,8.3
+401,"65,532",2,1,402,Attouteki! Kaigun no Sentou Heiki Pacifista,2009,140,8.3
+402,"62,992",3,1,403,Saranaru Kyouteki Arawaru! Masakari Katsuida Sentoumaru,2009,145,8.4
+403,"48,214",7,1,404,Taishou Kizuru no Moukou Mugiwara Ichimi Zettaizetsumei!,2009,189,8.8
+404,"28,216",24,1,405,Kesareta Nakama-tachi: Mugiwara Ichimi Saigo no Hi,2009,358,9.2
+405,"104,117",1,1,406,Jidaigeki Tokubetsu Hen: Luffy Oyabun Futatabi Kenzan,2009,122,6.1
+406,"106,033",-,1,407,Jidaigeki Tokubetsu Hen: Yabure! Thriller Shoukai no Wana,2009,118,6.1
+407,"75,844",-,1,408,Jouriku! Danshi Kinsei no Shima Amazon Lily,2009,130,7.7
+408,"76,234",-,1,409,Isoge! Nakama-tachi no Moto e: Nyougashima no Bouken,2009,129,7.7
+409,"76,746",-,1,410,Minna Meromero! Kaizoku Jotei Hancock,2009,131,7.6
+410,"76,146",-,1,411,Senaka ni Kakusareta Himitsu: Souguu Luffy to Hebihime,2009,126,7.8
+411,"72,604",-,1,412,Hijou no Sabaki! Ishi ni Sareta Margaret!!,2009,129,8.0
+412,"67,932",1,1,413,Luffy Daikusen! Hebi Shimai no Haki no Chikara!!,2009,136,8.2
+413,"70,668",-,1,414,Nouryoku Zenkai Battle!! Gomugomu Tai Hebihebi,2009,128,8.2
+414,"68,933",-,1,415,Hancock no Kokuhaku: Shimai no Imawashiki Kako,2009,133,8.2
+415,"70,394",-,1,416,Ace o Sukue! Arata na Mokutekichi wa Daikangoku,2009,132,8.1
+416,"68,049",-,1,417,Koi wa Hurricane! Meromero Hancock,2009,139,8.1
+417,"75,711",-,1,418,Nakama-tachi no Yukue: Tenkou no Kagaku to Karakurijima,2009,127,7.8
+418,"81,313",-,1,419,Nakama-tachi no Yukue: Kyochou no Shima to Momoiro no Rakuen!,2009,126,7.4
+419,"76,989",-,1,420,Nakama-tachi no Yukue: Shima o Tsunagu Hashi to Shokujin Shok...,2009,127,7.7
+420,"77,371",-,1,421,Nakama-tachi no Yukue: Negative Princess to Akuma Ou,2009,126,7.7
+421,"76,538",-,1,422,Kesshi no Sennyuu! Kaitei Kangoku Impel Down Sennyuu!,2009,125,7.8
+422,"76,145",-,1,423,Jigoku de Saikai!? Bara Bara no Mi no Jitsuryokusha!,2009,126,7.8
+423,"77,808",-,1,424,Yabure! Guren Jigoku: Buggy no Dohade Daisakusen,2009,125,7.7
+424,"77,809",1,1,425,Kangoku Saikyou no Otoko! Doku Ningen Magellan Toujou,2009,125,7.7
+425,"91,987",-,1,426,Eiga Rendou Special: Ugokidasu Kinjishi no Yabou,2009,118,6.9
+426,"100,117",-,1,427,Eiga Rendou Special: Nerawareta Little East Blue,2009,115,6.5
+427,"97,820",-,1,428,Eiga Rendou Special: Amigo Kaizokudan no Moukou,2009,116,6.6
+428,"98,316",-,1,429,Eiga Rendou Special: Kessen! Luffy Tai Largo,2009,115,6.6
+429,"78,086",-,1,430,Toraware no Ouka Shichibukai! Kaikyou no Jinbee,2009,121,7.8
+430,"80,627",-,1,431,Roubanchou Saldeath no Wana: Level 3 Kiga Jigoku,2009,118,7.7
+431,"76,452",-,1,432,Tokihanatareta Swan! Saikai! Bon Clay,2009,122,7.9
+432,"70,393",2,1,433,Shochou Magellan Ugoku: Kansei! Mugiwara Houimou,2010,132,8.1
+433,"77,810",1,1,434,Zensenryoku Shuuketsu! Level 4 Shounetsu Jigoku no Kessen,2010,125,7.7
+434,"70,839",1,1,435,Magellan Tsuyoshi! Bon Clay Tekizen Toubou,2010,134,8.0
+435,"68,048",1,1,436,Shiyuu Kessu! Sutemi no Luffy Saigo no Ichigeki,2010,139,8.1
+436,"74,529",-,1,437,Dachi Dakara: Bon Clay Kesshi no Kyuushutsukou,2010,127,7.9
+437,"78,179",-,1,438,Jigoku ni Rakuen! Impel Down Level 5.5,2010,124,7.7
+438,"83,011",-,1,439,Luffy Chiryou Kaishi: Ivan-san Kiseki no Chikara!!,2010,122,7.4
+439,"79,204",-,1,440,Kiseki o Shinjite! Bon Clay Tamashii no Seien,2010,128,7.5
+440,"75,227",-,1,441,Luffy Fukkatsu! Iwa-san Datsugoku Keikaku Shidou!!,2010,125,7.9
+441,"73,323",-,1,442,Ace Gosou Kaishi: Saikasou Level 6 no Koubou!,2010,127,8.0
+442,"72,606",-,1,443,Saikyou Team Kessei: Shinkan! Inpel Down,2010,129,8.0
+443,"74,532",-,1,444,Saranaru Konran! Kurohige Teach Shuurai!,2010,127,7.9
+444,"74,887",-,1,445,Kiken na Deai! Kurohige to Ame no Shiryuu,2010,126,7.9
+445,"71,422",-,1,446,Iji demo Taorenu! Honki no Hannyabaru,2010,129,8.1
+446,"61,866",2,1,447,Ikari no Jet Pistol: Luffy vs Kurohige,2010,152,8.3
+447,"76,898",-,1,448,Magellan o Tomero! Iva-san Ougi Sakuretsu,2010,124,7.8
+448,"76,024",-,1,449,Magellan no Kisaku! Habamareta Datsugoku Keikaku,2010,123,7.9
+449,"71,424",-,1,450,Datsugoku Team Zettaizetsumei: Kinjite &quot;Venom Demon&quot;,2010,129,8.1
+450,"60,416",1,1,451,Okose Saigo no Kiseki: Seigi no Mon o Toppa Seyo,2010,150,8.5
+451,"76,022",-,1,452,Mezase Kaigun Honbu: Ace Kyuushutsu e no Funade!,2010,123,7.9
+452,"86,114",-,1,453,Nakama-tachi no Yukue: Weatheria Report to Cyborg Animal,2010,118,7.3
+453,"92,197",-,1,454,Nakama-tachi no Yukue: Kyochou no Hina to Momoiro no Taiketsu,2010,121,6.8
+454,"86,978",-,1,455,Nakama-tachi no Yukue: Kakumeigun to Boushoku no Mori no Wana!,2010,116,7.3
+455,"86,115",-,1,456,Nakama-tachi no Yukue: Kyodai na Bohyou to Pantsu no On,2010,118,7.3
+456,"85,836",-,1,457,Marineford Chokuzen Kaisou Special: Kyoudai no Chikai!,2010,122,7.2
+457,"86,556",1,1,458,Marineford Chokuzen Kaisou Special: Shuuketsu! San Taishou,2010,131,6.9
+458,"65,817",2,1,459,Kessen no Toki Semaru! Kaigun Saikyou no Fujin Kansei!,2010,146,8.1
+459,"62,399",2,1,460,Kyodai Kantai Arawaru: Shuurai! Shirohige Kaizokudan,2010,154,8.2
+460,"54,984",3,1,461,Kessen no Makuake! Ace to Shirohige no Kako,2010,174,8.4
+461,"62,400",3,1,462,Sekai o Horobosu Chikara! Guragura no Mi no Nouryoku,2010,154,8.2
+462,"56,935",4,1,463,Subete o Yakitsukusu!! Taishou Akainu no Chikara!,2010,162,8.5
+463,"62,512",4,1,464,Majin no Shison! Little Oars Jr. Bakushin!,2010,150,8.3
+464,"60,059",3,1,465,Shousha dake ga Seigi Hatsudou! Sengoku no Sakusen!,2010,155,8.4
+465,"49,641",5,1,466,Mugiwara Team Touchaku Fuunkyuu o Tsugeru Senjou,2010,186,8.7
+466,"52,090",5,1,467,Shinde mo Tasukeru: Luffy vs Kaigun Battle Start,2010,174,8.7
+467,"56,980",4,1,468,Gekisen no Renzoku! Nouryokusha Gundan VS Nouryokusha Gundan,2010,158,8.6
+468,"62,211",4,1,469,Kuma ni Okita Ihen Iva-san Ikari no Ichigeki,2010,151,8.3
+469,"58,957",4,1,470,Kengou Mihawk Luffy ni Semaru Kokutou no Zangeki,2010,155,8.5
+470,"61,113",4,1,471,Senmetsu Sakusen Shidou: Pacifista Gundan no Iryoku,2010,151,8.4
+471,"61,615",4,1,472,Akainu no Bouryaku! Otoshiirerareta Shirohige,2010,153,8.3
+472,"61,402",4,1,473,Houiheki Sadou! Shirohige Kaizokudan Zettaizetsumei!!,2010,150,8.4
+473,"52,575",5,1,474,Shokei Shikkou Shirei Kudaru: Houiheki o Toppa Seyo!,2010,180,8.5
+474,"58,217",4,1,475,Saishuu Kyokumen Totsunyuu! Shirohige Kishikaisei no Itte,2010,154,8.6
+475,"59,144",5,1,476,Luffy Chikaratsuku! Oris Hiroba no Souryokusen!!,2010,158,8.4
+476,"62,302",4,1,477,Inochi o Kezuru Chikara: Tension Hormone Futatabi,2010,147,8.4
+477,"52,767",4,1,478,Yakusoku no Tame ni!! Gekitou! Luffy to Coby,2010,175,8.6
+478,"60,058",4,1,479,Shokeidai Mokuzen! Hirakareta Ace e no Michi!!,2010,155,8.4
+479,"51,895",5,1,480,Sorezore no Eranda Michi: Luffy vs Garp!,2010,179,8.6
+480,"42,522",10,1,481,Ace Kyuushutsu! Shirohige Saigo no Senchou Meirei!,2010,218,8.9
+481,"30,117",29,1,482,Hi o mo Yaki Tsukusu Chikara: Akainu Hijou no Tsuigeki,2011,334,9.1
+482,"20,664",58,1,483,Kotae o Sagashite: Hiken Ace Senjou ni Shisu,2011,524,9.3
+483,"34,454",23,1,484,Kaigun Honbu Houkai! Shirohige Kotobanaki Ikari!,2011,285,9.0
+484,"27,093",37,1,485,Kejime o Tsukeru: Shirohige vs Kurohige Kaizokudan,2011,370,9.3
+485,"49,315",12,1,486,Show no Kaimaku: Akasareta Kurohige no Takurami,2011,192,8.6
+486,"55,637",8,1,487,Akainu no Shuunen! Luffy o Osou Magma no Kobushi,2011,171,8.4
+487,"43,228",14,1,488,Hisshi no Sakebi: Unmei o Kaeru Yuuki Aru Suubyou,2011,223,8.7
+488,"39,674",15,1,489,Shanks Kenzan! Choujou Sensou Tsui ni Shuuketsu,2011,245,8.8
+489,"66,747",5,1,490,Gun'yuu Kakkyo Su! &quot;Atarashii Jidai&quot; no Hajimari!,2011,143,8.1
+490,"69,787",4,1,491,Nyougashima Jouriku: Luffy o Semeru Kakoku na Genjitsu,2011,137,8.0
+491,"104,696",2,1,492,"Saikyou Tag! Funtou, Luffy to Toriko!",2011,117,6.2
+492,"66,353",3,1,493,Luffy to Ace: Kyoudai no Deai no Monogatari!,2011,148,8.0
+493,"71,604",3,1,494,Sabo Toujou! Gray Terminal no Shounen,2011,135,7.9
+494,"77,804",3,1,495,Ore wa Nigenai: Ace Kesshi no Kyuushutsu Sakusen,2011,125,7.7
+495,"76,899",3,1,496,Itsuka Umi e! Sannin no Akudou Chikai no Sakazuki!,2011,124,7.8
+496,"77,805",4,1,497,Dadan Ikka to no Wakare!? Kansei! Himitsu Kichi,2011,125,7.7
+497,"83,972",3,1,498,Luffy Deshiiri!? Kaizoku Ou to Tatakatta Otoko!,2011,123,7.3
+498,"83,008",2,1,499,Ootora to no Kessen! Senchou ni Naru no wa Dare Da!,2011,122,7.4
+499,"79,403",2,1,500,Ubawareta Jiyuu! Sankyoudai ni Semaru Kizoku no Wana,2011,121,7.7
+500,"79,086",2,1,501,Hanatareta Honoo: Gray Terminal no Kiki,2011,125,7.6
+501,"80,293",1,1,502,Jiyuu wa Doko ni Aru? Shounen no Kanashiki Funade,2011,122,7.6
+502,"68,247",3,1,503,Yoroshiku Tanomu! Kyoudai kara Todoita Tegami!,2011,135,8.2
+503,"74,631",1,1,504,Yakusoku o Hatasu Tame: Sorezore no Tabidachi!,2011,130,7.8
+504,"68,379",1,1,505,Aitsura ni Aitee! Luffy Namida no Sakebi,2011,138,8.1
+505,"75,716",2,1,506,Mugiwara no Ichimi Gekishin! Motarasareta Kyouhou,2011,127,7.8
+506,"74,272",2,1,507,Meiou Rayleigh to no Saikai: Luffy Ketsudan no Toki,2011,131,7.8
+507,"80,492",1,1,508,Senchou no Moto e: Sorajima no Datsugoku to Fuyujima no Jiken,2011,128,7.4
+508,"77,381",1,1,509,Sesshoku! Daikengou Mihawk: Zoro Iji no Shitou,2011,126,7.7
+509,"77,938",1,1,510,Sanji no Junan: Oukoku e to Kikan Shita Joou!,2011,128,7.6
+510,"74,343",2,1,511,Masaka no Saijouriku! Luffy Marineford e!,2011,134,7.7
+511,"76,996",1,1,512,Nakama ni Todoke: Kakemeguru Dai News!,2011,127,7.7
+512,"82,271",2,1,513,Ugokidasu Kaizoku-tachi! Kyoutendouchi no Shinsekai,2011,127,7.3
+513,"84,577",1,1,514,Jigoku o Ikinuke: Sanji Otoko o Kaketa Shoubu,2011,125,7.2
+514,"76,232",2,1,515,Madamada Tsuyoku Naru! Zoro Senchou e no Chikai,2011,129,7.7
+515,"58,059",2,1,516,Luffy Shugyou Kaishi: 2-nengo ni Yakusoku no Basho de,2011,162,8.4
+516,"48,830",5,1,517,Shinshou Kaimaku: Saishuuketsu! Mugiwara no Ichimi,2011,204,8.4
+517,"68,401",2,1,518,Isshokusokuhatsu! Luffy Tai Nise Luffy,2011,145,7.9
+518,"70,816",1,1,519,Kaigun Shutsudou: Nerawareta Mugiwara no Ichimi,2011,141,7.8
+519,"71,634",1,1,520,Oomono Shuuketsu: Nise Mugiwara Ichimi no Kyoui,2011,142,7.7
+520,"51,052",5,1,521,Sentou Kaishi! Misero Shugyou no Seika!,2011,183,8.6
+521,"68,381",1,1,522,Zen'in Shuugou: Luffy Shinsekai e no Funade,2011,138,8.1
+522,"76,607",1,1,523,Kyougaku no Shinjitsu: Sunny-gou o Mamotta Otoko,2011,128,7.7
+523,"80,955",2,1,524,Kaichuu no Shitou: Arawareta Oounabara no Akuma,2011,127,7.4
+524,"81,932",2,1,525,Shinkai de Sounan: Hagureta Mugiwara no Ichimi,2011,118,7.6
+525,"81,933",1,1,526,Kaitei Kazan Funka! Nagasarete Gyojintou,2011,118,7.6
+526,"80,623",1,1,527,Gyojintou Jouriku: Uruwashiki Ningyo-tachi,2011,118,7.7
+527,"83,007",1,1,528,Koufun Bakuhatsu! Sanji Seimei no Kiki!,2011,122,7.4
+528,"83,083",2,1,529,Gyojintou Metsubou!? Sharley no Yogen,2011,125,7.3
+529,"82,483",-,1,530,Gyojintou no Ou: Kaishin Neptune!,2012,120,7.5
+530,"85,841",-,1,531,Ryuuguujou! Tasuketa Same ni Tsurerarete,2012,122,7.2
+531,"83,478",-,1,532,Yowamushi de Nakimushi! Koukakutou no Ningyo Hime,2012,121,7.4
+532,"85,282",-,1,533,Kinkyuu Jitai Hassei: Senkyo Sareta Ryuuguujou,2012,120,7.3
+533,"77,939",-,1,534,Ryuuguujou Gekishin! Shirahoshi Yuukai Jiken,2012,128,7.6
+534,"83,863",1,1,535,Hody Shuurai: Fukushuu Keikaku no Hajimari,2012,120,7.4
+535,"79,794",-,1,536,Ryuuguujou no Kessen! Zoro Tai Hody,2012,120,7.7
+536,"80,198",-,1,537,Shirahoshi o Mamore: Decken no Tsuigeki,2012,119,7.7
+537,"81,578",-,1,538,Ichimi Haiboku!? Hody Ryuuguujou Seiatsu,2012,119,7.6
+538,"83,479",-,1,539,Yomigaeru Innen! Nami to Gyojin Kaizokudan!,2012,121,7.4
+539,"77,503",-,1,540,Dorei Kaihou no Eiyuu: Boukenka Tiger,2012,129,7.6
+540,"76,890",-,1,541,Kizaru Toujou! Tiger o Nerau Wana!,2012,124,7.8
+541,"103,661",-,1,542,Team Kessei! Chopper o Sukue,2012,115,6.3
+542,"76,134",1,1,543,Eiyuu no Saigo: Tiger Shougeki no Shinjitsu,2012,126,7.8
+543,"82,579",-,1,544,Kaizokudan Bunretsu: Jinbe Tai Arlong,2012,123,7.4
+544,"84,866",-,1,545,Yureru Gyojintou! Hyouchaku Shita Tenryuubito,2012,121,7.3
+545,"79,401",-,1,546,Totsuzen no Higeki! Mirai o Tozasu Kyoudan,2012,121,7.7
+546,"82,826",-,1,547,Futatabi Genzai e! Ugokidasu Hody,2012,116,7.6
+547,"82,827",1,1,548,Oukoku Gekishin: Neptune Shokei Shirei,2012,116,7.6
+548,"81,031",1,1,549,Shoujita Kiretsu! Luffy Tai Jinbe,2012,117,7.7
+549,"87,952",1,1,550,Hody no Ihen: Kyouyaku no Shin no Chikara!,2012,117,7.2
+550,"88,554",1,1,551,Kessen Hajimaru: Gyoncorde Hiroba!,2012,119,7.1
+551,"85,691",1,1,552,Shougeki no Kokuhaku: Otohime Ansatsu no Shinjitsu,2012,119,7.3
+552,"78,176",1,1,553,Shirahoshi no Namida! Luffy Tsui ni Toujou,2012,124,7.7
+553,"65,863",1,1,554,Dai Gekitotsu! Mugiwara Ichimi VS 10 Man no Teki,2012,139,8.3
+554,"80,199",-,1,555,Oowaza Sakuretsu! Zoro Sanji Shutsugeki!,2012,119,7.7
+555,"82,481",-,1,556,Hatsu Hirou! Sunny Gou no Himitsu Heiki!,2012,120,7.5
+556,"87,461",-,1,557,Iron Pirate! Franky Shougun Toujou,2012,115,7.3
+557,"87,101",-,1,558,Noah Sekkin! Gyojintou Kaimetsu no Kiki!,2012,119,7.2
+558,"90,062",-,1,559,Isoge Luffy! Shirahoshi Zettaizetsumei,2012,119,7.0
+559,"85,394",-,1,560,Gekitou Kaishi! Luffy Tai Hody!,2012,123,7.2
+560,"83,584",-,1,561,Dairansen! Ichimi Tai Shin Gyojin Kaizokudan!,2012,124,7.3
+561,"93,112",-,1,562,Luffy Haiboku!? Hody Fukushuu no Toki,2012,119,6.8
+562,"91,985",-,1,563,Shougeki no Jijitsu! Hody no Shoutai!,2012,118,6.9
+563,"89,491",-,1,564,Zero ni! Luffy e no Atsuki Negai!,2012,117,7.1
+564,"80,296",-,1,565,Luffy Konshin no Ichigeki! Red Hawk Sakuretsu,2012,122,7.6
+565,"85,600",-,1,566,Tsui ni Kecchaku! Hody Saishuu Kessen,2012,116,7.4
+566,"85,697",-,1,567,Tomare Noah! Kesshi no Elephant Gatling!,2012,119,7.3
+567,"83,975",-,1,568,Mirai e! Taiyou e to Tsuzuku Michi!,2012,123,7.3
+568,"85,840",-,1,569,Akasareta Himitsu: Kodai Heiki no Shinjitsu,2012,122,7.2
+569,"77,708",-,1,570,Ichimi Kyougaku! Aratanaru Kaigun Gensui!,2012,122,7.8
+570,"81,120",-,1,571,Okashizuki! Yonkou Big Mom,2012,120,7.6
+571,"85,601",-,1,572,Zento Tanan: Shin Sekai ni Machiukeru Wana,2012,116,7.4
+572,"86,109",-,1,573,Tsui ni Shukkou! Sayonara Gyojin-tou,2012,118,7.3
+573,"86,982",-,1,574,Shin Sekai e! Saikyou no Umi o Mezashite,2012,116,7.3
+574,"96,229",-,1,575,Z no Yabou Hen: Chiisana Kyojin Lily!,2012,106,7.0
+575,"94,756",-,1,576,Z no Yabou Hen: Nazo no Saikyou Gundan Toujou!,2012,109,7.0
+576,"95,853",-,1,577,Z no Yabou Hen: Kesshi no Dai Dasshutsu Sakusen!,2012,110,6.9
+577,"93,849",-,1,578,Z no Yabou Hen: Luffy VS Shuzo!,2012,121,6.7
+578,"81,311",-,1,579,Jouriku! Moeru Shima Punk Hazard,2013,126,7.4
+579,"86,673",-,1,580,Shakunetsu no Tatakai! Luffy Tai Kyodai Ryuu!,2013,120,7.2
+580,"90,063",-,1,581,Ichimi Souzen! Shougeki no Kubi dake Samurai Toujou!,2013,119,7.0
+581,"87,560",-,1,582,Kyougaku! Tsui ni Akasareru Shima no Himitsu,2013,118,7.2
+582,"90,917",-,1,583,Kodomo-tachi o Sukue! Ichimi Sentou Kaishi,2013,117,7.0
+583,"86,041",-,1,584,Kenjutsu Shoubu: Brook Tai Nazo no Doutai Samurai,2013,115,7.4
+584,"83,349",-,1,585,Shichibukai! Trafalgar Law,2013,118,7.5
+585,"84,165",-,1,586,Dai Pinch: Luffy Gokkan no Mizuumi ni Shizumu,2013,116,7.5
+586,"78,055",1,1,587,Gekitotsu! Law VS Smoker Chuujou,2013,118,7.9
+587,"84,653",-,1,588,2 Nenburi no Saikai! Luffy to Law,2013,115,7.5
+588,"87,855",-,1,589,Sekai Saiaku Kyoufu no Kagakusha Caesar,2013,114,7.3
+589,"108,155",-,1,590,Jijou Saikyou Colabo VS Umi no Taishokukan,2013,122,5.9
+590,"87,456",-,1,591,Chopper Gekido Master Hidounaru Jikken,2013,115,7.3
+591,"90,918",-,1,592,Ichimi Massatsu! Densetsu no Koroshiya Raishuu!,2013,117,7.0
+592,"84,753",-,1,593,Nami o Sukue! Luffy Yukiyama no Tatakai,2013,118,7.4
+593,"81,118",-,1,594,Kessei! Luffy-Law Kaizoku Doumei!,2013,120,7.6
+594,"87,856",-,1,595,Master o Toraero: Kaizoku Doumei Sakusen Kaishi!,2013,114,7.3
+595,"87,457",-,1,596,Zenmetsu no Kiki: Shi no Monster Hirai,2013,115,7.3
+596,"82,316",-,1,597,Dai-Gekisen: Caesar Shin no Nouryoku Hatsudou!,2013,114,7.7
+597,"87,857",-,1,598,Honoo Kirisaku Samurai! Kitsunebi no Kin'emon!,2013,114,7.3
+598,"85,169",-,1,599,Shougeki! Nazo no Otoko Vergo no Shoutai!,2013,117,7.4
+599,"87,947",-,1,600,Kodomo-tachi o Mamore! Semaru Master no Ma no Te,2013,117,7.2
+600,"86,577",-,1,601,Shin Sekai Gekishin: Caesar Akumu no Jikken,2013,117,7.3
+601,"87,858",-,1,602,Shijou Saiaku no Satsuriku Heiki! Shinokuni,2013,114,7.3
+602,"83,264",1,1,603,Hangeki Kaishi! Luffy-Law Daidasshutsu,2013,115,7.6
+603,"86,042",-,1,604,Mezase R-tou! Kaizoku Doumei Kaishingeki!,2013,115,7.4
+604,"89,090",-,1,605,Tashigi no Namida: G-5 Kesshi no Toppa Sakusen,2013,118,7.1
+605,"86,578",-,1,606,Uragiri no Chuujou! Kichiku no Vergo,2013,117,7.3
+606,"79,381",-,1,607,Hakunetsu no Gekisen: Luffy VS Caesar,2013,115,7.9
+607,"85,170",-,1,608,Yami no Kuromaku! Doflamingo Ugoku!,2013,117,7.4
+608,"85,171",-,1,609,Luffy Toushi!? Kyoufu no Yukionna Monet!,2013,117,7.4
+609,"87,948",1,1,610,Butsukaru Kobushi! Futari no Chuujou no Tatakai,2013,117,7.2
+610,"88,466",-,1,611,Chiisana Dragon! Momonosuke Arawaru,2013,116,7.2
+611,"86,043",-,1,612,Fubuki no Shitou: Mugiwara no Ichimi Tai Yukionna,2013,115,7.4
+612,"72,213",1,1,613,Ougi Sakuretsu! Zoro Saikyou no Ittou-ryuu!,2013,130,8.0
+613,"82,477",-,1,614,Tomodachi o Mamoru! Mocha Inochi-gake no Tousou,2013,120,7.5
+614,"82,823",-,1,615,Chahige Hitsuu! Luffy Ikari no Ichigeki,2013,116,7.6
+615,"67,927",1,1,616,Shougeki no Kecchaku! Smoker Tai Vergo!,2013,136,8.2
+616,"78,583",-,1,617,Caesar Gekiha! Saikyou no Grizzly Magnum,2013,123,7.7
+617,"84,655",-,1,618,Shuurai! Dressrosa kara no Shikaku,2013,115,7.5
+618,"81,574",-,1,619,Ooabare! Muteki no Franky Shougun,2013,119,7.6
+619,"78,978",1,1,620,Zettai Zetsumei! Punk Hazard Dai-Bakuhatsu,2013,122,7.7
+620,"77,715",-,1,621,Caesar o Hokaku-seyo - General Canon Sakuretsu,2013,122,7.8
+621,"80,300",-,1,622,Kandou no Saikai! Momonosuke to Kin'emon,2013,122,7.6
+622,"82,576",-,1,623,Sekibetsu no Toki - Punk Hazard Shukkou!,2013,123,7.4
+623,"71,273",4,1,624,G-5 Kaimetsu! Doflamingo Kyuushuu!,2013,136,7.9
+624,"73,510",1,1,625,Kinpaku! Aokiji tai Doflamingo,2013,133,7.8
+625,"93,412",-,1,626,Kieta Caesar! Kaizoku Doumei Shutsugeki,2013,115,6.9
+626,"95,520",-,1,627,Luffy Umi ni Shisu!? Kaizoku Doumei Houkai,2014,114,6.8
+627,"98,208",-,1,628,Daigyakuten! Sakuretsu Luffy Ikari no Tekken,2014,112,6.7
+628,"71,276",-,1,629,Gekishin! Shinsekai Ugokasu Dai News,2014,136,7.9
+629,"73,385",-,1,630,Bouken! Ai to Jounetsu no Kuni Dressrosa,2014,130,7.9
+630,"69,783",-,1,631,Nekkyou Uzumaku: Corrida Colosseum,2014,137,8.0
+631,"76,136",-,1,632,Kiken na Koi: Odoriko Violet,2014,126,7.8
+632,"76,137",-,1,633,Saikyou no Mumei Senshi! Lucy Toujou,2014,126,7.8
+633,"76,529",-,1,634,Kaizoku Kikoushi Cavendish,2014,125,7.8
+634,"74,881",-,1,635,Unmei no Saikai: Hyena no Bellamy,2014,126,7.9
+635,"75,229",-,1,636,Choushinsei! Hitokui no Bartolomeo,2014,125,7.9
+636,"77,199",-,1,637,Gun'yuu Kakkyo! Hakunetsu no B Block!,2014,120,7.9
+637,"74,882",-,1,638,Ichigeki Hissatsu! Kyoui no King Punch,2014,126,7.9
+638,"78,972",-,1,639,Tougyo Shuurai! Shi no Tekkyou o Toppa Seyo,2014,122,7.7
+639,"84,295",-,1,640,Bouken! Yousei no Shima Green Bit,2014,119,7.4
+640,"82,487",-,1,641,Shirarezaru Sekai Tontatta Oukoku,2014,120,7.5
+641,"75,165",1,1,642,Seiki no Bouryaku: Doflamingo Ugoku,2014,122,8.0
+642,"72,523",-,1,643,Tenchi Yurugasu! Taishou Fujitora no Jitsuryoku,2014,126,8.1
+643,"76,893",-,1,644,Ikari no Ichigeki! Kyojin vs Lucy,2014,124,7.8
+644,"83,482",-,1,645,Hakai-hou Sakuretsu! Lucy Kikiippatsu,2014,121,7.4
+645,"63,120",1,1,646,Densetsu no Kaizoku - Don Chinjao!,2014,148,8.3
+646,"81,584",-,1,647,Hikari to Kage - Dressrosa ni Hisomu Yami!,2014,119,7.6
+647,"80,624",-,1,648,Shutsugeki - Densetsu no Hero Usoland,2014,118,7.7
+648,"69,672",-,1,649,Gekisen Kecchaku! Lucy VS Chinjao!,2014,134,8.1
+649,"78,051",-,1,650,Luffy to Shukumei no Ken Toushi Rebecca,2014,118,7.9
+650,"80,577",-,1,651,Mamorinuku! Rebecca to Omocha no Heitai,2014,115,7.8
+651,"83,689",-,1,652,Saigo no Chou Gekisen Ku - D Block Kaisen,2014,114,7.6
+652,"84,156",-,1,653,Kessen! Joura vs Mugiwara no Ichimi,2014,113,7.6
+653,"77,651",-,1,654,Yoshiken! Hakuba no Cavendish,2014,119,7.9
+654,"68,377",-,1,655,Dai Kessen! Sanji VS Doflamingo,2014,138,8.1
+655,"79,324",-,1,656,Rebecca no Shi no Ken! Haisui no Kenbu,2014,118,7.8
+656,"83,690",-,1,657,Saikyou no Senshi! Logan vs Rebecca,2014,114,7.6
+657,"81,994",-,1,658,Shougeki! Omocha no Heitai no Shoutai!,2014,112,7.8
+658,"77,241",-,1,659,Senritsu no Kako! Dressrosa no Himitsu,2014,117,8.0
+659,"76,420",-,1,660,Akumu! Dressrosa Higeki no Ichiya,2014,119,8.0
+660,"64,189",2,1,661,Shichibukai Taiketsu Law VS Doflamingo,2014,141,8.4
+661,"64,732",1,1,662,Ryouyuu Aimamieru! Mugiwara to Ten Yasha,2014,139,8.4
+662,"45,219",12,1,663,Luffy Kyougaku: Ace no Ishi o Tsugu Otoko,2014,201,8.9
+663,"84,154",-,1,664,SOP Sakusen Kaishi: Usoland Totsugeki,2014,113,7.6
+664,"84,155",-,1,665,Atsuki Omoi - Rebecca vs. Suleiman,2014,113,7.6
+665,"81,995",-,1,666,Shousha Kettei!? D Block Shougeki no Ketsumatsu,2014,112,7.8
+666,"79,326",-,1,667,Taishou no Ketsudan - Fujitora vs. Doflamingo,2014,118,7.8
+667,"80,576",-,1,668,Kesshou Kaishi: Eiyuu Diamante Toujou,2014,115,7.8
+668,"80,119",-,1,669,Ugoku Shiro! Saikou Kanbu Pica Shutsugen,2014,116,7.8
+669,"75,567",-,1,670,Ryuu no Tsume Sakuretsu! Lucy Kyoui no Ichigeki!,2014,121,8.0
+670,"81,992",-,1,671,Tatou Sugar: Kodomo no Heitai Totsugeki!,2014,112,7.8
+671,"81,512",-,1,672,Saigo no Hikari: Warera ga Taichou no Himitsu!,2014,113,7.8
+672,"82,438",-,1,673,Panku Ningen: Gladius Dai Bakuhatsu!,2014,111,7.8
+673,"80,575",-,1,674,Usotsuki Usoland Tousouchuu!,2014,115,7.8
+674,"73,250",-,1,675,Unmei no Deai: Kyros to Riku Ou,2014,124,8.1
+675,"74,446",1,1,676,Sakusen Shippai! Eiyuu Usoland Shisu!?,2014,124,8.0
+676,"54,238",4,1,677,Densetsu Fukkatsu! Kyros Konshin no Ichigeki,2015,169,8.6
+677,"55,978",6,1,678,Kaken Sakuretsu! Fukkatsu Meramera no Mi no Chikara,2015,162,8.6
+678,"73,977",-,1,679,Sassou Toujou: Kakumeigun Sanbou Souchou Sabo!,2015,122,8.1
+679,"76,061",-,1,680,Akuma no Wana: Dressrosa Senmetsu Sakusen,2015,117,8.1
+680,"78,926",-,1,681,Go-oku no Otoko: Nerawareta Usoland!,2015,116,7.9
+681,"83,696",-,1,682,Tekijin Toppa: Luffy Zoro Hangeki Kaishi,2015,114,7.6
+682,"79,837",-,1,683,Daichi Meidou: Hakai Kami Kyoudai Pica Kourin,2015,114,7.9
+683,"81,991",-,1,684,Daishuuketsu! Luffy to Kyouaku Senshi Gundan,2015,112,7.8
+684,"76,816",-,1,685,Kaishingeki! Luffy Gundan vs Pica!,2015,118,8.0
+685,"78,458",-,1,686,Shougeki Kokuhaku! Law Atsuki Tamashii no Chikai!,2015,117,7.9
+686,"65,959",1,1,687,Daigekitotsu! Sanbou Souchou Sabo vs Taishou Fujitora,2015,142,8.2
+687,"76,028",-,1,688,Zettaizetsumei: Wana ni Kakatta Luffy!,2015,123,7.9
+688,"76,449",-,1,689,Daidasshutsu! Luffy Kishikaisei no Elephant Gun,2015,122,7.9
+689,"80,716",-,1,690,Kyoudousensen: Luffy Shouri e no Toppakou,2015,121,7.6
+690,"81,490",-,1,691,Futarime no Samurai: Yuudachi Kanjuurou Toujou,2015,116,7.7
+691,"71,670",1,1,692,Funtou to no Pica: Zoro Ichi Todome no Ichigeki,2015,125,8.2
+692,"84,170",-,1,693,Kobito no Hime: Toraware no Mansherry,2015,116,7.5
+693,"85,599",-,1,694,Fujimi! Kyoufu no Atamawari Ningyou Gundan,2015,116,7.4
+694,"75,566",-,1,695,Inochi Kakete! Luffy wa Shouri no Kirifuda,2015,121,8.0
+695,"73,592",-,1,696,Namida no Saikai: Rebecca to Kyros,2015,120,8.2
+696,"65,410",2,1,697,Ichigeki Hissatsu: Dressrosa o Sukuu Otoko,2015,137,8.4
+697,"50,194",5,1,698,Ikari Bakuhatsu: Luffy Law Saikyou no Hisaku,2015,179,8.8
+698,"64,681",1,1,699,Kedakaki Ichizoku! Doflamingo no Shoutai!,2015,136,8.5
+699,"72,033",2,1,700,Kyuukyoku no Chikara: Op-Op no Jitsu no Himitsu!,2015,124,8.2
+700,"67,047",4,1,701,Kanashiki Kioku: Shiroi Machi no Shounen Law!,2015,132,8.4
+701,"67,866",2,1,702,Tenryuubito! Doffy no Souzetsu Naru Kako,2015,133,8.3
+702,"58,062",4,1,703,Kunan no Michi: Law to Corazon Inochi no Tabi,2015,151,8.7
+703,"63,385",2,1,704,Toki Sameru! Op-Op no Mi o Ubae!,2015,137,8.6
+704,"60,565",2,1,705,Kakugo no Toki: Corazon Wakare no Egao!,2015,146,8.6
+705,"44,706",11,1,706,Yuke Law: Yasashiki Otoko Saigo no Tatakai!,2015,204,8.9
+706,"77,682",1,1,707,Jiyuu e! Law Injection Shot Sakuretsu,2015,116,8.0
+707,"61,716",3,1,708,Atsuki Tatakai: Law vs Doflamingo,2015,142,8.6
+708,"82,895",-,1,709,Kanbu Kessen: Hokori Takaki Hajrudin,2015,110,7.8
+709,"80,783",-,1,710,Ai no Kessen: Shintouryou Sai tai Baby 5,2015,109,8.0
+710,"80,326",-,1,711,Otoko no Iji: Bellamy Saigo no Totsugeki!,2015,110,8.0
+711,"79,125",1,1,712,Shippuudotou: Hakuba tai Dellinger,2015,110,8.1
+712,"75,803",-,1,713,Baribari: Homage Shinken Hatsudou!,2015,112,8.3
+713,"86,790",-,1,714,Iyashi no Hime: Mansherry o Sukue!,2015,102,7.8
+714,"72,044",1,1,715,Otoko no Kettou: Senor Ai no Banka,2015,121,8.3
+715,"76,571",1,1,716,Shi no Hoshikuzu: Diamante Moukou no Arashi,2015,113,8.2
+716,"75,367",1,1,717,Trueno Bastardo: Kyros Ikari no Ichigeki,2015,113,8.3
+717,"76,858",-,1,718,Daichi Oudan: Kyozou Pica Kishuu Sakusen!,2015,115,8.1
+718,"36,067",17,1,719,Kuuchuu Kessen: Zoro Shin Hissastsu Ougi Sakuretsu!,2015,262,9.1
+719,"69,523",-,1,720,Abayo! Bellamy Wakare no Ichigeki!,2015,125,8.4
+720,"69,524",-,1,721,Law Shisu: Luffy Fundo no Moukougeki!,2015,125,8.4
+721,"66,704",3,1,722,Shuunen no Yaiba: Gyakushuu no Gamma Knife!,2015,130,8.5
+722,"47,172",9,1,723,Haki Gekitotsu: Luffy tai Doflamingo,2015,190,8.9
+723,"69,872",-,1,724,Kougeki Funou: Trebol Shougeki no Himitsu,2015,124,8.4
+724,"56,977",4,1,725,Ikari Bakuhatsu: Ore ga Zenbu Hikiukeru,2016,158,8.6
+725,"30,035",23,1,726,Gear Fourth! Kyoui no Bounce Man!,2016,328,9.2
+726,"74,470",-,1,727,Daigyakushuu! Doflamingo no Kakusei!,2016,118,8.2
+727,"54,367",5,1,728,Luffy! Konshin no Leo Bazooka,2016,161,8.8
+728,"73,704",-,1,729,Kaen Ryuuou: Luffy no Inochi o Mamorinuke,2016,117,8.3
+729,"87,633",-,1,730,Kiseki no Namida: Mansherry no Tatakai!,2016,103,7.7
+730,"88,320",-,1,731,Inochi no Kagiri: Shi no Tori Kago o Tomero!,2016,110,7.4
+731,"82,122",-,1,732,Sei ka Shi ka: Unmei no Countdown,2016,109,7.9
+732,"47,660",5,1,733,Ten o Utsu: Luffy Ikari no King Kong Gun,2016,192,8.8
+733,"85,125",-,1,734,Jiyuu e! Yorokobi no Dressrosa!,2016,111,7.6
+734,"74,403",-,1,735,Zendaimimon: Taishou Fujitora Shougeki no Ketsudan!,2016,121,8.1
+735,"67,404",1,1,736,Gekishin Hashiru: Ugokidasu Saiaku no Sedai!,2016,128,8.5
+736,"76,555",1,1,737,Densetsu Tanjou: Kakumei Senshi Sabo no Bouken!,2016,113,8.2
+737,"75,671",-,1,738,Kyoudai no Kizuna: Luffy Sabo Saikai Hiwa,2016,115,8.2
+738,"51,012",4,1,739,Saikyou no Seibutsu: Yonkou - Hyakujuu no Kaidou,2016,179,8.7
+739,"85,316",-,1,740,Fujitora Ugoku: Mugiwara no Ichimi Kanzen Houimou,2016,105,7.8
+740,"84,334",-,1,741,Hijoujitai: Sarawareta Rebecca!,2016,107,7.8
+741,"85,671",-,1,742,Oyako no Kizuna: Kyros to Rebecca!,2016,107,7.7
+742,"69,575",2,1,743,Otoko no Iji: Luffy tai Fujitora Makkou Shoubu,2016,122,8.5
+743,"68,802",2,1,744,Nigeba Nashi: Taishou Fujitora Hijou no Tsuigeki!,2016,124,8.5
+744,"62,829",3,1,745,Kobun no Sakazuki: Kessei! Mugiwara Daisendan!,2016,142,8.5
+745,"75,251",2,1,746,Gun'yuukakyo: Arekuruu Shinsekai no Kaibutsu-tachi,2016,116,8.2
+746,"96,261",-,1,747,Gin no Yousai: Luffy to Barto Daibouken,2016,109,6.9
+747,"107,851",-,1,748,Chika Meikyuu: Luffy tai Torokko Ningen,2016,101,6.5
+748,"107,252",-,1,749,Kengi Hakunetsu: Law Zoro Tsui ni Kenzan!,2016,96,6.7
+749,"107,911",-,1,750,Zettaizetsumei: Luffy Kyokugen no Shakunetsu Kessen,2016,95,6.7
+750,"93,689",-,1,751,Bouken Kaimaku: Maboroshi no Shima &quot;Zou&quot; Touchaku!,2016,105,7.2
+751,"82,120",1,1,752,Shin Shichi Bukai: Densetsu Shirohige no Musuko Toujou,2016,109,7.9
+752,"90,259",-,1,753,Kesshi no Tozou: Kyozou no Se no Daibouken!,2016,106,7.4
+753,"95,499",-,1,754,Sentou Kaishi: Luffy vs Mink-zoku!,2016,99,7.3
+754,"92,824",-,1,755,Garchuu! Mugiwara no Ichimi Saishuuketsu,2016,101,7.4
+755,"95,500",-,1,756,Hangeki Kaishi: Guruwara no Ichimi Daikatsuyaku!,2016,99,7.3
+756,"89,130",-,1,757,Kyoui Shuurai: Hyakujuu Kaizokudan Jack!,2016,100,7.7
+757,"92,463",-,1,758,Hiru no Ou: Inuarashi Koushaku Toujou!,2016,99,7.5
+758,"85,946",1,1,759,Yoru no Ou: Nekomamushi no Danna Kenzan,2016,101,7.9
+759,"84,987",1,1,760,Shuto Kaimetsu: Guruware no Ichimi Jouriku!,2016,103,7.9
+760,"90,968",1,1,761,Limit Semaru: Mink-zoku to Ichimi no Kizuna!,2016,99,7.6
+761,"84,096",2,1,762,Akudou Kikyou: Yonkou Big Mom no Shikaku,2016,102,8.0
+762,"84,097",2,1,763,Shissou no Shinjitsu: Sanji Kyougaku no Shoutaijou,2016,102,8.0
+763,"80,456",3,1,764,Yarou Domo e: Sanji Wakare no Okitegami,2016,107,8.1
+764,"95,571",1,1,765,Nekomamushi no Danna ni Ai ni Ikou,2016,96,7.4
+765,"93,486",-,1,766,Luffy Ketsudan: Sanji Dattai no Kiki!,2016,97,7.5
+766,"72,127",3,1,767,Isshokusokuhatsu: Inu to Neko to Samurai!,2016,118,8.4
+767,"87,640",-,1,768,Sanninme! Ninja Kiri no Raizou Toujou,2016,103,7.7
+768,"75,205",-,1,769,Akai Ishi! &quot;One Piece&quot; e no Michishirube,2016,119,8.1
+769,"74,109",2,1,770,Wano Kuni no Himitsu: Kouzuki-ke to Rekishi no Ponegliffs,2016,116,8.3
+770,"86,656",1,1,771,Okoto no Chikai: Luffy to Kouzuki Momonosuke,2017,105,7.7
+771,"92,671",-,1,772,Densetsu no Koukai: Inu to Neko to Kaizokuou!,2017,96,7.6
+772,"93,897",-,1,773,Akumu Futatabi: Fujimi no Jack Kyoushuu,2017,94,7.6
+773,"87,242",1,1,774,Zou Boueisen: Luffy to Zunesha!,2017,101,7.8
+774,"104,368",-,1,775,Zunesha o Sukue: Mugiwara Rescue Daisakusen!,2017,87,7.2
+775,"94,977",-,1,776,Wakare no Gezou: Sanji Dakkan no Funade!,2017,92,7.6
+776,"101,005",-,1,777,Reverie e: Oujo Vivi to Shirahoshi-hime,2017,95,7.1
+777,"101,540",-,1,778,Reverie e: Rebecca to Sakura Oukoku,2017,89,7.3
+778,"95,604",-,1,779,Kaidou Futatabi: Kyoui Semaru Saiaku no Sedai!,2017,91,7.6
+779,"108,112",-,1,780,Harapeko Sensen: Luffy to Kaigun Rookie!,2017,82,7.2
+780,"107,967",-,1,781,Shuunen no 3 Nin: Mugiwara Ichimi Dai Chase!,2017,80,7.3
+781,"103,307",-,1,782,Akuma no Kobushi: Kessen! Luffy tai Grant,2017,84,7.4
+782,"97,503",-,1,783,Sanji Kikyou: Big Mom no Nawabari e!,2017,88,7.6
+783,"97,504",1,1,784,Rei to Yon: Souguu! Germa Double Six,2017,88,7.6
+784,"82,637",3,1,785,Moudoku no Kiki: Luffy to Reiju!,2017,100,8.2
+785,"91,535",-,1,786,Totto Land! Yonkou Big Mom Toujou,2017,98,7.6
+786,"93,283",-,1,787,Yonkou no Musume: Sanji no Fiancee Purin,2017,95,7.6
+787,"98,851",-,1,788,Dai Shingeki! Kui Wazurai no Mom,2017,86,7.6
+788,"94,784",-,1,789,Shuto Houkai!? Big Mom to Jinbee,2017,90,7.7
+789,"98,263",-,1,790,Yonkou No Shiro: Whole Cake Island Touchaku,2017,87,7.6
+790,"102,688",-,1,791,Okashi na Mori: Luffy tai Luffy!?,2017,85,7.4
+791,"102,689",-,1,792,Mom no Shikaku: Luffy to Yuuwaku no Mori!,2017,85,7.4
+792,"95,960",-,1,793,Kaiyuu Kokka: Germa no Ou Judge,2017,93,7.5
+793,"97,502",-,1,794,Oyako Taiketsu: Judge tai Sanji!,2017,88,7.6
+794,"99,005",-,1,795,Kyoudai na Yabou: Big Mom to Caesar,2017,88,7.5
+795,"101,803",-,1,796,Tamashii no Kuni: Mom no Osorubeki Nouryoku!,2017,84,7.5
+796,"97,319",-,1,797,Daikanbu! Sanshousei Cracker Toujou!,2017,86,7.7
+797,"93,542",-,1,798,8 Oku no Teki: Luffy tai Senshu no Cracker,2017,92,7.7
+798,"88,095",2,1,799,Zenryoku Shoubu: Gear Fourth tai Bisbis no Chikara,2017,97,7.9
+799,"89,188",1,1,800,Ichi to Ni: Shuuketsu! Vinsmoke-ke,2017,95,7.9
+800,"91,851",1,1,801,Onjin no Inochi: Sanji to Owner Zeff,2017,95,7.7
+801,"84,061",2,1,802,Ikari no Sanji: Germa Double Six no Himitsu,2017,95,8.3
+802,"79,038",3,1,803,Suteta Kako: Vinsmoke Sanji,2017,100,8.5
+803,"40,918",24,1,804,East Blue e: Sanji Ketsui no Funade,2017,215,9.2
+804,"76,201",2,1,805,Genkai Shoubu: Luffy to Mugen Biscuit,2017,106,8.5
+805,"65,324",4,1,806,Manpuku no Chikara: Shin Gear Fourth Tan Man!,2017,125,8.8
+806,"57,178",2,1,807,Kanashiki Kettou: Luffy tai Sanji (Zenpen),2017,169,8.3
+807,"18,272",58,1,808,Kanashiki Kettou: Luffy tai Sanji (Kouhen),2017,571,9.6
+808,"72,699",3,1,809,Fukushuu no Arashi: Ikari no Gundan Shuurai!,2017,114,8.5
+809,"71,992",3,1,810,Bouken no Owari: Sanji Ketsui no Propose,2017,113,8.6
+810,"76,202",3,1,811,Koko de Matsu: Luffy tai Ikari no Gundan,2017,106,8.5
+811,"76,203",3,1,812,Chateau Sennyuu: Ubae! Road Ponegliff,2017,106,8.5
+812,"86,388",3,1,813,Innnen no Taimen: Luffy to Big Mom!,2017,93,8.2
+813,"77,832",3,1,814,Tamashii no Sakebi: Brook &amp; Pedro Dengeki Sakusen,2017,105,8.4
+814,"77,061",3,1,815,Sayonara: Purin Namida no Ketsui,2017,104,8.5
+815,"73,681",3,1,816,Hidari Me no Innen: Pedro tai Tamago-Danshaku,2017,109,8.6
+816,"37,535",21,1,817,Shikemoku: Sanji no Kekkon Zen'ya,2017,242,9.2
+817,"71,991",3,1,818,Fukutsu no Soul: Brook tai Big Mom,2017,113,8.6
+818,"73,933",2,1,819,Sora no Negai: Germa no Shippaisaku Sanji,2017,111,8.5
+819,"71,196",4,1,820,Sanji no Moto e: Luffy Gyakushuu no Dai Gekisou!,2018,115,8.6
+820,"82,638",4,1,821,Chateau Douran: Luffy Yakusoku no Basho e,2018,100,8.2
+821,"95,607",3,1,822,Wakare no Ketsui: Sanji to Mugiwara Bentou,2018,91,7.6
+822,"90,969",2,1,823,Yonkou no Negaeri: Brook Kyuushutsu Daisakusen!,2018,99,7.6
+823,"82,946",4,1,824,"The Rendezvous! Luffy, a One-on-One at His Limit!",2018,102,8.1
+824,"70,449",4,1,825,A Liar! Luffy and Sanji!!,2018,117,8.6
+825,"86,010",3,1,826,Sanji Comes Back! Crash! The Tea Party from Hell!,2018,96,8.1
+826,"93,893",4,1,827,A Secret Meeting! Luffy vs. the Fire Tank Pirates!,2018,94,7.6
+827,"92,912",2,1,828,The Deadly Pact! Luffy &amp; Bege's Allied Forces!,2018,93,7.7
+828,"98,741",2,1,829,Luffy Engages in a Secret Maneuver! The Wedding Full of Consp...,2018,84,7.7
+829,"84,773",3,1,830,The Family Gets Together! The Hellish Tea Party Starts!,2018,96,8.2
+830,"99,531",3,1,831,The Broken Couple! Sanji and Pudding Enter!,2018,85,7.6
+831,"76,396",2,1,832,A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!,2018,103,8.6
+832,"44,896",16,1,833,Returning the Sake Cup! The Manly Jimbei Pays His Debt!,2018,194,9.1
+833,"88,031",3,1,834,The Mission Failed?! The Big Mom Pirates Strike Back!,2018,88,8.3
+834,"88,621",3,1,835,"Run, Sanji! SOS! Germa 66!",2018,87,8.3
+835,"106,923",2,1,836,Mom's Secret! The Giant's Island Elbaph and a Little Monster!,2018,77,7.5
+836,"92,995",2,1,837,The Birth of Mom! The Day That Carmel Vanished!,2018,84,8.1
+837,"99,355",2,1,838,The Launcher Blasts! The Moment of Big Mom's Assassination!,2018,83,7.7
+838,"101,605",2,1,839,The Evil Army! Transform! Germa 66!,2018,82,7.6
+839,"104,015",3,1,840,Cutting the Father-Son Relationship! Sanji and Judge!,2018,83,7.4
+840,"95,723",3,1,841,Escape From the Tea Party! Luffy vs. Big Mom!,2018,82,8.0
+841,"99,926",2,1,842,The Execution Begins! Luffy's Allied Forces Are Annihilated?!&quot;,2018,78,7.9
+842,"112,998",2,1,843,The Chateau Collapses! The Straw Hat's Great Escape Begins!,2018,70,7.5
+843,"112,204",3,1,844,The Spear of Elbaph! Onslaught! The Flying Big Mom!,2018,77,7.2
+844,"106,098",2,1,845,Pudding's Determination! Ablaze! The Seducing Woods!,2018,76,7.6
+845,"106,099",3,1,846,A Lightning Counterattack! Nami and Zeus the Thundercloud!,2018,76,7.6
+846,"104,539",2,1,847,A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!,2018,78,7.6
+847,"107,078",3,1,848,Save the Sunny! Fighting Bravely! Chopper and Brook!,2018,79,7.4
+848,"60,994",8,1,849,"Before the Dawn! Pedro, the Captain of the Guardians!",2018,138,8.8
+849,"56,863",10,1,850,"I'll Be Back! Luffy, Deadly Departure!",2018,148,8.9
+850,"87,545",1,1,851,The Man with a Bounty of Billion! The Strongest Sweet General...,2018,91,8.2
+851,"84,586",2,1,852,A Hard Battle Starts! Luffy vs. Katakuri!,2018,94,8.3
+852,"97,320",1,1,853,"The Green Room! An Invincible Helmsman, Jimbei!",2018,86,7.7
+853,"89,418",1,1,854,The Threat of the Mole! Luffy's Silent Fight!,2018,90,8.1
+854,"93,882",1,1,855,The End of the Deadly Battle?! Katakuri's Awakening in Anger!,2018,87,7.9
+855,"51,718",8,1,856,The Forbidden Secret! Katakuri's Merienda!,2018,168,8.9
+856,"90,671",2,1,857,Luffy Fights Back! The Invincible Katakuri's Weak Point!,2018,90,8.0
+857,"101,800",1,1,858,Another Crisis! Gear Four vs. Unstoppable Donuts!,2018,84,7.5
+858,"110,526",1,1,859,"The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transp...",2018,79,7.2
+859,"103,867",1,1,860,The Cake Sank?! Sanji and Bege's Getaway Battle!,2018,81,7.5
+860,"110,308",1,1,861,The Cake Sank?! Sanji and Bege's Getaway Battle!,2018,77,7.3
+861,"72,698",4,1,862,Sulong! Carrot's Big Mystic Transformation!,2018,114,8.5
+862,"103,868",1,1,863,Break Through! The Straw Hat's Mighty Sea Battle!,2018,81,7.5
+863,"96,708",1,1,864,Finally Clash - Yonko VS Straw Hat Crew,2018,87,7.7
+864,"96,569",1,1,865,Dark King's Direct Precepts! The Battle Against Katakuri Turn...,2018,85,7.8
+865,"103,303",1,1,866,"Finally He Returns! Sanji, the Man Who'll Stop the Emperor of...",2018,84,7.4
+866,"81,376",3,1,867,Lurking in the Darkness! An Assassin Targeting Luffy!,2019,105,8.1
+867,"37,048",22,1,868,One Man's Determination! Katakuri's Deadly Big Fight!,2019,252,9.1
+868,"61,971",6,1,869,Wake Up! The Color of Observation Able to Top the Strongest!,2019,135,8.8
+869,"15,729",80,1,870,A Fist of Divine Speed! Another Gear Four Application Activated!,2019,683,9.5
+870,"56,862",12,1,871,Finally Concluded - An Outcome of the Fierce Battle with Kata...,2019,148,8.9
+871,"88,272",1,1,872,A Desperate Situation! The Iron-Tight Entrapment of Luffy!,2019,92,8.1
+872,"86,319",1,1,873,Pulling Back from the Brink! The Formidable Reinforcements - ...,2019,91,8.3
+873,"96,457",1,1,874,The Last Hope! The Sun Pirates Emerge!,2019,83,7.9
+874,"87,269",3,1,875,A Fascinating Taste - Sanji's Cake of Happiness,2019,96,8.0
+875,"84,584",1,1,876,"The Man of Humanity and Justice - Jinbe, a Desperate Massive ...",2019,94,8.3
+876,"38,952",20,1,877,Time for Farewell! Pudding's One Last Request!,2019,235,9.1
+877,"81,085",1,1,878,The World in Shock! The Fifth Emperor of the Sea Arrives!,2019,114,7.8
+878,"99,319",1,1,879,To the Levely! Gathering of the Straw Hat Allies!,2019,95,7.2
+879,"91,492",3,1,880,Sabo Goes into Action! All the Captains of the Revolutionary ...,2019,98,7.6
+880,"116,089",5,1,881,Going into Action! The Implacable New Admiral of the Fleet - ...,2019,120,5.6
+881,"110,806",3,1,882,The Paramount War! The Inherited Will of the King of the Pira...,2019,113,6.0
+882,"110,797",2,1,883,One Step Ahead of the Dream - Shirahoshi's Path to the Sun!,2019,106,6.2
+883,"108,150",2,1,884,I Miss Him! Vivi and Rebecca's Sentiments!,2019,107,6.3
+884,"92,212",2,1,885,In the Dark Recesses of the Holyland! A Mysterious Giant Stra...,2019,114,7.0
+885,"93,460",3,1,886,The Uproarious Holy Land - Princess Shirahoshi is being targe...,2019,118,6.8
+886,"66,430",3,1,887,On the Verge - The Two Yonko Targeting Luffy,2019,144,8.1
+887,"78,078",3,1,888,Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma,2019,121,7.8
+888,"88,321",3,1,889,"Finally, It Starts! The Conspiracy-filled Reverie!",2019,110,7.4
+889,"99,853",1,1,890,Marco! The Keeper of Whitebeard's Last Memento!,2019,94,7.2
+890,"57,213",3,1,891,Climbing Up a Waterfall! A Great Journey Through the Land of ...,2019,161,8.5
+891,"29,288",29,1,892,Wano Country! To the Land of Dancing Sakura and Samurai,2019,340,9.2
+892,"51,888",5,1,893,Otama Appears! Luffy vs. Kaido's Army!,2019,171,8.8
+893,"51,654",6,1,894,He'll Come! The Legend of Ace in the Land of Wano!,2019,172,8.8
+894,"117,329",-,1,895,"Side Story! The World's Greatest Bounty Hunter, Cidre!",2019,96,6.2
+895,"126,450",1,1,896,Side Story! Clash! Luffy vs. the King of Carbonation!,2019,91,6.0
+896,"61,848",3,1,897,"Save Otama! Straw Hat, Bounding through the Wasteland!",2019,145,8.5
+897,"66,406",3,1,898,The Headliner! Hawkings the Magician Appears!,2019,134,8.4
+898,"48,195",12,1,899,Defeat is Inevitable! The Strawman's Fierce Attack!,2019,185,8.9
+899,"71,027",4,1,900,The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!,2019,121,8.4
+900,"87,971",2,1,901,Entering Enemy Territory! The Protagonists Spread into the To...,2019,105,7.6
+901,"89,525",2,1,902,The Yokozuna Appears! The Invincible Urashima Goes After Okiku!,2019,102,7.6
+902,"96,899",3,1,903,A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yok...,2019,118,6.6
+903,"99,060",2,1,904,Luffy Rages! Rescue Otama from Danger!,2019,107,6.8
+904,"74,034",5,1,905,Fighting for Otama! Fight against Holdem!,2019,119,8.2
+905,"76,268",6,1,906,Duel! The Magician and the Surgeon of Death!,2019,111,8.3
+906,"108,149",4,1,907,Romance Dawn,2019,107,6.3
+907,"74,994",6,1,908,The Coming of the Treasure Ship! Luffytaro Returns the Favor!,2019,114,8.3
+908,"61,121",5,1,909,Nazo no Bohyo - Oden Joseki de no Saikai!,2019,144,8.6
+909,"70,223",6,1,910,A Legendary Samurai! The Man Who Roger Admired!,2019,123,8.4
+910,"82,536",3,1,911,Bringing Down the Emperor of the Sea! A Secret Raid Operation...,2019,108,7.9
+911,"38,386",21,1,912,"The Strongest Man in the World! Shutenmaru, the Thieves Briga...",2019,245,9.0
+912,"44,651",14,1,913,Everyone is Annihilated! Kaido's Furious Blast Breath!,2019,209,8.8
+913,"26,154",32,1,914,Finally Clashing! The Ferocious Luffy vs. Kaido!,2019,397,9.2
+914,"30,998",21,1,915,Hakai-teki! Ichigeki Hissatsu no Raimei Hakke!,2019,321,9.1
+915,"52,460",8,1,916,Iki-jigoku! Rufi Kutsujoku no Dai Tankutsu-jo,2020,185,8.4
+916,"41,065",16,1,917,The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!,2020,234,8.8
+917,"76,819",6,1,918,Ugokidasu - Dato Kaido Daikeikaku!,2020,121,7.9
+918,"78,461",6,1,919,Rampage! The Prisoners - Luffy and Kid!,2020,117,7.9
+919,"82,824",7,1,920,Dai Hyoban! Sanji no Ohako Soba!,2020,116,7.6
+920,"90,380",6,1,921,Goka Kenran - Wano Kuni Ichi no Bijo: Komurasaki,2020,129,6.7
+921,"76,454",5,1,922,A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!,2020,122,7.9
+922,"74,793",6,1,923,A State of Emergency! Big Mom Closes in!,2020,120,8.1
+923,"52,131",11,1,924,The Capital in an Uproar! Another Assassin Targets Sanji!,2020,170,8.8
+924,"56,513",6,1,925,Dashing! The Righteous Soba Mask!,2020,160,8.6
+925,"83,423",7,1,926,Zettai Zetsumei - Kyoi no Orochi Oniwabanshu,2020,109,7.8
+926,"91,196",5,1,927,Shura-jo! Osoreru Daija Shogun Orochi,2020,110,7.2
+927,"90,228",6,1,928,The Flower Falls! The Final Moment of the Most Beautiful Woma...,2020,112,7.2
+928,"93,158",7,1,929,The Bond Between Prisoners! Luffy and Old Man Hyo!,2020,109,7.1
+929,"90,008",6,1,930,A Lead Performer! Queen the Plague Emerges!,2020,101,7.6
+930,"98,178",8,1,931,Goes up. Luffy's Desperate Escape!,2020,97,7.2
+931,"86,654",5,1,932,Dead or Alive! Queen's Sumo Inferno!,2020,105,7.7
+932,"63,983",11,1,933,Gyukimaru! Zoro Fights a Duel on Bandit's Bridge,2020,145,8.3
+933,"33,972",40,1,934,A Big Turnover! The Three-Sword Style Overcomes Danger!,2020,297,8.9
+934,"85,807",7,1,935,"Zoro, Stunned! The Shocking Identity of the Mysterious Woman!",2020,104,7.8
+935,"90,354",8,1,936,Get the Hang of It! The Land of Wano's Haki - Ryuo!,2020,103,7.5
+936,"95,963",5,1,937,Tonoyasu! Ebisu's most beloved!,2020,93,7.5
+937,"98,177",5,1,938,Shaking the nation. The identity of Ushimitsu Kozo,2020,97,7.2
+938,"74,401",7,1,939,The Straw Hats are running! Save the captive Tonoyasu,2020,121,8.1
+939,"43,705",14,1,940,Zoro's Fury! The Truth About the Smile!,2020,220,8.7
+940,"63,835",8,1,941,Toko's Tears! Orochi's Pitiless Bullets!,2020,153,8.1
+941,"65,941",7,1,942,The Straw Hats Step In! An Uproarious Deadly Battle at the Ex...,2020,142,8.2
+942,"74,788",7,1,943,Luffy's Determination! Win Through the Sumo Inferno!,2020,120,8.1
+943,"87,020",6,1,944,The Coming of the Storm! Big Mom's Great Rampage!,2020,107,7.6
+944,"60,589",6,1,945,A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation,2020,153,8.4
+945,"89,320",6,1,946,Stop the Emperor of the Sea! Queen's Secret Plan!,2020,111,7.3
+946,"89,331",6,1,947,The Ultimate Weapon! Excite Bullets Aimed at Luffy,2020,108,7.4
+947,"79,090",9,1,948,Start Fighting Back! Luffy and the Red Scabbard Samurai!,2020,125,7.6
+948,"50,714",16,1,949,We're Here to Win! Luffy's Desperate Scream!,2020,189,8.5
+949,"49,737",15,1,950,Warriors' Dream! Luffy's Conquer of Udon!,2020,199,8.4
+950,"59,574",15,1,951,Orochi's Pursuers! Ninja Army Corps vs. Zoro,2020,177,7.9
+951,"54,156",16,1,952,Tension Rises in Onigashima! Two Emperors of the Sea Meet?!,2020,191,8.1
+952,"45,193",28,1,953,Hiyori's Confession! Reunion on Oihagi Bridge,2020,249,8.0
+953,"41,448",26,1,954,Its Name is Enma! Oden's Meito!,2020,302,7.7
+954,"35,342",44,1,955,&quot;A New Alliance?! Kaido's Army Gathers&quot;,2020,407,7.4
+955,"33,715",75,1,956,Ticking Down to the Great Battle! The Straw Hats Go into Comb...,2020,353,8.2
+956,"2,940",964,1,957,Big News! The Warlords Attack Incident,2021,"2.862",9.1
+957,"14,751",-,1,958,&quot;The Legendary Battle! Garp and Roger&quot;,2021,746,9.4
