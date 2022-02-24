@@ -11,15 +11,23 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
     def main():
 
-        nums= [1,2,3,4,5]
-        words= {"verb": "sprint",
-                "adjective": "awesome",
-                "noun": "Python"
+        words= {1: "great",
+                2: "awesome",
+                3: "super"}
 
-        name= input(What is your name?\n>)
-
-        # Hi <name>! Welcome to Day 2 of Python Training!
-        print("Hi " + name.capitalize + "! Welcome to Day " + nums[1] + " of " + words[noun] + " Training!")
+        while true
+            name= input(What is your name?\n>)
+            num= input("Pick a number between 1 and 3: ")
+            
+            if name and num in words.keys():
+                # Hi <name>! Welcome to Day 2 of Python Training!
+                print("Hi " + name.capitalize + "! Have a " + words[num] + " day!")
+                brake
+            else:
+              print("Come on, follow directions. Try again.")
+              continue
+              # the continue keyword skips over any remaining code and goes back to
+              # the beginning of the while loop!
     ```
 
 0. Change the permission settings.
