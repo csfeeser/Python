@@ -6,7 +6,7 @@ Looping through dictionaries isn't easy! We'll be tackling some challenging APIs
 
 0. Create a new file in a directory of your choice.
 
-    `student@napya-####-bchd:~/mycode/` `vim mommas.json`
+    `student@bchd:~` `vim mommas.json`
     
 0. Paste in the following:
 
@@ -19,7 +19,7 @@ Looping through dictionaries isn't easy! We'll be tackling some challenging APIs
 0. Make another file IN THE SAME DIRECTORY.
 
 
-    `student@napya-####-bchd:~/mycode/` `vim mamachallenge.py`
+    `student@bchd:~/mycode/` `vim mamachallenge.py`
     
 0. Paste in the following:
 
