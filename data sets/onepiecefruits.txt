@@ -1,0 +1,180 @@
+Character,Devil Fruit,Class,Subclass,Awakened,Status
+Marshall D. Teach,Gura Gura no Mi,Paramecia,Regular Paramecia,No,Consumed
+Marshall D. Teach,Yami Yami no Mi,Logia,Regular Logia,No,Consumed
+Absalom,Suke Suke no Mi,Paramecia,Regular Paramecia,No,Re-Consumed
+Alpacaman,Alpaca SMILE,SMILE,Artificial Zoan,No,Consumed
+Alvida,Sube Sube no Mi,Paramecia,Regular Paramecia,No,Consumed
+Artur Bacca,Dero Dero no Mi,Paramecia,Regular Paramecia,No,Consumed
+Babanuki,Elephant SMILE,SMILE,Artificial Zoan,No,Consumed
+Baby 5,Buki Buki no Mi,Paramecia,Regular Paramecia,No,Consumed
+Bartholomew Kuma,Nikyu Nikyu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Bartolomeo,Bari Bari no Mi,Paramecia,Regular Paramecia,No,Consumed
+Basil Hawkins,Wara Wara no Mi,Paramecia,Regular Paramecia,No,Consumed
+Batman,Bat SMILE,SMILE,Artificial Zoan,No,Consumed
+Bear gifter (chapter 943),Bear SMILE,SMILE,Artificial Zoan,No,Consumed
+Bellamy,Bane Bane no Mi,Paramecia,Regular Paramecia,No,Consumed
+Belo Betty,Kobu Kobu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Bentham,Mane Mane no Mi,Paramecia,Regular Paramecia,No,Consumed
+Bian,"Mushi Mushi no Mi, Model: Suzumebachi",Zoan,Regular Zoan,No,Consumed
+Blamenco,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Blueno,Doa Doa no Mi,Paramecia,Regular Paramecia,No,Consumed
+Boa Hancock,Mero Mero no Mi,Paramecia,Regular Paramecia,No,Consumed
+Boa Marigold,"Hebi Hebi no Mi, Model: King Cobra",Zoan,Regular Zoan,No,Consumed
+Boa Sandersonia,"Hebi Hebi no Mi, Model: Anaconda",Zoan,Regular Zoan,No,Consumed
+Borsalino,Pika Pika no Mi,Logia,Regular Logia,No,Consumed
+Brook,Yomi Yomi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Buffalo,Guru Guru no Mi,Paramecia,Regular Paramecia,No,Consumed
+Buggy,Bara Bara no Mi,Paramecia,Regular Paramecia,No,Consumed
+Bull gifter (chapter 943),Bull SMILE,SMILE,Artificial Zoan,No,Consumed
+Bunbuku,"Inu Inu no Mi, Model: Tanuki",Zoan,Regular Zoan,No,Consumed
+Caesar Clown,Gasu Gasu no Mi,Logia,Regular Logia,No,Consumed
+Capone Bege,Shiro Shiro no Mi,Paramecia,Regular Paramecia,No,Consumed
+Caribou,Numa Numa no Mi,Logia,Regular Logia,No,Consumed
+Carmel,Soru Soru no Mi,Paramecia,Regular Paramecia,No,Re-Consumed
+Catarina Devon,"Inu Inu no Mi, Model: Kyubi",Zoan,Mythical Zoan,No,Consumed
+Chaka,"Inu Inu no Mi, Model: Jackal",Zoan,Regular Zoan,No,Consumed
+Charlotte Brûlée,Mira Mira no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Cracker,Bisu Bisu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Daifuku,Hoya Hoya no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Galette,Bata Bata no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Katakuri,Mochi Mochi no Mi,Paramecia,Special Paramecia,Yes,Consumed
+Charlotte Linlin,Soru Soru no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Mont-d'Or,Buku Buku no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Newshi,Gocha Gocha no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Opera,Kuri Kuri no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Oven,Netsu Netsu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Perospero,Pero Pero no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Pudding,Memo Memo no Mi,Paramecia,Regular Paramecia,No,Consumed
+Charlotte Smoothie,Shibo Shibo no Mi,Paramecia,Regular Paramecia,No,Consumed
+Crab gifter (chapter 808),Crab SMILE,SMILE,Artificial Zoan,No,Consumed
+Crab gifter (chapter 935),Crab SMILE,SMILE,Artificial Zoan,No,Consumed
+Crocodile gifter (chapter 943),Crocodile SMILE,SMILE,Artificial Zoan,No,Consumed
+Crocodile,Suna Suna no Mi,Logia,Regular Logia,No,Consumed
+Daifugo,Scorpion SMILE,SMILE,Artificial Zoan,No,Consumed
+Dalmatian,(unnamed),Zoan,Regular Zoan,No,Consumed
+Dalton,"Ushi Ushi no Mi, Model: Bison",Zoan,Regular Zoan,No,Consumed
+Daz Bones,Supa Supa no Mi,Paramecia,Regular Paramecia,No,Consumed
+Diamante,Hira Hira no Mi,Paramecia,Regular Paramecia,No,Consumed
+Dobon,Hippo SMILE,SMILE,Artificial Zoan,No,Consumed
+Donquixote Doflamingo,Ito Ito no Mi,Paramecia,Regular Paramecia,Yes,Consumed
+Donquixote Rosinante,Nagi Nagi no Mi,Paramecia,Regular Paramecia,No,Free
+Drophy,Mogu Mogu no Mi,Zoan,Regular Zoan,No,Consumed
+Edward Newgate,Gura Gura no Mi,Paramecia,Regular Paramecia,No,Re-Consumed
+Elephant gifter (chapter 943),Elephant SMILE,SMILE,Artificial Zoan,No,Consumed
+Emporio Ivankov,Horu Horu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Enel,Goro Goro no Mi,Logia,Regular Logia,No,Consumed
+Epoida,(unnamed),Zoan,Regular Zoan,No,Consumed
+Eustass Kid,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Foxy,Noro Noro no Mi,Paramecia,Regular Paramecia,No,Consumed
+Funkfreed,Zou Zou no Mi,Zoan,Regular Zoan,No,Consumed
+Galdino,Doru Doru no Mi,Paramecia,Regular Paramecia,No,Consumed
+Gazelleman,Gazelle SMILE,SMILE,Artificial Zoan,No,Consumed
+Gecko Moria,Kage Kage no Mi,Paramecia,Regular Paramecia,No,Consumed
+Gem,Bomu Bomu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Ginrummy,(unnamed),SMILE,Artificial Zoan,No,Consumed
+Giolla,Ato Ato no Mi,Paramecia,Regular Paramecia,No,Consumed
+Giraffe gifter (chapter 943),Giraffe SMILE,SMILE,Artificial Zoan,No,Consumed
+Gladius,Pamu Pamu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Gorila gifter (chapter 810),Gorilla SMILE,SMILE,Artificial Zoan,No,Consumed
+Gorila gifter (chapter 949),Gorilla SMILE,SMILE,Artificial Zoan,No,Consumed
+Han,(unnamed),Failed SMILE,Failed Artificial Zoan,No,Consumed
+Hina,Ori Ori no Mi,Paramecia,Regular Paramecia,No,Consumed
+Holdem,Lion SMILE,SMILE,Artificial Zoan,No,Consumed
+Horse gifter (chapter 942) #1,Horse SMILE,SMILE,Artificial Zoan,No,Consumed
+Horse gifter (chapter 942) #2,Horse SMILE,SMILE,Artificial Zoan,No,Consumed
+Horse gifter (chapter 942) #3,Horse SMILE,SMILE,Artificial Zoan,No,Consumed
+Horse gifter (chapter 942) #4,Horse SMILE,SMILE,Artificial Zoan,No,Consumed
+Inazuma,Choki Choki no Mi,Paramecia,Regular Paramecia,No,Consumed
+Issho,Zushi Zushi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Jabra,"Inu Inu no Mi, Model: Wolf",Zoan,Regular Zoan,No,Consumed
+Jack,"Zou Zou no Mi, Model: Mammoth",Zoan,Ancient Zoan,No,Consumed
+Jewelry Bonney,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Jozu,Kira Kira no Mi,Paramecia,Regular Paramecia,No,Consumed
+Kabu,"Mushi Mushi no Mi, Model: Kabutomushi",Zoan,Regular Zoan,No,Consumed
+Kaido,(unnamed),Zoan,Mythical Zoan,No,Consumed
+Kaku,"Ushi Ushi no Mi, Model: Giraffe",Zoan,Regular Zoan,No,Consumed
+Kalifa,Awa Awa no Mi,Paramecia,Regular Paramecia,No,Consumed
+Kanjuro,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Karasu,(unnamed),(undetermined),(undetermined),No,Consumed
+Kelly Funk,Jake Jake no Mi,Paramecia,Regular Paramecia,No,Consumed
+Killer,(unnamed),Failed SMILE,Failed Artificial Zoan,No,Consumed
+Kin'emon,Fuku Fuku no Mi,Paramecia,Regular Paramecia,No,Consumed
+King,"Ryu Ryu no Mi, Model: Pteranodon",Zoan,Ancient Zoan,No,Consumed
+Kozuki Momonosuke,(unnamed),SMILE,Artificial Zoan,No,Consumed
+Kozuki Toki,Toki Toki no Mi,Paramecia,Regular Paramecia,No,Free
+Kurozumi Orochi,"Hebi Hebi no Mi, Model: Yamata no Orochi",Zoan,Mythical Zoan,No,Consumed
+Kuzan,Hie Hie no Mi,Logia,Regular Logia,No,Consumed
+Laffitte,(unnamed),(undetermined),(undetermined),No,Consumed
+Lassoo,"Inu Inu no Mi, Model: Dachshund",Zoan,Regular Zoan,No,Consumed
+Leo,Nui Nui no Mi,Paramecia,Regular Paramecia,No,Consumed
+Lynx gifter (chapter 943),Lynx SMILE,SMILE,Artificial Zoan,No,Consumed
+Machvise,Ton Ton no Mi,Paramecia,Regular Paramecia,No,Consumed
+Madilloman,Armadillo SMILE,SMILE,Artificial Zoan,No,Consumed
+Magellan,Doku Doku no Mi,Paramecia,Regular Paramecia,No,Consumed
+Mansherry,Chiyu Chiyu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Marco,"Tori Tori no Mi, Model Phoenix",Zoan,Mythical Zoan,No,Consumed
+Mikita,Kilo Kilo no Mi,Paramecia,Regular Paramecia,No,Consumed
+Minochihuahua,(unnamed),Zoan,Regular Zoan,Yes,Consumed
+Minokoala,(unnamed),Zoan,Regular Zoan,Yes,Consumed
+Minorhinoceros,(unnamed),Zoan,Regular Zoan,Yes,Consumed
+Minotaurus,(unnamed),Zoan,Regular Zoan,Yes,Consumed
+Minozebra,(unnamed),Zoan,Regular Zoan,Yes,Consumed
+Monet,Yuki Yuki no Mi,Logia,Regular Logia,No,Free
+Monkey D. Luffy,Gomu Gomu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Morgans,"Tori Tori no Mi, Model: Albatross",Zoan,Regular Zoan,No,Consumed
+Morley,Oshi Oshi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Mouse gifter (chapter 808),Mouse SMILE,SMILE,Artificial Zoan,No,Consumed
+Mouseman,Mouse SMILE,SMILE,Artificial Zoan,No,Consumed
+Nico Robin,Hana Hana no Mi,Paramecia,Regular Paramecia,No,Consumed
+Onigumo,(unnamed),Zoan,Regular Zoan,No,Consumed
+Page One,"Ryu Ryu no Mi, Model: Spinosaurus",Zoan,Ancient Zoan,No,Consumed
+Pandaman,Panda SMILE,SMILE,Artificial Zoan,No,Consumed
+Pekoms,Kame Kame no Mi,Zoan,Regular Zoan,No,Consumed
+Pell,"Tori Tori no Mi, Model: Falcon",Zoan,Regular Zoan,No,Consumed
+Perona,Horo Horo no Mi,Paramecia,Regular Paramecia,No,Consumed
+Pica,Ishi Ishi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Pierre,Uma Uma no Mi,Zoan,Regular Zoan,No,Consumed
+Portgas D. Ace,Mera Mera no Mi,Logia,Regular Logia,No,Re-Consumed
+Queen,"Ryu Ryu no Mi, Model: Brachiosaurus",Zoan,Ancient Zoan,No,Consumed
+Rabbit gifter (chapter 916),Rabbit SMILE,SMILE,Artificial Zoan,No,Consumed
+Rob Lucci,"Neko Neko no Mi, Model: Leopard",Zoan,Carnivorous Zoan,No,Consumed
+Sabo,Mera Mera no Mi,Logia,Regular Logia,No,Consumed
+Sakazuki,Magu Magu no Mi,Logia,Regular Logia,No,Consumed
+Saki,(unnamed),Failed SMILE,Failed Artificial Zoan,No,Consumed
+Sanjuan Wolf,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Scratchmen Apoo,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Sea Urchin gifter (chapter 810),Sea Urchin SMILE,SMILE,Artificial Zoan,No,Consumed
+Sengoku,"Hito Hito no Mi, Model: Daibutsu",Zoan,Mythical Zoan,No,Consumed
+Senor Pink,Sui Sui no Mi,Paramecia,Regular Paramecia,No,Consumed
+Sharinguru,Shari Shari no Mi,Paramecia,Regular Paramecia,No,Consumed
+Sheepshead,Sheep SMILE,SMILE,Artificial Zoan,No,Consumed
+Shiki,Fuwa Fuwa no Mi,Paramecia,Regular Paramecia,No,Consumed
+Shimotsuki Yasuie,(unnamed),Failed SMILE,Failed Artificial Zoan,No,Consumed
+Shinobu,Juku Juku no Mi,Paramecia,Regular Paramecia,No,Consumed
+Shiryu,Suke Suke no Mi,Paramecia,Regular Paramecia,No,Consumed
+Shu,Sabi Sabi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Smiley,"Sara Sara no Mi, Model: Axolotl",Zoan,Regular Zoan,No,Free
+Smoker,Moku Moku no Mi,Logia,Regular Logia,No,Consumed
+Snake teacher (chapter 919),Snake SMILE,SMILE,Artificial Zoan,No,Consumed
+Solitaire,Monkey SMILE,SMILE,Artificial Zoan,No,Consumed
+Speed,Horse SMILE,SMILE,Artificial Zoan,No,Consumed
+Stag Beetle gifter (chapter 810),Stag Beetle SMILE,SMILE,Artificial Zoan,No,Consumed
+Streusen,Kuku Kuku no Mi,Paramecia,Regular Paramecia,No,Consumed
+Sugar,Hobi Hobi no Mi,Paramecia,Regular Paramecia,No,Consumed
+Tama (Human),(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Tamago,Tama Tama no Mi,(undetermined),(undetermined),No,Consumed
+Toko,(unnamed),Failed SMILE,Failed Artificial Zoan,No,Consumed
+Tony Tony Chopper,Hito Hito no Mi,Zoan,Regular Zoan,No,Consumed
+Trafalgar D. Water Law,Ope Ope no Mi,Paramecia,Regular Paramecia,No,Consumed
+Trebol,Beta Beta no Mi,Paramecia,Regular Paramecia,No,Consumed
+Tsuru (Marine),Woshu Woshu no Mi,Paramecia,Regular Paramecia,No,Consumed
+Urouge,(unnamed),Paramecia,Regular Paramecia,No,Consumed
+Vander Decken IX,Mato Mato no Mi,Paramecia,Regular Paramecia,No,Consumed
+Very Good,Beri Beri no Mi,Paramecia,Regular Paramecia,No,Consumed
+Viola,Giro Giro no Mi,Paramecia,Regular Paramecia,No,Consumed
+Wapol,Baku Baku no Mi,Paramecia,Regular Paramecia,No,Consumed
+Wolf gifter (chapter 809),Wolf SMILE,SMILE,Artificial Zoan,No,Consumed
+Wolf gifter (chapter 943) #1,Wolf SMILE,SMILE,Artificial Zoan,No,Consumed
+Wolf gifter (chapter 943) #2,Wolf SMILE,SMILE,Artificial Zoan,No,Consumed
+X Drake,"Ryu Ryu no Mi, Model: Allosaurus",Zoan,Ancient Zoan,No,Consumed
+Zala,Toge Toge no Mi,Paramecia,Regular Paramecia,No,Consumed
