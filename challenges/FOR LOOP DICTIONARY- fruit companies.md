@@ -1,10 +1,10 @@
 # LOOPING DICTIONARIES Challenge!
 
 ```
-fruitcompanies= [{"name":"Zesty","employees":["Ambu","Brent", "Bryan","Carlee","Chad"]},
-                 {"name":"Ripe.ly","employees":["Darlene","Eric","Fernando","Peter",]},
-                 {"name":"FruitBee","employees":["Jennae","Joel","Jonas","Josh",]},
-                 {"name":"JuiceGrove","employees":["Kurt","Nate","Patrick","Rachel",]}]
+fruitcompanies= [{"name":"Zesty","employees":["Bryan", "Colin", "Erik", "Greg", "John"]},
+                 {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Chad"]},
+                 {"name":"FruitBee","employees":["Monte", "Jarrad", "Pemba", "Don"]},
+                 {"name":"JuiceGrove","employees":["Tim", "Travis", "Trung"]}]
 ```
 
 ### Function 1
