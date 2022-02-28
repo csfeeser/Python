@@ -44,6 +44,7 @@ def main():
 
 `student@bchd:~$` `./bugginout.py`
 
+<!--
 ### SOLUTION
 
 ```python
@@ -92,3 +93,4 @@ if __name__ == "__main__":
     # gotta call main to start off the whole thing
     main()
 ```
+-->
