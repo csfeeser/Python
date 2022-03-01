@@ -56,6 +56,7 @@ http://api.open-notify.org/iss-now.json
     City/Country: New Delhi, IN
     ```
 
+<!--
 ## SOLUTION
 ```python
 #!/usr/bin/python3
@@ -101,3 +102,4 @@ City/Country: {city}, {country}
 if __name__=="__main__":
     main()
 ```
+-->
