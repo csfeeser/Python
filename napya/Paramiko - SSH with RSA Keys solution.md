@@ -1,3 +1,5 @@
+  ## Solution
+
 1. First let's put our data in a separate file as a JSON string.
 
     `student@bchd:~$` `vim credfile.json`
