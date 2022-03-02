@@ -2,11 +2,11 @@
 
 1. To ensure that you're all set up with the remote hosts you'll need, run the following command!
 
-        `student@bchd~:` `cd && wget https://labs.alta3.com/projects/napya/deploy/napyasetup.sh -qO setup.sh && bash setup.sh`
+    `student@bchd~:` `cd && wget https://labs.alta3.com/projects/napya/deploy/napyasetup.sh -qO setup.sh && bash setup.sh`
         
 0. Below is a script that we were looking at yesterday. Make a new copy of it!
 
-        `student@bchd~:` `vim paramikowarmup.py`
+    `student@bchd~:` `vim paramikowarmup.py`
         
     ```python
     #!/usr/bin/python3
