@@ -33,6 +33,8 @@ Good morning! To get the blood moving today we'll start with a familiar looking 
    register: result
 ```
 
+    `student@bchd:~$` `ansible-playbook bustedplaybook.yml`
+
 <!--
 ### SOLUTION
 
