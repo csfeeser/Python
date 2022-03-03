@@ -6,20 +6,14 @@
 
 Good morning! To get the blood moving today we'll start with a familiar looking playbook-- however, it's broken! Your job is to get it working (no need to improve it).
 
-Please start by getting your environment prepared:
+1. Please start by getting your environment prepared:
 
-`student@bchd:~$` `cd && wget https://labs.alta3.com/courses/napya/napyasetup.sh && bash napyasetup.sh`
+    `student@bchd:~$` `cd && wget https://labs.alta3.com/projects/napya/deploy/napyasetup.sh -qO setup.sh && bash setup.sh`
 
-Oops! We need to make one fix. Open your ansible.cfg.
+0. Use vim to create a playbook file of your choosing and enter the following. Then test, fix, repeat!
 
-`student@bchd:~$` `vim ~/.ansible.cfg`
-
-Change the inventory line to this instead:
-
-`inventory = /home/student/mycode/inv/dev/`
-
-Use vim to create a playbook file of your choosing and enter the following. Then test, fix, repeat!
-
+    `student@bchd:~$` `vim bustedplaybook.yml`
+    
 ```yaml
 ---
 - name: Tuesday Challenge
