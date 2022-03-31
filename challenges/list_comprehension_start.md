@@ -45,7 +45,6 @@ for x in folks:
 ```
 </details>
 
-<!--
 ### SOLUTION
 
 ```
@@ -64,4 +63,3 @@ print(coolfolks)
 coolfolks_listcomprehension= [x for x in folks if x != "Chad"]
 
 print(coolfolks_listcomprehension)
--->
