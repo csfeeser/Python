@@ -79,3 +79,44 @@ num % 5 == 0
 **SUPER BONUS**: Return how many *Fizz*es, *Buzz*es, and *FizzBuzz*es there are.
 
 **MEGA BONUS**: Make this script as SHORT AS POSSIBLE!
+
+<!--
+### SOLUTION
+
+```python
+#!/usr/bin/env python3
+
+
+def numgrabber():
+    with open("numfile.txt","r") as nums:
+        return nums.readlines()
+
+def main():
+
+    fb= 0
+    f= 0
+    b= 0
+
+    for x in numgrabber():
+        x= int(x)
+        if x % 15 == 0:
+            print("FizzBuzz")
+            fb += 1
+        elif x % 5 == 0:
+            print("Buzz")
+            b += 1
+        elif x % 3 == 0:
+            print("Fizz")
+            f += 1
+        else:
+            print(x)
+
+    print(f"""
+Fizzes: {f}
+Buzzes: {b}
+FizzBuzzes: {fb}""")
+
+if __name__ == "__main__":
+    main()
+```
+-->
