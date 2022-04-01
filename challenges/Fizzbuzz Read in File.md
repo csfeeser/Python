@@ -80,8 +80,8 @@ num % 5 == 0
 
 **MEGA BONUS**: Make this script as SHORT AS POSSIBLE!
 
-<!--
-### SOLUTION
+### "A" SOLUTION
+There are many ways you could have solved this, but here is one example!
 
 ```python
 #!/usr/bin/env python3
@@ -119,4 +119,3 @@ FizzBuzzes: {fb}""")
 if __name__ == "__main__":
     main()
 ```
--->
