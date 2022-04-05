@@ -8,7 +8,7 @@
 
 0. Save a user's input to the variable `char_name` from the following question:
 
-        Which character do you want to know about? (Starlord, Mystique, She-Hulk)
+        Which character do you want to know about? (Starlord, Mystique, Hulk)
 
 0. Save a user's input to the variable `char_stat` from the following question:
 
@@ -29,9 +29,9 @@
       "archenemy": "Professor X"},
 
     "She-Hulk":
-      {"real name": "jennifer walters",
-      "powers": "super strength & intelligence",
-      "archenemy": "Titania"}
+      {"real name": "bruce banner",
+      "powers": "super strength",
+      "archenemy": "adrenaline"}
                  }
     ```
     
