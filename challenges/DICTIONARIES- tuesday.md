@@ -57,6 +57,7 @@
 
 </details>
 
+<!--
 **MEGA BONUS 3:** Allow the user to try again without exiting the script! Requires previous knowledge of **while loops**.
 
 ### Wow, done with all three? Try this one on for size:
