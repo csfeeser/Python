@@ -28,7 +28,7 @@
       "powers": "shape shifter",
       "archenemy": "Professor X"},
 
-    "She-Hulk":
+    "Hulk":
       {"real name": "bruce banner",
       "powers": "super strength",
       "archenemy": "adrenaline"}
