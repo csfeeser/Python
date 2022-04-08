@@ -10,7 +10,7 @@ Your mini challenge is to do the following:
 - Loop through the data and print out the cat fact ONLY.
 - **BONUS**: return a RANDOM cat fact every time the script runs! 
 
-<details open>
+<details>
 <summary>Help me get started!</summary>
 
 ```
@@ -22,7 +22,7 @@ resp= requests.get(url).json()
 ```
 </details>
 
-<details open>
+<details>
 <summary>Help me do a for loop!</summary>
 
 ```
@@ -35,4 +35,10 @@ resp= requests.get(url).json()
 for x in resp:
     print(x)
 ```
+</details>
+
+<details>
+<summary>How can I randomize which fact I get?</summary>
+
+Append the facts to a list. Then use random.choice(FACTLIST) to return a random fact!
 </details>
