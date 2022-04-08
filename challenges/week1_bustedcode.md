@@ -2,9 +2,9 @@
 
 ![Image description](https://c.tenor.com/jhsh9h45xYAAAAAM/fix-bug-when-i-try-to-fix-a-bug.gif)
 
-### Below is a piece of code that uses (almost) all the concepts that we covered last week-- let's fix it up!
+### Below is a piece of code that uses (almost) all the concepts that we covered in our first week-- let's fix it up!
 
-`student@bchd:~$` `vim bugginout.py`
+`bugginout.py`
 
 ```
 #!/usr/bin/env python
@@ -44,6 +44,7 @@ def main():
 
 `student@bchd:~$` `./bugginout.py`
 
+<!--
 ### SOLUTION
 
 ```python
@@ -92,3 +93,4 @@ if __name__ == "__main__":
     # gotta call main to start off the whole thing
     main()
 ```
+-->
