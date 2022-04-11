@@ -1,4 +1,4 @@
-# Morning Challenge: INTERNATIONAL SPACE STATION (ISS) TRACKER!
+# Morning Exercise: ISS TRACKER!
 
 ![Image description](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/international_space_station/22293527-2-eng-GB/International_Space_Station_pillars.gif)
 
@@ -6,24 +6,31 @@ SPACE... the final frontier! Click the following link to view an open API that, 
 
 http://api.open-notify.org/iss-now.json
 
-**Your challenge this morning is to do the following:**
+## Your challenge this morning is to do the following:
 
-1. Using the **requests** module, access the API from the link above and pull/translate the JSON! Here's some code to get you started:
+#### Part 1: 
+- Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
-    ```python
-    #!/usr/bin/env python3
-    """Returning the location of the ISS in latitude/longitude"""
-    import requests
+<details>
+<summary>Chad, I haven't had my dang coffee yet. How about a lil' code to get me started?</summary>
+
+```python
+#!/usr/bin/env python3
+"""Returning the location of the ISS in latitude/longitude"""
+import requests
     
-    URL= "http://api.open-notify.org/iss-now.json"
-    def main():
-        resp= requests.get(URL).json()
+URL= "http://api.open-notify.org/iss-now.json"
+def main():
+    resp= requests.get(URL).json()
 
-    if __name__ == "__main__":
-        main()
-    ```
+if __name__ == "__main__":
+    main()
+```
+    
+</details>
 
-0. This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!) Make your script return the collected data into something like this:
+#### Part 2: 
+- This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!) Make your script return the collected data into something like this:
     
     ```
     CURRENT LOCATION OF THE ISS:
@@ -31,9 +38,8 @@ http://api.open-notify.org/iss-now.json
     Lat: 37.1268
     ```
 
-    ### SUPER BONUS
-
-0. This API also returns the timestamp of when the response was generated in [Epoch time (click here to see how Epoch time works!)](https://www.epochconverter.com/). Return this value, but make it human readable so your output looks like so:
+#### Part 3: SUPER BONUS!
+- This API also returns the timestamp of when the response was generated in [Epoch time (click here to see how Epoch time works!)](https://www.epochconverter.com/). Return this value, but make it human readable so your output looks like so:
 
     ```
     CURRENT LOCATION OF THE ISS:
@@ -44,9 +50,8 @@ http://api.open-notify.org/iss-now.json
 
     > Hint: Google "python convert epoch time to date time"
  
-    ### MEGA BONUS
-    
-0. You've got the location... but that's not very human readable, is it? What CITY and COUNTRY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://github.com/csfeeser/Python/blob/master/enrichment/geocoder.md)
+#### Part 3: MEGA BONUS
+- You've got the location... but that's not very human readable, is it? What CITY and COUNTRY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://github.com/csfeeser/Python/blob/master/enrichment/geocoder.md)
 
     ```
     CURRENT LOCATION OF THE ISS:
@@ -56,6 +61,7 @@ http://api.open-notify.org/iss-now.json
     City/Country: New Delhi, IN
     ```
 
+<!--
 ## SOLUTION
 ```python
 #!/usr/bin/python3
