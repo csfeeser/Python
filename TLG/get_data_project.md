@@ -41,16 +41,6 @@ Looking to work with files? There are lots of cool data sets out there, but Chad
 
     `student@bchd:~` `wget WHATEVERYOURURLWAS`
     
-0. You're ready to open the file in a Python script and get cracking! If you need it, here's some starter code:
-
-    ```python
-    #!/usr/bin/env python3
-
-    import csv
-
-    with open("brett_comics.txt", "r") as comicfile:
-    ```
-    
 **Some ideas for what to do with this data:**
  
  - POKEMON: who has the highest attack rating?
