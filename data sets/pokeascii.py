@@ -1,4 +1,4 @@
-"""Created and used by permission from Bryan Guerrero"""
+"""Created and used with permission by Bryan Guerrero"""
 
 def ascii(id):
   if id == 1:
@@ -5012,54 +5012,32 @@ def ascii(id):
       
 
   elif id == 135:
-      print("XH                             HX               ")
-      print("HXHX                         HXH               ")
-      print("HXH                      XHXH               ")
-      print("XXXXH                     HXH               ")
-      print(" HXHHXH                   HXHH    XH         ")
-      print(" HXXHHXX                 HXXHH  HXH         ")
-      print(" XXXHHHXH        X  H     HXHXHHXX         ")
-      print("  HXHHHHXH       HH HH   HXHHXX       XHX")
-      print("   HXHHHHXX XH  XXXHHXH  HHHHXHXH    XHXH")
-      print("    HXHHHHXHXH HXXHXHHXHHXHHXXXHHXH ")
-      print(" HHHXXXHHHXHXXXHXXHXHXHHHXHHXXXXH  ")
-      print("  HXXXXXXHHXHXXXHXHHHXXXHHHXXXH   ")
-      print("   XHXXXXHHXXXXXXXXHHXXHHXXXH    ")
-      print("     HHHXXXXXHXHHXXXH     ")
-      print("      HXHXXXHXHHXXXH      ")
-      print("       XHHXXHXX XXXHHXXXXHX   ")
-      print("       HXXHHH X X HHXHHHHHHXXHX ")
-      print("     XHXHXXHHHXXHHXX  HHX  ")
-      print("  XHXHXHXXHHHHHXH    HHX    ")
-      print(" XHXHXHXHXH      HXXHX      ")
-      print("   XHXXHXHXXHHXHX    HHXXXXXXHHHHX")
-      print("      XHHHXXHHHHHHHHHXH      HXXXXXXXXH ")
-      print("     HXXXHHXXXXHHH      H HXXH  ")
-      print("   XHHHXHXXXXXHX        HHHXXH   ")
-      print("    HHHXHHHHHHXH       HXXXHX    ")
-      print("      H HXH     HX   HXXHH     ")
-      print("     H   XHHHX      XHHX  HXHH     ")
-      print("    H                  HHHHHHHHHXH    ")
-      print("   H   XHX        X    XHHHHHXXXXH    ")
-      print("  HXHHXHH  H     XX    HHHHXXXXXXH   ")
-      print(" XHHHHHHHXX   H     HHX  XHHHXXXXXXXX  ")
-      print("        HXH   H H    HHHX  HHXHXXXXXXXH  ")
-      print("        HXH   HXH H   XHHHHX H   XHHXXXXX ")
-      print("       HXXH  HX  HHH   HHXXHHHHX     HHXXXH ")
-      print("       HXXHHX   XHH  HHXXXXXHH      HXXXH ")
-      print("      HXXHH   HXXH H HXXXXXX       HXXX ")
-      print("     HXXXH    HXXXHH HXXXXXH       HXXX")
-      print("    HXXXX     HXXXXHH  HXXXXH       HXXH")
-      print(" HHHXXXH    HXXXH  X  HXHXXX       HXXH")
-      print("HXXXH     HXXH      XHHHX        HXXH")
-      print("HXHHHH     XXXH                   HHXHH")
-      print("HHHXHH      HXXX                   XHXHX")
-      print("  HHHHX      HXXH                     XHHHX ")
-      print("           XHXXXH                           ")
-      print("           HXXHH                            ")
-      print("           XHHXH                            ")
-      print("            XHHXH                             ")
-      print("              XHHX")
+     print('''
+                           /
+              #            /
+               //         #//
+                #//    /  #//( /    (                           (
+     /%        ###///  %/ #////#/   %          , .             //
+      .////     ###//// //////////   , . #  ,  , .#        . ///#
+        %#/////*  ##////////////&&/// ,.    ,. ,   . ,   . #/&&//
+          %#////////#//////////(/&&&&///*. . . %(. .,. , .#&&&//
+            ##////////////////////&&&&&&//%     //    .  ##&&&/
+           (/%##/////////////* //##/&&&&&&// / .#//%./ .##&&&/
+       %(///////////////////////,  .##&&&&&//&//#///////#&&/    ,
+            &##(/////////*.. . . .*. .,##@////////////////// . .
+       (/////////////////////%,,,,,,,,###///////////////////  ,
+          ,%///##&///#####&#(//%..,,,,###///@@%///////////%/,
+       #/////////////%  ##&####,,,,,,,#*#////%@@ @////// @((  ,,.
+      #/////////////    #####&,,,,,,,,,###////////////////// . .
+      #########.      (########## ,,,,,%,####//////////////        .
+     ##////           #########.,,,,,,,,,,#,*,%#/////////. .,. .
+     #////             *###%#&,,,## ,,,,,,,,,,,,,,,,,  ,     *
+    ##///%               ######//    ,,,,,,/,,@,,.#. .#.#/#. .
+   ##/////(               ###////    ,,,,  *  ,,    .  ###/////#//
+    &#////#                #/////   ,         ,(           ###///////
+                           ##/////%                            ##(////////
+                             ##%##%                               ,##(///////#
+                                                                      ###''')
 
       
 
