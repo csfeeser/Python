@@ -19,7 +19,6 @@
     from flask import render_template
     ```
 
-<!--
 ```html
 <style>
 body {
