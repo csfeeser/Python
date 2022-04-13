@@ -43,18 +43,22 @@ quiz= {
 
 <details>
 <summary>CHAD, HELP ME GET STARTED!</summary>
+    
 ```
 start= "1"
 
 while start != "end":
     print(quiz[start]["question"])
 ```
+    
 </details>
+
 
 
 
 <details>
 <summary>CHAD I NEED MORE HELP!</summary>
+    
 ```
 start= "1"
 
@@ -65,8 +69,10 @@ while start != "end":
 ```
 </details>
 
+
 <details>
 <summary>CHAD, JUST GIVE ME THE DANG SOLUTION PLS.</summary>
+    
 ```
 start= "1"
 
@@ -79,5 +85,6 @@ while start != "end":
         print("Please choose yes or no.")
 
 print("You're not a horse.")
+    
 ```
 </details>
