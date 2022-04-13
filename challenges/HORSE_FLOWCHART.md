@@ -2,12 +2,11 @@
 
 Follow the flowchart below to determine if you are, in fact, a horse.
 
-#### "Are You A Horse?" Flowchart
 !["Are You A Horse?" Flowchart](https://github.com/csfeeser/images/blob/master/12-Am-I-a-horse-flowchart.jpg?raw=true)
 
 ### Your Objective:
 
-For brevity's sake, you've been provided a dictionary below that maps the flowchart above. Not counting the length of the dictionary `quiz` itself, can you write a script that prompts the user appropriately, guiding them to their answer?
+For brevity's sake, you've been provided a dictionary below that maps the flowchart above. Can you write a script using the dictionary `quiz` that prompts the user appropriately, mimicking the flow of the flowchart above?
 
 ```python
 quiz= {
