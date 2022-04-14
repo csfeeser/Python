@@ -85,6 +85,7 @@ The objective of this lab is to return JSON from an endpoint in our Flask API. T
 
 0. Cool! Your API returned JSON and your requests script converted it to a Pythonic dictionary!
 
+<!--
 0. Let's update our Flask application to allow to POST JSON.
 
     `student@bchd:~/mycode/flaskapi$` `vim spideyapi02.py`
