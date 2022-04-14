@@ -29,7 +29,7 @@ The objective of this lab is to return JSON from an endpoint in our Flask API. T
 
     app= Flask(__name__)
 
-    spiderdata= {
+    herodata= [{
         "name": "Spider-Man",
         "realName": "Peter Parker",
         "since": 1962,
@@ -37,14 +37,14 @@ The objective of this lab is to return JSON from an endpoint in our Flask API. T
             "wall crawling",
             "web shooters",
             "spider senses",
-            "super human stregth & agility"
+            "super human strength & agility"
                   ]
-                 }
+                 }]
 
     @app.route("/")
     def index():
         # jsonify returns legal JSON
-        return jsonify(spiderdata)
+        return jsonify(herodata)
 
     if __name__ == "__main__":
         app.run(host="0.0.0.0", port=2224)
@@ -60,75 +60,75 @@ The objective of this lab is to return JSON from an endpoint in our Flask API. T
     ```
     #!/usr/bin/env python3
     import requests
-
-    URL= "127.0.0.1:2224/"
+    from pprint import pprint
+    
+    URL= "http://127.0.0.1:2224/"
 
     resp= requests.get(URL).json()
 
-    print(resp)
+    pprint(resp)
     ```
 
 0. Save and run your script.
 
     `student@bchd:~/mycode/flaskapi$` `python3 spideyrequest01.py`
 
-# ONLY posts to /post
-@app.route("/post", methods=["POST"])
-def post():
-    #request.form   # accessing form data from the post (submitted via HTML)
-    #request.args   # accessing data from query params (?name=Chad)
-    #request.method # accessing what type of request method was used (GET, POST)
-    #request.json   # accessing json attached to the post
-    data= request.json
-    # data now contains the JSON submitted by the client
+    ```
+    [{'name': 'Spider-Man',
+     'powers': ['wall crawling',
+                'web shooters',
+                'spider senses',
+                'super human strength & agility'],
+     'realName': 'Peter Parker',
+     'since': 1962}]
+    ```
 
-    # if JSON was actually sent:
-    if data:
-        # treat "data" like a dictionary!
-        nm= data["name"]
-        ic= data["ice cream"]
-        color= data["color"]
-        jsondata.append({"nm":nm, "ic":ic, "color":color})
-    return redirect("/")
+0. Cool! Your API returned JSON and your requests script converted it to a Pythonic dictionary!
 
-@app.route("/")
-def index():
-    # how to have a Flask API return object as JSON
-    return jsonify(jsondata)
+0. Let's update our Flask application to allow to POST JSON.
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=2224)
-```
+    `student@bchd:~/mycode/flaskapi$` `vim spideyapi02.py`
+    
+    ```python
+    #!/usr/bin/env python3
+    """DEMO: receiving JSON"""
 
-The second script used the requests library to send a POST with JSON to the API.
+    from flask import Flask
+    from flask import request
+    from flask import redirect
+    from flask import jsonify
 
-```python
-#!/usr/bin/env python3
-"""how to use the requests module to send a POST"""
+    app= Flask(__name__)
 
-import requests
+    spiderdata= [{
+        "name": "Spider-Man",
+        "realName": "Peter Parker",
+        "since": 1962,
+        "powers": [
+            "wall crawling",
+            "web shooters",
+            "spider senses",
+            "super human strength & agility"
+                  ]
+                 }]
 
-url= "http://10.2.120.155:2224/post"
+    @app.route("/", methods=["GET","POST"])
+    def index():
+        if request.method == "GET":
+            return jsonify(spiderdata)
+  
 
-chadfavs= {
-          "name": "Chad",
-          "ice cream": "coffee",
-          "color" : "red"
-          }
-
-benfavs= {
-          "name": "Ben",
-          "ice cream": "chocolate",
-          "color" : "blue"
-          }
-
-devonfavs= {
-          "name": "DeVon",
-          "ice cream": "reeses",
-          "color" : "green"
-          }
-
-requests.post(url, json=chadfavs)
-requests.post(url, json=benfavs)
-requests.post(url, json=devonfavs)
-```
+        if request.method == 'POST':
+            data = request.json
+            if data:
+                name = data["nm"]
+                realName = data["addr"]
+                since = data["city"]
+                powers = data["pin"]
+                herodata.append({"name":name,"realName":realName,"since":since,"powers":powers})
+                return redirect("/")
+                
+    if __name__ == "__main__":
+        app.run(host="0.0.0.0", port=2224)
+    ```
+   
