@@ -15,8 +15,8 @@ This project must include (at least) **two (2)** scripts. One called **alta3rese
     - at least two endpoints
     - at least one of your endpoints should return legal JSON
     - has **ONE** additional feature from the following list:
-        - one endpoint returns HTML (it may or may not include jinja2 logic!)
-        - requires a `session` value be present in order to get a legal response.
+        - one endpoint returns HTML that uses jinja2 logic
+        - requires a `session` value be present in order to get a legal response
         - writes to/reads from a cookie
         - reads from/writes to a sqlite3 database
 
