@@ -74,5 +74,5 @@ if __name__ == "__main__":
     - Use that variable in your HTML! *(like step 23 in lab 91)* Some ideas:
         - Include the player's name
         - Did you create separate pages for correct or incorrect answers? Why not combine those into a single page- and use jinja2 if-logic to display whether the answer was correct or incorrect.
-        - **HARDER:** Display a random question (you don't NEED to use an API call for this; you can create a list/dictionary of your own making inside your Flask script!)
-        - **HARDER:** Turn your trivia into a number guessing game! Use jinja2 if-logic to tell the user if they guessed too high, too low, or correctly!
+        - Display a random question (you don't NEED to use an API call for this; you can create a list/dictionary of your own making inside your Flask script!)
+        - Turn your trivia into a number guessing game! Use jinja2 if-logic to tell the user if they guessed too high, too low, or correctly!
