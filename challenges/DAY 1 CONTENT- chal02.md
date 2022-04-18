@@ -1,4 +1,4 @@
-# CHALLENGE: SHEBANG, INPUT, PRINT, CONCATENATE, VARIABLES
+# EXERCISE: INPUT, PRINT, CONCATENATE, VARIABLES
 
 <img src="https://i.redd.it/wk843smkri441.jpg" alt="drawing" width="400"/>
 
