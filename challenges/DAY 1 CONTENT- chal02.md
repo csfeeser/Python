@@ -25,7 +25,7 @@
     icecream.append(4)
 </details>
 
-4. Include an input asking for a number between 0 and 14. Use this number to identify one of the students from the *tlgstudents* list!
+4. Include an input asking for a number between 0 and 17. Use this number to identify one of the students from the *tlgstudents* list!
 
 <details>
 <summary>I need a hint!</summary>
