@@ -2,9 +2,9 @@
 
 **Objective:** Write a script that contains the following:
 
-2. An input asking the user's name.
-3. An input asking what day of the week it is.
-4. A print statement that reads:
+1. An input asking the user's name.
+2. An input asking what day of the week it is.
+3. A print statement that reads:
       
     ```
     Hello, <name>! Happy <day of the week>!
