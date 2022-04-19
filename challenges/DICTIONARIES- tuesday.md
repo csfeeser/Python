@@ -1,10 +1,6 @@
 # CHALLENGE: DICTIONARIES
 
-1. Create a new script!
-
-0. Include a shebang line.
-
-0. Make your file executable with a ./
+1. Create a new script! Have it do the following:
 
 0. Save a user's input to the variable `char_name` from the following question:
 
@@ -14,7 +10,7 @@
 
         What statistic do you want to know about? (real name, powers, archenemy)
 
-0. Use the char_name and char_stat values to pull the appropriate value from the dictionary below.
+0. Use the `char_name` and `char_stat` variables to pull the appropriate value from the dictionary below.
 
     ```
     marvelchars= {
@@ -48,7 +44,7 @@
       
 </details>
 
-**SUPER BONUS 2:** Make the user's input error proof!
+**SUPER BONUS 2:** Capitalization matters! Make your script work no matter what capitalization the user provides!
 
 <details>
 <summary>Hints:</summary>
