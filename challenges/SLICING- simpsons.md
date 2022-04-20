@@ -1,6 +1,6 @@
 # Simpsons Slicing Challenge!
 
-Behold! A series of increasing difficult nested lists/dictionaries!
+Behold! A series of increasingly difficult nested lists/dictionaries!
 
     challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
 
