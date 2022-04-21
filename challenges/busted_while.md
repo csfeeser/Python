@@ -1,5 +1,8 @@
 ### Busted Numbers Game!
 
+<img src="https://memegenerator.net/img/instances/59060777.jpg" alt="drawing" width="300"/>
+
+
 Below is a script for a number guessing game! However, it's busted! Please try and get it operational (no need to improve it, just make it work).
 
 1. Only let the user have FIVE chances to guess the correct answer!
