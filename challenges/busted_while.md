@@ -1,13 +1,11 @@
 ### Busted Numbers Game!
 
-<img src="https://memegenerator.net/img/instances/59060777.jpg" alt="drawing" width="300"/>
+<img src="https://www.codesnail.com/wp-content/uploads/2020/08/guess-the-number-game-in-python.png" alt="drawing" width="500"/>
 
 
 Below is a script for a number guessing game! However, it's busted! Please try and get it operational (no need to improve it, just make it work).
 
-1. Only let the user have FIVE chances to guess the correct answer!
-
-2. Add error handling so that if the user types in something that isn't a number, it doesn't error out the script!
+When working properly, the user should have **5 chances** to guess a number that is between 1 and 100. The program will tell the user if they guess too high or too low, and if they guess correctly the script should end!
 
 ```python
 #!/usr/bin/env python3
