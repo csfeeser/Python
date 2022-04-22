@@ -28,6 +28,7 @@ foo.close()
 </pre>
 </details>
 
+---
 
 #### Part 2
 
@@ -40,6 +41,8 @@ for line in foo:
     print(line)
 </pre>
 </details>
+
+---
 
 #### Part 3
 
@@ -54,6 +57,7 @@ for line in foo:
 </pre>
 </details>
 
+---
 
 #### Part 4
 
@@ -67,6 +71,8 @@ for line in foo:
         print(line)
 </pre>
 </details>
+
+---
 
 #### Part 5
 
@@ -90,6 +96,8 @@ for line in foo:
 print(count)
 </pre>
 </details>
+
+---
 
 #### Part 6
 
