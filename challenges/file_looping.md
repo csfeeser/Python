@@ -103,7 +103,18 @@ print(count)
 
 - Take the lines from *Dracula* that have `vampire` in it and write them to a second file named `vampytimes.txt`.
 
-<details>
-<summary>Help!</summary>
-YOU GOT THIS :)
-</details>
+#### SOLUTION
+
+```python
+counter= 0
+
+with open("345-0.txt","r") as foo:
+    with open("vampytimex.txt","w") as fang:
+        for line in foo:
+            if "vampire" in line.lower():
+                print(line)
+                counter += 1
+                fang.write(line)
+
+print(counter)
+```
