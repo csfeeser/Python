@@ -29,9 +29,7 @@ def name_grabber():
 
 def main():
     num_dict= {"1":"great","2":"awesome","3":"superb"
-    # python errors try their best, but they don't always get the line
-    # number right where the error occurred!
-    name, num= name_grabber()
+    name, num= name_grabber() # HINT: python error tracing doesn't always get the line number correct!
          # hmm, something's missing in that open() function...
     with open("horoscope.txt") as fileobj:
         fileobj.write(f"{name}, I predict today will be {num_dict[num].upper()}!")
