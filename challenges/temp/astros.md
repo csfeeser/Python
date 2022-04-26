@@ -40,3 +40,36 @@ SPACE- the final frontier! Though we won't really be FOCUSING on APIs in this co
     Denis Matveev is on the ISS
     Sergey Korsakov is on the ISS
     ```
+
+### Chad I am a BOSS and I finished that! What's next!
+
+Nice work!!! Here's another URL for a similar API:
+
+`http://api.open-notify.org/iss-now.json`
+
+That link leads to a different API that returns the latitude and longitude of the ISS over Earth!  
+
+- Copy the `requests.get()` line of code and paste it into a new line.
+- Change that second `requests.get()` so that it uses the new URL above.
+- Slice the data that gets returned so it looks something like this instead:
+
+```
+CURRENT LOCATION OF THE ISS:
+Lon: -52.7658
+Lat: 37.1268
+```
+
+Your final output should look like this:
+
+    People in Space:  7
+    Raja Chari is on the ISS
+    Tom Marshburn is on the ISS
+    Kayla Barron is on the ISS
+    Matthias Maurer is on the ISS
+    Oleg Artemyev is on the ISS
+    Denis Matveev is on the ISS
+    Sergey Korsakov is on the ISS
+
+    CURRENT LOCATION OF THE ISS:
+    Lon: -52.7658
+    Lat: 37.1268
