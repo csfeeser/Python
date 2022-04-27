@@ -9,7 +9,7 @@
 
 Start by using the script provided below:
 
-```
+```python
 #!/usr/bin/env python3
 
 import requests
