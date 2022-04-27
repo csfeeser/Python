@@ -12,27 +12,65 @@ Start by using the script provided below:
 ```
 #!/usr/bin/env python3
 
-# imports always go at the top of your code
 import requests
 
 def main():
-    pokeapi = requests.get("https://pokeapi.co/api/v2/pokemon/ditto").json()
+    pokenum= input("Pick a number between 1 and 151!\n>")
+    pokeapi= requests.get("https://pokeapi.co/api/v2/pokemon/" + pokenum).json()
 
     print(pokeapi)
 
 main()
 ```
 
-The Pokemon API can be found here! https://pokeapi.co/
+View the output from that URL here! https://pokeapi.co/api/v2/pokemon/bulbasaur
 
-### THE CHALLENGE
+### Part 1- Slicing (NO for loop!)
 
-Use your script to print out the following:
+- Find the `"sprites"` key. Print the URL to "front_default", which is a link to an image of your Pokemon!
 
-1. Change the Pokemon in the URL to a Pokemon of your choice! **BONUS**- add input to collect what Pokemon to look up!
+<details>
+<summary>SLICE SOLUTION</summary>
+    <br>
+pokeapi["sprites"]["front_default"]
+</details>
 
-0. Print the URL to "front_default", which is a link to an image of your Pokemon! **BONUS**- download the image (one tool you could use is the wget module... or write to file with "wb"!)!
+### Part 2- Slicing WITH a for loop!
 
-0. Return a count of how many "game_indices" the selected Pokemon has been in!
+- Look at the `"moves"` key. It returns a list of dictionaries; each dictionary contains the name of one of the Pokemon's "moves."
+- Print out the `"name"`s of ALL the selected Pokemon's `"moves"`. 
 
-0. Print out the "name"s of ALL the selected Pokemon's "moves".
+<details>
+<summary>What should I be looping over?</summary>
+    <br>
+for x in pokeapi["moves']:
+</details>
+
+<details>
+<summary>How do I slice those dictionaries returned by the for loop?</summary>
+    <br>
+x["move"]["name"]
+</details>
+
+### Part 3- Loop or NOT to Loop
+
+- Look at the `"game_indices"` key. This returns a list of dictionaries; each dictionary contains the name of each Pokemon game this character appeared in! (*Pokemon Red*, *Pokemon Black*, *Pokemon Crystal*, etc.
+- Count up the total number of games this Pokemon character appeared in. You can solve this with a loop or without a loop... your choice!
+- Print the count of how many games the selected Pokemon has been in!
+
+<details>
+<summary>How could I count those up without a for loop?</summary>
+    <br>
+Use the len() function on pokeapi["game_indices"]
+</details>
+
+<details>
+<summary>How could I count those up WITH for loop?</summary>
+    <br>
+Create a counter (games= 0, for instance). Then loop over pokeapi["game_indices"] and add 1 to `games` every time it loops.
+</details>
+
+### Bonuses!
+
+- Go back to part 3. If you didn't use a loop, try to solve it WITH a loop! If you did use a loop, try to solve it WITHOUT a loop!
+- That URL you returned that leads to a picture of your Pokemon? Use it to download the picture to `/home/student/static`! (use GOOGLE!)
