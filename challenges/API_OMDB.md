@@ -2,7 +2,7 @@
 
 <img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-2-first-python-program.jpg" alt="drawing" width="300"/>
 
-Let's take a look at the Open Movie Database API! This massive data source pretty much every movie title you could name... but also every TV show and video game!
+Let's take a look at the Open Movie Database API! This massive data source contains pretty much every movie title you could name... but also every TV show and video game!
 
 What is different about this API is that the information we return from it must be passed in via a **query parameter.** What's that?
 
@@ -22,19 +22,20 @@ Below is some starter code. Copy it into your environment and give it a test run
 
 ```python
 #!/usr/bin/env python3
+import requests
 
 URL= "http://www.omdbapi.com/?apikey=875c4c78&s="
 
 def main():
     choice= input("Enter a movie title:\n>")
-    
+
     full_url= URL + choice
-    
-    movies= requests.get(full_url).json
-  
+
+    movies= requests.get(full_url).json()
+
     print(movies)
     print(full_url)
-    
+
 if __name__ == "__main__":
     main()
 ```
