@@ -4,19 +4,19 @@
 
 **Objective:** Add the following components to your code in this order:
 
-**PART 1.** Put this list in your code: 
-    
-    ```
-    wordbank= ["indentation", "spaces"] 
-    ```
+**PART 1.** Put this list in your code:   
 
-**PART 2.** Put this list in your code: 
+```python
+wordbank= ["indentation", "spaces"] 
+```
 
-    ```
-    tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justin", "Kris", "Mannie", "Marcos", "Marshall", "Michael", "Mike", "Nikko", "Phil", "Ryan", "Sachin", "Samekh", "Will"]
-    ```
+**PART 2.** Put this list in your code:   
+
+```python
+tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justin", "Kris", "Mannie", "Marcos", "Marshall", "Michael", "Mike", "Nikko", "Phil", "Ryan", "Sachin", "Samekh", "Will"]
+```
     
-**PART 3.** Add a line of code that `append`s the integer `4` to the list `wordbank`.
+**PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
 
 <details>
 <summary>I need a hint!</summary>
