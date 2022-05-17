@@ -43,7 +43,7 @@ tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justi
     num= int(input("Pick a student number!"))
 </details>
 
-**PART 5.** Use `num` to return one student's name from the list `tlgstudents`.
+**PART 5.** Use the integer `num` to slice one of the elements from the list `tlgstudents`. Save the name you return as the variable `student_name`.
 
 <details>
 <summary>MOAR HINTZ!</summary>
@@ -53,11 +53,12 @@ tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justi
     student_name= tlgstudents[choice]
 </details>
 
-5. Using the appended list and the input, make this output (emphasis placed):
+**PART 6.** Using elements from the `tlgstudents` list and the `student_name` string, print this output.
 
-   ```
-   <student_name> always uses <4> <spaces> to indent.
-   ```
+```
+<student_name> always uses <4> <spaces> to indent.
+```
+> "4" and "spaces" should come from tlgstudents!
 
 **SUPER BONUS**
 
