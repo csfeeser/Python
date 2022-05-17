@@ -2,46 +2,48 @@
 
 <img src="https://i.redd.it/wk843smkri441.jpg" alt="drawing" width="400"/>
 
-**Objective:** Make the following output using the following list:
+**Objective:** Add the following components to your code in this order:
 
-1. Include this list: 
+**PART 1.** Put this list in your code: 
     
     ```
-    icecream= ["indentation", "spaces"] 
+    wordbank= ["indentation", "spaces"] 
     ```
 
-2. Include this list:
+**PART 2.** Put this list in your code: 
 
     ```
     tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justin", "Kris", "Mannie", "Marcos", "Marshall", "Michael", "Mike", "Nikko", "Phil", "Ryan", "Sachin", "Samekh", "Will"]
     ```
     
-3. Append the integer **(INTEGER, not string!)** `4` to the list `icecream`.
+**PART 3.** Add a line of code that `append`s the integer `4` to the list `wordbank`.
 
 <details>
 <summary>I need a hint!</summary>
 <br>
     
-    icecream.append(4)
+    wordbank.append(4)
 </details>
 
-4. Include an input asking for a number between 0 and 17. Use this number to identify one of the students from the *tlgstudents* list!
+**PART 4.** Include an input asking for a number between 0 and 19. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
 <br>
     
-    choice= input("Pick a student number!")
-    
-**Remember that *input()* always returns a string... look at the *int()* built-in function!**
+    num= input("Pick a student number!")
 </details>
+
+**PART 5.** Remember that *input()* always returns a string... convert `num` into an integer!
 
 <details>
 <summary>I need another hint!</summary>
 <br>
     
-    choice= int(input("Pick a student number!"))
+    num= int(input("Pick a student number!"))
 </details>
+
+**PART 5.** Use `num` to return one student's name from the list `tlgstudents`.
 
 <details>
 <summary>MOAR HINTZ!</summary>
@@ -65,30 +67,7 @@ Find a way to randomize what student is picked!
 
 If the user types in a name instead of a number, use the name instead!
 
-## SOLUTION for main part of exercise
-
-```python
-icecream= ["indentation", "spaces"]
-
-tlgstudents= ["Akino", "Bai", "Carlos", "Dalton", "Dan", "Edith", "Ethan", "Isaiah", "J", "Jessica", "John", "Justin", "Khalil", "Nikk", "Ramesh", "Scotty", "Sergio", "Shawn"]
-
-# Append the integer (INTEGER, not string!) 4 to the list icecream.
-icecream.append(4)
-
-# Include an input asking for a number between 0 and 17
-choice= input("Choose a number between 0 and 17: ")
-
-# change the string to an integer
-choice= int(choice)
-
-# Use this number to identify one of the students from the tlgstudents list!
-name= tlgstudents[choice]
-num= icecream[2] # returns 4
-spaces= icecream[1] # return "spaces"
-
-# <student_name> always uses <4> <spaces> to indent.
-print(f"{name} always uses {num} {spaces} to indent.")
-```
+<!--
 
 ## SOLUTION including bonuses:
 
@@ -97,12 +76,12 @@ print(f"{name} always uses {num} {spaces} to indent.")
 # will choose a random element from a list
 from random import choice
 
-icecream= ["indentation", "spaces"]
+wordbank= ["indentation", "spaces"]
 
-tlgstudents= ["Akino", "Bai", "Carlos", "Dalton", "Dan", "Edith", "Ethan", "Isaiah", "J", "Jessica", "John", "Justin", "Khalil", "Nikk", "Ramesh", "Scotty", "Sergio", "Shawn"]
+tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justin", "Kris", "Mannie", "Marcos", "Marshall", "Michael", "Mike", "Nikko", "Phil", "Ryan", "Sachin", "Samekh", "Will"]
 
-# this will add the integer 4 to the icecream list
-icecream.append(4)
+# this will add the integer 4 to the wordbank list
+wordbank.append(4)
 
 # using """three quotes""" creates a multi-line doc string
 # in other words, a string that uses line breaks instead of /n
@@ -132,5 +111,6 @@ else:
     name= random.choice(tlgstudents)
 
 # Use an f-string to neatly combine these elements into a sentence.
-print(f"{name} always uses {icecream[2]} {icecream[1]} to indent.")
+print(f"{name} always uses {wordbank[2]} {wordbank[1]} to indent.")
 ```
+-->
