@@ -26,3 +26,7 @@ Write a script that does the following- **YOU CANNOT EDIT THE DICTIONARY DIRECTL
   
   Deadpool's fav_food is: chimichangas
   ```
+
+## BONUS:
+
+Idiot-proof your code! If the user types in something wacky, accommodate for that!
