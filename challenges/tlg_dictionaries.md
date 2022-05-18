@@ -30,3 +30,7 @@ Write a script that does the following- **YOU CANNOT EDIT THE DICTIONARY DIRECTL
 ## BONUS:
 
 Idiot-proof your code! If the user types in something wacky, accommodate for that!
+
+## SUPER BONUS:
+
+Loop over your list of keys-- display them in a numeric list. Allow the user to type in a number to select the correct key.
