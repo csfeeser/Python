@@ -8,7 +8,7 @@
 
 Run the following command to download the book *Dracula* by Bram Stoker. Yes, the whole thing!
 
-`student@bchd:~$` `wget https://www.gutenberg.org/files/345/345-0.txt`
+`student@bchd:~$` `wget https://www.gutenberg.org/files/345/345-0.txt -qO dracula.txt`
 
 Write a script that does the following:
 
@@ -19,11 +19,11 @@ Write a script that does the following:
 <details>
 <summary>Help!</summary>
 <pre>
-with open("345-0.txt","r") as foo:
+with open("dracula.txt","r") as foo:
 </pre>
 OR
 <pre>
-foo= open("345-0.txt","r")
+foo= open("dracula.txt","r")
 foo.close()
 </pre>
 </details>
@@ -109,7 +109,7 @@ print(count)
 ```python
 counter= 0
 
-with open("345-0.txt","r") as foo:
+with open("dracula.txt","r") as foo:
     with open("vampytimex.txt","w") as fang:
         for line in foo:
             if "vampire" in line.lower():
