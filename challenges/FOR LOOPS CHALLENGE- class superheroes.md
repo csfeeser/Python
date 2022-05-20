@@ -1,4 +1,6 @@
-# CHALLENGE: Complex Data Slicing and/or For Loops!
+# CHALLENGE: Complex Data Slicing, For Loops, and Superhero Programmers!
+
+<img src="https://simpleprogrammer.com/wp-content/uploads/2019/04/programmer-hero.png" alt="drawing" width="300"/>
 
 ### Attempt these challenges in increasing difficulty!
 
