@@ -1,6 +1,6 @@
 # CHALLENGE: Complex Data Slicing and/or For Loops!
 
-### Attempt any number of the following challenges:
+### Attempt these challenges in increasing difficulty!
 
 **Part 1.** Find your name in the `classinfo` dictionary below. Write code that prints your first name from the `classinfo` data shown here.
 
