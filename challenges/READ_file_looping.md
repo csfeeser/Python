@@ -103,6 +103,7 @@ print(count)
 
 - Take the lines from *Dracula* that have `vampire` in it and write them to a second file named `vampytimes.txt`.
 
+<!--
 #### SOLUTION
 
 ```python
