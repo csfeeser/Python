@@ -10,8 +10,9 @@
 #!/usr/bin/env python
 import sys
 
-# there's nothing wrong with this function, it's just some cool code!
+
 def print1by1(text, delay=0.1):
+    # there's nothing wrong with this function, it's just some cool code!
     for c in text:
         sys.stdout.write(c)
         sys.stdout.flush()
