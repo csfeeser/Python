@@ -61,7 +61,6 @@ if __name__ == "__main__":
     City/Country: New Delhi, IN
     ```
 
-<!--
 ## SOLUTION
 ```python
 #!/usr/bin/python3
