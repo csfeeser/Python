@@ -14,7 +14,6 @@ Do the following:
 - Add yourself to this list! If you're already in this list, add a fictional character :)
 - Output the data as a YAML file.
 
-<!--
 ## SOLUTION
 
 ```python
