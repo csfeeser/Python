@@ -33,8 +33,13 @@ argsdemo("Darrin","awesome","wonderful","fantastic","stupendous")
 def stats(name, **kwargs):
     print(f"Facts about {name}:")
     for key,value in kwargs.items():
-        print(f"  â€¢ {key}: {value}")
+        print(f"{key}: {value}")
 
-stats("Chad", Age=37, Email="csfeeser@alta3.com", Country="United States")
+florgledorgle= {"Age":37,
+        "email": "csfeeser@alta3.com",
+        "Country": "United States"}
+
+slappy("Chad", **florgledorgle)
+slappy("Chad", Age=37, email="csfeeser@alta3.com", Country="United States")
 
 # advantage: instead of writing a function call with all your arguments, you can just basically pass in a dictionary of key/value pairs
