@@ -30,7 +30,7 @@ argsdemo("Darrin","awesome","wonderful","fantastic","stupendous")
 # allows us to pass in as many keyword arguments as we want (or none)
 # like passing in a dictionary
 
-def stats(name, **kwargs):
+def slappy(name, **kwargs):
     print(f"Facts about {name}:")
     for key,value in kwargs.items():
         print(f"{key}: {value}")
