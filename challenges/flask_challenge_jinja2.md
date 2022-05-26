@@ -53,12 +53,8 @@ def start():
 
 @app.route("/login", methods = ["POST"])
 def login():
-        if request.form.get("nm"):
-            answer = request.form.get("nm")
-            if answer == "42":
+        if request.form.get("nm") and request.form.get("nm") == "42":
                 return redirect("/correct")
-            else:
-                return redirect("/")
         else:
             return redirect("/")
 
