@@ -47,9 +47,9 @@ tlgstudents= ["Aaron", "Casey", "Donny", "Emmanuel", "Eric", "Jaelen", "James", 
 **PART 6.** Using elements from the `tlgstudents` list and the `student_name` string, print this output.
 
 ```
-<student_name> always uses <4> <spaces> to indent.
+<student_name> always uses four <spaces> to indent.
 ```
-> "4" and "spaces" should come from tlgstudents!
+> "spaces" should come from tlgstudents!
 
 **ROCKET SCIENTIST BONUS**
 
