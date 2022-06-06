@@ -7,7 +7,7 @@
 **PART 1.** Put this list in your code:   
 
 ```python
-wordbank= ["indentation", "spaces"] 
+wordbank= ["four", "spaces"] 
 ```
 
 **PART 2.** Put this list in your code:   
@@ -49,7 +49,7 @@ tlgstudents= ["Aaron", "Casey", "Donny", "Emmanuel", "Eric", "Jaelen", "James", 
 ```
 <student_name> always uses four <spaces> to indent.
 ```
-> "spaces" should come from tlgstudents!
+> "four" and "spaces" should come from `wordbank`!
 
 **ROCKET SCIENTIST BONUS**
 
