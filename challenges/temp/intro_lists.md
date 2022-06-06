@@ -16,7 +16,7 @@ wordbank= ["indentation", "spaces"]
 tlgstudents= ["Aaron", "Casey", "Donny", "Emmanuel", "Eric", "Jaelen", "James", "Jay", "John", "Ken", "Maurice", "Mike", "Ryan", "Shamain", "Tuang", "Tyler", "Zhenqian", "Travis"]
 ```
   
-**PART 3.** Include an input asking for a number between 0 and 19. Save this as the variable `num`.
+**PART 3.** Include an input asking for a number between 0 and 17. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
