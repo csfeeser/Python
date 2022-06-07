@@ -58,3 +58,32 @@ Find a way to randomize what student is picked!
 **BRAIN SURGEON BONUS**
 
 If the user types in a name instead of a number, use the name instead!
+
+### SOLUTION
+
+```python
+#!/usr/bin/env python3
+import random
+
+wordbank= ["four", "spaces"]
+
+tlgstudents= ["Aaron", "Casey", "Donny", "Emmanuel", "Eric", "Jaelen", "James", "Jay", "John", "Ken", "Maurice", "Mike", "Ryan", "Shamain", "Tuang", "Tyler", "Zhenqian", "Travis"]
+
+num= input("Pick a student number!\n>")
+
+# Brain surgeon bonus!
+if num.isdigit(): # check if num can be converted into a number
+    student= tlgstudents[int(num)] # if it can, use num to slice the list
+
+else: # if it can't, then it must be a student's name
+    student= num
+
+# rocket scientist bonus
+# random.choice() will grab a random element from a list
+randomstudent= random.choice(tlgstudents)
+
+
+print(f"{student} always uses {wordbank[0]} {wordbank[1]} to indent.")
+
+print(f"Random student {randomstudent} always uses {wordbank[0]} {wordbank[1]} to indent.")
+```
