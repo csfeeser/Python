@@ -39,4 +39,6 @@ with open("monday.txt") as fileobj:
      # OBJ. 4- add if logic to only allow words that start with the letter "a"
      # OBJ. 5- insert "name" and each "a-word" into the .write() line below.
      fileobj.write("Hello, " + "! I hope you have an " + " day today!")
+     
+# OBJ. 6- put all this code inside a function :)
 ```
