@@ -30,9 +30,6 @@ words= ["astonishing", "disgusting", "damaging", "dreadful", "amazing", "awesome
 while True:
   name= input("What is your name?\n>")
 
-
-
-
 # NOTE: there are four a-words, so there should be four lines of output in the "monday.txt" file!
 
 # OBJ. 2: put the correct permission argument in the open() function below
