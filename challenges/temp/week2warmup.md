@@ -42,3 +42,25 @@ with open("monday.txt") as fileobj:
      
 # OBJ. 6- put all this code inside a function :)
 ```
+
+## SOLUTION
+
+```python
+#!/usr/bin/env python3
+"""Week 2 Morning Warmup"""
+
+def main():
+    words= ["astonishing", "disgusting", "damaging", "dreadful", "amazing", "awesome", "astounding", "distressing"]
+
+    while True:
+      name= input("What is your name?\n>")
+      if name != "":
+          break
+
+    with open("monday.txt", "w") as fileobj:
+         for x in words:
+             if x.startswith("a"):
+                 fileobj.write(f"Hello, {name}! I hope you have an {x} day today!\n")
+
+main()
+```
