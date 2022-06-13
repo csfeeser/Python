@@ -30,13 +30,16 @@ words= ["astonishing", "disgusting", "damaging", "dreadful", "amazing", "awesome
 while True:
   name= input("What is your name?\n>")
 
-# OBJECTIVE 2: put the correct permission argument in the open() function below
-# OBJ. 3- while indented under the with/as below, loop over the "words" list above
-# OBJ. 4- add if logic to only allow words that start with the letter "a"
-# OBJ. 5- insert "name" and each "a-word" into the .write() line below.
+
+
 
 # NOTE: there are four a-words, so there should be four lines of output in the "monday.txt" file!
 
+# OBJ. 2: put the correct permission argument in the open() function below
 with open("monday.txt") as fileobj:
+
+     # OBJ. 3- while indented under the with/as, loop over the "words" list above
+     # OBJ. 4- add if logic to only allow words that start with the letter "a"
+     # OBJ. 5- insert "name" and each "a-word" into the .write() line below.
      fileobj.write("Hello, " + "! I hope you have an " + " day today!")
 ```
