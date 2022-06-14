@@ -43,7 +43,7 @@ def main():
 
 main()
 ```
-<!--
+
 ## SOLUTION 1
 
 ```python
@@ -72,3 +72,8 @@ def main():
 
 main()
 ```
+
+## SOLUTION 2
+
+![]([image.png](https://github.com/MNM-Nick/scripts-png/blob/main/for%20loop%20used%20by%20mike,shamain,maurice.png?raw=true))
+
