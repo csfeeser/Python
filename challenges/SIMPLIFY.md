@@ -74,6 +74,4 @@ main()
 ```
 
 ## SOLUTION 2
-
-![]([image.png](https://github.com/MNM-Nick/scripts-png/blob/main/for%20loop%20used%20by%20mike,shamain,maurice.png?raw=true))
-
+![Solution]([Dragster.jpg](https://raw.githubusercontent.com/MNM-Nick/scripts-png/main/for%20loop%20used%20by%20mike%2Cshamain%2Cmaurice.png))
