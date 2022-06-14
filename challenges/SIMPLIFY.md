@@ -74,4 +74,4 @@ main()
 ```
 
 ## SOLUTION 2
-![Solution]([Dragster.jpg](https://raw.githubusercontent.com/MNM-Nick/scripts-png/main/for%20loop%20used%20by%20mike%2Cshamain%2Cmaurice.png))
+![Solution](https://raw.githubusercontent.com/MNM-Nick/scripts-png/main/for%20loop%20used%20by%20mike%2Cshamain%2Cmaurice.png)
