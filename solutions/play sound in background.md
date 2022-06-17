@@ -6,6 +6,10 @@ The following code uses **THREADING**. Threading allows (essentially) your code 
 
 Read more about threading here! https://realpython.com/intro-to-python-threading/
 
+Install the `playsound` module to use this code!
+
+`python3 -m pip install playsound`
+
 ## IMPORTANT NOTE: Your Alta3 BCHD machine does not support sound or graphics. To use this, you'll need to run it on your personal machine.
 
 ```python
