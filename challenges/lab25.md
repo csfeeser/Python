@@ -7,5 +7,5 @@ Here's a quick challenge for you. Edit this code to make it work!
 
 x= 18
 y= "awesome"
-print("There are " + x, y, "students here!")
+print("There are " + x, y + "students here!")
 ```
