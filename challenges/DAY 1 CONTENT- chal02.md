@@ -25,7 +25,7 @@ tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebri
     wordbank.append(4)
 </details>
 
-**PART 4.** Include an input asking for a number between 0 and 19. Save this as the variable `num`.
+**PART 4.** Include an input asking for a number between 0 and 18. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
@@ -58,7 +58,7 @@ tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebri
 ```
 <student_name> always uses <4> <spaces> to indent.
 ```
-> "4" and "spaces" should come from tlgstudents!
+> "4" and "spaces" should come from `wordbank`!
 
 **SUPER BONUS**
 
