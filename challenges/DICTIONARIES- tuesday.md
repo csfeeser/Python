@@ -35,12 +35,12 @@
 
         <char_name>'s <char_stat> is: <value>
 
-**POWER BONUS 1:** When returning the hero's name, have it capitalized appropriately (e.g. Wolverine, not wolverine)
+**POWER BONUS 1:** When returning the hero's real name, have it capitalized appropriately (e.g. Peter Quill, not peter quill)
 
 <details>
 <summary>Hints:</summary>
         
-- Use the .**[title](https://docs.python.org/3/library/stdtypes.html#str.title)**() method to capitalize both parts of "harry potter" and "captain america"s names!  
+- Use the .**[title](https://docs.python.org/3/library/stdtypes.html#str.title)**() method to capitalize the first letters of each word.  
       
 </details>
 
@@ -49,13 +49,13 @@
 <details>
 <summary>Hints:</summary>
 
-- Use the .**[lower](https://docs.python.org/3/library/stdtypes.html#str.lower)**() method so that any input from the user matches the case of `wolverine`,`harry potter`, or `captain america`!
+- Use the .**[lower](https://docs.python.org/3/library/stdtypes.html#str.lower)**() method so that any input from the user matches the case of `starlord`,`mystique`, or `hulk`.
 
 </details>
 
-<!--
 **MEGA BONUS 3:** Allow the user to try again without exiting the script! Requires previous knowledge of **while loops**.
 
+<!--
 ### Wow, done with all three? Try this one on for size:
 
 ```python
