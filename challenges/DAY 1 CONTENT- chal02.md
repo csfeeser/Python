@@ -68,8 +68,6 @@ Find a way to randomize what student is picked!
 
 If the user types in a name instead of a number, use the name instead!
 
-<!--
-
 ## SOLUTION including bonuses:
 
 ```python
