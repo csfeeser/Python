@@ -12,6 +12,17 @@ def positional(adjective="...ok" , name="Chad"):
     return f"{name} is {adjective} at Python programming!"
 
 
+# TYPE CHECKING ARGUMENTS
+
+def complimenter(x: "str"):
+    # type checking
+    if type(x) == str:
+        print(x + " is awesome!")
+    else:
+        raise Exception("Provided argument is not a string.")
+
+complimenter(123)
+
 # *args
 # any number of extra arguments can be tacked on to your parameters (even zero extra arguments)
 # passing in an args is like passing in a list
