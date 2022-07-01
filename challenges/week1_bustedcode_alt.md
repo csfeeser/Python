@@ -1,6 +1,6 @@
 # Fixing a Week's Worth of Code!
 
-![Image description](https://c.tenor.com/jhsh9h45xYAAAAAM/fix-bug-when-i-try-to-fix-a-bug.gif)
+![Image description](https://c.tenor.com/2ObfdQUkkh8AAAAd/bug-fix-fixing-bugs-in-your-code.gif)
 
 ### Below is a piece of code that uses (almost) all the concepts that we covered in our first week-- let's fix it up!
 
