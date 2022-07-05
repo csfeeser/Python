@@ -20,9 +20,9 @@
 #### EXAMPLE:
 	
 
-    James, an <amazing> <chinchilla> of a programmer, possesses a <body part substitution> factor for moonlighting as a superhero!
+    Mario, a <wondrous> <alpaca> of a programmer, possesses a <structure weakening> factor for moonlighting as a superhero!
     
-    Mike, an <astonishing <chipmunk> of a programmer, possesses a <camouflage> factor for moonlighting as a superhero!
+    Luigi, an <admirable> <donkey> of a programmer, possesses a <super strength> factor for moonlighting as a superhero!
 
 [...and so on!]
 
