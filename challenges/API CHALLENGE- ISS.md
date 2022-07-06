@@ -38,6 +38,34 @@ if __name__ == "__main__":
     Lat: 37.1268
     ```
 
+<details>
+<summary>Solution to returning longitude and latitude</summary>
+
+```python
+#!/usr/bin/env python3
+"""Returning the location of the ISS in latitude/longitude"""
+import requests
+    
+URL= "http://api.open-notify.org/iss-now.json"
+def main():
+    resp= requests.get(URL).json()
+    
+    # SOLUTION TO PART 2
+    lon= resp["iss_position"]["longitude"]
+    lat= resp["iss_position"]["latitude"]
+    
+    print(f"""
+    CURRENT LOCATION OF THE ISS:
+    Lon: {lon}
+    Lat: {lat}
+    """)
+
+if __name__ == "__main__":
+    main()
+```
+    
+</details>
+
 #### Part 3: SUPER BONUS!
 - This API also returns the timestamp of when the response was generated in [Epoch time (click here to see how Epoch time works!)](https://www.epochconverter.com/). Return this value, but make it human readable so your output looks like so:
 
@@ -49,7 +77,42 @@ if __name__ == "__main__":
     ```
 
     > Hint: Google "python convert epoch time to date time"
- 
+
+<details>
+<summary>Solution to converting timestamp</summary>
+
+```python
+#!/usr/bin/env python3
+"""Returning the location of the ISS in latitude/longitude"""
+import requests
+import datetime
+
+URL= "http://api.open-notify.org/iss-now.json"
+def main():
+    resp= requests.get(URL).json()
+    
+
+    lon= resp["iss_position"]["longitude"]
+    lat= resp["iss_position"]["latitude"]
+
+    # SOLUTION TO PART 3
+    # import datetime added above
+    ts= resp["timestamp"]
+    ts = datetime.datetime.fromtimestamp(ts)
+    
+    print(f"""
+    CURRENT LOCATION OF THE ISS:
+    Timestamp: {ts}
+    Lon: {lon}
+    Lat: {lat}
+    """)
+
+if __name__ == "__main__":
+    main()
+```
+    
+</details>
+
 #### Part 4: MEGA BONUS
 - You've got the location... but that's not very human readable, is it? What CITY and COUNTRY is the ISS currently flying across? Take a look at the 3rd party library **reverse_geocoder**- there is [copy/pasteable code you can use here!](https://github.com/csfeeser/Python/blob/master/enrichment/geocoder.md)
 
@@ -60,33 +123,29 @@ if __name__ == "__main__":
     Lat: 28.63576
     City/Country: New Delhi, IN
     ```
-<!--
-## SOLUTION
+
+<details>
+<summary>Solution to all the above:</summary>
+
 ```python
-#!/usr/bin/python3
-
-# standard library modules first
-import time
-
-# 3rd party modules second
+#!/usr/bin/env python3
+"""Returning the location of the ISS in latitude/longitude"""
 import requests
-import reverse_geocoder as rg
-
+import datetime
+import reverse_geocoder as rg ## PART 4 SOLUTION
+    
 URL= "http://api.open-notify.org/iss-now.json"
-
+    
 def main():
-    # return API response, turn JSON into a python dictionary
     resp= requests.get(URL).json()
+    
 
-    # pull appropriate values for use later
-    lat= resp["iss_position"]["latitude"]
     lon= resp["iss_position"]["longitude"]
+    lat= resp["iss_position"]["latitude"]
     ts= resp["timestamp"]
+    ts = datetime.datetime.fromtimestamp(ts)
 
-    # convert epoch time into a human readable format
-    hr_ts= time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ts))
-
-    # return an ordered dictionary using our lat/lon
+    # return an ordered dictionary using our lat/lon vars
     locator_resp= rg.search((lat, lon))
 
     # slice that object to return the city name only
@@ -96,13 +155,14 @@ def main():
     country= locator_resp[0]["cc"]
 
     print(f"""
-CURRENT LOCATION OF THE ISS:
-Timestamp: {hr_ts}
-Lon: {lon}
-Lat: {lat}
-City/Country: {city}, {country}
-""")
+    CURRENT LOCATION OF THE ISS:
+    Timestamp: {ts}
+    Lon: {lon}
+    Lat: {lat}
+    City/Country: {city}, {country}
+    """)
 
-if __name__=="__main__":
+if __name__ == "__main__":
     main()
 ```
+</details>
