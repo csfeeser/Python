@@ -13,7 +13,7 @@ This project must include (at least) **two (2)** scripts. One called **alta3rese
 
 1. Your script **alta3research-flask01.py** should demonstrate proficiency with the `flask` library. Ensure your application has:
     - at least two endpoints
-    - at least one of your endpoints should return legal JSON
+    - at least one of your endpoints should return JSON
     - has **ONE** additional feature from the following list:
         - one endpoint returns HTML that uses jinja2 logic
         - requires a `session` value be present in order to get a legal response
