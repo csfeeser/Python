@@ -16,11 +16,11 @@ This project must include (at least) **two (2)** scripts. One called **alta3rese
     - at least one of your endpoints should return JSON
     - has **ONE** additional feature from the following list:
         - one endpoint returns HTML that uses jinja2 logic
-        - requires a `session` value be present in order to get a legal response
+        - requires a `session` value be present in order to get a response
         - writes to/reads from a cookie
         - reads from/writes to a sqlite3 database
 
 2. Your script **alta3research-requests02.py** should demonstrate proficiency with the `requests` HTTP library. This script should:
-    - send a GET request to your Flask API; it should target the endpoint that returns legal JSON.
+    - send a GET request to your Flask API; it should target the endpoint that returns JSON.
     - take the returned JSON and "normalize" it into a format that is easy for users to understand. 
     - [Click here for a guide on how to do this!](https://github.com/csfeeser/Python/blob/master/pyapi/flask_JSON_demo_API.md)
