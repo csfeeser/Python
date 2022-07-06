@@ -15,10 +15,10 @@ new = lambda a : a + 10
 
 print(x(5))
 ```
-- 1. `new` saves the lambda expression so it can be used later.
-- 2. all lambda expressions start with the word *lambda*
-- 3. `a` is the variable being passed into the function
-- 4. The value of `a + 10` is what will be returned from this function.
+1. `new` saves the lambda expression so it can be used later.
+2. all lambda expressions start with the word *lambda*
+3. `a` is the variable being passed into the function
+4. The value of `a + 10` is what will be returned from this function.
 
 Here is a normal Python function that uses multiple arguments:
 
