@@ -8,7 +8,7 @@ def main():
 
     startdate= "start_date=" + input("Choose a start date (YYYY-MM-DD) ")
     enddate= "&end_date=" + input("Choose an end date (YYYY-MM-DD) ")
-    mykey = '&api_key=g2dpPgvaIy7V4gdXO8cTKmMMJP2EEwR3RNYb6aQ0' ## replace this with our API key
+    mykey = '&api_key=8tkHvBrwS3EIB7OoEQxgfyzMjAwOsE3t9OObcsWs' ## replace this with our API key
 
     neourl = neourl + startdate + enddate + mykey
     print(neourl)
