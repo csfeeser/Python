@@ -29,9 +29,7 @@ def login():
     if request.method == "POST":
         # check and see if data was posted
         if request.form.get("age"):
-            # nm= "Chewbacca"
             user= request.form.get("age")
-            # user= "Chewbacca"
         else:
             user= "defaultuser"
     return redirect(f"/success/{user}")
