@@ -1,5 +1,7 @@
 ## Morning Survey Code!
 
+<img src="https://memegenerator.net/img/instances/65571911/-pip-install-flask-or-i-shall-taunt-you-a-second-time.jpg" alt="drawing" width="300"/>
+
 If you prefer, you can test and see what response codes come back to help answer your survey questions this morning! Here is a reminder of how you can use `curl` to test:
 
 **send GET request-**  `curl localhost:2224/<path>`  
