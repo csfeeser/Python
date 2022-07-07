@@ -5,6 +5,9 @@
 ### Below is a solution to our [Flask trivia challenge](https://github.com/csfeeser/Python/blob/master/challenges/FLASK_challenge.md) from yesterday...
 ### HOWEVER, it is broken! VERY BROKEN! Fix it (no need to improve it)!
 
+You can test the functionality by either opening the page in `aux1` and filling out the form, OR you can use curl:  
+`curl localhost:2224/login -d nm=42 -L`
+
 ```python
 #!/usr/bin/python3
 
