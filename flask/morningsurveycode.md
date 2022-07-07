@@ -13,6 +13,8 @@ Get the code running below. Use TMUX to open a new terminal so you can use curl 
 **SPLIT SCREEN HORIZONTALLY:**  
 `ctrl` `b` (hands off keyboard) `shift` `"`
 
+### Figure 1
+
 ```python
 #!/usr/bin/python3
 from flask import Flask, redirect, url_for
