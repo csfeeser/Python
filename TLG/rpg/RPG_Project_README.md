@@ -6,13 +6,16 @@
 
 As a conclusion to our week of Python Fundamentals, we're putting the FUN in FUNdamen- ugh.
 
-Your challenge is to (either solo or part of a group) develop additional features into the RPG script that Chad demonstrated to you. Ideally, ALL the class's implementations will be included in one script!
+Your challenge is to (either solo or part of a group) develop additional features into the RPG script that Chad demonstrated to you. 
+
 Some suggestions for implementations are provided below- you're also encouraged to come up with your own ideas!
 - Add additional rooms.
+- Count how many "moves" the player has made.
 - Find a way to add a description of each room that describes every direction you can go.
 - Find a way to have multiple items inside the same room.
 - Find a way to add descriptions to items that display when the item is picked up.
 - Create alternate win/loss scenarios.
+- Add more verbs! What else can your player do besides "get" and "go"?
 - Make a trapdoor. Once you go through it you can't go back that way!
 - Make a "teleport to" command that will put you in any room!
 - Find a way to survive your encounter with the monster!
