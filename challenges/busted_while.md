@@ -38,7 +38,6 @@ def main():
 ```
 
 
-<!--
 ### SOLUTION
 
 ```python
