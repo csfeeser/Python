@@ -19,7 +19,7 @@ def main():
     while rounds < 5 and guess != num:
         guess= input("Guess a number between 1 and 100\n>")
         
-        # COOL CODE ALERT: what is the purpose of the next fourlines?
+        # COOL CODE ALERT: what is the purpose of the next four lines?
         if guess.isdigit():
             guess= int(guess)
         else:
