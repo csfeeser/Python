@@ -1,0 +1,25 @@
+
+```python
+class Hero():
+    def __init__(self):
+        self.magic= 10
+        self.hp = 15
+
+class Mage(Hero):
+    def __init__(self):
+        super(Mage, self).__init__()
+        self.magic = 20
+
+hero= Hero()
+mage= Mage()
+
+print(hero.magic)
+print(hero.hp)
+print(mage.magic)
+print(mage.hp)
+```
+
+>> 10
+>> 15
+>> 20
+>> 15
