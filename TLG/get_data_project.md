@@ -1,4 +1,4 @@
-# Reading Data into Python
+# Reading Data Project
 
 This challenge is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
 
