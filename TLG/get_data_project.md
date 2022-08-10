@@ -11,6 +11,7 @@ This project is **COMPLETELY OPEN.** If you like, there are some specific sugges
 Some of these APIs require an API key to access, some don't! If you need help accessing an API, let Chad know!
 
 - [Star Wars API](https://swapi.dev/)
+- [Open Movie Database API](https://www.omdbapi.com/)
 - [Fantasy Soccer Stats](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [NASA API](https://api.nasa.gov/)
 - [United States Census Data API](https://www.census.gov/data/developers/guidance/api-user-guide.What_is_the_API.html)
