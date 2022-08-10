@@ -1,6 +1,6 @@
 # Reading Data Project
 
-This challenge is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
+This project is **COMPLETELY OPEN.** If you like, there are some specific suggestions below, but you're free to attempt anything you wish!
 
 ### Objective: Find a large data collection in any format; API, .csv, .txt, .xls, etc. and using Python... do something cool† with it!
 
