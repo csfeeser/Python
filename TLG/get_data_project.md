@@ -10,20 +10,21 @@ This challenge is **COMPLETELY OPEN.** If you like, there are some specific sugg
 
 Some of these APIs require an API key to access, some don't! If you need help accessing an API, let Chad know!
 
-- https://fantasy.premierleague.com/api/bootstrap-static/
-- https://api.nasa.gov/
-- https://www.census.gov/data/developers/guidance/api-user-guide.What_is_the_API.html
-- https://www.alphavantage.co/documentation/
-- https://magicthegathering.io/
-- https://pokeapi.co/
-- https://anapioficeandfire.com/
-- https://www.dnd5eapi.co/
-- https://statsapi.web.nhl.com/api/v1/teams
-- https://opentdb.com/api_config.php
-- https://openweathermap.org/api
-- https://polygon.io/docs/stocks/getting-started
-- https://covid19api.com/
-- https://www.boredapi.com/
+- [Star Wars API](https://swapi.dev/)
+- [Fantasy Soccer Stats](https://fantasy.premierleague.com/api/bootstrap-static/)
+- [NASA API](https://api.nasa.gov/)
+- [United States Census Data API](https://www.census.gov/data/developers/guidance/api-user-guide.What_is_the_API.html)
+- [Stocks API](https://www.alphavantage.co/documentation/)
+- [Another Stocks API](https://polygon.io/docs/stocks/getting-started)
+- [Magic: The Gathering API](https://magicthegathering.io/)
+- [Pokemon API](https://pokeapi.co/)
+- [Game of Thrones API](https://anapioficeandfire.com/)
+- [Dungeons and Dragons 5th Edition API](https://www.dnd5eapi.co/)
+- [NHL Teams API](https://statsapi.web.nhl.com/api/v1/teams)
+- [Open Trivia Database API](https://opentdb.com/api_config.php)
+- [Weather API](https://openweathermap.org/api)
+- [Covid-19 Data API](https://covid19api.com/)
+- ["What To Do If You're Bored" API](https://www.boredapi.com/)
 
 ### OPTION 2- Files
 
