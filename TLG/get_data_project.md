@@ -12,6 +12,7 @@ Some of these APIs require an API key to access, some don't! If you need help ac
 
 - [Star Wars API](https://swapi.dev/)
 - [Open Movie Database API](https://www.omdbapi.com/)
+- [Simpsons Quotes API](http://thesimpsonsquoteapi.glitch.me/)
 - [Fantasy Soccer Stats](https://fantasy.premierleague.com/api/bootstrap-static/)
 - [NASA API](https://api.nasa.gov/)
 - [United States Census Data API](https://www.census.gov/data/developers/guidance/api-user-guide.What_is_the_API.html)
