@@ -2,9 +2,9 @@
 def demo(name,adjective):
     print(f"{name} is {adjective} at Python programming!")
 
-demo(Prarthana, awesome)
-demo(amazing, Marc)
-demo(adjective=amazing, name=Darrin)
+demo("Prarthana", "awesome")
+demo("amazing", "Marc")
+demo(adjective="amazing", name="Darrin")
 
 # DEFAULT ARGUMENTS
 def demo(name="Chad",adjective="...ok"):
@@ -25,7 +25,7 @@ demo()
 demo("Phil","feisty", "zippy", "slappy")
 
 # **kwargs
-**kwargs allows us to pass any number of keyword arguments to the function.
+#**kwargs allows us to pass any number of keyword arguments to the function.
 
 # **KWARGS (keyword arguments)
 def demo(**stats):
