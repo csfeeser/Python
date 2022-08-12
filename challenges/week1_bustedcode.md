@@ -1,12 +1,12 @@
-# Fixing a Week's Worth of Code!
+# Fixing a Course's Worth of Code!
 
 ![Image description](https://c.tenor.com/jhsh9h45xYAAAAAM/fix-bug-when-i-try-to-fix-a-bug.gif)
 
-### Below is a piece of code that uses (almost) all the concepts that we covered in our first week-- let's fix it up!
+### Below is a piece of code that uses (almost) all the concepts that we covered in our training so far-- let's fix it up!
 
-`bugginout.py`
+`student@bchd:~$` `vim bugginout.py`
 
-```
+```python
 #!/usr/bin/env python
 import sys
 
@@ -45,6 +45,7 @@ def main():
 
 `student@bchd:~$` `./bugginout.py`
 
+<!--
 ### SOLUTION
 
 ```python
