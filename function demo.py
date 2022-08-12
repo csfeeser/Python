@@ -1,9 +1,15 @@
-# POSITIONAL AND KEYWORD ARGUMENTS
 def demo(name,adjective):
     print(f"{name} is {adjective} at Python programming!")
 
+# POSITIONAL ARGUMENTS-- where the order (position) matters
+# whatever the first argument is will be the first parameter, "name"
+# whatever the second argument is will be the second parameter, "adjective"
 demo("Prarthana", "awesome")
 demo("amazing", "Marc")
+
+# KEYWORD ARGUMENTS-- where the value of parameters are stated DIRECTLY
+# "adjective" and "name" are being defined directly, so it doesn't matter
+# in what order these arguments are made
 demo(adjective="amazing", name="Darrin")
 
 # DEFAULT ARGUMENTS
