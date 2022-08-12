@@ -8,8 +8,9 @@ In class we learned how to utilize two popular third party networking tools: Par
 
 There are lots of things you can do with Paramiko and Netmiko that we have not done in class! Write code that either automates action against bender, fry, and/or zoidberg (Paramiko) or sw-1/sw-2 (Netmiko). Feel free to start with one of our scripts from labs 65, 66, or 67 and build on them!
 
-- [More ways to use the SFTPClient from Lab 65!](https://docs.paramiko.org/en/stable/api/sftp.html)
-- [More ways to use the SSHClient from Lab 66!](https://docs.paramiko.org/en/stable/api/client.html)
+- [More ways to use paramiko.SFTPClient from Lab 65!](https://docs.paramiko.org/en/stable/api/sftp.html)
+- [More ways to use paramiko.SSHClient from Lab 66!](https://docs.paramiko.org/en/stable/api/client.html)
+- [More ways to use netmiko.ConnectHandler from Lab 67!](https://pyneng.readthedocs.io/en/latest/book/18_ssh_telnet/netmiko.html)
 
 ### OPTION #2: Research
 
