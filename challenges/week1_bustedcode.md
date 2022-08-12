@@ -45,7 +45,6 @@ def main():
 
 `student@bchd:~$` `./bugginout.py`
 
-<!--
 ### SOLUTION
 
 ```python
