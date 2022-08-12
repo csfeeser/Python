@@ -18,10 +18,10 @@ Add a comment to EVERY LINE explaining what that line of code does!
 
 #### CHOOSE EITHER PARAMIKO OR NETMIKO, YOU DON'T NEED TO DO BOTH
 
-PARAMIKO DEMO CODE: Choose ONE (this code is longer)
-https://github.com/csfeeser/Paramiko-Example-Code/tree/main/demos
+PARAMIKO DEMO CODE: Choose ONE (this code is longer)  
+- https://github.com/csfeeser/Paramiko-Example-Code/tree/main/demos
 
 #### OR
 
-NETMIKO DEMO CODE: Choose THREE (this code is shorter)
-https://github.com/csfeeser/Netmiko-Example-Code/tree/master/presentations/dfwcug/examples
+NETMIKO DEMO CODE: Choose THREE (this code is shorter)  
+- https://github.com/csfeeser/Netmiko-Example-Code/tree/master/presentations/dfwcug/examples
