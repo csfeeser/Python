@@ -25,11 +25,24 @@ demo()
 demo("Phil","feisty", "zippy", "slappy")
 
 # **kwargs
-**kwargs allows us to pass the variable length of keyword arguments to the function.
+**kwargs allows us to pass any number of keyword arguments to the function.
 
-def demo(name="Chad", **stats):
-    print(f"{name} statistics:")
-    for key,value in stats.items():
-        print(f"  • {key}: {value}")
+# **KWARGS (keyword arguments)
+def demo(**stats):
+    print(f"{stats['name']} statistics:")
+    print(f"  • Age: {stats['age']}")
+    print(f"  • Email: {stats['email']}")
+    print(f"  • Country: {stats['country']}")
 
-demo(name="Chad", Age=37, Email="csfeeser@alta3.com", Country="United States")
+# writing a ton of arguments in one line (yuck)
+demo(name="Chad", age=37, email="csfeeser@alta3.com", country="United States")
+
+# putting those arguments in a dictionary...
+data= {"name": "Chad",
+       "age": 37,
+       "email": "csfeeser@alta3.com",
+       "country": "United States"}
+
+# ...and passing all those key:value pairs as
+# keyword arguments to the function
+demo(**data)
