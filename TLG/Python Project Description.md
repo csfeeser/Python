@@ -20,7 +20,22 @@ The following is a list of topics to choose from, but you may present original t
 
 The topics listed below generally rank from easier to harder.
 
-### TOPICS:
+### PAST TOPICS USED BY STUDENTS IN CHAD'S CLASSES:   
+- Take input from users to display ASCII art
+- Return API data on favorite actors/movies
+- Conversion calculator- fahrenheit/celsius, etc.
+- Magic 8 Ball website
+- Deal or No Deal turn based game
+- Speech recognition lib that transcribes audio files
+- Webscrapes to find PS5 from a retail stores 
+- Turn-based combat game
+- Creating a Flask API that returns puns
+- Create a MADLIBS game from a MADLIBS API.
+- Scrape websites for tabletop game data and throw it into a database
+- Use currencyapi.net for international currency rates to see exchanges from dollars
+- Create diagrams with matplotlib from data of your choice
+
+### MORE SUGGESTIONS:
 
 •	Math conversions! Make a program that first asks a user if they’re converting temperatures, determining if a number is odd or even, or perhaps even currency conversions (what you convert is up to you). After the selection has been made, prompt the user for the necessary input, and output the results to the screen!
 
