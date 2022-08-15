@@ -39,7 +39,7 @@ Let's install a goofy little application called `sl`. You'll see what it does in
     
 ### CHALLENGE OBJECTIVE:
 
-Let's pretend that the `sl` application is one of several legitimate services we need to provision on a network of machines and/or VMs. Write a script (***you are seriously encouraged to steal code from Lab 66***) that does the following:
+Let's pretend that the `sl` application is one of several legitimate services we need to provision on a network of machines and/or VMs. Write a script (***PLEASE steal code from Lab 66***) that does the following:
 
 - runs against `bender`,`fry`, AND `zoidberg`
 - installs the `sl` application
