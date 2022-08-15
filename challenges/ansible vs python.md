@@ -9,7 +9,7 @@ Let's install a goofy little application called `sl`. You'll see what it does in
 
     `student@bchd:~$` `cd && wget https://labs.alta3.com/projects/napya/deploy/napyasetup.sh -qO setup.sh && bash setup.sh`
     
-0. Use the following command to confirm that the `sl` application is installed on `bchd`.
+0. Use the following command to confirm that the `sl` application is not installed on `bchd`.
 
     `student@bchd:~$` `test -f /usr/games/sl && echo "FILE exists" || echo "File does not exist"`
     
@@ -21,7 +21,7 @@ Let's install a goofy little application called `sl`. You'll see what it does in
 
     `student@bchd:~$` `sudo apt install sl`
     
-0. Use that command again to confirm that the `sl` application is installed on `bchd`.
+0. Use that command again to confirm that the `sl` application is now installed on `bchd`.
 
     `student@bchd:~$` `test -f /usr/games/sl && echo "FILE exists" || echo "File does not exist"`
     
