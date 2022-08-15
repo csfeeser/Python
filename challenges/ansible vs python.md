@@ -1,5 +1,8 @@
 # Week Three Warmup
 
+<img src="https://pbs.twimg.com/media/DvxFrYPXcAAa_Ye.jpg" alt="drawing" width="300"/>
+
+
 Let's install a goofy little application called `sl`. You'll see what it does in a moment!
 
 1. First, uninstall/reinstall your `planetexpress` machines (bender, fry, zoidberg, and farnsworth) with the following command.
