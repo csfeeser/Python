@@ -42,8 +42,9 @@ Let's install a goofy little application called `sl`. You'll see what it does in
 Let's pretend that the `sl` application is one of several legitimate services we need to provision on a network of machines and/or VMs. Edit one of our scripts from last week (***Parmiko Lab 66, included below***) that does the following:
 
 - runs against `bender`,`fry`, AND `zoidberg`
-- installs the `sl` application
-- confirms that `sl` has been installed.
+- installs the `sl` application (`sshsession.exec_command(`sudo apt install sl`)`)
+- waits a few seconds to allow the installation (`time.sleep(5`)
+- confirms that `sl` has been installed. (`sessin, sessout, sesserr = sshsession.exec_command('test -f /usr/games/sl && echo "FILE exists" || echo "File does not exist"')`)
 - **BONUS:** if `sl` has already been installed on a host, SKIP installation (why install it again?). Inform the user that this host was SKIPPED.
 - **BONUS 2:** make it easy to switch this program back and forth between installing and *uninstalling* `sl`.
 - **ROCKET SCIENTISTS LOOKING FOR A HEADACHE:** use the *threading* module to allow installation to all three devices [concurrently](https://www.dictionary.com/browse/concurrently) instead of [consecutively](https://www.dictionary.com/browse/consecutively).
