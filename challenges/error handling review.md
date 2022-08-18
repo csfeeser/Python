@@ -1,5 +1,7 @@
 ## Error Handling Review
 
+<img src="https://media.makeameme.org/created/its-user-error.jpg" alt="drawing" width="300"/>
+
 Something that your final project should/must include are error handling tools... gotta prevent those user errors! Below is a perfectly functioning piece of code, so long as the users run it EXACTLY as instructed (which will never happen). 
 
 #### OBJECTIVE:
