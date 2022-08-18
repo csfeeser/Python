@@ -48,5 +48,6 @@ def main():
 
     print(f"{num1} {ope} {num2} = {answer}")
 
-main()
+if __name__ == "__main__":
+    main()
 ```
