@@ -41,7 +41,7 @@ Quantifiers:
 
 ### Part 2:
 
-Now try it with Python! Try out a new functions this morning: `findall()`
+Now try it with Python! Try out a new `re` module function this morning: `findall()`
 
 The findall() function returns a list containing all matches.
 ```
