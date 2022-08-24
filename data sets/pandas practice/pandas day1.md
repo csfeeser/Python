@@ -25,3 +25,14 @@ These two CSV files contain data on used cars. Using what we learned yesterday i
 - If all the cars on the lot were swept away in a tornado, how much money would we lose?
 - Cars without photos don't sell. Delete all rows where photo count = 0.
 - Output your dataframe as a file, using whatever file type you wish
+
+<details>
+<summary>Click here for solution!</summary>
+<br>
+Download the notebook with solutions here:
+`wget https://raw.githubusercontent.com/csfeeser/Python/master/data%20sets/pandas%20practice/warmupsolution.ipynb`
+  
+Or go here!
+https://github.com/csfeeser/Python/blob/master/data%20sets/pandas%20practice/warmupsolution.ipynb
+</details>
+
