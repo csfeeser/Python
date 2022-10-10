@@ -43,7 +43,7 @@ Behold! A series of increasingly difficult nested lists/dictionaries!
     ```
 ![Image description](https://github.com/csfeeser/Python/blob/master/eyes.jpg?raw=true)
 
-<!--
+
 ## SOLUTION
 
 ```
@@ -72,4 +72,3 @@ c= nightmare[0]["d"]
 
 print(f"My {a}! The {b} do {c}!")
 ```
--->
