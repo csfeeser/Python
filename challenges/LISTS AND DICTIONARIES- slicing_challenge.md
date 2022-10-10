@@ -10,7 +10,7 @@
     nightmare= [{"slappy": "a", "text": "b", "kumquat": "goggles", "user":{"awesome": "c", "name": {"first": "eyes", "last": "toes"}},"banana": 15, "d": "nothing"}]
 
 
-1. For your morning challenge, attempt the following:
+1. For this challenge, attempt the following:
 
     - From the *challenge* list, pull the strings *eyes, goggles,* and *nothing* and create a print function that returns this output:
         ```
@@ -36,8 +36,9 @@
 ![Image description](https://github.com/csfeeser/Python/blob/master/eyes.jpg?raw=true)
 
 
-## SOLUTION
-
+<details>
+<summary>CHALLENGE SOLUTION</summary>
+    
 ```
 challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
 
@@ -46,8 +47,15 @@ b= challenge[2][0]
 c= challenge[3]
 
 print(f"My {a}! The {b} do {c}!")
+```
+    
+</details>
 
 
+<details>
+<summary>TRIAL SOLUTION</summary>
+    
+```
 trial= ["science", "turbo", {"eyes": "goggles", "goggles": "eyes"}, "nothing"]
 
 a= trial[2]["goggles"]
@@ -55,7 +63,14 @@ b= trial[2]["eyes"]
 c= trial[-1]
 
 print(f"My {a}! The {b} do {c}!")
+```
+    
+</details>
 
+<details>
+<summary>NIGHTMARE SOLUTION</summary>
+    
+```
 nightmare= [{"slappy": "a", "text": "b", "kumquat": "goggles", "user":{"awesome": "c", "name": {"first": "eyes", "last": "toes"}},"banana": 15, "d": "nothing"}]
 
 a= nightmare[0]["user"]["name"]["first"]
@@ -64,3 +79,5 @@ c= nightmare[0]["d"]
 
 print(f"My {a}! The {b} do {c}!")
 ```
+    
+</details>
