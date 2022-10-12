@@ -3,7 +3,7 @@
 ## Write a Flask API that does the following:
   
 1. **Make the landing page ("/") return an HTML form.**
-   - The form should ask a trivia question of your choosing (feel free to re-use HTML from lab 89!)
+   - The form should ask a trivia question of your choosing (feel free to re-use HTML from lab `Building APIs with Python`!)
    - The answer should be POSTed to another path.
 
 2. **Depending on the answer POSTed from the form, do the following:**
