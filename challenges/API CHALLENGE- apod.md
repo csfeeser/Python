@@ -45,6 +45,8 @@ Write a script (or edit the script from the lab) so that it does the following:
 
 5. From the translated JSON, download the APOD image from the provided URL. You can use the `requests` library to do this! There are other libraries that work as well, such as `wget`. This page shows you how to use either: (https://likegeeks.com/downloading-files-using-python/#Using-wget)
 
+> I recommend saving your picture to `/home/student/static` so that it can be viewed in the `Files` resource!
+
 ### Part 3
 
 6. There are two ways that, depending on the date chosen by the user, that the results could go poorly. How can you write your script to accommodate these two possibilities?
