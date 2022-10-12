@@ -50,7 +50,7 @@ Write a script (or edit the script from the lab) so that it does the following:
 ### Part 3
 
 6. There are two ways that, depending on the date chosen by the user, that the results could go poorly. How can you write your script to accommodate these two possibilities?
-    - not every "Picture of the Day" is a picture. Some are YouTube video links!
+    - not every "Picture of the Day" is a picture. Some are YouTube video links! `2022-01-25` for example returns a YouTube link.
     - not every "Picture of the Day" has an HD version of the image; sometimes only SD is available.
 
 
