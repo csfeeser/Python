@@ -8,56 +8,58 @@
 You can test the functionality by either opening the page in `aux1` and filling out the form, OR you can use curl:  
 `curl localhost:2224/login -d nm=42 -L`
 
-```python
-#!/usr/bin/python3
+1. `student@bchd:~$` `vim ~/mycode/flaskapi/bustedflask.py`
 
-from flask import Flask
+    ```python
+    #!/usr/bin/python3
 
-app = Flask(__name__)
+    from flask import Flask
 
-### NOTE FROM CHAD: There is nothing wrong with the HTML
-html= '''<style>
-body {
-  background-color: black;
-  text-align: center;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
-</head>
-<body>
+    app = Flask(__name__)
 
-<h1>TRIVIA TIME</h1>
-<p>What is the meaning of life, the universe, and everything?</p>
-<img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
+    ### NOTE FROM CHAD: There is nothing wrong with the HTML
+    html= '''<style>
+    body {
+      background-color: black;
+      text-align: center;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    </style>
+    </head>
+    <body>
 
-    <form action = "/login" method = "POST">
-        <p><input type = "text" name = "nm"></p>
-        <p><input type = "submit" value = "submit"></p>
-    </form>
+    <h1>TRIVIA TIME</h1>
+    <p>What is the meaning of life, the universe, and everything?</p>
+    <img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
 
-</body>
-</html>'''
+        <form action = "/login" method = "POST">
+            <p><input type = "text" name = "nm"></p>
+            <p><input type = "submit" value = "submit"></p>
+        </form>
 
-def success():
-    return f"That is correct!"
+    </body>
+    </html>'''
 
-def start():
-    return html
+    def success():
+        return f"That is correct!"
 
-def login():
-        if request.form.get("nm"):
-            answer = request.form.get("nm")
-            if answer == "42":
-                return redirect(url_for("success")
+    def start():
+        return html
+
+    def login():
+            if request.form.get("nm"):
+                answer = request.form.get("nm")
+                if answer == "42":
+                    return redirect(url_for("success")
+                else:
+                    return redirect(/)
             else:
                 return redirect(/)
-        else:
-            return redirect(/)
 
-if __name__ == "__main__":
-   app.run()
-```
+    if __name__ == "__main__":
+       app.run()
+    ```
 
 <!--
 ## SOLUTION
