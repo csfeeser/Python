@@ -1,6 +1,6 @@
 <img src="https://www.brightful.me/content/images/2020/08/shutterstock_686118184.jpg" alt="drawing" width="500"/>
 
-## Yesterday, you were challenged to write a Flask API that did the following:
+## Previously, you were challenged to write a Flask API that did the following:
   
 - A landing page rendered an HTML form asking a trivia question.
 - The submitted answer was POSTed to another page
