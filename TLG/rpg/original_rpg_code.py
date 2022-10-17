@@ -35,7 +35,6 @@ rooms = {
                   'east'  : 'Dining Room',
                   'item'  : 'key'
                 },
-
             'Kitchen' : {
                   'north' : 'Hall',
                   'item'  : 'monster',
@@ -49,10 +48,6 @@ rooms = {
             'Garden' : {
                   'north' : 'Dining Room'
                },
-            'Pantry' : {
-                  'south' : 'Dining Room',
-                  'item' : 'cookie',
-            }
          }
 
 #start the player in the Hall
