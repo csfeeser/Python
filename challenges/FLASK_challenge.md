@@ -19,7 +19,7 @@
     from flask import render_template
     ```
 
-
+<!--
 ## SOLUTION
 ```html
 <style>
