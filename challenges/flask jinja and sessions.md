@@ -64,8 +64,8 @@ if __name__ == "__main__":
 </details>
 
 ## Here is part TWO of this challenge:
-- Take the posted answer and save it to a **cookie** or a **session**.
-    - The cookie must be read in order to check if the answer is correct.
+- Take the POSTed answer and save it to a **cookie** or a **session** instead of a regular variable.
+    - The cookie/session must be read later to check if the answer is correct.
 
 - Adapt the HTML to do the following:
     - Add a Jinja2 **{% if %}** expression. If the answer contained in the cookie/session is wrong, have the conditional print something like "XYZ is not the correct answer!" before rendering the rest of the HTML form.
