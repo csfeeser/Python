@@ -1,4 +1,4 @@
-<img src="https://www.brightful.me/content/images/2020/08/shutterstock_686118184.jpg" alt="drawing" width="500"/>
+<img src="https://raw.githubusercontent.com/csfeeser/Python/master/challenges/trivia3.png" alt="drawing" width="500"/>
 
 ## Previously, you were challenged to write a Flask API that did the following:
   
@@ -71,6 +71,7 @@ if __name__ == "__main__":
 
 - Adapt the script above so that it will accept POSTed JSON, not just an HTML form (see bonus).
 - Write a second script, and using the *requests* module, send a POST request containing your trivia answer in JSON.
+     - the URL you POST to will be `localhost:2224/whatever/path/you/specified`
 - This second (client) script should tell you whether or not your answer was correct!
 
 ## How to use requests.post()
