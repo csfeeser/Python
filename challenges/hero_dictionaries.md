@@ -46,22 +46,7 @@ Batman has the ultimate super power: <money>
 
         What statistic do you want to know about? (strength, speed, or intelligence)
         
-0. After a user provides input, use the values of `char_name` and `char_stat` values to pull the appropriate value from the dictionary below. 
-
-    ```
-    heroes= {"flash":
-                       {"speed": "fastest", 
-                        "intelligence": "lowest", 
-                        "strength": "lowest"}, 
-             "batman":
-                       {"speed": "slowest", 
-                        "intelligence": "Highest", 
-                        "strength": "Money"}, 
-             "superman":
-                       {"speed": "fast", 
-                        "intelligence": "average", 
-                         "strength": "strongest"}}
-    ```
+0. After a user provides input, use the values of `char_name` and `char_stat` values to pull the appropriate value from the dictionary above. 
     
 0. You should return an output line that looks like this:
 
