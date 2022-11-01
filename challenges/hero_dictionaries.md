@@ -77,6 +77,10 @@ Batman has the ultimate super power: <money>
     char_name= input("Which character do you want to know about? (Flash, Batman, Superman)\n>")
     char_stat= input("What statistic do you want to know about? (strength, speed, or intelligence)\n>")
 
+    print(f"{char_name}'s {char_stat} is: {heroes[char_name][char_stat]}")
+
+    # ANSWER TO BONUS
+    # this includes the .capitalize(), .lower(), and .upper() methods to "normalize" the input
     print(f"{char_name.capitalize()}'s {char_stat} is: {heroes[char_name.lower()][char_stat.lower()].upper()}")
         
 </details>
