@@ -9,24 +9,25 @@ data= pd.read_csv("annualcheeseconsumed.txt")
 year= data["Year"] # pandas SERIES
 cheddar= data["Cheddar"]
 swiss= data["Swiss"]
-
-# NEW
-fig, (ax1, ax2)= plt.subplots(nrows=2, ncols=1, sharey=True)
-
+muenster= data["Muenster"]
 
 # adding two different pieces of data to the plot
-ax1.plot(year, 
+plt.plot(year, 
          cheddar, 
          label="Avg. Cheddar Consumed")
-ax2.plot(year, 
+plt.plot(year, 
          swiss, 
          label="Avg. Swiss Consumed")
+plt.plot(year, 
+         muenster, 
+         label="Avg. Muenster Consumed")
 
-ax1.legend()
-ax1.set_title("American Cheese Consumption Trends")
-ax1.set_ylabel("Avg. Pounds Consumed Per American")
+plt.legend()
+plt.grid()
 
-ax2.legend()
+plt.xlabel("Year")
+plt.ylabel("Cheese Consumed in Pounds Per Year")
+plt.title("AMERICANS LOVE CHEESE!")
 
 plt.show()
 ```
