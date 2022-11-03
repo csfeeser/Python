@@ -16,20 +16,26 @@ Use the code and adapt it to do the following:
 - insert the following data into those columns:
 
     ```
-    id: 1
-    band: The Beatles
-    hometown: Liverpool, England
-    year: 1960
-
-    id: 2
-    band: Guns and Roses
-    hometown: Los Angeles, USA
-    year: 1985
-
-    id: 3
-    band: Agnee
-    hometown: Pune, India
-    year: 2007
+    [
+      {
+        "id": 1,
+        "band": "The Beatles",
+        "hometown": "Liverpool, England",
+        "year": 1960
+      },
+      {
+        "id": 2,
+        "band": "Guns and Roses",
+        "hometown": "Los Angeles, USA",
+        "year": 1985
+      },
+      {
+        "id": 3,
+        "band": "Agnee",
+        "hometown": "Pune, India",
+        "year": 2007
+      }
+    ]
     ```
 
 - SELECT all the data you created and, using a for loop, print each database row to the screen.
