@@ -46,7 +46,6 @@ Read in the sqlite3 database you've created as a Pandas DataFrame! Check out thi
 
 https://datacarpentry.org/python-ecology-lesson/09-working-with-sql/index.html
 
-<!--
 **SOLUTION**
 ```
 #!/usr/bin/env python3
