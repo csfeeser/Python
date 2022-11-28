@@ -1,3 +1,13 @@
+### To recreate this project, do the following steps:
+
+# STEP 1:
+
+`mkdir -p ~/mycode/flaskdemo/templates`
+
+Copy the following into `rpg.py`:
+
+`vim ~/mycode/flaskdemo/rpg.py`
+
 ```python
 #!/usr/bin/python3
 from flask import Flask, redirect, render_template, request
@@ -105,8 +115,12 @@ if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224)
 ```   
 
+# STEP 2:
 
-## status.html in templates directory
+Copy the following into `status.html`:
+
+`vim ~/mycode/flaskdemo/templates/status.html`
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
