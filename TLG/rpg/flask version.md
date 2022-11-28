@@ -157,3 +157,11 @@ Copy the following into `status.html`:
 </body>
 </html>
 ```
+
+# STEP 3:
+
+Start your Flask API.
+
+`python3 ~/mycode/flaskdemo/rpg.py`
+
+View the game in aux1!
