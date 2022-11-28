@@ -110,7 +110,9 @@ def goget(move):
         else:
             # if any of those conditions weren't met
             return "Can't get {move[1]}!"
-
+    else:
+            return ""
+            
 if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224)
 ```   
