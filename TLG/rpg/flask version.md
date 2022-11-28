@@ -104,3 +104,42 @@ def goget(move):
 if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224)
 ```   
+
+
+## status.html in templates directory
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FLASK API ADVENTURE!</title>
+<body>
+{% if not gameover %}
+        <p><strong>{{ msg }}</strong></p>
+
+        <p>You are in the {{ currentRoom }}.<br />
+
+        Inventory:</p>
+        <ul>
+        {% for item in inv %}
+                 <li>{{item}}</li>
+        {% endfor %}
+        </ul>
+        {% if "item" in currentroomdict and currentroomdict["item"][0] in ["a","e","i","o","u"] %}
+                 <p>You see an {{ currentroomdict["item"] }}<br />
+            {% elif "item" in currentroomdict and currentroomdict["item"][0] not in ["a","e","i","o","u"] %}
+                  <p>You see a {{ currentroomdict["item"] }}<br />
+        {% endif %}
+        {{ currentroomdict.desc }}</p>
+        <form action = "/action" method = "POST">
+            <p><input type = "text" name = "nm"></p>
+            <p><input type = "submit" value = "submit"></p>
+        </form>
+{% endif %}
+{% if gameover %}
+    {{ currentroomdict.desc }}</p>
+    <p><strong>{{ msg }}</strong></p>
+{% endif %}
+</body>
+</html>
+```
