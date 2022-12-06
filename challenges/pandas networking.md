@@ -15,7 +15,6 @@ Check out the spreadsheet inside.
 ```
 switches.xlsx
 ```
-### Morning Challenge!
 
 <img src="https://github.com/csfeeser/images/blob/master/switches.png?raw=true" width="200"/>
 
