@@ -50,3 +50,30 @@ heroes= [{"name": "Batman", "power":"money"},
 for hero in heroes:
     print(f"The hero {hero['name']} has {hero['power']} as their power.")
 ```
+
+## SOLUTION
+
+```python
+#!/usr/bin/env python3
+"""Solution to Tuesday Morning Challenge | Chad Feeser"""
+
+import pandas as pd
+import pprint
+
+def main():
+    excel_file = 'switches.xlsx'
+
+    switches= pd.read_excel(excel_file)
+
+    switches.sort_values(["driver"], inplace=True)
+
+    switchpython= switches.to_dict(orient='records')
+
+    pprint.pprint(switchpython)
+
+    for switch in switchpython:
+        print(f"The driver of IP address {switch['ip']} is {switch['driver']}.")
+
+if __name__ == "__main__":
+    main()
+```
