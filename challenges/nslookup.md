@@ -25,3 +25,11 @@ Use the function above in addition to your own code that you will write. Your co
 - allow users to paste in a list of servers
 - return the list from the function
 - use a for loop over the list of servers and execute an `nslookup` command (or other command of your choice) against each. *Hint: try the os.system() function from lab 22!*
+
+Here is a list of servers you can paste:  
+```
+172.0.1.2
+sw-1
+sw-2
+8.8.8.8
+```
