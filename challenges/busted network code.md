@@ -33,3 +33,34 @@ for x in netifaces.interfaces():
 ```
 
 `student@bchd:~$` `python3 bustedcode.py`
+
+
+### SOLUTION
+
+```
+#!/usr/bin/env python3
+
+import time
+import sys 
+import netifaces
+
+def delay_print(s):
+    # there's nothing wrong with this function, it's just some cool code that
+    # will print out strings one character at a time! :)
+    for c in s:
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(0.05)
+
+delay_print("Good morning, Mr. Stark. Here are your network interfaces:\n")
+print(netifaces.interfaces())
+
+for igloo in netifaces.interfaces():
+    with open("challenge.log", "a") as foo:                 # opens writeable file for logging
+        try:
+            print('Logging addresses for interface ' + igloo)     # prints name of interface being logged
+            print((netifaces.ifaddresses(igloo)[netifaces.AF_LINK])[0]['addr'], file=foo) # Prints the MAC address to file
+            print((netifaces.ifaddresses(igloo)[netifaces.AF_INET])[0]['addr'], file=foo) # Prints the IP address to file
+        except Exception as e:
+            print('Could not collect adapter information:', e) # Print an error message
+```            
