@@ -20,8 +20,8 @@ def delay_print(s):
         sys.stdout.flush()
         time.sleep(0.25)
 
-delay_print("Good morning, Mr. Stark. Here are your network interfaces:)
-delay_print(netifaces.interfaces())
+delay_print("Good morning, Mr. Stark. Here are your network interfaces:\n)
+print(netifaces.interfaces())
 
 for x in netifaces.interfaces():
     with open("challenge.log") as foo:                 # opens writeable file for logging
