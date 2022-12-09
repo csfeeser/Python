@@ -24,6 +24,7 @@ Some code to get you started:
 """Friday Warmup | Returning Data From Complex JSON"""
 
 import requests
+from pprint import pprint
 
 URL= "paste the trivia url here"
 
@@ -31,6 +32,7 @@ def main():
     
     # data will be a python dictionary rendered from your API link's JSON!
     data= requests.get(URL).json()
+    pprint(data)
     
 if __name__ == "__main__":
     main()
