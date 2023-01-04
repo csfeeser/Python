@@ -36,7 +36,8 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 <details>
 <summary>Need help? Click here to see where errors are located:</summary>
 <br>
-    ```
+    
+
     #!/usr/env python3  ## INCORRECT SHEBANG
 
     day= 2
@@ -48,5 +49,6 @@ Time for something different- instead of writing code, we'll be repairing it. Th
                        ^                                   ^  "quotes" makes this a string, not a variable
                        ^                                   also, can't + an integer to a string!
                        missing () at end of method
-    ```
+
+    
 </details>
