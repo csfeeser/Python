@@ -52,3 +52,28 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
     
 </details>
+
+
+### SOLUTION
+
+```python
+#!/usr/bin/env python3
+
+number= "2" 
+
+name= input('What is your name?\n>')
+
+# This is what you should see when print runs-
+# Hi <name>! Welcome to Day 2 of Python Training!
+
+# OPTION 1
+print("Hi " + name.capitalize() + "! Welcome to Day ", number, " of Python Training!", sep= "") 
+
+# OPTION 2
+print(f"Hi {name.capitalize()}! Welcome to Day {number} of Python Training!")
+
+number= 2
+
+# OPTION 3
+print("Hi " + name.capitalize() + "! Welcome to Day " + str(number) + " of Python Training!")
+```
