@@ -76,7 +76,7 @@ for line in foo:
 
 #### Part 5
 
-- Count that up! How many times does the word `vampire` appear?
+- Count that up! How many lines contain the word `vampire`?
 
 <details>
 <summary>How many times does it appear?</summary>
