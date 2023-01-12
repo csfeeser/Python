@@ -21,6 +21,7 @@ pond = d          # remaining cards in the pile
 ```
 
 #### Object Classes and their Methods
+https://card-deck.readthedocs.io/en/latest/autodoc.html#module-model
 
 ```
 d object
