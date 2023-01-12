@@ -104,6 +104,9 @@ get_typeable_name() method of card_deck.model.Card instance
 
 ```python
 #!/usr/bin/env python3
+""" TO DO: how to group cards by face values into "books"- groups of
+four matching cards- and tallying how many books a player has to
+determine the winner """
 
 from card_deck import *
 
