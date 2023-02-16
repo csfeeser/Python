@@ -1,3 +1,5 @@
+DON'T NEED ANYTHING REVIEWED? Start exploring code on your own; think about what you'd like to do for your final project!
+
 ENCOURAGE RE-RUNNING LABS:
 why use try/except 		4/14 
     37. 💻 try and except	 
