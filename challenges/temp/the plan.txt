@@ -1,0 +1,25 @@
+ENCOURAGE RE-RUNNING LABS:
+why use try/except 		4/14 
+    37. 💻 try and except	 
+how to read in a file 		5/14 	 
+how to write to a file 		5/14
+    43. 💻 for loops and range()
+    49. 💻 Read from Files
+
+PRIORITY:
+setting arguments in functions 	4/14 	 
+creating variables 		4/14 
+how to work with a dictionary 	5/14 
+how to work with a list 	2/14 
+what is a method 		3/14 
+
+CLASS-WIDE
+how to use a while loop 	4/14 	 
+how to use a for loop 		4/14 
+
+Side-topics:
+how to import modules 		2/14 	 
+why does indentation matter 	2/14 	 
+difference str, lists, dicts    2/14
+how to define our own functions 3/14 	
+how if/elif/else works 		3/14 
