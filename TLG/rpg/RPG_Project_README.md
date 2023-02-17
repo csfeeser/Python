@@ -9,15 +9,122 @@ As a conclusion to our week of Python Fundamentals, we're putting the FUN in FUN
 Your challenge is to (either solo or part of a group) develop additional features into the RPG script that Chad demonstrated to you. 
 
 Some suggestions for implementations are provided below- you're also encouraged to come up with your own ideas!
-- Add additional rooms.
-- Count how many "moves" the player has made.
-- Find a way to add a description of each room that describes every direction you can go.
-- Find a way to have multiple items inside the same room.
-- Find a way to add descriptions to items that display when the item is picked up.
+<details>
+<summary>Add additional rooms.</summary>
+  
+   ```
+   Copy/paste the dictionary for "Hall"; change the values. Add directions to point to your new room(s).
+  
+   'Bathroom' : {
+                  'south' : 'Hall',
+                  'item'  : 'deodorant'
+                }
+   ```
+  
+</details>
+<details>
+<summary>Count how many "moves" the player has made.</summary>
+  
+   ```
+   Near the beginning of the code, create a counter.
+   
+   counter= 0
+  
+   At the beginning of the while loop, have counter increase by one.
+  
+   counter += 1
+  
+   Inside the def showStatus() function, print this value so that it displays after every move.
+  
+   print("Moves made:", counter)
+   ```
+  
+</details>
+<details>
+<summary>Find a way to add a description of each room that describes every direction you can go.</summary>
+  
+   ```
+   Add a new key/value to your room's dictionary. Maybe something like this:
+  
+   'Bathroom' : {
+                  'south' : 'Hall',
+                  'item'  : 'deodorant',
+                  'desc'  : 'You are in a small bathroom. No soap, yuck."
+                }
+  
+   Inside the def showStatus() function, print this value so that it displays after every move.
+  
+   print(rooms[currentRoom]["desc"])
+   ```
+  
+</details>
+<details>
+<summary>Find a way to have multiple items inside the same room.</summary>
+  
+   ```
+   You would have to have the value of "item" be a list!
+  
+   'Bathroom' : {
+                  'south' : 'Hall',
+                  'item'  : ['deodorant', 'toilet paper', 'tooth brush']
+                }
+   
+   You will also have to edit how items are removed from the room. I suggest the
+   .remove() method, which removes an element from a list by name instead of index number.
+  
+   rooms[currentRoom]['item'].remove(move[1])
+   ```
+  
+</details>
+</details>
+<details>
+<summary>Find a way to add descriptions to items that display when the item is picked up.</summary>
+  
+   ```
+   Ideally this would be done in the rooms dictionary.
+  
+   'Bathroom' : {
+                  'south' : 'Hall',
+                  'item'  : {'name'  : 'deodorant',
+                             'desc'  : 'Old Spice. A classic.'}
+                }
+   
+   This would display the item's description:
+   print(rooms[currentRoom]['item']['desc']  
+   ```
+  
+</details>
+</details>
+<details>
+<summary>Make a "teleport to" command that will put you in any room!</summary>
+  
+   ```
+   if move[0] == 'teleport' :
+         if move[1].capitalize() in rooms:
+              currentRoom= move[1].capitalize()
+   ```
+  
+</details>
+<details>
+<summary>Make a trapdoor. Once you go through it you can't go back that way!</summary>
+  
+   ```
+   A trapdoor would mean that once you go from one room to the next, you can't come back that way.
+   You can go "down" in the Bathroom, but you can't go back "up" in the Pit.
+  
+   'Bathroom' : {
+                  'south' : 'Hall',
+                  'down'  : 'Pit'
+                }
+   'Pit' : {
+                  'east' : 'Basement',
+                }
+   ```
+  
+</details>
+
 - Create alternate win/loss scenarios.
 - Add more verbs! What else can your player do besides "get" and "go"?
-- Make a trapdoor. Once you go through it you can't go back that way!
-- Make a "teleport to" command that will put you in any room!
 - Find a way to survive your encounter with the monster!
 - **Labyrinth**- use the `rooms` list/dict model to create a maze! Life-threatening traps are always a plus.
 - **Combat**- create a function that, when triggered, enters combat mode. Player/monster health & damage must be calculated and win/lose conditions created!
