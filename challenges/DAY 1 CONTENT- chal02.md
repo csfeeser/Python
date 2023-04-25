@@ -76,7 +76,7 @@ If the user types in a name instead of a number, use the name instead!
 ```python
 # the choice() function from the random module
 # will choose a random element from a list
-from random import choice
+import random
 
 wordbank= ["indentation", "spaces"]
 
