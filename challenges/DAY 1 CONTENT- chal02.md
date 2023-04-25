@@ -80,7 +80,7 @@ from random import choice
 
 wordbank= ["indentation", "spaces"]
 
-tlgstudents= ["Cat", "Chris", "Dao", "David", "Henwin", "Herman", "Jose", "Justin", "Kris", "Mannie", "Marcos", "Marshall", "Michael", "Mike", "Nikko", "Phil", "Ryan", "Sachin", "Samekh", "Will"]
+tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris", "Jessica", "Jorge", "Joshua", "Justin", "Lui", "Stephen"]
 
 # this will add the integer 4 to the wordbank list
 wordbank.append(4)
@@ -88,7 +88,7 @@ wordbank.append(4)
 # using """three quotes""" creates a multi-line doc string
 # in other words, a string that uses line breaks instead of /n
 print("""Do one of the following:
-        - Enter a number between 0 and 17
+        - Enter a number between 0 and 11
         - Type in a student's name
         - Type in the word 'random'""")
 
