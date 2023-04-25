@@ -2,7 +2,7 @@
 
 <img src="https://i.redd.it/wk843smkri441.jpg" alt="drawing" width="400"/>
 
-**Objective:** Add the following components to your code in this order:
+Create a new `.py` file of any name you choose! Add the following to your code:
 
 **PART 1.** Put this list in your code:   
 
@@ -13,7 +13,7 @@ wordbank= ["indentation", "spaces"]
 **PART 2.** Put this list in your code:   
 
 ```python
-tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebrima", "Franco", "Greg", "Hoon", "Joey", "Jordan", "JC", "LB", "Mabel", "Shon", "Pat", "Zach"]
+tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris", "Jessica", "Jorge", "Joshua", "Justin", "Lui", "Stephen"]
 ```
     
 **PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
@@ -25,7 +25,7 @@ tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebri
     wordbank.append(4)
 </details>
 
-**PART 4.** Include an input asking for a number between 0 and 18. Save this as the variable `num`.
+**PART 4.** Include an input asking for a number between 0 and 11. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
@@ -70,6 +70,9 @@ If the user types in a name instead of a number, use the name instead!
 
 ## SOLUTION including bonuses:
 
+<details>
+<summary>Click here for the solution!</summary>
+    
 ```python
 # the choice() function from the random module
 # will choose a random element from a list
@@ -112,4 +115,5 @@ else:
 # Use an f-string to neatly combine these elements into a sentence.
 print(f"{name} always uses {wordbank[2]} {wordbank[1]} to indent.")
 ```
--->
+    
+</details>
