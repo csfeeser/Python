@@ -15,10 +15,10 @@ def decision():
     os._exit(os.EX_OK)
     # os._exit will FORCE the program to end!
 
-S = threading.Timer(3.0, decision)
+S = threading.Timer(10.0, decision)
   # What does the above line mean?
   # threading.Timer is a class object- how it works depends on the two arguments provided:
-  # arg 1 (10.0) is the number of seconds until a function is called0
+  # arg 1 (10.0) is the number of seconds until a function is called
   # arg 2 (decision) is the function that will be called in 10.0 seconds
 
 S.start()
