@@ -39,14 +39,14 @@
 <details>
 <summary>CHALLENGE SOLUTION</summary>
     
-```
+```python
 challenge= ["science", "turbo", ["goggles", "eyes"], "nothing"]
 
-a= challenge[2][1]
-b= challenge[2][0]
-c= challenge[3]
+e= challenge[2][1]
+g= challenge[2][0]
+n= challenge[3]
 
-print(f"My {a}! The {b} do {c}!")
+print(f"My {e}! The {g} do {n}!")
 ```
     
 </details>
@@ -55,14 +55,14 @@ print(f"My {a}! The {b} do {c}!")
 <details>
 <summary>TRIAL SOLUTION</summary>
     
-```
+```python
 trial= ["science", "turbo", {"eyes": "goggles", "goggles": "eyes"}, "nothing"]
 
-a= trial[2]["goggles"]
-b= trial[2]["eyes"]
-c= trial[-1]
+e= trial[2]["goggles"]
+g= trial[2]["eyes"]
+n= trial[-1]
 
-print(f"My {a}! The {b} do {c}!")
+print(f"My {e}! The {g} do {n}!")
 ```
     
 </details>
@@ -70,14 +70,14 @@ print(f"My {a}! The {b} do {c}!")
 <details>
 <summary>NIGHTMARE SOLUTION</summary>
     
-```
+```python
 nightmare= [{"slappy": "a", "text": "b", "kumquat": "goggles", "user":{"awesome": "c", "name": {"first": "eyes", "last": "toes"}},"banana": 15, "d": "nothing"}]
 
-a= nightmare[0]["user"]["name"]["first"]
-b= nightmare[0]["kumquat"]
-c= nightmare[0]["d"]
+e= nightmare[0]["user"]["name"]["first"]
+g= nightmare[0]["kumquat"]
+n= nightmare[0]["d"]
 
-print(f"My {a}! The {b} do {c}!")
+print(f"My {e}! The {g} do {n}!")
 ```
     
 </details>
