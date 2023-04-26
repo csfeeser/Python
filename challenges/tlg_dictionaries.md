@@ -2,7 +2,7 @@
 
 #### Write a script that does the following:
 
-1. Get your superhero dictionary from yesterday- [CLICK HERE](https://docs.google.com/spreadsheets/d/1KBJkHZqXF71cwLdfhEb1wxrhnfP9gDAQ/edit?usp=sharing&ouid=110433331379437109513&rtpof=true&sd=true)
+1. Choose a dictionary! [CLICK HERE](https://github.com/csfeeser/Python/blob/master/tmp/classdictionaries.py)
 
 0. Paste your dictionary into your new Python file.
 
