@@ -28,7 +28,7 @@ S.start()
 #print("PROGRAM TERMINATION\n")  
 #S.cancel()
 
-print("You're trapped in a room with a zombie!!! You have 3 seconds to figure out what to do before the zombie eats your brains!")
+print("You're trapped in a room with a zombie!!! You have 10 seconds to figure out what to do before the zombie eats your brains!")
 
 while True:
     choice= input("What do you do?\n>")
