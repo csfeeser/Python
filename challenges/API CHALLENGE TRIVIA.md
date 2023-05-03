@@ -13,9 +13,18 @@ https://opentdb.com/api_config.php
 - Select Type: **YOU CHOOSE!**
 - Select Encoding: **Default Encoding**
 
-From the data returned, print out:
-- The question
-- The answers
+This will generate a URL that will return precisely the kinds of questions you requested.
+
+**MAIN OBJECTIVE:**
+
+Write code that accepts input from the user to generate a unique URL. Use the user's input to create a URL that correctly accesses the API.
+
+**STRETCH GOALS:** 
+ - the `html` library has an `unescape()` function that will fix the weird text in the questions/answers.
+ - Loop over and print the questions and answers, no matter how many there are!
+ - Accommodate for true/false vs. multiple choice questions
+ - Randomize the order of the answers so the correct one isn't always first.
+ - Take input from the user accepting their answer... and tell them if they were correct!
 
 Some code to get you started:
 
@@ -35,7 +44,3 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
-### Not required, but fun:
-- Randomize the order of the answers so the correct one isn't always first.
-- Take input from the user accepting their answer... and tell them if they were correct!
