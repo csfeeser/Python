@@ -1,6 +1,6 @@
 # WARMUP: Busted Flask Code!
 
-<img src="https://public-library.safetyculture.io/media/template_e99ce9c6cb594c1d9ba090451e816a20/6f0e7911-0e46-4174-94a4-60828856035c" alt="drawing" width="400"/>
+<img src="https://pbs.twimg.com/profile_images/521380344625246209/1R7RQnZh_400x400.jpeg" alt="drawing" width="200"/>
 
 ### Below is a solution to our [Flask trivia challenge](https://github.com/csfeeser/Python/blob/master/challenges/FLASK_challenge.md) from yesterday...
 ### HOWEVER, it is broken! VERY BROKEN! Fix it (no need to improve it)!
