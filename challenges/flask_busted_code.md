@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/profile_images/521380344625246209/1R7RQnZh_400x400.jpeg" alt="drawing" width="200"/>
 
-### Below is a solution to our [Flask trivia challenge](https://github.com/csfeeser/Python/blob/master/challenges/FLASK_challenge.md) from yesterday...
+### Below is code that renders HTML containing a form to POST an answer to a trivia question.
 ### HOWEVER, it is broken! VERY BROKEN! Fix it (no need to improve it)!
 
 You can test the functionality by either opening the page in `aux1` and filling out the form, OR you can use curl:  
