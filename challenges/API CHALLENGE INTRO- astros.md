@@ -24,8 +24,6 @@ There has been a lot of activity with astronauts going up and down to the Intern
     Andrey Fedyaev is on the ISS
     ```
 
-*Do not hard-code "ISS" into your output...* who's to say what other spacecraft our astronauts may fly in someday?
-
 <details>
 <summary>Need help getting started?</summary>
 <br>
