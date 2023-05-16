@@ -1,4 +1,4 @@
-# Morning Challenge: ASTRONAUT TRACKER!
+# Morning Warmup: ASTRONAUT TRACKER!
 
 ![Image description](https://media1.tenor.com/images/c2e16afc6bff5a5ec0f027f1cc209649/tenor.gif?itemid=15935992)
 
@@ -8,27 +8,27 @@ There has been a lot of activity with astronauts going up and down to the Intern
 
 1. Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
-<details>
-<summary>Need help getting started?</summary>
-<br>
-    
-```python
-#!/usr/bin/python3
+    <details>
+    <summary>Need help getting started?</summary>
+    <br>
 
-import requests
-  
-URL= "http://api.open-notify.org/astros.json"
-def main():
-    # requests.get() sends GET request to the URL
-    # .json() strips JSON off the response and translates into Python!
-    resp= requests.get(URL).json()
-    
-main()
-```
-    
-</details>
+    ```python
+    #!/usr/bin/python3
 
-1. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
+    import requests
+
+    URL= "http://api.open-notify.org/astros.json"
+    def main():
+        # requests.get() sends GET request to the URL
+        # .json() strips JSON off the response and translates into Python!
+        resp= requests.get(URL).json()
+
+    main()
+    ```
+
+    </details>
+
+2. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
     
     ```
     People in Space: 10
@@ -44,25 +44,25 @@ main()
     Andrey Fedyaev is on the ISS
     ```
 
-<details>
-<summary>Need help getting started?</summary>
-<br>
-    
-```python
-resp= requests.get(URL).json()
-    
-# the API gives us a headcount of people in space
-print(resp["number"])
-    
-# the value of the key "people" is a list of dictionaries, one dictionary per astronaut
-listofdicts= resp["people"]
-    
-# loop over each dictionary, and print out the values of "name" and "craft" from each one
-for astrodict in listofdicts:
-    print(astrodict["name"])
-    print(astrodict["craft"])
-```
-    
-</details>
+    <details>
+    <summary>Need help getting started?</summary>
+    <br>
+
+    ```python
+    resp= requests.get(URL).json()
+
+    # the API gives us a headcount of people in space
+    print(resp["number"])
+
+    # the value of the key "people" is a list of dictionaries, one dictionary per astronaut
+    listofdicts= resp["people"]
+
+    # loop over each dictionary, and print out the values of "name" and "craft" from each one
+    for astrodict in listofdicts:
+        print(astrodict["name"])
+        print(astrodict["craft"])
+    ```
+
+    </details>
 
 
