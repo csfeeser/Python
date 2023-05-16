@@ -11,14 +11,17 @@ There has been a lot of activity with astronauts going up and down to the Intern
 0. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
     
     ```
-    People in Space:  7
-    Mark Vande Hei is on the ISS.
-    Oleg Novitskiy is on the ISS.
-    Pyotr Dubrov is on the ISS.
-    Thomas Pesquet is on the ISS.
-    Megan McArthur is on the ISS.
-    Shane Kimbrough is on the ISS.
-    Akihiko Hoshide is on the ISS.
+    People in Space: 10
+    Sergey Prokopyev is on the ISS
+    Dmitry Petelin is on the ISS
+    Frank Rubio is on the ISS
+    Fei Junlong is on the Shenzhou 15
+    Deng Qingming is on the Shenzhou 15
+    Zhang Lu is on the Shenzhou 15
+    Stephen Bowen is on the ISS
+    Warren Hoburg is on the ISS
+    Sultan Alneyadi is on the ISS
+    Andrey Fedyaev is on the ISS
     ```
 
 *Do not hard-code "ISS" into your output...* who's to say what other spacecraft our astronauts may fly in someday?
@@ -32,7 +35,7 @@ There has been a lot of activity with astronauts going up and down to the Intern
 
 import requests
   
-URL= http://api.open-notify.org/astros.json
+URL= "http://api.open-notify.org/astros.json"
 def main():
     # requests.get() sends GET request to the URL
     # .json() strips JSON off the response and translates into Python!
