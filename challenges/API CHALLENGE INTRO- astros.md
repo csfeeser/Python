@@ -8,7 +8,27 @@ There has been a lot of activity with astronauts going up and down to the Intern
 
 1. Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
-0. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
+<details>
+<summary>Need help getting started?</summary>
+<br>
+    
+```python
+#!/usr/bin/python3
+
+import requests
+  
+URL= "http://api.open-notify.org/astros.json"
+def main():
+    # requests.get() sends GET request to the URL
+    # .json() strips JSON off the response and translates into Python!
+    resp= requests.get(URL).json()
+    
+main()
+```
+    
+</details>
+
+1. This API changes EVERY SINGLE TIME astronauts leave/arrive in space! Write a script that returns each astronaut and the craft that they are on, which should give the following output:
     
     ```
     People in Space: 10
@@ -29,17 +49,18 @@ There has been a lot of activity with astronauts going up and down to the Intern
 <br>
     
 ```python
-#!/usr/bin/python3
-
-import requests
-  
-URL= "http://api.open-notify.org/astros.json"
-def main():
-    # requests.get() sends GET request to the URL
-    # .json() strips JSON off the response and translates into Python!
-    resp= requests.get(URL).json()
+resp= requests.get(URL).json()
     
-main()
+# the API gives us a headcount of people in space
+print(resp["number"])
+    
+# the value of the key "people" is a list of dictionaries, one dictionary per astronaut
+listofdicts= resp["people"]
+    
+# loop over each dictionary, and print out the values of "name" and "craft" from each one
+for astrodict in listofdicts:
+    print(astrodict["name"])
+    print(astrodict["craft"])
 ```
     
 </details>
