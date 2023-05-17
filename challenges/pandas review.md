@@ -25,7 +25,7 @@ This data contained the average pounds of cheese consumed per American from 1970
     <summary>HINT</summary>
 
     ```python
-    df = pd.read_csv('cheese_consumption.csv')
+    df = pd.read_csv('annualcheeseconsumed.txt')
     ```
 
     </summary>
@@ -71,14 +71,14 @@ This data contained the average pounds of cheese consumed per American from 1970
 
 #### Part 5
 
-- What is the MEAN of all the **cheddar** consumed from 1970 to 2017?
+- What is the MEAN of all the **cheddar** consumed across all the years in this dataframe?
 
     <details>
     <summary>HINT</summary>
 
     ```python
-    mean_cheddar = df.loc['1970':'2017', 'Cheddar'].mean()
-    print(f"Average cheddar consumed from 1970 to 2017: f{mean_cheddar} pounds")
+    mean_cheddar = df.loc['Cheddar'].mean()
+    print(f"Average cheddar consumed from 1970 to 2017: {mean_cheddar} pounds")
     ```
 
     </summary>
