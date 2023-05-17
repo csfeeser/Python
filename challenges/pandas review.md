@@ -84,3 +84,30 @@ This data contained the average pounds of cheese consumed per American from 1970
     </summary>
 
 
+
+<details>
+<summary>FULL SOLUTION</summary>
+
+```python
+import pandas as pd
+
+# Read the CSV file into a DataFrame
+df = pd.read_csv('annualcheeseconsumed.txt')
+
+# Set the 'Year' column as the index
+df.set_index('Year', inplace=True)
+
+# Keep only the columns 'Cheddar', 'Swiss', and 'Muenster'
+df = df[['Cheddar', 'Swiss', 'Muenster']]
+
+# Sort the DataFrame by the index (Year) in descending order
+df = df.sort_index(ascending=False)
+
+# Calculate the mean of the 'Cheddar' column
+mean_cheddar = df['Cheddar'].mean()
+
+# Print the average cheddar consumed from 1970 to 2017
+print(f"Average cheddar consumed from 1970 to 2017: {mean_cheddar} pounds")
+```
+
+</details>
