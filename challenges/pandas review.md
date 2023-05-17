@@ -21,18 +21,66 @@ This data contained the average pounds of cheese consumed per American from 1970
 
 -  Create a dataframe from this data!
 
+    <details>
+    <summary>HINT</summary>
+
+    ```python
+    df = pd.read_csv('cheese_consumption.csv')
+    ```
+
+    </summary>
+
 #### Part 2
 
 - Set the index to be the YEAR!
+    
+    <details>
+    <summary>HINT</summary>
+
+    ```python
+    df.set_index('Year', inplace=True)
+    ```
+
+    </summary>
 
 #### Part 3
 
 - Reduce the number of columns to just the YEAR and cheddar, swiss, and muenster.
 
+    <details>
+    <summary>HINT</summary>
+
+    ```python
+    df = df[['Cheddar', 'Swiss', 'Muenster']]
+    ```
+
+    </summary>
+
 #### Part 4
 
 - Sort the data so that the dates go from MOST recent to LEAST recent.
 
+    <details>
+    <summary>HINT</summary>
+
+    ```python    
+    df = df.sort_index(ascending=False)
+    ```
+
+    </summary>
+
 #### Part 5
 
 - What is the MEAN of all the **cheddar** consumed from 1970 to 2017?
+
+    <details>
+    <summary>HINT</summary>
+
+    ```python
+    mean_cheddar = df.loc['1970':'2017', 'Cheddar'].mean()
+    print(f"Average cheddar consumed from 1970 to 2017: f{mean_cheddar} pounds")
+    ```
+
+    </summary>
+
+
