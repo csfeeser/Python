@@ -1,0 +1,5572 @@
+[
+  {
+    "name": "Goblin Shaman",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Giant Roc",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Kobold Miner",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Fire Beetle",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Malric Inferno",
+    "mana": 3,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Serpentine Soldier",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 5
+  },
+  {
+    "name": "Pit Ogre",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Cerberus",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Fire Demon",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Serpent of the Flame",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 9,
+    "speed": 6
+  },
+  {
+    "name": "Elemental Phoenix",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 8,
+    "speed": 5
+  },
+  {
+    "name": "Pirate Captain",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Spineback Turtle",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 7,
+    "speed": 1
+  },
+  {
+    "name": "Crustacean King",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 1,
+    "health": 3,
+    "speed": 1
+  },
+  {
+    "name": "Sabre Shark",
+    "mana": 3,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Alric Stormbringer",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Medusa",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Water Elemental",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 5
+  },
+  {
+    "name": "Frozen Soldier",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Mischievous Mermaid",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Naga Warrior",
+    "mana": 5,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Frost Giant",
+    "mana": 7,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Flesh Golem",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Sorcerer",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Rexxie",
+    "mana": 7,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Minotaur Warrior",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Lyanna Natura",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Earth Elemental",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Stone Golem",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Stonesplitter Orc",
+    "mana": 6,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Magi of the Forest",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Swamp Thing",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Spirit of the Forest",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 6
+  },
+  {
+    "name": "Divine Healer",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Feral Spirit",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 6
+  },
+  {
+    "name": "Silvershield Knight",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Silvershield Warrior",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Tyrus Paladium",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Peacebringer",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Silvershield Paladin",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Clay Golem",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Defender of Truth",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 1,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Air Elemental",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Angel of Light",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 1
+  },
+  {
+    "name": "Animated Corpse",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Haunted Spider",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Skeleton Assassin",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 5
+  },
+  {
+    "name": "Spineback Wolf",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 6
+  },
+  {
+    "name": "Zintar Mortalis",
+    "mana": 3,
+    "attack": -1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Haunted Spirit",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Twisted Jester",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Undead Priest",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Dark Enchantress",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Screaming Banshee",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Lord of Darkness",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Selenia Sky",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Lightning Dragon",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Chromatic Dragon",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Gold Dragon",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Peaceful Giant",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 1
+  },
+  {
+    "name": "Grumpy Dwarf",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Elven Cutthroat",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Centaur",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Cocatrice",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 5
+  },
+  {
+    "name": "Cyclops",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 1
+  },
+  {
+    "name": "Enchanted Pixie",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Raging Impaler",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Magi Sphinx",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Hydra",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Talia Firestorm",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Xia Seachan",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Xander Foxwood",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Kiara Lightbringer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Jarlax the Undead",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Dragon Whelp",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Royal Dragon Archer",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Shin-Lo",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Neb Seni",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 1
+  },
+  {
+    "name": "Highland Archer",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Rusty Android",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Hobgoblin",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Lord Arianthus",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 1
+  },
+  {
+    "name": "Sea Genie",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Divine Sorceress",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Mushroom Seer",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Vampire",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 5
+  },
+  {
+    "name": "Flame Imp",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Daria Dragonscale",
+    "mana": 4,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Sacred Unicorn",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Wood Nymph",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Creeping Ooze",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Phantom Soldier",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 9,
+    "speed": 3
+  },
+  {
+    "name": "Pirate Archer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Naga Fire Wizard",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 1,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Brownie",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 5
+  },
+  {
+    "name": "Silvershield Archers",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Mech",
+    "mana": 10,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Ruler of the Seas",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Skeletal Warrior",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Imp Bowman",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Crystal Werewolf",
+    "mana": 3,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Javelin Thrower",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 5
+  },
+  {
+    "name": "Sea Monster",
+    "mana": 8,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Prismatic Energy",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 10,
+    "speed": 4
+  },
+  {
+    "name": "Undead Minotaur",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Exploding Dwarf",
+    "mana": 5,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 5
+  },
+  {
+    "name": "Manticore",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Black Dragon",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Crypt Mancer",
+    "mana": 5,
+    "attack": -1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": -1,
+    "speed": -1
+  },
+  {
+    "name": "Plado Emberstorm",
+    "mana": 5,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": -1,
+    "speed": 1
+  },
+  {
+    "name": "Valnamor",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "Prince Rennyn",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "The Peakrider",
+    "mana": 5,
+    "attack": 0,
+    "ranged": -1,
+    "magic": 0,
+    "armor": 3,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Delwyn Dragonscale",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Dragonling Bowman",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Fiendish Harpy",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Red Dragon",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 10,
+    "speed": 2
+  },
+  {
+    "name": "Armorsmith",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Silvershield Bard",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Chef",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Minotaur Warlord",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Electric Eels",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Mermaid Healer",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Undead Archer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Corrupted Pegasus",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Molten Ogre",
+    "mana": 9,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 2
+  },
+  {
+    "name": "Lord of Fire",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Enchanted Defender",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 1,
+    "speed": 2
+  },
+  {
+    "name": "Dwarven Wizard",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 1,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Archmage Arius",
+    "mana": 5,
+    "attack": 1,
+    "ranged": 1,
+    "magic": 1,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Furious Chicken",
+    "mana": 0,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "Fallen Specter",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 1,
+    "speed": 6
+  },
+  {
+    "name": "Beetle Queen",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 1,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Naga Windmaster",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Maggots",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Cursed Slimeball",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Giant Scorpion",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Undead Badger",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 5
+  },
+  {
+    "name": "Dark Astronomer",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Bone Golem",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 8,
+    "speed": 1
+  },
+  {
+    "name": "Death Elemental",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Soulstorm",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 5
+  },
+  {
+    "name": "Darkest Mage",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Dark Ha'on",
+    "mana": 10,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 13,
+    "speed": 3
+  },
+  {
+    "name": "Contessa L'ament",
+    "mana": 3,
+    "attack": 0,
+    "ranged": -1,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Cave Slug",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Crystal Jaguar",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Lone Boatman",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Herbalist",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Truthspeaker",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Luminous Eagle",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Shieldbearer",
+    "mana": 8,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 10,
+    "speed": 2
+  },
+  {
+    "name": "Light Elemental",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Thunderbird",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "High Priest Darius",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Mother Khala",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Kobold Bruiser",
+    "mana": 3,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Serpentine Spy",
+    "mana": 3,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 5
+  },
+  {
+    "name": "Magma Troll",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Fireballer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Fire Elemental",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 5
+  },
+  {
+    "name": "Living Lava",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 8,
+    "speed": 1
+  },
+  {
+    "name": "Spark Pixies",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 6
+  },
+  {
+    "name": "Ferexia General",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Pyromaniac",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Magnor",
+    "mana": 10,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 14,
+    "speed": 3
+  },
+  {
+    "name": "Pyre",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 1
+  },
+  {
+    "name": "Feasting Seaweed",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Albatross",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Tortisian Fighter",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Sniping Narwhal",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Ice Pixie",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 1,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Giant Squid",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Serpent of Eld",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 7,
+    "speed": 5
+  },
+  {
+    "name": "Coral Wraith",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Azmare Harpoonist",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Phantom of the Abyss",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 4,
+    "armor": 0,
+    "health": 7,
+    "speed": 6
+  },
+  {
+    "name": "Bortus",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": -1,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Goblin Thief",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Failed Summoner",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Biceratops",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Orc Sergeant",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Khmer Princess",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Unicorn Mustang",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 4
+  },
+  {
+    "name": "Child of the Forest",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 5
+  },
+  {
+    "name": "Mitica Headhunter",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 5,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 5
+  },
+  {
+    "name": "Sporcerer",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Kron the Undying",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 11,
+    "speed": 2
+  },
+  {
+    "name": "Wizard of Eastwood",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": -2,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Elven Defender",
+    "mana": 8,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 9,
+    "speed": 3
+  },
+  {
+    "name": "Horny Toad",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Mantoid",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Parasitic Growth",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Elven Mystic",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Chariot",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Tower Griffin",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "War Chaang",
+    "mana": 7,
+    "attack": 2,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 3
+  },
+  {
+    "name": "Tortisian Chief",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Cornealus",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 3
+  },
+  {
+    "name": "Camila Sungazer",
+    "mana": 3,
+    "attack": -1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "The Vigilator",
+    "mana": 9,
+    "attack": 3,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Scale Doctor",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Dragon Jumper",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 5
+  },
+  {
+    "name": "Gloridax Magus",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Prince Julian",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Boogeyman",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Spirit Miner",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Battle Orca",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Chain Golem",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Diamond Dragon",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 10,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Gloridax Guardian",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Fire Spitter",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "The Kraken",
+    "mana": 12,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 14,
+    "speed": 4
+  },
+  {
+    "name": "Ettin Spearman",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Octopider",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Silvershield Assassin",
+    "mana": 7,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Baby Unicorn",
+    "mana": 3,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Gelatinous Cube",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 1
+  },
+  {
+    "name": "Gremlin Blaster",
+    "mana": 3,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Screeching Vulture",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Spirit Shaman",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Zalran Efreet",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Serpentine Mystic",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Drake of Arnak",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Barking Spider",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Nectar Queen",
+    "mana": 9,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 3
+  },
+  {
+    "name": "Flame Monkey",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Pyromancer",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Undead Rexx",
+    "mana": 9,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Shadowy Presence",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Torhilo the Frozen",
+    "mana": 9,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 9,
+    "speed": 1
+  },
+  {
+    "name": "Wave Runner",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Warrior of Peace",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 5
+  },
+  {
+    "name": "Evangelist",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Mimosa Nightshade",
+    "mana": 7,
+    "attack": 0,
+    "ranged": -1,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Yodin Zaku",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Halfling Alchemist",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 1,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Mighty Dricken",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Chanseus the Great",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Kretch Tallevor",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Onyx Sentinel",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 1
+  },
+  {
+    "name": "Sand Worm",
+    "mana": 9,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Silvershield Sheriff",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Bila the Radiant",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Grim Reaper",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Phantasm",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 5
+  },
+  {
+    "name": "Fineas Rage",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 6
+  },
+  {
+    "name": "Ant Miners",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Spirit Druid Grog",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "Captain's Ghost",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Kelp Initiate",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 6
+  },
+  {
+    "name": "Gloridax Soldier",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Centauri Mage",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Lir Deepswimmer",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Robo-Dragon Knight",
+    "mana": 11,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 8,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Ancient Lich",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Vera Salacia",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Owster Rotwell",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Mylor Crowling",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Qid Yuff",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Lorna Shine",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Brighton Bloom",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Poseidon",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Frost Lion",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Caladuum",
+    "mana": 11,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 3,
+    "health": 11,
+    "speed": 1
+  },
+  {
+    "name": "Flamesmith",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Cthulhu",
+    "mana": 11,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 12,
+    "speed": 1
+  },
+  {
+    "name": "Marrow's Ghost",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 1,
+    "speed": 3
+  },
+  {
+    "name": "Kralus",
+    "mana": 12,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 5,
+    "health": 12,
+    "speed": 3
+  },
+  {
+    "name": "Lunakari Mistress",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Oaken Behemoth",
+    "mana": 12,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 3,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Goblin Dartling",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Battering Ram",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Naga Brute",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 8,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Dragon Spirit",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 5
+  },
+  {
+    "name": "Grenadier",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Lensmaster",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Scarred Llama Mage",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 0
+  },
+  {
+    "name": "Beatrix Ironhand",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Axemaster",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Charlok Minotaur",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 2
+  },
+  {
+    "name": "Dark Ferryman",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Chain Spinner",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Harvester",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Nightmare",
+    "mana": 8,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 6
+  },
+  {
+    "name": "Almo Cambio",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 14,
+    "speed": 5
+  },
+  {
+    "name": "Demented Shark",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Temple Priest",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Efreet Elder",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "Theorosa Nightshade",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Byzantine Kitty",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 2
+  },
+  {
+    "name": "Goblin Firemage",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Lobstradamus",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 11,
+    "speed": 1
+  },
+  {
+    "name": "The Gorlodon",
+    "mana": 9,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 1
+  },
+  {
+    "name": "Hero of Beyond",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 2,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Two Gun Pete",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Epona",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Aganju",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 4
+  },
+  {
+    "name": "Chimney Wallstop",
+    "mana": 10,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Krash Wanderford",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 7
+  },
+  {
+    "name": "Orella Abadon",
+    "mana": 2,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Sarius",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Gorth",
+    "mana": 8,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 2
+  },
+  {
+    "name": "Fina Voxom",
+    "mana": 5,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Alva the Crusher",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Isgald Vorst",
+    "mana": 5,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Alfredo",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Relenor Cleaver",
+    "mana": 9,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 9,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Edith Emberstar",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 5,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Flagulon Reine",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Bertrol Gobson",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Katrelba Gobson",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Cutter Brieze",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 5
+  },
+  {
+    "name": "Palidon Rakk",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 2
+  },
+  {
+    "name": "Quora Towershead",
+    "mana": 10,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 12,
+    "speed": 3
+  },
+  {
+    "name": "Jini Guise",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Helmet Kharafax",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Hugo Strongsword",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Ajax Lightfoot",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 6
+  },
+  {
+    "name": "Captain Katie",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 4,
+    "armor": 0,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Marisol Contuma",
+    "mana": 9,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 9,
+    "speed": 5
+  },
+  {
+    "name": "Sola Ranjell",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Whistling Damon",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Witch of Warwick",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Kotriphus Bayne",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 3
+  },
+  {
+    "name": "Liza Fox",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Trapp Falloway",
+    "mana": 4,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Xulax Nightwind",
+    "mana": 9,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 7,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Larissa Kerato",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Tatiana Blayde",
+    "mana": 8,
+    "attack": 3,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Venari Heatsmith",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Exploding Rats",
+    "mana": 4,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 6
+  },
+  {
+    "name": "Lava Launcher",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 6,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Pelacor Mercenary",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Venari Seedsmith",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Djinn Biljka",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 2,
+    "speed": 1
+  },
+  {
+    "name": "Pelacor Bandit",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 5
+  },
+  {
+    "name": "Venari Wavesmith",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Djinn Oshannus",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 11,
+    "speed": 5
+  },
+  {
+    "name": "Pelacor Deceiver",
+    "mana": 5,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "Venari Bonesmith",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Harklaw",
+    "mana": 8,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Pelacor Conjurer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Venari Crystalsmith",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Djinn Renova",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Naga Assassin",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 6
+  },
+  {
+    "name": "Twilight Basilisk",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Djinn Chwala",
+    "mana": 8,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 10,
+    "speed": 2
+  },
+  {
+    "name": "Gargoya Lion",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Gargoya Devil",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Uraeus",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Doctor Blight",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 1
+  },
+  {
+    "name": "Carrion Shade",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Riftwing",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Shadow Snitch",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Crypt Beetle",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Silent Sha-vi",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 5
+  },
+  {
+    "name": "Soul Strangler",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Life Sapper",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Dhampir Stalker",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Cursed Windeku",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Magi Necrosi",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Insidious Warlock",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Weirding Warrior",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Djinn Muirat",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 4,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Corpse Fiend",
+    "mana": 0,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Mycelic Morphoid",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Venari Knifer",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 5
+  },
+  {
+    "name": "Venari Scout",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Hill Giant",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Goblin Psychic",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Mycelic Slipspawn",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Regal Peryton",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 7,
+    "speed": 6
+  },
+  {
+    "name": "Goblin Tower",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 4,
+    "health": 4,
+    "speed": 1
+  },
+  {
+    "name": "Mycelic Infantry",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 9,
+    "speed": 1
+  },
+  {
+    "name": "Grund",
+    "mana": 10,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Hunter Jarx",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Acid Shooter",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Queen Mycelia",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 1
+  },
+  {
+    "name": "Fungus Fiend",
+    "mana": 0,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Hardy Stonefish",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Kulu Swimhunter",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Cruel Sethropod",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Flying Squid",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "Deeplurker",
+    "mana": 6,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Angelic Mandarin",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Merdaali Guardian",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Diemonshark",
+    "mana": 8,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "River Nymph",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Nerissa Tridawn",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 4,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Wave Brood",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 1
+  },
+  {
+    "name": "Igor Darkspear",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "River Hellondale",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 1,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Torrent Fiend",
+    "mana": 0,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Radiated Scorcher",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Lava Spider",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Radiated Brute",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Scavo Chemist",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Antoid Platoon",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Scavo Firebolt",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Tenyii Striker",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Djinn Apprentice",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Molten Ash Golem",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 2
+  },
+  {
+    "name": "Forgotten One",
+    "mana": 9,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Tusk the Wide",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 1
+  },
+  {
+    "name": "Djinn Inferni",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 4,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Ifrit Rising",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Scorch Fiend",
+    "mana": 0,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 3
+  },
+  {
+    "name": "Gargoya Scrapper",
+    "mana": 1,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Sunkai Harvester",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Stitch Leech",
+    "mana": 3,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Blinding Reflector",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Chaos Knight",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Celestial Harpy",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Time Mage",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 5
+  },
+  {
+    "name": "Portal Spinner",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Pelacor Arbalest",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Temporal Master",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Prismologist",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Dax Paragon",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Adelade Brightwing",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Soul Fiend",
+    "mana": 0,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Supply Runner",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Scavo Hireling",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Disintegrator",
+    "mana": 7,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Chaos Agent",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 3
+  },
+  {
+    "name": "Xenith Archer",
+    "mana": 2,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Xenith Monk",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Venari Spellsmith",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Magi of Chaos",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Gem Meteor",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 5
+  },
+  {
+    "name": "Legionnaire Alvar",
+    "mana": 9,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 8,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Chaos Dragon",
+    "mana": 14,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 4,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Desert Dragon",
+    "mana": 7,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Zyvax Vuul",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 3
+  },
+  {
+    "name": "Void Dragon",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 8,
+    "speed": 5
+  },
+  {
+    "name": "Kelya Frendul",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 0,
+    "speed": 1
+  },
+  {
+    "name": "Thaddius Brood",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": -1,
+    "armor": 0,
+    "health": -1,
+    "speed": 0
+  },
+  {
+    "name": "Obsidian",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Tarsa",
+    "mana": 4,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "General Sloan",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Quix the Devious",
+    "mana": 4,
+    "attack": 0,
+    "ranged": -1,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": -1
+  },
+  {
+    "name": "Baakjira",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 13,
+    "speed": 2
+  },
+  {
+    "name": "Uriel the Purifier",
+    "mana": 11,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Lira the Dark",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Iza the Fanged",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Grum Flameblade",
+    "mana": 11,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 13,
+    "speed": 1
+  },
+  {
+    "name": "Spirit Hoarder",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 1
+  },
+  {
+    "name": "Waka Spiritblade",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Carnage Titan",
+    "mana": 11,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 7,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Vampire Bat",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Merdhampir",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Ever-Hungry Skull",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 9,
+    "health": 1,
+    "speed": 3
+  },
+  {
+    "name": "Blood Maker",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Vulguine",
+    "mana": 2,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Vampiric Blossom",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Dhampir Infiltrator",
+    "mana": 4,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 3
+  },
+  {
+    "name": "Revealer",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Tide Biter",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 4
+  },
+  {
+    "name": "Jared Scar",
+    "mana": 7,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Countess Sinash",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Venator Kinjo",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Grandmaster Rathe",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Conqueror Jacek",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 2
+  },
+  {
+    "name": "Bramble Pixie",
+    "mana": 7,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 3
+  },
+  {
+    "name": "Lichen Beast",
+    "mana": 5,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Uloth Dhampir",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 2
+  },
+  {
+    "name": "Suidae Shaman",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Runemancer Florre",
+    "mana": 13,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 2,
+    "armor": 0,
+    "health": 13,
+    "speed": 4
+  },
+  {
+    "name": "Coastal Nymph",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 3,
+    "health": 7,
+    "speed": 3
+  },
+  {
+    "name": "Lemell Refugee",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Sea Stalker",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 5,
+    "magic": 0,
+    "armor": 0,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Water Caller",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 1
+  },
+  {
+    "name": "Runemancer Kye",
+    "mana": 11,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 5,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Night Ghoul",
+    "mana": 11,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 10,
+    "speed": 2
+  },
+  {
+    "name": "Arachne Thug",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 4
+  },
+  {
+    "name": "Cabalist",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 3,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Queen of Crows",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 2
+  },
+  {
+    "name": "Raa",
+    "mana": 12,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Ash Mirage",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 5
+  },
+  {
+    "name": "Septic Slime",
+    "mana": 8,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 9,
+    "speed": 1
+  },
+  {
+    "name": "Tinderlock",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 3
+  },
+  {
+    "name": "Technowizologist",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Mordeus",
+    "mana": 7,
+    "attack": 6,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Dumacke Exile",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 6,
+    "speed": 5
+  },
+  {
+    "name": "Time Meddler",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 5,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Runeslinger",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Corsair Bosun",
+    "mana": 10,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Runemancer Atuat",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 3,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Whelp Herder",
+    "mana": 3,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Runic Skyclaw",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 3,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Agor Longtail",
+    "mana": 15,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 6,
+    "health": 13,
+    "speed": 3
+  },
+  {
+    "name": "Oshuur Constantia",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Rune Crafter",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 4,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Junker",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Scavo Technomancer",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Coeurl Lurker",
+    "mana": 11,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 12,
+    "speed": 4
+  },
+  {
+    "name": "Aquatus",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Dallan",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Fernheart",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Skargore",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Ilthain",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 1
+  },
+  {
+    "name": "Sthispa",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Kain Hace",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 4,
+    "armor": 0,
+    "health": 2,
+    "speed": 2
+  },
+  {
+    "name": "Runi",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 5,
+    "speed": 1
+  },
+  {
+    "name": "Lux Vega",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "Possibilus the Wise",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 2,
+    "speed": 0
+  },
+  {
+    "name": "Arkemis the Bear",
+    "mana": 12,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Immortalis",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": -1,
+    "speed": 0
+  },
+  {
+    "name": "Ava the Undaunted",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 2,
+    "health": 6,
+    "speed": 3
+  },
+  {
+    "name": "Terraceous Hulk",
+    "mana": 11,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Thane Newsong",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Madcap Magus",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 3,
+    "speed": 1
+  },
+  {
+    "name": "Fungus Flinger",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Terraceous Grunt",
+    "mana": 6,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Kulu Mastermind",
+    "mana": 9,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "Musa Saline",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 1,
+    "armor": 0,
+    "health": 3,
+    "speed": 4
+  },
+  {
+    "name": "Noa the Just",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 6,
+    "speed": 6
+  },
+  {
+    "name": "Riverboat Captain",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Swamp Spitter",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 2,
+    "health": 5,
+    "speed": 3
+  },
+  {
+    "name": "Coastal Sentry",
+    "mana": 10,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 7,
+    "speed": 4
+  },
+  {
+    "name": "Skok Duskblight",
+    "mana": 8,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 7,
+    "speed": 2
+  },
+  {
+    "name": "Usut",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 4,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Will-o-Wisp",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 4
+  },
+  {
+    "name": "Ravenhood Warden",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Possessed Puppet",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Wily Coyotian",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Aves Sturgis",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 1,
+    "health": 3,
+    "speed": 2
+  },
+  {
+    "name": "Iziar",
+    "mana": 11,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 14,
+    "speed": 3
+  },
+  {
+    "name": "Evelyn Auvera",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 8,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "War Pegasus",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 8,
+    "speed": 4
+  },
+  {
+    "name": "Imperial Knight",
+    "mana": 7,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Drybone Barbarian",
+    "mana": 9,
+    "attack": 5,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 11,
+    "speed": 3
+  },
+  {
+    "name": "Ferexian Hero",
+    "mana": 8,
+    "attack": 4,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 2,
+    "health": 8,
+    "speed": 3
+  },
+  {
+    "name": "Sorriel the Bale",
+    "mana": 9,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 2,
+    "armor": 0,
+    "health": 5,
+    "speed": 2
+  },
+  {
+    "name": "Iidri Fyre",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 4,
+    "health": 9,
+    "speed": 4
+  },
+  {
+    "name": "Pyrewatch Devil",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Ferox Defender",
+    "mana": 8,
+    "attack": 2,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 5,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Firecaller",
+    "mana": 5,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 3
+  },
+  {
+    "name": "Drybone Raider",
+    "mana": 12,
+    "attack": 2,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 3,
+    "health": 8,
+    "speed": 2
+  },
+  {
+    "name": "Clockwork Aide",
+    "mana": 4,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 8,
+    "health": 1,
+    "speed": 1
+  },
+  {
+    "name": "Venari Marksrat",
+    "mana": 3,
+    "attack": 0,
+    "ranged": 1,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  },
+  {
+    "name": "Gobson Bomber",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 2,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Dumacke Orc",
+    "mana": 6,
+    "attack": 3,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 6,
+    "health": 1,
+    "speed": 2
+  },
+  {
+    "name": "Berix Snakeye",
+    "mana": 10,
+    "attack": 0,
+    "ranged": 3,
+    "magic": 0,
+    "armor": 7,
+    "health": 6,
+    "speed": 2
+  },
+  {
+    "name": "Kra'ar Xoc",
+    "mana": 1,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 4
+  },
+  {
+    "name": "Pembrook Nymph",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Octavia Shadowmeld",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": -1,
+    "speed": 0
+  },
+  {
+    "name": "Lobb Lowland",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": -1
+  },
+  {
+    "name": "Eternan Brune",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": -2,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Franz Ruffmane",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 1,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Helios Matriarch",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 0,
+    "speed": 1
+  },
+  {
+    "name": "Astral Entity",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": -2,
+    "health": 0,
+    "speed": 0
+  },
+  {
+    "name": "Lily Shieldpaw",
+    "mana": 6,
+    "attack": 0,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 1,
+    "speed": 0
+  },
+  {
+    "name": "Vruz",
+    "mana": 2,
+    "attack": 1,
+    "ranged": 0,
+    "magic": 0,
+    "armor": 0,
+    "health": 3,
+    "speed": 5
+  },
+  {
+    "name": "Ancient Redwood",
+    "mana": 11,
+    "attack": 0,
+    "ranged": 5,
+    "magic": 0,
+    "armor": 0,
+    "health": 10,
+    "speed": 1
+  },
+  {
+    "name": "Zyriel",
+    "mana": 7,
+    "attack": 0,
+    "ranged": 4,
+    "magic": 0,
+    "armor": 0,
+    "health": 4,
+    "speed": 2
+  }
+]
