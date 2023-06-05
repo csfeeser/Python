@@ -86,10 +86,10 @@
   day: 4
 - question: Take a look at Figure 2. How many boxes of data are going to be displayed in the finished product?
   answers:
-    - 1 📈
-    - 2 📈 📊
-    - 3 📈 📊 📉
-    - 4 📈 📊 📉 💹
+    - 1
+    - 2
+    - 3
+    - 4
   day: 4
 
 - question: Which of the following is NOT a difference between JSON and Python?
