@@ -116,11 +116,3 @@
   - magic
   - mind control
   day: 5
-
-- question: I want 25 equally-spaced numbers between 1 and 100. Which would do that?
-  answers:
-  - np.linspace(1, 100, 25)
-  - np.linspace(1, 100)
-  - np.arange(1, 100, 25)
-  - np.arange(1, 100)
-  day: 5
