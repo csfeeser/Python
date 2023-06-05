@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In the picture on Chad's screen, what type of object is x?",
+    "answers": ["DataFrame", "Series", "Function", "Method"]
+  },
+  {
+    "question": "In the picture on Chad's screen, what type of object is y?",
+    "answers": ["DataFrame", "Series", "Function", "Method"]
+  },
+  {
+    "question": "In the picture on Chad's screen, what kind of object is z?",
+    "answers": ["DataFrame", "Series", "Function", "Method"]
+  },
+  {
+    "question": "When a cell is missing data, what will Pandas put in that cell?",
+    "answers": ["None", "Null", "NaN", "0"]
+  },
+  {
+    "question": "If you want to return a row by its index number (not its label), you would use:",
+    "answers": [".loc", ".iloc", ".row"]
+  }
+]
