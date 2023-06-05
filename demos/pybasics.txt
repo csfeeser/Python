@@ -1,0 +1,153 @@
+---
+- question: Which of the following is a STRING?
+  answers:
+    - 3.14
+    - 314
+    - "3.14"
+  day: 2
+- question: One of these print functions would cause an error. Which one is it?
+  answers:
+    - print("I'd like to buy", 6, "apples")
+    - print("I'd like to buy" + 6 + "apples")
+    - print("I'd like to buy" + " 6 " + "apples")
+  day: 2
+- question: Which of the following would return "Hulk" from this list --> heroes=
+    ["Spider-man", "Black Widow", "Hulk", "Storm"]
+  answers:
+    - heroes[1]
+    - heroes[2]
+    - heroes[3]
+  day: 2
+- question: Check out Figure 1 on Chad's screen! What would be the output of this code?
+  answers:
+    - Batman is awesome
+    - awesome is Batman
+    - Batman is Batman
+  day: 2
+- question: Check out Figure 2 on Chad's screen! What would be the output of this code?
+  answers:
+    - Wonder Woman
+    - Flash
+    - Batman
+    - Superman
+  day: 2
+- question: If you aren't sure what kind of object a variable is, what built-in
+    function could help you?
+  answers:
+    - print()
+    - input()
+    - type()
+  day: 2
+- question: Onward to day 2! Do you have any requests or suggestions moving
+    forward? You can also submit anonymously via the link on the Group
+    Dashboard!
+  type: text
+  day: 2
+- question: What happens when you import a module?
+  answers:
+    - EVERYTHING inside that module is executed inside your script.
+    - Only the functions contained inside that module are loaded into your
+      script.
+    - Nothing happens on the import line, it executes later in the script.
+  day: 3
+- question: SURVEYLIST = [1, 2, 3, 4, 5]... which IF statement below would be true?
+  answers:
+    - "if SURVEYLIST == [1, 2, 3, 4]": null
+    - if 6 in SURVEYLIST: null
+    - if 6 not in SURVEYLIST: null
+  day: 3
+- question: While loops don't end until...
+  answers:
+    - ...you use break
+    - ...'while' is no longer true
+    - ...the end of time, if neither of the above answers are applicable.
+    - Trick question, all above answers are correct.
+  day: 3
+- question: If you want to include an option that runs when none of your
+    conditionals are true, what would that be?
+  answers:
+    - if
+    - elif
+    - else
+  day: 3
+- question: Look at Figure 1 on Chad's screen. What would be the CLASS/TYPE of 'x'?
+  answers:
+    - List
+    - Dictionary
+    - String
+  day: 3
+- question: Which of the following would be a FALSE addition to this statement--
+    'Reusing code with functions is...'
+  answers:
+    - efficient.
+    - easy to read.
+    - a mark of an effective Python Programmer.
+    - an effective organizational method.
+    - NoT A GooD IdEa!!1!
+  day: 3
+- question: In Figure 1, what would the CLASS of the variable 'x' be?
+  answers:
+    - List
+    - Dictionary
+    - String
+  day: 4
+- question: In Figure 1, what would the output of this for loop be?
+  answers:
+    - letter letter
+    - a b
+    - letter a letter b
+  day: 4
+- question: Will the code in Figure 2 work?
+  answers:
+    - Confidently, yes.
+    - Not confidently... yes.
+    - Confidently, no.
+    - Not confidently... no.
+  day: 4
+- question: In Figure 3, what CLASS is 'zoink'?
+  answers:
+    - file object
+    - string
+    - list
+  day: 4
+- question: In Figure 4, what will the output be?
+  answers:
+    - Python is awesome!
+    - awesome is Python!
+    - is Python awesome!
+  day: 4
+- question: What tool is used to install 3rd party packages for Python?
+  answers:
+    - pip
+    - pypi
+    - pycharm
+  day: 5
+- question: Pandas is a 3rd party data manipulation package-- it can read in
+    almost any data source and format it as a(n)-
+  answers:
+    - table
+    - dataframe
+    - API
+  day: 5
+- question: When accessing an API, what do you SEND TO and RECEIVE FROM an API?
+  answers:
+    - Inquiry and Feedback
+    - Demand and Return
+    - Call and Return
+    - Request and Response
+  day: 5
+- question: APIs typically return data in a language format very similar to
+    Python. This is called...
+  answers:
+    - JASON
+    - YAML
+    - HTML
+    - JSON
+  day: 5
+- question: for root, dirs, files in os.walk(path) <-- using a for loop with two
+    or more variables is possible because we must be looping across a...
+  answers:
+    - list of tuples
+    - list of dictionaries
+    - list of sets
+  day: 5

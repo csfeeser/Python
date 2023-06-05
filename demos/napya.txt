@@ -1,0 +1,154 @@
+- question: Using the data from Figure 1, which of the following would cause an ERROR?
+  answers:
+  - x.lower()
+  - y.lower()
+  - z.lower()
+  day: 2
+
+- question: If you were to slice the "heroes" list in Figure 2, which would return "Hulk"?
+  answers:
+  - heroes[1]
+  - heroes[2]
+  - heroes[3]
+  day: 2
+
+- question: In Figure 3, how would you return "Thanos" from this dictionary?
+  day: 2
+
+- question: In Figure 4, which "Response #" print function would run?
+  answers:
+  - Response 1!
+  - Response 2!
+  - Response 3!
+  day: 2
+
+- question: Communication with APIs is a "send/receive" relationship. Which two terms describe that?
+  answers:
+  - Call/Return
+  - Demand/Reply
+  - Apply/Feedback
+  - Request/Response
+  day: 2
+
+- question: Which of the following would NOT use an SSH connection?
+  answers:
+  - Paramiko module
+  - Netmiko module
+  - Requests module
+  - Ansible
+  day: 3
+
+- question: Which of the following classes could be used to represent an SSH connection to a virtual switch?
+  answers:
+  - paramiko.SSHClient
+  - paramiko.SFTPClient
+  - paramiko.Transport
+  - netmiko.ConnectHandler
+  day: 3
+
+- question: What file lists the hosts that Ansible may target?
+  answers:
+  - playbook
+  - module
+  - inventory
+  - ansible.cfg
+  day: 3
+
+- question: "______ are made of _______ which in turn are made of ______."
+  answers:
+  - Plays, Playbooks, Tasks
+  - Tasks, Playbooks, Plays
+  - Playbooks, Plays, Tasks
+  day: 3
+
+- question: For Ansible to execute code on Linux hosts, what must be installed on that host?
+  answers:
+  - Ansible
+  - Python
+  - SSHPass
+  - Linux
+  day: 3
+
+- question: In Figure 1 on Chad's screen, line 4 is a _______, lines 5-6 are both a _______, and lines 3 and 7 are both a _______.
+  answers:
+  - module, parameter, keyword
+  - module, keyword, parameter
+  - keyword, parameter, module
+  day: 3
+
+- question: Which of the following would NOT use an SSH connection?
+  answers:
+  - Paramiko module
+  - Netmiko module
+  - Requests module
+  - Ansible
+  day: 4
+
+- question: Which of the following classes could be used to represent an SSH connection to a virtual switch?
+  answers:
+  - paramiko.SSHClient
+  - paramiko.SFTPClient
+  - paramiko.Transport
+  - netmiko.ConnectHandler
+  day: 4
+
+- question: What file lists the hosts that Ansible may target?
+  answers:
+  - playbook
+  - module
+  - inventory
+  - ansible.cfg
+  day: 4
+
+- question: "______ are made of _______ which in turn are made of ______."
+  answers:
+  - Plays, Playbooks, Tasks
+  - Tasks, Playbooks, Plays
+  - Playbooks, Plays, Tasks
+  day: 4
+
+- question: For Ansible to execute code on Linux hosts, what must be installed on that host?
+  day: 4
+
+- question: In Figure 1 on Chad's screen, line 4 is a _______, lines 5-6 are both a _______, and lines 3 and 7 are both a _______.
+  answers:
+  - module, parameter, keyword
+  - module, keyword, parameter
+  - keyword, parameter, module
+  day: 4
+
+- question: What is ansible-vault?
+  answers:
+  - An encryption tool for files or strings that teams use for their playbooks.
+  - A storage tool that makes playbooks reusable by teams
+  - A security tool that hides files so they are only detectable by the playbook.
+  day: 5
+
+- question: The template module will not accept template “src” files that don’t end with a .j2 extension.
+  answers:
+  - True
+  - False
+  day: 5
+
+- question: If a variable named "color" is defined in the following locations, which one will "win"?
+  answers:
+  - in a task that uses "set_facts" as the module
+  - in the inventory file as a group variable
+  - by the user in a "vars_prompt" prompting
+  - in a separate file referred in "vars_files"
+  day: 5
+
+- question: Which of the following is a filter?
+  answers:
+  - "{{ color|capitalize }}"
+  - "{{ color.capitalize() }}"
+  day: 5
+
+- question: Which of the following is NOT an Ansible keyword?
+  answers:
+  - name
+  - when
+  - block
+  - register
+  - set_facts
+  day: 5

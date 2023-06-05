@@ -1,0 +1,117 @@
+---
+- question: Which of the following is NOT a difference between JSON and Python format?
+  answers:
+    - True/False vs. true/false
+    - None vs. null
+    - Python can use "double" OR 'single' quotes, but JSON can only use "double"
+    - Trick question, all the above are true.
+  day: 2
+- question: When you read data into pandas, what type of object is created?
+  answers:
+    - dataframe
+    - dictionary
+    - series
+  day: 2
+- question: Check out figure 1 on Chad's screen. What should go in the place of ??
+    in the code?
+  answers:
+    - r
+    - w
+    - a
+  day: 2
+- question: Check out the code in Figure 1 on Chad's screen. What will be the
+    output of this code?
+  answers:
+    - 15
+    - 20
+    - 25
+  day: 3
+- question: The os.system() function is a handy tool. Any argument passed to this
+    function will be-
+  answers:
+    - executed as a Linux command in our environment
+    - used to configure our OS system
+    - used to return configuration data on our system
+  day: 3
+- question: Which of the following requests would be used to READ data from an API?
+  answers:
+    - GET
+    - POST
+    - PUT
+    - DELETE
+  day: 3
+- question: In Figure 2 on Chad's screen, what type of object will x be?
+  answers:
+    - dictionary
+    - list
+    - string
+  day: 3
+- question: When you need to install new modules for Python, what tool will you use?
+  answers:
+    - apt
+    - yum
+    - pip
+  day: 3
+- question: Which library will allow you to make SSH connections to remote
+    machines on your network?
+  answers:
+    - paramiko
+    - requests
+    - BeautifulSoup
+  day: 4
+- question: Take a look at Figure 1 on Chad's screen. What will the value of "b" be?
+  answers:
+    - - good
+      - morning
+      - everyone
+    - good
+    - morning
+    - everyone
+  day: 4
+- question: What will the output of Figure 2 be?
+  answers:
+    - Confidently, 100.
+    - Not confidently... 100?
+    - Confidently, "An error has occurred"
+    - Not confidently... "An error has occurred"?
+  day: 4
+- question: From what you can tell, what kind of object is this?
+    -->  b'goodnews.everyone\nslappy\n'
+  answers:
+    - string
+    - list
+    - bytes
+  day: 4
+- question: What will be the printed output from Figure 1?
+  answers:
+    - Hope your last day is good!
+    - Hope your last day is great!
+    - Hope your last day is awesome!
+  day: 5
+- question: In Figure 2, what does the variable ALPHA represent?
+  answers:
+    - the name of the network device
+    - the command being passed to the network device
+    - the SSH connection to the network device
+    - the output from the command passed to the network device
+  day: 5
+- question: In Figure 2, what does the variable BRAVO represent?
+  answers:
+    - the name of the network device
+    - the command being passed to the network device
+    - the SSH connection to the network device
+    - the output from the command passed to the network device
+  day: 5
+- question: In Figure 3, what value will be returned?
+  answers:
+    - None
+    - true
+    - false
+  day: 5
+- question: Python code can run concurrently by opening multiple ___________.
+  answers:
+    - threads
+    - cords
+    - strands
+    - fibers
+  day: 5
