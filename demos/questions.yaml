@@ -86,18 +86,18 @@
   day: 4
 - question: Take a look at Figure 2. How many boxes of data are going to be displayed in the finished product?
   answers:
-    - 1
-    - 2
-    - 3
-    - 4
+    - 1 📈
+    - 2 📈 📊
+    - 3 📈 📊 📉
+    - 4 📈 📊 📉 💹
   day: 4
 
 - question: Which of the following is NOT a difference between JSON and Python?
   answers:
-  - true/false vs. True/False
-  - null vs. None
-  - JSON is "double quotes" ONLY, while Python can use 'single' or "double" quotes
-  - all the above are correct
+    - true/false vs. True/False
+    - null vs. None
+    - JSON is "double quotes" ONLY, while Python can use 'single' or "double" quotes
+    - all the above are correct
   day: 5
 
 - question: What matplotlib ax method will add text and/or an arrow on your graph?
