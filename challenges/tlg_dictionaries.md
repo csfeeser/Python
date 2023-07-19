@@ -2,7 +2,7 @@
 
 #### Write a script that does the following:
 
-1. Choose a dictionary! [CLICK HERE](https://github.com/csfeeser/Python/blob/master/tmp/classdictionaries.py)
+1. Choose a dictionary! [CLICK HERE](https://github.com/csfeeser/Python/blob/master/data%20sets/tlg_dicts.md)
 
 0. Paste your dictionary into your new Python file.
 
@@ -11,7 +11,7 @@
     - Adds another key/value pair to the dictionary
       > example: "fav_food": "chimichangas"
 
-    - Using a *method* from Lab 39. Python Dictionaries, **print** a list of all the **keys** in your dictionary.
+    - Using a *method* from Lab 19. Python Dictionaries, **print** a list of all the **keys** in your dictionary.
 
     - Ask your user for input. Have them choose one of those keys you just printed. Save their selection as the variable `choice`.
 
