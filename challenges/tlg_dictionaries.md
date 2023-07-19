@@ -19,7 +19,7 @@
 
   EXAMPLE OUTPUT:
   ```
-  >> python3 day3warmup.py
+  >> python3 dictchallenge.py
   
   ["Real Name", "Base", "fav_food"]
   
