@@ -4,19 +4,19 @@
 
 Create a new `.py` file of any name you choose! Add the following to your code:
 
-**PART 1.** Put this list in your code:   
+### **PART 1.** Put this list in your code:   
 
 ```python
 wordbank= ["indentation", "spaces"] 
 ```
 
-**PART 2.** Put this list in your code:   
+### **PART 2.** Put this list in your code:   
 
 ```python
-tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris", "Jessica", "Jorge", "Joshua", "Justin", "Lui", "Stephen"]
+tlgstudents= ['Alex', 'Benji', 'Cayla', 'Demetra', 'Derek', 'Deshawn', 'James', 'Maria', 'Marylyn', 'Nor', 'Sal', 'Sammy']
 ```
     
-**PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
+### **PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
 
 <details>
 <summary>I need a hint!</summary>
@@ -25,7 +25,7 @@ tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris
     wordbank.append(4)
 </details>
 
-**PART 4.** Include an input asking for a number between 0 and 11. Save this as the variable `num`.
+### **PART 4.** Include an input asking for a number between 0 and 11. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
@@ -34,7 +34,7 @@ tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris
     num= input("Pick a student number!")
 </details>
 
-**PART 5.** Remember that *input()* always returns a string... convert `num` into an integer!
+### **PART 5.** Remember that *input()* always returns a string... convert `num` into an integer!
 
 <details>
 <summary>I need another hint!</summary>
@@ -43,7 +43,7 @@ tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris
     num= int(input("Pick a student number!"))
 </details>
 
-**PART 5.** Use the integer `num` to slice one of the elements from the list `tlgstudents`. Save the name you return as the variable `student_name`.
+### **PART 5.** Use the integer `num` to slice one of the elements from the list `tlgstudents`. Save the name you return as the variable `student_name`.
 
 <details>
 <summary>MOAR HINTZ!</summary>
@@ -53,7 +53,7 @@ tlgstudents= ["Brandon", "Caleb", "Cat", "Chad the Beardulous", "Chance", "Chris
     student_name= tlgstudents[choice]
 </details>
 
-**PART 6.** Using elements from the `tlgstudents` list and the `student_name` string, print this output.
+### **PART 6.** Using elements from the `tlgstudents` list and the `student_name` string, print this output.
 
 ```
 <student_name> always uses <4> <spaces> to indent.
