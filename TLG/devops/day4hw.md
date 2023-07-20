@@ -55,4 +55,11 @@ hero_dict= [{"name": "Batman", "powers": "being the world's greatest detective"}
 
 Data should ALWAYS come from outside your Python code, so you will always need to be able to read in the content of a file!
 
+Download the following file- `wget https://raw.githubusercontent.com/csfeeser/Python/master/TLG/devops/simpledoc.txt`
+
+Write some code to try the following:
+- use the open() function to access the file `simpledoc.txt`
+- read out the contents of the file and print it to the screen
+- convert the file to a list, print the list
+- add a new line to the bottom of the poem (use the "a" permission!)
 
