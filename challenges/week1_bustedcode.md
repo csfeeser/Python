@@ -47,6 +47,9 @@ def main():
 
 ### SOLUTION
 
+<details>
+<summary>Click here to see the solution!</summary>
+    
 ```python
 #!/usr/bin/env python3
 import sys
@@ -93,3 +96,5 @@ if __name__ == "__main__":
     # gotta call main to start off the whole thing
     main()
 ```
+
+</details>
