@@ -7,9 +7,8 @@ Write code to open the file then use `import json` to convert the file's content
 
 ### URLS AND QUERIES
 
-Using queries (`?date=2023-07-25`) is a means of returning specific data from an API. ALL of the APIs at [api.nasa.gov](https://api.nasa.gov/) have query parameters.
-- Try building more and more specific URLs and test them in your browser (Chrome, Edge, Safari, etc.)
-- Write Python code that enables you to automate building those URLs once you've confirmed they work!
+Using queries (`?date=2023-07-25`) is a means of returning specific data from an API. Check out [the documentation for the Game of Thrones API](https://anapioficeandfire.com/Documentation). Find the section titled "Constructing a request with pagination." Read up on the `pageSize` and `page` query parameters.
+- Can you write a URL that returns characters #51-100? #200-251?
 
 ### RECOMMENDED GENERAL PRACTICE
 
