@@ -147,6 +147,8 @@ def main():
 
     # return an ordered dictionary using our lat/lon vars
     locator_resp= rg.search((lat, lon))
+                                    # add verbose=False argument to remove the
+                                    # "Loading formatted geocoded file..." output
 
     # slice that object to return the city name only
     city= locator_resp[0]["name"]
