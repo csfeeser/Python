@@ -15,6 +15,9 @@ https://opentdb.com/api_config.php
 
 This will generate a URL that will return precisely the kinds of questions you requested.
 
+### OBJECTIVES:
+> Tackle as many of these as you care to!
+
 **Level 1:**
 
 - Access the API through the URL you created.
