@@ -15,13 +15,23 @@ https://opentdb.com/api_config.php
 
 This will generate a URL that will return precisely the kinds of questions you requested.
 
-**MAIN OBJECTIVE:**
+**Level 1:**
 
-Write code that accepts input from the user to generate a unique URL. Use the user's input to create a URL that correctly accesses the API.
+- Access the API through the URL you created.
+- Translate the JSON to Python and print out the data.
 
-**STRETCH GOALS:** 
+**Level 2:**
+
+- Print out the trivia question(s) in the data.
+- Print out the trivia answers in the data.
+
+**Level 3:**
+
+- Use a for loop (if you didn't already) to print out all the questions and answers.
+
+**Level 4:**
+
  - the `html` library has an `unescape()` function that will fix the weird text in the questions/answers.
- - Loop over and print the questions and answers, no matter how many there are!
  - Accommodate for true/false vs. multiple choice questions
  - Randomize the order of the answers so the correct one isn't always first.
  - Take input from the user accepting their answer... and tell them if they were correct!
