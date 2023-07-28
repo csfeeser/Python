@@ -8,6 +8,18 @@
 You can test the functionality by either opening the page in `aux1` and filling out the form, OR you can use curl:  
 `curl localhost:2224/login -d nm=42 -L`
 
+<details>
+<summary>Click here for a list of what's wrong with the code WITHOUT including the solution</summary>
+
+- NOTHING is wrong with the HTML!
+- THREE flask functions were not imported
+- decorators are missing from the functions
+- one of the routes must specify that it will accept a POST method
+- common syntax errors: missing ) and missing "quotation marks"
+- app.run() must specify host IP and port to display correctly in aux1 (see lab 33)
+
+</details>
+
 1. `student@bchd:~$` `vim ~/mycode/flaskapi/bustedflask.py`
 
     ```python
