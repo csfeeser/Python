@@ -63,17 +63,17 @@ You can test the functionality by either opening the page in `aux1` and filling 
 
 ## SOLUTION
 
+<details>
+<summary>Click here to see the solution!</summary>
+    
 ```python
 #!/usr/bin/python3
 
 from flask import Flask
-from flask import request
-from flask import url_for
-from flask import redirect
+from flask import request, redirect, url_for # missing imports
 
 app = Flask(__name__)
 
-### NOTE FROM CHAD: There is nothing wrong with the HTML
 html= '''<style>
 body {
   background-color: black;
@@ -97,25 +97,28 @@ body {
 </body>
 </html>'''
 
-@app.route("/success")
+@app.route("/correct") # missing decorator
 def success():
     return f"That is correct!"
 
-@app.route("/")
+@app.route("/") # missing decorator
 def start():
     return html
 
-@app.route("/login", methods= ["POST"])
+@app.route("/login", methods= ["POST"]) # missing decorator, 
+                                        #ALSO must specify that POST method allowed
 def login():
         if request.form.get("nm"):
             answer = request.form.get("nm")
             if answer == "42":
-                return redirect(url_for("success"))
+                return redirect(url_for("success")) # missing ending )
             else:
-                return redirect("/")
+                return redirect("/")  # missing "" around /
         else:
-            return redirect("/")
+            return redirect("/")      # missing "" around /
 
 if __name__ == "__main__":
-   app.run(host="0.0.0.0", port=2224)
+    app.run(host="0.0.0.0", port=2224)  # specify host and port so we can see in aux1
 ```
+
+</details>
