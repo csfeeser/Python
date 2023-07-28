@@ -1,4 +1,6 @@
-# Flask Mini-Project
+# Flask/Jinja2 Mini-Project
+
+![Image](https://user-images.githubusercontent.com/13487278/75192388-1faa9900-5722-11ea-9a32-a5f7addc7526.jpeg)
 
 For your next mini-project, we are going to take what we've learned about APIs, Flask, and Jinja2! Your objective is to write a custom website (topic of your choosing) that meets the following criteria:
 
