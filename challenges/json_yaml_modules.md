@@ -32,7 +32,7 @@ new= {
       "name":"Chad",
       "movie":"The Shawshank Redemption",
       "ice cream":"salted caramel",
-      "color":"red"}
+      "color":"red"
      }
 
 # add to data read in from json file
