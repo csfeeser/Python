@@ -24,7 +24,7 @@ import json
 import yaml
 
 # open file with json, convert to python object
-with open("classdata.json","r") as jsonfile:
+with open("favs.json","r") as jsonfile:
     x= json.load(jsonfile)
 
 # create new python dictionary to be added
