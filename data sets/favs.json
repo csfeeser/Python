@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Harry Potter",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "ice cream": "Butterbeer",
+        "color": "Gryffindor Red"
+    },
+    {
+        "name": "Luke Skywalker",
+        "movie": "Star Wars: Episode IV - A New Hope",
+        "ice cream": "Blue Milk",
+        "color": "Jedi Blue"
+    },
+    {
+        "name": "Hermione Granger",
+        "movie": "Harry Potter and the Prisoner of Azkaban",
+        "ice cream": "Chocolate Frogs",
+        "color": "Ravenclaw Blue"
+    },
+    {
+        "name": "Frodo Baggins",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "ice cream": "Lembas Bread Delight",
+        "color": "Hobbit Green"
+    },
+    {
+        "name": "Sherlock Holmes",
+        "movie": "Sherlock Holmes",
+        "ice cream": "Mystery Mint",
+        "color": "Detective Brown"
+    }
+]
