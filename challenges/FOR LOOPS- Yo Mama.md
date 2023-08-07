@@ -4,7 +4,7 @@ Looping through dictionaries isn't easy! We'll be tackling some challenging APIs
 
 **NOTE: no actual mommas are being referenced in this lab. If your momma shares a name with any of these mommas, it is purely coincidental.**
 
-0. Create a new file in a directory of your choice.
+1. Create a new file in a directory of your choice.
 
     `student@bchd:~` `vim mommas.json`
     
