@@ -26,8 +26,6 @@
 
 [...and so on!]
 
-[Chad's janky code to make this dictionary for each of his classes](https://github.com/csfeeser/Python/blob/master/solutions/classinfomaker.py)
-
 ```python
 classinfo = {
     "all": [
