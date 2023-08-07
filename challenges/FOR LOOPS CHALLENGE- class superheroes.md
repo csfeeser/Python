@@ -30,7 +30,7 @@
 
 ```python
 classinfo = {
-    "all": people_info = [
+    "all": [
 	    {
 	        "Name": "Alex",
 	        "Spirit Animal": "Tiger",
