@@ -1,3 +1,5 @@
+#!/user/bin/python
+
 def main(
     user_input = input("Enter some words separated by spaces: "
     words = user_input.split" ")
