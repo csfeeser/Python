@@ -1,29 +1,16 @@
-Here's a simplified glossary of terms related to Matplotlib:
-
-1. Matplotlib: It's like a special tool that helps you draw pictures and charts with your data.
-
-2. Figure: Think of it as a big piece of paper where you can draw different plots or pictures.
-
-3. Subplot: It's like dividing your big piece of paper into smaller sections, and in each section, you can draw a different picture.
-
-4. Axes: It's like a space within each section where you can draw your actual picture or plot. You can think of it as a special box for your drawing.
-
-5. X-axis and Y-axis: Imagine a street and a tall building. The street is the X-axis, and the building is the Y-axis. They help you figure out where things are placed in your drawing.
-
-6. Line plot: It's like connecting the dots with lines to make a picture that shows how things change over time or from one thing to another.
-
-7. Scatter plot: It's like putting dots on your paper to show where things are and how they relate to each other. Each dot represents something special.
-
-8. Bar plot: Imagine having different categories, like different types of toys. You can draw bars to show how many of each toy you have.
-
-9. Histogram: Let's say you have lots of toys of different sizes. You can divide them into groups and count how many toys are in each group. Then, you can draw bars to show the groups and how many toys are in each group.
-
-10. Title: It's like giving a name to your picture. It tells others what your picture is about.
-
-11. X-label and Y-label: They are like labels that tell you what the X-axis and Y-axis represent. For example, the X-axis could show ages, and the Y-axis could show how tall people are.
-
-12. Legend: Sometimes your picture has different colors or shapes. A legend helps you understand what each color or shape means.
-
-13. Grid: It's like having small lines in the background that help you make sure everything is straight and lined up nicely in your picture.
-
-14. Style: It's like choosing how your picture looks, such as using different colors, different kinds of lines, or making things bold or fancy.
+| Term        | Description                                                                                         |
+|-------------|-----------------------------------------------------------------------------------------------------|
+| Matplotlib  | A comprehensive library for creating static, animated, and interactive visualizations in Python.     |
+| Figure      | The "white canvas"- the container that holds all elements of the plot(s), such as Axes, Graphics, Text, and Labels.      |
+| Subplot     | A subdivision of the Figure canvas into multiple Axes, each of which can contain a plot.            |
+| Axes        | An area of the Figure where data is plotted, complete with labels and ticks.                        |
+| X-axis/Y-axis | Horizontal (X-axis) and vertical (Y-axis) planes in a plot used to determine positions in 2D space. |
+| Line plot   | A type of plot that connects individual data points with lines to represent trends or progressions.  |
+| Scatter plot | A plot that uses dots to represent values obtained for two different variables, showing the relationship between them.  |
+| Bar plot    | A graphical display of data using bars of different heights to represent categorical comparisons.   |
+| Histogram   | A representation of the distribution of numerical data, grouping values into bins.                  |
+| Title       | The heading indicating the subject of the plot, often displayed at the top of the Figure.            |
+| X-label/Y-label | Labels that provide context for the data represented on the respective axes.                        |
+| Legend      | A guide for deciphering the plots, with each plot typically denoted by a color or a line style.     |
+| Grid        | A network of lines that aids in the accurate reading of values at precise positions in the plot.     |
+| Style       | The aesthetic design of the plot, which may include variations in line types, colors, and weights.   |
