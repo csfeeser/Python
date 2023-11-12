@@ -1,6 +1,6 @@
 ## Thursday Warmup!
 
-<img src="https://httpstatusdogs.com/img/404.jpg" width="300"/>
+<img src="https://http.dog/404.jpg" width="300"/>
 
 
 We learned about Python "IF LOGIC" the other day, and I can't wait to see the projects you folks made! As a warmup this morning, please copy the following code to your IDE of choice:
@@ -27,7 +27,7 @@ main()
 
 Let's pretend that the function `apigrabber()` is fetching data for us from an online source (a RESTful API). We can tell whether the response we get back from the API is good or not by its **HTTP response**. Even if you've never worked with APIs before, you've surely gotten a `404` error on a website, right? A `404` response most likely means you typed in the wrong address, like *facebool.com* or *gooogle.com*.
 
-[Click here for an adorable guide to HTTP Status Codes!](https://httpstatusdogs.com/)
+[Click here for an adorable guide to HTTP Status Codes!](https://http.dog/)
 
 ### OBJECTIVE:
 
