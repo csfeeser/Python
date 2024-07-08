@@ -1,3 +1,6 @@
+# Network Automation with Python and Ansible (NAPYA)
+### Course Content Flowchart
+
 ```mermaid
 flowchart LR
     RAPI[RESTful APIs]
