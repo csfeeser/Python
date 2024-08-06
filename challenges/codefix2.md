@@ -36,11 +36,11 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
 0. Change the permissions with the following command:
 
-    `student@bchd:~$` `chmod u+x tuesdaymorningchallenge.py`
+    `student@bchd:~$` `chmod u+x ~/mycode/tuesdaymorningchallenge.py`
     
 0. Execute the script like so. **THERE WILL BE ERRORS** (that's the point!) If you don't execute it this way, you won't see every glorious error there is to fix! :)
 
-    `student@bchd:~$` `./tuesdaymorningchallenge.py`
+    `student@bchd:~$` `/home/student/mycode/tuesdaymorningchallenge.py`
     
 0. As you make changes to fix the script, continue to execute the script to test it. For maximum fulfillment, try to only fix what is causing the error message before fixing anything else. The more errors you see, the more you'll learn how to fix them! Error messages are your FRIEND.
 
