@@ -6,30 +6,41 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
 1. Create a new file!
 
-    `student@bchd:~$` `vim tuesdaychallenge.py`
+    `student@bchd:~$` `vim ~/mycode/tuesdaymorningchallenge.py`
     
     ```
-    #!/usr/env python3
-
-    number= 2
-
-    name= input(What is your name?\n>)
-
-    # This is what you should see when print runs-
-    # Hi <name>! Welcome to Day 2 of Python Training!
+    #!/usr/env/python3
     
-    print("Hi " + name.capitalize + "! Welcome to Day " + "number" + " of Python Training!")
+    main()
+    
+    def main()
+        students = [
+            "Amir", "Breana", "Katie", "Clayton", "Coty", "Daiyron",
+            "Douglas", "Gabriel", "Jakira", "John", "Jonathan",
+            "Justin", "Megan", "Tayo", "Summer", "Tomiwa"
+    
+        # len() function counts up how many names in the list
+        headcount = len(students)
+    
+        str_number = input(f"Pick a number between 1 and {headcount}: ")
+    
+        # int() function converts a string into an integer
+        int_number = int(str_number)
+    
+        student_choice = students[str_number]
+    
+        print("{student_choice} is AWESOME!")
     ```
 
 0. Save and quit back to your command line with `:wq`.
 
 0. Change the permissions with the following command:
 
-    `student@bchd:~$` `chmod u+x tuesdaychallenge.py`
+    `student@bchd:~$` `chmod u+x tuesdaymorningchallenge.py`
     
 0. Execute the script like so. **THERE WILL BE ERRORS** (that's the point!) If you don't execute it this way, you won't see every glorious error there is to fix! :)
 
-    `student@bchd:~$` `./tuesdaychallenge.py`
+    `student@bchd:~$` `./tuesdaymorningchallenge.py`
     
 0. As you make changes to fix the script, continue to execute the script to test it. For maximum fulfillment, try to only fix what is causing the error message before fixing anything else. The more errors you see, the more you'll learn how to fix them! Error messages are your FRIEND.
 
@@ -38,17 +49,30 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 <br>
     
 
-    #!/usr/env python3  ## INCORRECT SHEBANG
-
-    day= 2
-
-    name= input(What is your name?\n>) ## MISSING QUOTES
-
-    print("Hi " + name.capitalize + "! Welcome to Day " + "number" + " of Python Training!")
-                       ^                                   ^  ^
-                       ^                                   ^  "quotes" makes this a string, not a variable
-                       ^                                   also, can't + an integer to a string!
-                       missing () at end of method
+    #!/usr/env/python3
+    # ^^ incorrect shebang line!
+    
+    main() # call functions AFTER you define them!
+    
+    def main() # missing a colon
+        students = [
+            "Amir", "Breana", "Katie", "Clayton", "Coty", "Daiyron",
+            "Douglas", "Gabriel", "Jakira", "John", "Jonathan",
+            "Justin", "Megan", "Tayo", "Summer", "Tomiwa"
+                  # missing a closing bracket!
+                  
+        headcount = len(students)
+    
+        str_number = input(f"Pick a number between 1 and {headcount}: ")
+    
+        int_number = int(str_number)
+    
+                                    # you can't slice lists with strings!
+        student_choice = students[str_number]
+                                    # ...what happens if you pick "16"? how can that be fixed?
+                                    
+        # f strings need an f in front of the first "quotation mark"
+        print("{student_choice} is AWESOME!")
 
     
 </details>
@@ -57,23 +81,24 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 ### SOLUTION
 
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/env/python3
 
-number= "2" 
+def main():
+    students = [
+        "Amir", "Breana", "Katie", "Clayton", "Coty", "Daiyron",
+        "Douglas", "Gabriel", "Jakira", "John", "Jonathan",
+        "Justin", "Megan", "Tayo", "Summer", "Tomiwa"
+               ]
 
-name= input('What is your name?\n>')
+    headcount = len(students)
 
-# This is what you should see when print runs-
-# Hi <name>! Welcome to Day 2 of Python Training!
+    str_number = input(f"Pick a number between 1 and {headcount}: ")
 
-# OPTION 1
-print("Hi " + name.capitalize() + "! Welcome to Day ", number, " of Python Training!", sep= "") 
+    int_number = int(str_number) - 1
 
-# OPTION 2
-print(f"Hi {name.capitalize()}! Welcome to Day {number} of Python Training!")
+    student_choice = students[int_number]
 
-number= 2
+    print(f"{student_choice} is AWESOME!")
 
-# OPTION 3
-print("Hi " + name.capitalize() + "! Welcome to Day " + str(number) + " of Python Training!")
+main()
 ```
