@@ -8,7 +8,7 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 
     `student@bchd:~$` `vim ~/mycode/tuesdaymorningchallenge.py`
     
-    ```
+    ```python
     #!/usr/env/python3
     
     main()
@@ -48,38 +48,42 @@ Time for something different- instead of writing code, we'll be repairing it. Th
 <summary>Need help? Click here to see where errors are located:</summary>
 <br>
     
+```python
+#!/usr/env/python3
+# ^^ incorrect shebang line!
 
-    #!/usr/env/python3
-    # ^^ incorrect shebang line!
-    
-    main() # call functions AFTER you define them!
-    
-    def main() # missing a colon
-        students = [
-            "Amir", "Breana", "Katie", "Clayton", "Coty", "Daiyron",
-            "Douglas", "Gabriel", "Jakira", "John", "Jonathan",
-            "Justin", "Megan", "Tayo", "Summer", "Tomiwa"
-                  # missing a closing bracket!
-                  
-        headcount = len(students)
-    
-        str_number = input(f"Pick a number between 1 and {headcount}: ")
-    
-        int_number = int(str_number)
-    
-                                    # you can't slice lists with strings!
-        student_choice = students[str_number]
-                                    # ...what happens if you pick "16"? how can that be fixed?
-                                    
-        # f strings need an f in front of the first "quotation mark"
-        print("{student_choice} is AWESOME!")
+main() # call functions AFTER you define them!
 
+def main() # missing a colon
+    students = [
+        "Amir", "Breana", "Katie", "Clayton", "Coty", "Daiyron",
+        "Douglas", "Gabriel", "Jakira", "John", "Jonathan",
+        "Justin", "Megan", "Tayo", "Summer", "Tomiwa"
+              # missing a closing bracket!
+              
+    headcount = len(students)
+
+    str_number = input(f"Pick a number between 1 and {headcount}: ")
+
+    int_number = int(str_number)
+
+                                # you can't slice lists with strings!
+    student_choice = students[str_number]
+                                # ...what happens if you pick "16"? how can that be fixed?
+                                
+    # f strings need an f in front of the first "quotation mark"
+    print("{student_choice} is AWESOME!")
+```
     
 </details>
 
 
 ### SOLUTION
 
+<details>
+<summary>Click here to see the fixed script!</summary>
+<br>
+    
 ```python
 #!/usr/bin/env/python3
 
@@ -102,3 +106,5 @@ def main():
 
 main()
 ```
+
+</details>
