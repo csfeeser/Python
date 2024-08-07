@@ -2,6 +2,8 @@
 
 <img src="https://img.devrant.com/devrant/rant/r_1766050_zT1qo.jpg" width="300" />
 
+## Please follow these steps even if your project isn't finished! You are NOT in trouble if it isn't finished!
+
 ### Step 1: Ensure Your Code is in the Correct Directory
 
 1. Make sure your mini project code is located in your `mycode` directory.
