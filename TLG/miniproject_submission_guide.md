@@ -26,5 +26,4 @@
 
 ## You'll paste that link into your survey this morning. Thanks so much everyone!
 
-![image](https://github.com/user-attachments/assets/1732f8ab-78b3-4722-88b9-edfc0cab3c2a)
-
+![screen](https://github.com/user-attachments/assets/d835c69e-5acb-4305-ab21-82a5f9684cfb)
