@@ -1,6 +1,8 @@
 # Final Project- FLASK API!
 
-<img src="https://pics.me.me/getin-the-flask-35034794.png" alt="drawing" width="300"/>
+<img src="https://github.com/user-attachments/assets/5415c02e-1632-4f71-a971-005278994605" width="400" alt="flask haha">
+
+> I refuse to apologize for niche video game references.
 
 The objective of this project is to function as proof of basic proficiency with Flask and the ability to access RESTful APIs. Code will be graded on a pass / fail basis on the following criteria:
 - Does the code include the required features?
