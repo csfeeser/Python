@@ -1,5 +1,7 @@
 # Backing Up Your Mini Project to GitHub
 
+<img src="https://img.devrant.com/devrant/rant/r_1766050_zT1qo.jpg" width="300" />
+
 ### Step 1: Ensure Your Code is in the Correct Directory
 
 1. Make sure your mini project code is located in your `mycode` directory.
