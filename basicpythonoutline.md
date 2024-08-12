@@ -14,9 +14,15 @@ graph TD
     L --> M[Reading/Writing to Files]
     J --> N[Pip]
     J --> O[Creating Classes]
-    O --> P[RESTful APIs]
-    P --> Q[JSON]
-    Q --> R[Requests Library]
-    Q --> S[Flask]
-    S --> T[Databases]
+    
+    %% Start of the subgraph for RESTful APIs and below
+    subgraph Rest_APIs_Box [ ]
+      P[RESTful APIs]
+      P --> Q[JSON]
+      Q --> R[Requests Library]
+      Q --> S[Flask]
+      S --> T[Databases]
+    end
+
+    O --> P
 ```
