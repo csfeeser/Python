@@ -1,6 +1,6 @@
 # Warmup: Using AI to Improve Python Network Automation!
 
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300"/>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHhZVfRm7qPDQ/feedshare-shrink_800/feedshare-shrink_800/0/1721224930274?e=2147483647&v=beta&t=dqkCOSZP1-KflvJT3lDreRZ04xy4jMHorj5qvhYsCIY" width="300"/>
 
 Good morning! Today, we’ll use the `llm` tool to generate code, then integrate and improve an existing network automation script using `netmiko`. The goal is to see how the AI can assist us with enhancing our Python script. Let’s dive in!
 
