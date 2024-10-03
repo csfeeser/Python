@@ -77,6 +77,9 @@ For example:
 
 `student@bchd:~$` `cat netmiko_script.py | llm -s "add a feature that saves the ARP output to a file for each device" > modified_netmiko_script.py`
 
-After a few moments it will finish writing to the file. You will have to remove the extra lines where the AI adds its commentary. My advice? Open the file in `vim`, make sure you are in COMMAND mode by pressing `esc`, then press `dd` to delete whatever line your cursor is currently on.
+After a few moments it will finish writing to the file. You will have to remove the extra lines where the AI adds its commentary. My advice?
+- Open the file in `vim`
+- Make sure you are in COMMAND mode by pressing `esc`
+- Press `dd` to delete whatever line your cursor is currently on.
 
 `student@bchd:~$` `cat modified_netmiko_script.py`
