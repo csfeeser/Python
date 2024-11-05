@@ -80,6 +80,7 @@ flowchart LR
     style json_Module fill:#A1C6E7,color:black
     style RESTful_APIs fill:#A1C6E7,color:black
     style requests_Module fill:#A1C6E7,color:black
+    style HTTP_Requests_and_Responses fill:#A1C6E7,color:black
 
     %% Day 2 - #FAD02E
     style urllib_request_Module fill:#FAD02E,color:black
@@ -89,6 +90,7 @@ flowchart LR
     style Sending_GET_vs_POST fill:#FAD02E,color:black
     style Building_APIs fill:#FAD02E,color:black
     style http_server_and_socketserver_Module fill:#FAD02E,color:black
+    style API_Keys fill:#FAD02E,color:black
 
     %% Day 3 - #7FB77E
     style Flask fill:#7FB77E,color:black
