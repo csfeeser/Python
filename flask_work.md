@@ -27,8 +27,7 @@ Explore any of these tools in a short project of your choosing. You can do anyth
   - `endpoint2` → Return all quotes.
     - Use an HTML form or query argument to prompt for a quote to look up.
 - **Cookie/Session**:
-  - Save username.
-  - Save favorite character.
+  - Save last selected character.
 
 ---
 
@@ -38,16 +37,15 @@ Explore any of these tools in a short project of your choosing. You can do anyth
   - `endpoint2` → Return general data (e.g., all Pokémon).
     - Use an HTML form or query argument to prompt for a Pokémon name to look up.
 - **Cookie/Session**:
-  - Save username.
-  - Save favorite Pokémon.
+  - Save last searched Pokémon.
   
 ---
 
 ### 3. Game Project (e.g., Guess the Number, Recommend a Song, RPG Game)
 - **Endpoints**:
-  - `endpoint1` → Landing page with HTML.
-  - `endpoint2` → Display all game data in JSON format.
+  - `endpoint1` → Landing page with HTML form to prompt for the answer to a question.
+  - `endpoint2` → Displays if the user's guess was correct or not.
+  - `endpoint3` → Display all game data in JSON format.
 - **Cookie/Session**:
-  - Save username.
-  - Save progress in the game.
+  - Save question guess.
 
