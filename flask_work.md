@@ -21,7 +21,7 @@ We've done a LOT with Flask today, gang! To wit, the following tools:
 **Project Ideas for Class Time**  
 Explore any of these tools in a short project of your choosing. You can do anything you like, but here are some ideas:
 
-### 1. TV Show/Movie Quote Project
+### 1. [TV Show/Movie Quote Project](https://thesimpsonsquoteapi.glitch.me/)
 - **Endpoints**:
   - `endpoint1` → Return a random quote.
   - `endpoint2` → Return all quotes.
@@ -31,7 +31,7 @@ Explore any of these tools in a short project of your choosing. You can do anyth
 
 ---
 
-### 2. Data API (Stats) Project
+### 2. [Data API Project](https://anapioficeandfire.com/)
 - **Endpoints**:
   - `endpoint1` → Return specific data (e.g., one Pokémon).
   - `endpoint2` → Return general data (e.g., all Pokémon).
@@ -41,7 +41,7 @@ Explore any of these tools in a short project of your choosing. You can do anyth
   
 ---
 
-### 3. Game Project (e.g., Guess the Number, Recommend a Song, RPG Game)
+### 3. [Game Project (e.g., Guess the Number, Trivia, etc.)](https://opentdb.com/api_config.php)
 - **Endpoints**:
   - `endpoint1` → Landing page with HTML form to prompt for the answer to a question.
   - `endpoint2` → Displays if the user's guess was correct or not.
