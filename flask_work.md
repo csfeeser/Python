@@ -17,8 +17,6 @@ We've done a LOT with Flask today, gang! To wit, the following tools:
 | `render_template` | Renders a (typically) HTML file. |
 | `make_response` | Creates a response without sending it to the client yet, allowing you to modify it (e.g., add a cookie). |
 | `session` | Allows creation of encrypted client-side cookies that the server can edit, read, or remove. **Don't forget `app.secret_key`!** |
-| `abort()` | Halts a request and returns an HTTP error code (e.g., `abort(404)` for a 404 error). |
-| `Flask-Limiter` | Limits the rate of incoming requests to your app, helping prevent abuse or overload by specifying maximum requests per route. |
 
 **Project Ideas for Class Time**  
 Explore any of these tools in a short project of your choosing. You can do anything you like, but here are some ideas:
@@ -31,9 +29,6 @@ Explore any of these tools in a short project of your choosing. You can do anyth
 - **Cookie/Session**:
   - Save username.
   - Save favorite character.
-- **Extras**:
-  - Assign rate limiting to specific endpoint(s)
-  - Set up custom 400 errors!
 
 ---
 
@@ -45,9 +40,6 @@ Explore any of these tools in a short project of your choosing. You can do anyth
 - **Cookie/Session**:
   - Save username.
   - Save favorite Pokémon.
-- **Extras**:
-  - Assign rate limiting to specific endpoint(s)
-  - Set up custom 400 errors!
   
 ---
 
@@ -58,6 +50,4 @@ Explore any of these tools in a short project of your choosing. You can do anyth
 - **Cookie/Session**:
   - Save username.
   - Save progress in the game.
-- **Extras**:
-  - Assign rate limiting to specific endpoint(s)
-  - Set up custom 400 errors!
+
