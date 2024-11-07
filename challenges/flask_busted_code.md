@@ -32,26 +32,31 @@ You can test the functionality by either opening the page in `aux1` and filling 
     app = Flask(__name__)
 
     ### NOTE FROM CHAD: There is nothing wrong with the HTML
-    html= '''<style>
-    body {
-      background-color: black;
-      text-align: center;
-      color: white;
-      font-family: Arial, Helvetica, sans-serif;
-    }
-    </style>
+    html= '''<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Trivia Time</title>
+        <style>
+            body {
+                background-color: black;
+                text-align: center;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        </style>
     </head>
     <body>
-
-    <h1>TRIVIA TIME</h1>
-    <p>What is the meaning of life, the universe, and everything?</p>
-    <img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
-
-        <form action = "/login" method = "POST">
-            <p><input type = "text" name = "nm"></p>
-            <p><input type = "submit" value = "submit"></p>
+    
+        <h1>TRIVIA TIME</h1>
+        <p>What is the meaning of life, the universe, and everything?</p>
+        <img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
+    
+        <form action="/login" method="POST">
+            <p><input type="text" name="nm"></p>
+            <p><input type="submit" value="submit"></p>
         </form>
-
+    
     </body>
     </html>'''
 
@@ -88,24 +93,29 @@ from flask import request, redirect, url_for # missing imports
 
 app = Flask(__name__)
 
-html= '''<style>
-body {
-  background-color: black;
-  text-align: center;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
+html= '''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trivia Time</title>
+    <style>
+        body {
+            background-color: black;
+            text-align: center;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
 </head>
 <body>
 
-<h1>TRIVIA TIME</h1>
-<p>What is the meaning of life, the universe, and everything?</p>
-<img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
+    <h1>TRIVIA TIME</h1>
+    <p>What is the meaning of life, the universe, and everything?</p>
+    <img src="https://stevetobak.com/wp-content/uploads/2021/02/dont-panic.png" alt="Avatar" style="width:200px">
 
-    <form action = "/login" method = "POST">
-        <p><input type = "text" name = "nm"></p>
-        <p><input type = "submit" value = "submit"></p>
+    <form action="/login" method="POST">
+        <p><input type="text" name="nm"></p>
+        <p><input type="submit" value="submit"></p>
     </form>
 
 </body>
