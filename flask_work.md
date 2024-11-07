@@ -28,6 +28,11 @@ Explore any of these tools in a short project of your choosing. You can do anyth
     - Use an HTML form or query argument to prompt for a quote to look up.
 - **Cookie/Session**:
   - Save last selected character.
+- **NEW**: Integrate a **SQLite3 database** to store favorite quotes or characters persistently across sessions.
+- **NEW**: Apply **rate limiting** on the quote lookup endpoints to prevent abuse.
+- **NEW**: Create a **custom 400 error page** that displays when a quote lookup fails.
+- **NEW**: Use **Jinja2 templates** to style the HTML pages dynamically, showing stored quotes or search results.
+- **NEW**: Add **file upload/download functionality** where users can upload their favorite quotes in a file format, which the app can parse and display.
 
 ---
 
@@ -38,7 +43,12 @@ Explore any of these tools in a short project of your choosing. You can do anyth
     - Use an HTML form or query argument to prompt for a Pokémon name to look up.
 - **Cookie/Session**:
   - Save last searched Pokémon.
-  
+- **NEW**: Add **SQLite3** to store frequently searched Pokémon data for quicker access and offline availability.
+- **NEW**: Implement **rate limiting** on searches to prevent excessive requests to the API.
+- **NEW**: Include a **custom 400 error** for invalid or missing Pokémon searches.
+- **NEW**: Use **Jinja2 templates** to format results more attractively and dynamically.
+- **NEW**: Allow users to **upload a file** containing a list of Pokémon names to batch search and display all results at once.
+
 ---
 
 ### 3. [Game Project (e.g., Guess the Number, Trivia, etc.)](https://opentdb.com/api_config.php)
@@ -48,4 +58,8 @@ Explore any of these tools in a short project of your choosing. You can do anyth
   - `endpoint3` → Display all game data in JSON format.
 - **Cookie/Session**:
   - Save question guess.
-
+- **NEW**: Use an **SQLite3 database** to store question/answer data, tracking user attempts and high scores.
+- **NEW**: Set up **rate limiting** on the question attempts to ensure fair play.
+- **NEW**: Create a **custom 400 error page** for invalid question submissions or answers.
+- **NEW**: Use **Jinja2 templates** to build an interactive scoreboard and display user stats.
+- **NEW**: Add an option for users to **upload trivia questions** in a file format (e.g., CSV), which the app can parse and incorporate into the game dynamically.
