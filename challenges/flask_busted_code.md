@@ -2,6 +2,8 @@
 
 <img src="https://pbs.twimg.com/profile_images/521380344625246209/1R7RQnZh_400x400.jpeg" alt="drawing" width="200"/>
 
+> It's a broken flask... get it? 😋
+
 ### Below is code that renders HTML containing a form to POST an answer to a trivia question.
 ### HOWEVER, it is broken! VERY BROKEN! Fix it (no need to improve it)!
 
