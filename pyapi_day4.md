@@ -59,7 +59,7 @@ Complete the Jinja2 template to display the player's current room, room descript
     @app.route("/")
     def start():
         x = rooms[currentRoom]
-        return render_template("status.html", inv=inventory, currentRoom=currentRoom, currentroomdict=x, msg=message, gameover=gameover)
+        return render_template("status.html", inv=inventory, currentRoom=x, currentroomdict=rooms, msg=message, gameover=gameover)
 
     @app.route("/action", methods=["POST"])
     def action():
