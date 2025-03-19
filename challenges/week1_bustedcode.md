@@ -1,4 +1,4 @@
-# Fixing a Course's Worth of Code!
+# Fixing Code!
 
 ![Image description](https://c.tenor.com/jhsh9h45xYAAAAAM/fix-bug-when-i-try-to-fix-a-bug.gif)
 
@@ -7,9 +7,8 @@
 `student@bchd:~$` `vim bugginout.py`
 
 ```python
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import sys
-
 
 def print1by1(text, delay=0.1):
     # there's nothing wrong with this function, it's just some cool code!
