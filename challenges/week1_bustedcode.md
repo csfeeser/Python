@@ -21,7 +21,7 @@ def name_grabber():
     while True:
         try:
         name= input("What is your name?\n>")
-         num= input("Pick a number between 1 and 3")
+         num= input("Pick a number between 1 and 3:\n>")
          if name and num in ["1","2","3"]:
              return name, num
         except:
@@ -67,7 +67,7 @@ def name_grabber():
     while True:
         try: # if it ends in a colon, indent!
              name= input("What is your name?\n>")
-             num= input("Pick a number between 1 and 3")
+             num= input("Pick a number between 1 and 3:\n>")
              if name and num in ["1","2","3"]:
                  return name, num
         except:
