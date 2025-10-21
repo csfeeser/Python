@@ -2,9 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/ce56b883-ea7b-4dc0-a036-cab8fda35c5b" width="300">
 
-Today’s challenge is to **debug** a short Python script!
-The code is supposed to tell you your **Python class horoscope** based on your zodiac sign — but something’s wrong.
-It has **three errors**, and your job is to **find and fix them**.
+Today’s challenge is to debug a short Python script!
+The code is supposed to tell you your Python class horoscope based on your zodiac sign, but something’s wrong.
+It has **three errors**, and your job is to find and fix them.
 
 ## Procedure
 
@@ -26,8 +26,8 @@ It has **three errors**, and your job is to **find and fix them**.
    **Fix all three** so the program:
 
    * Prompts for your zodiac sign
-   * Prints a positive prediction if the sign is valid
-   * Repeats until you enter a valid sign
+   * Prints your horoscope (if the sign is valid)
+   * Repeats prompting if you keep typing in an invalid sign
 
 ## 💥 Broken Code (Needs Fixing)
 
@@ -79,8 +79,6 @@ You’re checking against a variable that doesn’t exist! Compare it with the d
 <summary>Hint for Line 27/22</summary>
 The command to stop a loop is almost spelled like what you see, but not quite.
 </details>
-
----
 
 ## ✅ Full Solution (Click to Reveal)
 
